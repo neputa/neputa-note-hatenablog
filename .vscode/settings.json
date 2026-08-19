@@ -99,5 +99,7 @@
     "/2021/03/05/first-mobile-app-06",
     "/2021/03/06/first-mobile-app-07",
     "/2021/03/01/first-mobile-app-02"
-  ]
+  ],
+  "frontMatter.framework.id": "other",
+  "frontMatter.content.publicFolder": ""
 }

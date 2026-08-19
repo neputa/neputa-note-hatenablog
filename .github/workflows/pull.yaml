@@ -1,0 +1,12 @@
+name: pull from hatenablog
+
+on:
+  workflow_dispatch:
+
+jobs:
+  pull:
+    uses: hatena/hatenablog-workflows/.github/workflows/pull.yaml@b18a558b9ea673d8957fba299824d182d1b63513 # v2.1.0
+    with:
+      BLOG_DOMAIN: ${{ vars.BLOG_DOMAIN }}
+    secrets:
+      OWNER_API_KEY: ${{ secrets.OWNER_API_KEY }}

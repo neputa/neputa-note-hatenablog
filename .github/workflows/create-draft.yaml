@@ -1,0 +1,18 @@
+name: create draft
+
+on:
+  workflow_dispatch:
+    inputs:
+      title:
+        description: "Title"
+        required: true
+
+jobs:
+  create-draft:
+    uses: hatena/hatenablog-workflows/.github/workflows/create-draft.yaml@b18a558b9ea673d8957fba299824d182d1b63513 # v2.1.0
+    with:
+      title: ${{ github.event.inputs.title }}
+      draft: true
+      BLOG_DOMAIN: ${{ vars.BLOG_DOMAIN }}
+    secrets:
+      OWNER_API_KEY: ${{ secrets.OWNER_API_KEY }}

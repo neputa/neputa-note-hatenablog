@@ -1,4 +1,4 @@
-<BLOG DOMAIN>:
-  username: <BLOG OWNER HATENA ID>
+neputa.hatenadiary.com:
+  username: neputa
 default:
   local_root: entries

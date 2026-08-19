@@ -8,40 +8,39 @@
       "fields": [
         {
           "title": "Title",
-          "name": "title",
+          "name": "Title",
+          "type": "string",
+          "required": true
+        },
+        {
+          "title": "Date",
+          "name": "Date",
+          "type": "datetime"
+        },
+        {
+          "title": "CustomPath",
+          "name": "CustomPath",
           "type": "string"
         },
         {
-          "title": "Description",
-          "name": "description",
-          "type": "string"
-        },
-        {
-          "title": "Publishing date",
-          "name": "date",
-          "type": "datetime",
-          "default": "{{now}}",
-          "isPublishDate": true
-        },
-        {
-          "title": "Content preview",
-          "name": "preview",
-          "type": "image"
-        },
-        {
-          "title": "Is in draft",
-          "name": "draft",
-          "type": "draft"
-        },
-        {
-          "title": "Tags",
-          "name": "tags",
+          "title": "Category",
+          "name": "Category",
           "type": "tags"
         },
         {
-          "title": "Categories",
-          "name": "categories",
-          "type": "categories"
+          "title": "EditURL",
+          "name": "EditURL",
+          "type": "string"
+        },
+        {
+          "title": "PreviewURL",
+          "name": "PreviewURL",
+          "type": "string"
+        },
+        {
+          "title": "Draft",
+          "name": "Draft",
+          "type": "draft"
         }
       ]
     }
@@ -56,5 +55,6 @@
       "path": "[[workspace]]/entries"
     }
   ],
-  "frontMatter.git.enabled": true
+  "frontMatter.git.enabled": false,
+  "frontMatter.dashboard.content.card.fields.title": "Title"
 }

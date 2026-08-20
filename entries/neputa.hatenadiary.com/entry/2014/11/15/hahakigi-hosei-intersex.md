@@ -1,14 +1,13 @@
 ---
 Title: 『インターセックス』帚木蓬生【あらすじ・感想】
-Date: 2014-11-15T19:49:00+09:00
-CustomPath: 2014/11/15/hahakigi-hosei-intersex
 Category:
-  - 'BOOK'
-  - '帚木蓬生'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 帚木蓬生
+- 文学
+- 読書感想
+Date: 2014-11-15T19:49:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2014/11/15/hahakigi-hosei-intersex
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067077093
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/sYWaDZlnZUO_JvAlaAF1IAHxCfU
 ---
 
 [f:id:neputa:20260820153252w:plain:alt=アイキャッチ画像]

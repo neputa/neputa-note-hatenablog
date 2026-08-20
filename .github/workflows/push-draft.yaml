@@ -10,42 +10,4 @@ jobs:
     uses: hatena/hatenablog-workflows/.github/workflows/push-draft.yaml@b18a558b9ea673d8957fba299824d182d1b63513 # v2.1.0
     secrets:
       OWNER_API_KEY: ${{ secrets.OWNER_API_KEY }}
-
-  auto-approve-and-merge:
-    needs: push-draft
-    runs-on: ubuntu-latest
-    permissions:
-      pull-requests: write
-      contents: write
-    steps:
-      - name: Auto approve and merge
-        uses: actions/github-script@v6
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const prs = await github.rest.pulls.list({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              state: 'open',
-              paths: ['draft_entries/**']
-            });
-            
-            for (const pr of prs.data) {
-              console.log(`Processing PR #${pr.number}`);
-              
-              // 承認
-              await github.rest.pulls.createReview({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                pull_number: pr.number,
-                event: 'APPROVE'
-              });
-              
-              // マージ
-              await github.rest.pulls.merge({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                pull_number: pr.number,
-                merge_method: 'squash'
-              });
-            }
+  

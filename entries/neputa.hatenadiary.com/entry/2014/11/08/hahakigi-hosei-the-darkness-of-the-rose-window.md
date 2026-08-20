@@ -1,14 +1,13 @@
 ---
 Title: 『薔薇窓の闇』帚木蓬生～人間らしさを問う物語～【読書感想・】
-Date: 2014-11-08T19:17:00+09:00
-CustomPath: 2014/11/08/hahakigi-hosei-the-darkness-of-the-rose-window
 Category:
-  - 'BOOK'
-  - '帚木蓬生'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 帚木蓬生
+- 文学
+- 読書感想
+Date: 2014-11-08T19:17:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2014/11/08/hahakigi-hosei-the-darkness-of-the-rose-window
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067077188
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/UuYjf8PpFldi92SKZdMRErkT8Ng
 ---
 
 [f:id:neputa:20260820153513w:plain:alt=アイキャッチ画像]

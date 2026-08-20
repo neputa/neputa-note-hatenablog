@@ -1,13 +1,12 @@
 ---
 Title: 『エトロフ発緊急電』佐々木譲～NHKドラマ原作～【あらすじ・感想】
-Date: 2011-05-06T00:00:00+09:00
-CustomPath: 2011/05/06/emergency-call-from-etrov
 Category:
-  - 'BOOK'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 文学
+- 読書感想
+Date: 2011-05-06T00:00:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2011/05/06/emergency-call-from-etrov
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032066984665
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/6LQ0xsr1qBWQGlRwuolG9rnGQhQ
 ---
 
 [f:id:neputa:20260820115342w:plain:alt=アイキャッチ画像]

@@ -1,14 +1,13 @@
 ---
 Title: 『安楽病棟』帚木蓬生　～安楽死を問う作品～【あらすじ・感想】
-Date: 2014-11-29T00:05:00+09:00
-CustomPath: 2014/11/29/hahakigi-hosei-anraku-ward
 Category:
-  - 'BOOK'
-  - '帚木蓬生'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 帚木蓬生
+- 文学
+- 読書感想
+Date: 2014-11-29T00:05:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2014/11/29/hahakigi-hosei-anraku-ward
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067076991
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/u5kEzWBTY0dX8ZlI7DwvBb2eSy4
 ---
 
 [f:id:neputa:20260820152805w:plain:alt=アイキャッチ画像]

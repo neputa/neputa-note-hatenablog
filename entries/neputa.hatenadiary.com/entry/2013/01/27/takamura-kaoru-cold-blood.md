@@ -1,14 +1,13 @@
 ---
 Title: 『冷血』高村薫～待望の合田雄一郎シリーズ～【あらすじ・感想】
-Date: 2013-01-27T06:21:00+09:00
-CustomPath: 2013/01/27/takamura-kaoru-cold-blood
 Category:
-  - 'BOOK'
-  - '高村薫'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- 高村薫
+- ミステリ
+- 読書感想
+Date: 2013-01-27T06:21:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2013/01/27/takamura-kaoru-cold-blood
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067076967
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/nO_Mhh2W-nafbxsTW6c-quo5hqg
 ---
 
 [f:id:neputa:20260820152430w:plain:alt=アイキャッチ画像]

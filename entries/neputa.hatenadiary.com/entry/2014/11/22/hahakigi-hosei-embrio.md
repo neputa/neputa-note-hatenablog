@@ -1,14 +1,13 @@
 ---
 Title: 『エンブリオ』帚木蓬生～医療の進化へ警鐘を鳴らす～【あらすじ・感想】
-Date: 2014-11-22T23:05:00+09:00
-CustomPath: 2014/11/22/hahakigi-hosei-embrio
 Category:
-  - 'BOOK'
-  - '帚木蓬生'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 帚木蓬生
+- 文学
+- 読書感想
+Date: 2014-11-22T23:05:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2014/11/22/hahakigi-hosei-embrio
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067077048
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/GOkJahUqLCuBAus7Yj5SKPbTyF8
 ---
 
 [f:id:neputa:20260820153037w:plain:alt=アイキャッチ画像]

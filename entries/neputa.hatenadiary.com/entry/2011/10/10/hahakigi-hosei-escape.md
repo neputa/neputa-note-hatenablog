@@ -1,14 +1,13 @@
 ---
 Title: 『逃亡』帚木蓬生～戦後、帰国を懸けた壮絶な逃亡劇～【あらすじ・感想】
-Date: 2011-10-10T23:00:00+09:00
-CustomPath: 2011/10/10/hahakigi-hosei-escape
 Category:
-  - 'BOOK'
-  - '帚木蓬生'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 帚木蓬生
+- 文学
+- 読書感想
+Date: 2011-10-10T23:00:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2011/10/10/hahakigi-hosei-escape
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032066984677
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/aHCrbtxk5bfMLPzs1IDMSbKOTTE
 ---
 
 [f:id:neputa:20260820115707w:plain:alt=アイキャッチ画像]

@@ -1,12 +1,11 @@
 ---
 Title: 仏新聞社襲撃事件　個人的雑感
-Date: 2015-01-21T17:18:00+09:00
-CustomPath: 2015/01/21/blog-post_21
 Category:
-  - 'DIARY'
-  - '日記'
+- DIARY
+- 日記
+Date: 2015-01-21T17:18:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2015/01/21/blog-post_21
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067386591
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/XIyU98hv_cMrUTkUZhoGzTAqjrk
 ---
 
 [f:id:neputa:20260821135032w:plain:alt=アイキャッチ画像]

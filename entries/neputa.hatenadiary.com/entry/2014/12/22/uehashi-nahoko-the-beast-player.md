@@ -1,13 +1,12 @@
 ---
 Title: 『獣の奏者』 上橋菜穂子 【あらすじ・感想】
-Date: 2014-12-22T21:31:00+09:00
-CustomPath: 2014/12/22/uehashi-nahoko-the-beast-player
 Category:
-  - 'BOOK'
-  - 'SF・ファンタジー'
-  - '読書感想'
+- BOOK
+- SF・ファンタジー
+- 読書感想
+Date: 2014-12-22T21:31:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2014/12/22/uehashi-nahoko-the-beast-player
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067173734
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/PyCCSV0SEf9VDYlH8xeCdfTkw_o
 ---
 
 [f:id:neputa:20260821085954w:plain:alt=アイキャッチ画像]

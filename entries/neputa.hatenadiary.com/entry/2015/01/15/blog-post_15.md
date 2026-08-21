@@ -1,14 +1,13 @@
 ---
 Title: 『一〇〇年前の世界一周』アベグ・ワルデマール【写真集】
-Date: 2015-01-15T20:23:00+09:00
-CustomPath: 2015/01/15/blog-post_15
 Category:
-  - 'BOOK'
-  - '海外'
-  - '記録・エッセイ'
-  - '読書感想'
+- BOOK
+- 海外
+- 記録・エッセイ
+- 読書感想
+Date: 2015-01-15T20:23:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2015/01/15/blog-post_15
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067386348
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/qDMn0ZjKBoLsEvocauJNWWIUPlc
 ---
 
 [f:id:neputa:20260821102002w:plain:alt=アイキャッチ画像]

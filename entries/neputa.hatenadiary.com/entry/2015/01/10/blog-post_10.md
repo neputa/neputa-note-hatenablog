@@ -1,13 +1,12 @@
 ---
 Title: 『陪審裁判を考える―法廷にみる日米文化比較』丸田隆【あらすじ・感想】
-Date: 2015-01-10T20:41:00+09:00
-CustomPath: 2015/01/10/blog-post_10
 Category:
-  - 'BOOK'
-  - '新書'
-  - '読書感想'
+- BOOK
+- 新書
+- 読書感想
+Date: 2015-01-10T20:41:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2015/01/10/blog-post_10
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067173767
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/yPJlVlqC5UefuFlG4SO32I-dqxc
 ---
 
 [f:id:neputa:20260821090206w:plain:alt=アイキャッチ画像]

@@ -1,14 +1,13 @@
 ---
 Title: 『棘の街』 堂場瞬一 【あらすじ・感想】
-Date: 2015-01-09T18:14:00+09:00
-CustomPath: 2015/01/09/blog-post_9
 Category:
-  - 'BOOK'
-  - '堂場瞬一'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- 堂場瞬一
+- ミステリ
+- 読書感想
+Date: 2015-01-09T18:14:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2015/01/09/blog-post_9
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067507526
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/Er1dOj-f0i9DWL9-mCYwzQ_Dfig
 ---
 
 [f:id:neputa:20260821164520w:plain:alt=アイキャッチ画像]

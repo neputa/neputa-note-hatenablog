@@ -1,14 +1,13 @@
 ---
 Title: 『風景は記憶の順にできていく』 椎名誠 【あらすじ・感想】
-Date: 2015-02-19T23:27:00+09:00
-CustomPath: 2015/02/19/blog-post_45
 Category:
-  - 'BOOK'
-  - '椎名誠'
-  - '記録・エッセイ'
-  - '読書感想'
+- BOOK
+- 椎名誠
+- 記録・エッセイ
+- 読書感想
+Date: 2015-02-19T23:27:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2015/02/19/blog-post_45
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067587645
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/3dhaE35N-0lxKq3SpuqUNsJDXNg
 ---
 
 [f:id:neputa:20260821214020w:plain:alt=アイキャッチ画像]

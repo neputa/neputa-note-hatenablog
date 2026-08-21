@@ -1,14 +1,13 @@
 ---
 Title: 『受精』 帚木蓬生 ～先端医療が生命に及ぼす問題～【あらすじ・感想】
-Date: 2015-02-02T02:00:00+09:00
-CustomPath: 2015/02/02/blog-post_2
 Category:
-  - 'BOOK'
-  - '帚木蓬生'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- 帚木蓬生
+- ミステリ
+- 読書感想
+Date: 2015-02-02T02:00:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2015/02/02/blog-post_2
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067507587
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/IqLJuzucqZWDatNO_3P4wcZ8g4U
 ---
 
 [f:id:neputa:20260821165527w:plain:alt=アイキャッチ画像]

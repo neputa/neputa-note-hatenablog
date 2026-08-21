@@ -1,14 +1,13 @@
 ---
 Title: 『わたしを離さないで』 カズオ・イシグロ 【あらすじ・感想】
-Date: 2015-03-14T20:07:00+09:00
-CustomPath: 2015/03/14/kazuo-ishiguro-dont-let-me-go
 Category:
-  - 'BOOK'
-  - '海外'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 海外
+- 文学
+- 読書感想
+Date: 2015-03-14T20:07:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2015/03/14/kazuo-ishiguro-dont-let-me-go
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067587690
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/rNdL0KfrZxtS4q8oqdh53uz9Nsk
 ---
 
 [f:id:neputa:20260821214537w:plain:alt=アイキャッチ画像]

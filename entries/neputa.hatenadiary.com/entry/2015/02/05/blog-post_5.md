@@ -1,13 +1,12 @@
 ---
 Title: 『ランドセル俳人の五・七・五』 小林凛 【あらすじ・感想】
-Date: 2015-02-05T21:26:00+09:00
-CustomPath: 2015/02/05/blog-post_5
 Category:
-  - 'BOOK'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 文学
+- 読書感想
+Date: 2015-02-05T21:26:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2015/02/05/blog-post_5
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067587610
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/dY1NfuhFnf5MPelihc4VP6GKxB8
 ---
 
 [f:id:neputa:20260821212306w:plain:alt=アイキャッチ画像]

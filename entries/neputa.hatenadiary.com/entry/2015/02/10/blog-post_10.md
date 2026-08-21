@@ -1,14 +1,13 @@
 ---
 Title: 『翳りゆく夏』 赤井三尋 【あらすじ・感想】
-Date: 2015-02-10T01:56:00+09:00
-CustomPath: 2015/02/10/blog-post_10
 Category:
-  - 'BOOK'
-  - '赤井三尋'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- 赤井三尋
+- ミステリ
+- 読書感想
+Date: 2015-02-10T01:56:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2015/02/10/blog-post_10
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067507561
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/Om7gxM-8ta993qOE7k7fEHm_Aro
 ---
 
 [f:id:neputa:20260821164231w:plain:alt=アイキャッチ画像]

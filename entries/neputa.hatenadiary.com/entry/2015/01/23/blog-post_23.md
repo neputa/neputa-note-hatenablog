@@ -1,14 +1,13 @@
 ---
 Title: 『ほとんど記憶のない女』 リディア・デイヴィス 【あらすじ・感想】
-Date: 2015-01-23T18:09:00+09:00
-CustomPath: 2015/01/23/blog-post_23
 Category:
-  - 'BOOK'
-  - '海外'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 海外
+- 文学
+- 読書感想
+Date: 2015-01-23T18:09:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2015/01/23/blog-post_23
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067386665
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/VtuIJvQJmN_42g2lKpR0taEIO_k
 ---
 
 [f:id:neputa:20260821135900w:plain:alt=アイキャッチ画像]

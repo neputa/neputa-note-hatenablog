@@ -1,14 +1,13 @@
 ---
 Title: 『悪と仮面のルール』 中村文則 【あらすじ・感想】
-Date: 2014-12-28T01:43:00+09:00
-CustomPath: 2014/12/28/blog-post_28
 Category:
-  - 'BOOK'
-  - '中村文則'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 中村文則
+- 文学
+- 読書感想
+Date: 2014-12-28T01:43:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2014/12/28/blog-post_28
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067173697
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/u0T3YhyAPZuGDer_QoNwVjrRo9k
 ---
 
 [f:id:neputa:20260821073817w:plain:alt=アイキャッチ画像]

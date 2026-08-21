@@ -1,12 +1,11 @@
 ---
 Title: Web本棚（読書管理サービス）を比較　ブクログと読書メーター
-Date: 2015-01-11T23:03:00+09:00
-CustomPath: 2015/01/11/web
 Category:
-  - 'DIARY'
-  - '日記'
+- DIARY
+- 日記
+Date: 2015-01-11T23:03:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2015/01/11/web
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067507580
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/OKIXxag6uj_sAoWJbsiTxRIhU0Y
 ---
 
 [f:id:neputa:20260821165318w:plain:alt=アイキャッチ画像]

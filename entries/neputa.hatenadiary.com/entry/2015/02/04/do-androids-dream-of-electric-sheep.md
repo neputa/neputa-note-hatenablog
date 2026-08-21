@@ -1,15 +1,14 @@
 ---
 Title: 『白い夏の墓標』帚木蓬生～細菌研究を巡るミステリ～【あらすじ・感想】
-Date: 2015-02-04T23:52:00+09:00
-CustomPath: 2015/02/04/do-androids-dream-of-electric-sheep
 Category:
-  - 'BOOK'
-  - 'Philip K Dick'
-  - 'SF・ファンタジー'
-  - '海外'
-  - '読書感想'
+- BOOK
+- Philip K Dick
+- SF・ファンタジー
+- 海外
+- 読書感想
+Date: 2015-02-04T23:52:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2015/02/04/do-androids-dream-of-electric-sheep
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067587747
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/by7U2adsHLtWMSHcABxi1EwyNCw
 ---
 
 [f:id:neputa:20260821215135w:plain:alt=アイキャッチ画像]

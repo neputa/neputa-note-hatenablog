@@ -1,14 +1,13 @@
 ---
 Title: 『何もかも憂鬱な夜に』 中村文則 【あらすじ・感想】
-Date: 2014-12-26T20:08:00+09:00
-CustomPath: 2014/12/26/blog-post_24
 Category:
-  - 'BOOK'
-  - '中村文則'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 中村文則
+- 文学
+- 読書感想
+Date: 2014-12-26T20:08:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2014/12/26/blog-post_24
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067173017
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/01_z_ApTHJs1ij0HeQ8rr90IQFg
 ---
 
 [f:id:neputa:20260820200922w:plain:alt=アイキャッチ画像]

@@ -1,14 +1,13 @@
 ---
 Title: 『教団Ｘ』中村文則 - 善と悪の対立を描くミステリ【あらすじ・感想】
-Date: 2015-03-09T00:00:00+09:00
-CustomPath: 2015/03/09/nakamura-fuminori-cult-x
 Category:
-  - 'BOOK'
-  - 'ミステリ'
-  - '中村文則'
-  - '読書感想'
+- BOOK
+- ミステリ
+- 中村文則
+- 読書感想
+Date: 2015-03-09T00:00:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2015/03/09/nakamura-fuminori-cult-x
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067587696
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/29L_R2LkRYpXhb48rz2OZ1lf5PU
 ---
 
 [f:id:neputa:20260821214735w:plain:alt=アイキャッチ画像]

@@ -1,14 +1,13 @@
 ---
 Title: 『花曇り』 赤井三尋 【あらすじ・感想】
-Date: 2015-02-27T23:37:00+09:00
-CustomPath: 2015/02/27/blog-post_27
 Category:
-  - 'BOOK'
-  - '赤井三尋'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- 赤井三尋
+- ミステリ
+- 読書感想
+Date: 2015-02-27T23:37:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2015/02/27/blog-post_27
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067507647
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/o5SA3w2eZ-EyvIuefB7CYRsDrj8
 ---
 
 [f:id:neputa:20260821165912w:plain:alt=アイキャッチ画像]

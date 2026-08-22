@@ -1,13 +1,12 @@
 ---
 Title: 『重力とは何か』 大栗博司 【あらすじ・感想】
-Date: 2016-02-26T09:25:00+09:00
-CustomPath: 2016/02/26/blog-post_26
 Category:
-  - 'BOOK'
-  - '新書'
-  - '読書感想'
+- BOOK
+- 新書
+- 読書感想
+Date: 2016-02-26T09:25:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2016/02/26/blog-post_26
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067895341
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/6MDnG_KbUmgeMOA5yKpbPR-bBLs
 ---
 
 [f:id:neputa:20260822175651w:plain:alt=アイキャッチ画像]

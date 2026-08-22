@@ -1,13 +1,12 @@
 ---
 Title: 『神々の山嶺』 夢枕獏 【あらすじ・感想】
-Date: 2016-02-16T13:18:00+09:00
-CustomPath: 2016/02/16/blog-post_16
 Category:
-  - 'BOOK'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 文学
+- 読書感想
+Date: 2016-02-16T13:18:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2016/02/16/blog-post_16
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067895306
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/JbamwDiLPeNfhjo9Lxb0RYlqDtM
 ---
 
 [f:id:neputa:20260822175347w:plain:alt=アイキャッチ画像]

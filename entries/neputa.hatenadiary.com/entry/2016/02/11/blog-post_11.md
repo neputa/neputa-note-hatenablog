@@ -1,14 +1,13 @@
 ---
 Title: 『青春を山に賭けて』 植村直己 【あらすじ・感想】
-Date: 2016-02-11T23:49:00+09:00
-CustomPath: 2016/02/11/blog-post_11
 Category:
-  - 'BOOK'
-  - '植村直己'
-  - '記録・エッセイ'
-  - '読書感想'
+- BOOK
+- 植村直己
+- 記録・エッセイ
+- 読書感想
+Date: 2016-02-11T23:49:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2016/02/11/blog-post_11
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067895288
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/cFw52_10NwpIZdGAzlTc3Fv51Jw
 ---
 
 [f:id:neputa:20260822174924w:plain:alt=アイキャッチ画像]

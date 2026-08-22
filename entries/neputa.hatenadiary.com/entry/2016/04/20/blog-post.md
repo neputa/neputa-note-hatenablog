@@ -1,14 +1,13 @@
 ---
 Title: 『空夜』帚木蓬生～美しい筆致で綴られる恋愛模様～【あらすじ・感想】
-Date: 2016-04-20T20:07:00+09:00
-CustomPath: 2016/04/20/blog-post
 Category:
-  - 'BOOK'
-  - '帚木蓬生'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 帚木蓬生
+- 文学
+- 読書感想
+Date: 2016-04-20T20:07:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2016/04/20/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068011071
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/DjGFGmUOY0AZpjbZ4fgKBUgWf9I
 ---
 
 [f:id:neputa:20260822220112w:plain:alt=アイキャッチ画像]

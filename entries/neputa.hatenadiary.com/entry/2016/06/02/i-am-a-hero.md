@@ -1,13 +1,12 @@
 ---
 Title: 映画「アイアムアヒーロー」を見た【感想】
-Date: 2016-06-02T17:46:00+09:00
-CustomPath: 2016/06/02/i-am-a-hero
 Category:
-  - 'MEDIA'
-  - '映画'
-  - '映像鑑賞'
+- MEDIA
+- 映画
+- 映像鑑賞
+Date: 2016-06-02T17:46:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2016/06/02/i-am-a-hero
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068011226
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/KTwbzZfLK9QY1Y-HoHqb3vvbsUE
 ---
 
 [f:id:neputa:20260822222820w:plain:alt=アイキャッチ画像]

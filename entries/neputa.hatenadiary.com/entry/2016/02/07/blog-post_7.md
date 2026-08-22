@@ -1,14 +1,13 @@
 ---
 Title: 『孤高の人』 新田次郎 【あらすじ・感想】
-Date: 2016-02-07T19:18:00+09:00
-CustomPath: 2016/02/07/blog-post_7
 Category:
-  - 'BOOK'
-  - '新田次郎'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 新田次郎
+- 文学
+- 読書感想
+Date: 2016-02-07T19:18:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2016/02/07/blog-post_7
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067895414
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/0OmGp2ensSmHPBCgzCaymQ5f_uQ
 ---
 
 [f:id:neputa:20260822180404w:plain:alt=アイキャッチ画像]

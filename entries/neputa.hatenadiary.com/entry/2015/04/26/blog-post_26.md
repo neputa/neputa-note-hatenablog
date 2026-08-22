@@ -1,14 +1,13 @@
 ---
 Title: 『十二年目の映像』 帚木蓬生 【あらすじ・感想】
-Date: 2015-04-26T06:22:00+09:00
-CustomPath: 2015/04/26/blog-post_26
 Category:
-  - 'BOOK'
-  - '帚木蓬生'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 帚木蓬生
+- 文学
+- 読書感想
+Date: 2015-04-26T06:22:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2015/04/26/blog-post_26
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067773789
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/CSkvAj_WCbz0tdhAHHdpggp9ET8
 ---
 
 [f:id:neputa:20260822110824w:plain:alt=アイキャッチ画像]

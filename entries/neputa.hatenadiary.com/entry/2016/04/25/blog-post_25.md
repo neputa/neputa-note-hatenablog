@@ -1,13 +1,12 @@
 ---
 Title: 『異常とは何か』 小俣和一郎 【あらすじ・感想】
-Date: 2016-04-25T13:31:00+09:00
-CustomPath: 2016/04/25/blog-post_25
 Category:
-  - 'BOOK'
-  - '新書'
-  - '読書感想'
+- BOOK
+- 新書
+- 読書感想
+Date: 2016-04-25T13:31:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2016/04/25/blog-post_25
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068011118
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/WY9nGZwT5BbSdhOBrDDlS6sVSfM
 ---
 
 [f:id:neputa:20260822220246w:plain:alt=アイキャッチ画像]

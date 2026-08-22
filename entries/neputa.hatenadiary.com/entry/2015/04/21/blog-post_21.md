@@ -1,13 +1,12 @@
 ---
 Title: 『精神の氷点』 大西巨人 【あらすじ・感想】
-Date: 2015-04-21T19:59:00+09:00
-CustomPath: 2015/04/21/blog-post_21
 Category:
-  - 'BOOK'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 文学
+- 読書感想
+Date: 2015-04-21T19:59:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2015/04/21/blog-post_21
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067773822
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/s8K6sa6LwYahT-222tn3tDVg3TY
 ---
 
 [f:id:neputa:20260822111102w:plain:alt=アイキャッチ画像]

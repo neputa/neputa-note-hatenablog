@@ -1,13 +1,12 @@
 ---
 Title: 『美と共同体と東大闘争』 三島由紀夫・東大全共闘 【あらすじ・感想】
-Date: 2015-04-27T21:18:00+09:00
-CustomPath: 2015/04/27/blog-post_27
 Category:
-  - 'BOOK'
-  - 'ノンフィクション'
-  - '読書感想'
+- BOOK
+- ノンフィクション
+- 読書感想
+Date: 2015-04-27T21:18:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2015/04/27/blog-post_27
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067773835
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/5oJL0w5j6MLraGHHYFq8DB63LrE
 ---
 
 [f:id:neputa:20260822111457w:plain:alt=アイキャッチ画像]

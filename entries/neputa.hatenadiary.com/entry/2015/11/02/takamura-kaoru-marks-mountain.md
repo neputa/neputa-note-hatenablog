@@ -1,14 +1,13 @@
 ---
 Title: マークスの山 高村薫 ～あらすじと感想（ネタバレを含む）
-Date: 2015-11-02T23:04:00+09:00
-CustomPath: 2015/11/02/takamura-kaoru-marks-mountain
 Category:
-  - 'BOOK'
-  - '高村薫'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- 高村薫
+- ミステリ
+- 読書感想
+Date: 2015-11-02T23:04:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2015/11/02/takamura-kaoru-marks-mountain
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067857039
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/K0NkiKKF_1f-jzWXOCGJPWPWCbQ
 ---
 
 [f:id:neputa:20260822145622w:plain:alt=マークスの山 表紙]

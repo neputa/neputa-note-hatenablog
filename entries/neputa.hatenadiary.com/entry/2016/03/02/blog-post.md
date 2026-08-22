@@ -1,14 +1,12 @@
 ---
 Title: 『凍』 沢木耕太郎 【あらすじ・感想】
-Date: 2016-03-02T19:58:00+09:00
-CustomPath: 2016/03/02/blog-post
 Category:
-  - 'BOOK'
-  - 'ノンフィクション'
-  - '読書感想'
+- BOOK
+- ノンフィクション
+- 読書感想
+Date: 2016-03-02T19:58:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2016/03/02/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067895352
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/9wT_HoWxn_U8Xlp_s21fLy3EJUQ
-Draft: false
 ---
 
 [f:id:neputa:20260822175907w:plain:alt=アイキャッチ画像]

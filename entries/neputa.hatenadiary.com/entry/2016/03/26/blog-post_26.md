@@ -1,14 +1,13 @@
 ---
 Title: 『ルームメイト』 今邑彩 【あらすじ・感想】
-Date: 2016-03-26T19:10:00+09:00
-CustomPath: 2016/03/26/blog-post_26
 Category:
-  - 'BOOK'
-  - '今邑彩'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- 今邑彩
+- ミステリ
+- 読書感想
+Date: 2016-03-26T19:10:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2016/03/26/blog-post_26
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067895383
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/hCNwwNoSClZ_qodrR2otZVC0vl8
 ---
 
 [f:id:neputa:20260822180223w:plain:alt=アイキャッチ画像]

@@ -1,14 +1,13 @@
 ---
 Title: 『冬山の掟 〈新装版〉』 新田次郎 【あらすじ・感想】
-Date: 2016-01-18T19:40:00+09:00
-CustomPath: 2016/01/18/blog-post_31
 Category:
-  - 'BOOK'
-  - '新田次郎'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 新田次郎
+- 文学
+- 読書感想
+Date: 2016-01-18T19:40:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2016/01/18/blog-post_31
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067895272
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/uPz9PpS55yEZ9bqe5s11XLkjud0
 ---
 
 [f:id:neputa:20260822174714w:plain:alt=アイキャッチ画像]

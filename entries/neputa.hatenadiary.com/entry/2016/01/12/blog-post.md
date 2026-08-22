@@ -1,14 +1,13 @@
 ---
 Title: 『サバイバル登山家』 服部文祥 【あらすじ・感想】
-Date: 2016-01-12T18:02:00+09:00
-CustomPath: 2016/01/12/blog-post
 Category:
-  - 'BOOK'
-  - '服部文祥'
-  - '記録・エッセイ'
-  - '読書感想'
+- BOOK
+- 服部文祥
+- 記録・エッセイ
+- 読書感想
+Date: 2016-01-12T18:02:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2016/01/12/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067856607
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/MZVg0SUpvU7unb9-nbKEFLMyOJ4
 ---
 
 [f:id:neputa:20260822144953w:plain:alt=アイキャッチ画像]

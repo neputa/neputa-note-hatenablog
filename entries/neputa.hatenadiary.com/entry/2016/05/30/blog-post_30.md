@@ -1,15 +1,14 @@
 ---
 Title: 『その女アレックス』ピエール・ルメートル【あらすじ・感想】
-Date: 2016-05-30T17:53:00+09:00
-CustomPath: 2016/05/30/blog-post_30
 Category:
-  - 'BOOK'
-  - 'Pierre Lemaitre'
-  - '海外'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- Pierre Lemaitre
+- 海外
+- ミステリ
+- 読書感想
+Date: 2016-05-30T17:53:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2016/05/30/blog-post_30
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068011154
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/hWLDUs2NEH_fbVNRQ4g0NH0l2Fw
 ---
 
 [f:id:neputa:20260822220800w:plain:alt=アイキャッチ画像]

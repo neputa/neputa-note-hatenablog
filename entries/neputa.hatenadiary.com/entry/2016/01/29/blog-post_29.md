@@ -1,14 +1,13 @@
 ---
 Title: 『劒岳〈点の記〉』新田次郎【あらすじ・感想】
-Date: 2016-01-29T19:28:00+09:00
-CustomPath: 2016/01/29/blog-post_29
 Category:
-  - 'BOOK'
-  - '新田次郎'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 新田次郎
+- 文学
+- 読書感想
+Date: 2016-01-29T19:28:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2016/01/29/blog-post_29
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067857140
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/7O0QCDJiIuBL3sOlO-8iQcshdq0
 ---
 
 [f:id:neputa:20260822145818w:plain:alt=アイキャッチ画像]

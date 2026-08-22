@@ -1,14 +1,13 @@
 ---
 Title: 『新リア王』 高村薫 【あらすじ・感想】
-Date: 2015-08-12T10:02:00+09:00
-CustomPath: 2015/08/12/takamura-kaoru-new-rear-king
 Category:
-  - 'BOOK'
-  - '高村薫'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 高村薫
+- 文学
+- 読書感想
+Date: 2015-08-12T10:02:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2015/08/12/takamura-kaoru-new-rear-king
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067856521
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/mvwoy5ZqiBTKrYKTM-iNaeKcqts
 ---
 
 [f:id:neputa:20260822132603w:plain:alt=アイキャッチ画像]

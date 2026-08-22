@@ -1,13 +1,12 @@
 ---
 Title: 『空飛ぶ山岳救助隊』 羽根田治 【あらすじ・感想】
-Date: 2015-11-04T07:48:00+09:00
-CustomPath: 2015/11/04/blog-post_4
 Category:
-  - 'BOOK'
-  - 'ノンフィクション'
-  - '読書感想'
+- BOOK
+- ノンフィクション
+- 読書感想
+Date: 2015-11-04T07:48:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2015/11/04/blog-post_4
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067856549
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/ZG7w1gpTQfAUmsHZYtwsb5Duq3E
 ---
 
 [f:id:neputa:20260822144557w:plain:alt=アイキャッチ画像]

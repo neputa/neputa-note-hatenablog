@@ -1,13 +1,12 @@
 ---
 Title: 『ダック・コール』 稲見一良 【あらすじ・感想】
-Date: 2015-05-13T07:07:00+09:00
-CustomPath: 2015/05/13/ja
 Category:
-  - 'BOOK'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 文学
+- 読書感想
+Date: 2015-05-13T07:07:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2015/05/13/ja
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067856503
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/Wb5z9JbzmdgMw1E7wRE7bET0b4c
 ---
 
 [f:id:neputa:20260822132343w:plain:alt=アイキャッチ画像]

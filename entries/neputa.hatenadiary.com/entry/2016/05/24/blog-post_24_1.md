@@ -1,13 +1,12 @@
 ---
 Title: 『あかね空』 山本一力 【あらすじ・感想】
-Date: 2016-05-24T17:47:00+09:00
-CustomPath: 2016/05/24/blog-post_24
 Category:
-  - 'BOOK'
-  - '歴史'
-  - '読書感想'
+- BOOK
+- 歴史
+- 読書感想
+Date: 2016-05-24T17:47:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2016/05/24/blog-post_24_1
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068011167
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/tARgvIqVB2RfwJ8GHKV-oUetAdU
 ---
 
 [f:id:neputa:20260822221939w:plain:alt=アイキャッチ画像]

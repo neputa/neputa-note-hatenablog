@@ -10,7 +10,7 @@ URL: https://neputa.hatenadiary.com/entry/2016/05/12/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068011138
 ---
 
-![アイキャッチ画像](../../../../../../assets/images/hero__2016__05__blog-post.webp)
+[f:id:neputa:20260822230423w:plain:alt=アイキャッチ画像]
 
 [:contents]
 

@@ -1,12 +1,11 @@
 ---
 Title: 最近の読書離れと映像中毒状況について
-Date: 2016-10-06T18:09:00+09:00
-CustomPath: 2016/10/06/about-recent-reading
 Category:
-  - 'DIARY'
-  - '日記'
+- DIARY
+- 日記
+Date: 2016-10-06T18:09:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2016/10/06/about-recent-reading
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068290614
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/I4MDpcyjfurV5KN-hxQlbYsxCr8
 ---
 
 [f:id:neputa:20260823165940w:plain:alt=アイキャッチ画像]

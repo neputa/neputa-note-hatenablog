@@ -1,14 +1,13 @@
 ---
 Title: 『オリエント急行殺人事件』 アガサ・クリスティ 【あらすじ・感想】
-Date: 2016-10-23T20:34:00+09:00
-CustomPath: 2016/10/23/blog-post_23
 Category:
-  - 'BOOK'
-  - '海外'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- 海外
+- ミステリ
+- 読書感想
+Date: 2016-10-23T20:34:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2016/10/23/blog-post_23
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068290656
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/iqDRgjuz-phtirFVkZvYaxeIyP4
 ---
 
 [f:id:neputa:20260823170315w:plain:alt=アイキャッチ画像]

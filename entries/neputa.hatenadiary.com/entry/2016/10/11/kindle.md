@@ -1,13 +1,12 @@
 ---
 Title: タブレット購入と電子書籍デビュー【Kindleアプリ】
-Date: 2016-10-11T09:15:00+09:00
-CustomPath: 2016/10/11/kindle
 Category:
-  - 'BOOK'
-  - '日記'
-  - '電子書籍'
+- BOOK
+- 日記
+- 電子書籍
+Date: 2016-10-11T09:15:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2016/10/11/kindle
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068290699
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/zdt9oOq1QGlnLWNJz65Pj9vQhdU
 ---
 
 [f:id:neputa:20260823172052w:plain:alt=アイキャッチ画像]

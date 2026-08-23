@@ -1,14 +1,13 @@
 ---
 Title: 『絶叫』葉真中顕【あらすじ・感想】
-Date: 2016-07-02T12:08:00+09:00
-CustomPath: 2016/07/02/blog-post
 Category:
-  - 'BOOK'
-  - '葉真中顕'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- 葉真中顕
+- ミステリ
+- 読書感想
+Date: 2016-07-02T12:08:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2016/07/02/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068290641
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/cr-ktogcTlM1czeN3fNPxaJ73Hw
 ---
 
 [f:id:neputa:20260823170136w:plain:alt=アイキャッチ画像]

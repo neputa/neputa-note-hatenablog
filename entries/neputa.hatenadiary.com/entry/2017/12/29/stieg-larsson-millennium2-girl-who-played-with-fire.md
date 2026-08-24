@@ -1,15 +1,14 @@
 ---
 Title: 『ミレニアム２　火と戯れる女』 スティーグ・ラーソン 【あらすじ・感想】
-Date: 2017-12-29T21:21:00+09:00
-CustomPath: 2017/12/29/stieg-larsson-millennium2-girl-who-played-with-fire
 Category:
-  - 'BOOK'
-  - 'Stieg Larsson'
-  - '海外'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- Stieg Larsson
+- 海外
+- ミステリ
+- 読書感想
+Date: 2017-12-29T21:21:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2017/12/29/stieg-larsson-millennium2-girl-who-played-with-fire
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068792293
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/7fFs03Dhd5poTFk_d8Yxg2A_-ds
 ---
 
 [f:id:neputa:20260825011048w:plain:alt=アイキャッチ画像]

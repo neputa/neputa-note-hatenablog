@@ -1,14 +1,13 @@
 ---
 Title: 『Ｉターン』 福澤徹三 【あらすじ・感想】
-Date: 2017-11-08T18:34:00+09:00
-CustomPath: 2017/11/08/tetsuzo-fukuzawa-i-turn
 Category:
-  - 'BOOK'
-  - '福澤徹三'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 福澤徹三
+- 文学
+- 読書感想
+Date: 2017-11-08T18:34:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2017/11/08/tetsuzo-fukuzawa-i-turn
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068792261
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/bIMUe9B1hcKlb_zbBZEHxTfaJrw
 ---
 
 [f:id:neputa:20260825005714w:plain:alt=アイキャッチ画像]

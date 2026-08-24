@@ -1,15 +1,14 @@
 ---
 Title: 『傷だらけのカミーユ』ピエール・ルメートル【あらすじ・感想】
-Date: 2017-02-23T21:57:00+09:00
-CustomPath: 2017/02/23/blog-post_23
 Category:
-  - 'BOOK'
-  - 'Pierre Lemaitre'
-  - '海外'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- Pierre Lemaitre
+- 海外
+- ミステリ
+- 読書感想
+Date: 2017-02-23T21:57:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2017/02/23/blog-post_23
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068539229
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/Y-zRVeRg9njqMtv45ALOXim_Ao0
 ---
 
 [:contents]

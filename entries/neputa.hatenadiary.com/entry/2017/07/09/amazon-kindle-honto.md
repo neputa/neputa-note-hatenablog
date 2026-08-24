@@ -109,7 +109,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 それでもやはりKindleはトップに君臨しておりその影響力は相変わらず。hontoにはホントがんばってほしいところ。
 
-[https://webtan.impress.co.jp/n/2020/08/21/37186:embed:cite]
+- [電子書籍の市場規模、前年から2割増の3473億円に。利用サービスでは「Kindleストア」が僅差の1位【インプレス総研調べ】 | Web担当者Forum](https://webtan.impress.co.jp/n/2020/08/21/37186)
 
 <hr />
 
@@ -136,7 +136,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 ### iBooks
 
-[https://appli-world.jp/posts/3639:embed:cite]
+[Apple Books - Apple（日本）](https://www.apple.com/jp/apple-books/)
 
 - 私はリンゴのマークが入った端末（アップル社）を持っていません。
 - 当然MacBookも持っていないので、スターバックスコーヒーも利用できない有様です。

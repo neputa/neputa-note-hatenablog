@@ -1,13 +1,11 @@
 ---
 Title: 素晴らしき読書体験に関する考察
-Date: 2017-08-22T17:25:00+09:00
-CustomPath: 2017/08/22/blog-post
 Category:
-  - 'BOOK'
-  - '日記'
+- BOOK
+- 日記
+Date: 2017-08-22T17:25:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2017/08/22/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068737122
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/LNaWAGnE7SCRqxx58QzduwBcC50
-Draft: false
 ---
 
 [f:id:neputa:20260824215241w:plain:alt=アイキャッチ画像]

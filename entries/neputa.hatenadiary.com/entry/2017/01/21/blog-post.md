@@ -1,15 +1,14 @@
 ---
 Title: 『悲しみのイレーヌ』 ピエール・ルメートル 【あらすじ・感想】
-Date: 2017-01-21T19:37:00+09:00
-CustomPath: 2017/01/21/blog-post
 Category:
-  - 'BOOK'
-  - 'Pierre Lemaitre'
-  - '海外'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- Pierre Lemaitre
+- 海外
+- ミステリ
+- 読書感想
+Date: 2017-01-21T19:37:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2017/01/21/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068539154
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/uJxpC-_f3-SQrXPWJzGDMue7d2o
 ---
 
 [f:id:neputa:20260824112547w:plain:alt=アイキャッチ画像]

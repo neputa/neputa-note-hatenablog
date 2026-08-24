@@ -1,14 +1,13 @@
 ---
 Title: 『人形遣い 事件分析官アーベル＆クリスト』ライナー・レフラー【あらすじ・感想】
-Date: 2017-04-02T18:24:00+09:00
-CustomPath: 2017/04/02/abelchristo
 Category:
-  - 'BOOK'
-  - '海外'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- 海外
+- ミステリ
+- 読書感想
+Date: 2017-04-02T18:24:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2017/04/02/abelchristo
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068642325
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/igwJj6yX1u-QiNFbEQqGcud3vok
 ---
 
 [f:id:neputa:20260824161127w:plain:alt=アイキャッチ画像]

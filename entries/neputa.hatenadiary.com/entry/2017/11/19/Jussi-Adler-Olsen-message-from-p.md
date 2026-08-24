@@ -1,15 +1,14 @@
 ---
 Title: 『特捜部Q Pからのメッセージ』～デンマーク発ミステリー【あらすじ・感想】
-Date: 2017-11-19T18:49:00+09:00
-CustomPath: 2017/11/19/Jussi-Adler-Olsen-message-from-p
 Category:
-  - 'BOOK'
-  - 'Adler-Olsen'
-  - '海外'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- Adler-Olsen
+- 海外
+- ミステリ
+- 読書感想
+Date: 2017-11-19T18:49:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2017/11/19/Jussi-Adler-Olsen-message-from-p
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068792258
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/Imp45mGU2jwWWHUajGrCUIM8V5M
 ---
 
 [f:id:neputa:20260825005327w:plain:alt=アイキャッチ画像]

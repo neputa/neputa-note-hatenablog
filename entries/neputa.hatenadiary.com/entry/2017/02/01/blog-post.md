@@ -1,14 +1,13 @@
 ---
 Title: 『ピスタチオ』 梨木香歩 【あらすじ・感想】
-Date: 2017-02-01T19:39:00+09:00
-CustomPath: 2017/02/01/blog-post
 Category:
-  - 'BOOK'
-  - '梨木香歩'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 梨木香歩
+- 文学
+- 読書感想
+Date: 2017-02-01T19:39:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2017/02/01/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068539185
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/_ei0lkhMEZzT98SPuM0qKxTnDQY
 ---
 
 [f:id:neputa:20260824113022w:plain:alt=アイキャッチ画像]

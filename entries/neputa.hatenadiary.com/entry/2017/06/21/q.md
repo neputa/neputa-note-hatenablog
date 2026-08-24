@@ -1,15 +1,14 @@
 ---
 Title: 『特捜部Q キジ殺し』～デンマーク発ミステリー【あらすじ・感想】
-Date: 2017-06-21T23:36:00+09:00
-CustomPath: 2017/06/21/q
 Category:
-  - 'BOOK'
-  - 'Adler-Olsen'
-  - '海外'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- Adler-Olsen
+- 海外
+- ミステリ
+- 読書感想
+Date: 2017-06-21T23:36:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2017/06/21/q
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068642439
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/xwM4hHEpvIPKXwr40Yb9dTsaR9g
 ---
 
 [f:id:neputa:20260824162229w:plain:alt=アイキャッチ画像]

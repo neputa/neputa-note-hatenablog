@@ -1,15 +1,14 @@
 ---
 Title: 『ある小さなスズメの記録』 クレア・キップス 【あらすじ・感想】
-Date: 2018-01-16T12:20:00+09:00
-CustomPath: 2018/01/16/clare-kipps-sold-for-a-farthing
 Category:
-  - 'BOOK'
-  - '海外'
-  - '梨木香歩'
-  - '記録・エッセイ'
-  - '読書感想'
+- BOOK
+- 海外
+- 梨木香歩
+- 記録・エッセイ
+- 読書感想
+Date: 2018-01-16T12:20:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2018/01/16/clare-kipps-sold-for-a-farthing
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068810208
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/QTDI4Yqk-lVHEYVjG3CE9UAF8cE
 ---
 
 [f:id:neputa:20260825041834w:plain:alt=アイキャッチ画像]

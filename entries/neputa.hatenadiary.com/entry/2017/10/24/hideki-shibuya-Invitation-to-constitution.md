@@ -1,13 +1,12 @@
 ---
 Title: 『憲法への招待 新版』 渋谷秀樹 【あらすじ・感想】
-Date: 2017-10-24T17:38:00+09:00
-CustomPath: 2017/10/24/hideki-shibuya-Invitation-to-constitution
 Category:
-  - 'BOOK'
-  - '新書'
-  - '読書感想'
+- BOOK
+- 新書
+- 読書感想
+Date: 2017-10-24T17:38:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2017/10/24/hideki-shibuya-Invitation-to-constitution
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068737214
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/MUiAlxb3ckg-ZGi-dD6WNH2AtYI
 ---
 
 [f:id:neputa:20260824220154w:plain:alt=アイキャッチ画像]

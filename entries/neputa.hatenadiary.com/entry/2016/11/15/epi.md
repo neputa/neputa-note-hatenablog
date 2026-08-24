@@ -1,15 +1,14 @@
 ---
 Title: 『悪童日記』アゴタ・クリストフ【あらすじ・感想】
-Date: 2016-11-15T18:35:00+09:00
-CustomPath: 2016/11/15/epi
 Category:
-  - 'BOOK'
-  - 'Agota Kristof'
-  - '海外'
-  - '文学'
-  - '読書感想'
+- BOOK
+- Agota Kristof
+- 海外
+- 文学
+- 読書感想
+Date: 2016-11-15T18:35:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2016/11/15/epi
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068539125
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/wT9kX27qlu9CUsoo7VE-84vGKGw
 ---
 
 [f:id:neputa:20260824111933w:plain:alt=アイキャッチ画像]

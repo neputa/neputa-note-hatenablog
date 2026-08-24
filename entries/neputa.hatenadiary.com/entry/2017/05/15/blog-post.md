@@ -1,14 +1,13 @@
 ---
 Title: 『ラブレス』桜木紫乃【あらすじ・感想】
-Date: 2017-05-15T12:47:00+09:00
-CustomPath: 2017/05/15/blog-post
 Category:
-  - 'BOOK'
-  - '桜木紫乃'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 桜木紫乃
+- 文学
+- 読書感想
+Date: 2017-05-15T12:47:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2017/05/15/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068642447
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/BOSB1o66mH5E5Z36LvC2wGQcElc
 ---
 
 [f:id:neputa:20260824162449w:plain:alt=アイキャッチ画像]

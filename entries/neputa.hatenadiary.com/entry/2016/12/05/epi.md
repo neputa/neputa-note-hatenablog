@@ -1,16 +1,14 @@
 ---
 Title: 『ふたりの証拠』アゴタ・クリストフ【あらすじ・感想】
-Date: 2016-12-05T20:04:00+09:00
-CustomPath: 2016/12/05/epi
 Category:
-  - 'BOOK'
-  - 'Agota Kristof'
-  - '海外'
-  - '文学'
-  - '読書感想'
+- BOOK
+- Agota Kristof
+- 海外
+- 文学
+- 読書感想
+Date: 2016-12-05T20:04:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2016/12/05/epi
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068539153
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/8L34HjTdjF3nKED12qw8XKsZHYw
-Draft: false
 ---
 
 [f:id:neputa:20260824112400w:plain:alt=アイキャッチ画像]

@@ -1,14 +1,13 @@
 ---
 Title: 『風花病棟』 帚木蓬生 ～10人の医師を描く短編集～【あらすじ・感想】
-Date: 2017-02-15T23:26:00+09:00
-CustomPath: 2017/02/15/blog-post_15
 Category:
-  - 'BOOK'
-  - '帚木蓬生'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 帚木蓬生
+- 文学
+- 読書感想
+Date: 2017-02-15T23:26:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2017/02/15/blog-post_15
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068539179
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/NkGylkmrwMbchxkfcYy_kt24rjg
 ---
 
 [f:id:neputa:20260824112831w:plain:alt=アイキャッチ画像]

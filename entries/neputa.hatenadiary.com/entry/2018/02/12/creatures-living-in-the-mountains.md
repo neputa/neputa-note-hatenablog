@@ -1,12 +1,11 @@
 ---
 Title: 山に暮らす生きものたち
-Date: 2018-02-12T00:15:00+09:00
-CustomPath: 2018/02/12/creatures-living-in-the-mountains
 Category:
-  - 'DIARY'
-  - '日記'
+- DIARY
+- 日記
+Date: 2018-02-12T00:15:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2018/02/12/creatures-living-in-the-mountains
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068810231
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/BOgAnp7TopZGzUad7GDdZO1rHKI
 ---
 
 [f:id:neputa:20260825043317w:plain:alt=アイキャッチ画像]

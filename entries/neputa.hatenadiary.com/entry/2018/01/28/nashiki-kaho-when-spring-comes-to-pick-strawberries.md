@@ -1,14 +1,13 @@
 ---
 Title: 『春になったら莓を摘みに』 梨木香歩 【あらすじ・感想】
-Date: 2018-01-28T12:53:00+09:00
-CustomPath: 2018/01/28/nashiki-kaho-when-spring-comes-to-pick-strawberries
 Category:
-  - 'BOOK'
-  - '梨木香歩'
-  - '記録・エッセイ'
-  - '読書感想'
+- BOOK
+- 梨木香歩
+- 記録・エッセイ
+- 読書感想
+Date: 2018-01-28T12:53:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2018/01/28/nashiki-kaho-when-spring-comes-to-pick-strawberries
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068810216
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/gXwBXfbRIn5-xnosq5Rz4SQ52cA
 ---
 
 [f:id:neputa:20260825042202w:plain:alt=アイキャッチ画像]

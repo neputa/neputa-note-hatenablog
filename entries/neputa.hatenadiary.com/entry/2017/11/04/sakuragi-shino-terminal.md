@@ -1,15 +1,13 @@
 ---
 Title: 『起終点駅 ターミナル』 桜木紫乃 【あらすじ・感想】
-Date: 2017-11-04T18:09:00+09:00
-CustomPath: 2017/11/04/sakuragi-shino-terminal
 Category:
-  - 'BOOK'
-  - '桜木紫乃'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 桜木紫乃
+- 文学
+- 読書感想
+Date: 2017-11-04T18:09:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2017/11/04/sakuragi-shino-terminal
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068792247
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/qKffVJRnq7aCF2iILXlmdUmRF8Q
-Draft: false
 ---
 
 [f:id:neputa:20260825004800w:plain:alt=アイキャッチ画像]

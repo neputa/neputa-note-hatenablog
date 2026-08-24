@@ -1,15 +1,14 @@
 ---
 Title: 『死のドレスを花婿に』ピエール・ルメートル 【あらすじ・感想】
-Date: 2017-03-13T18:57:00+09:00
-CustomPath: 2017/03/13/blog-post_27
 Category:
-  - 'BOOK'
-  - 'Pierre Lemaitre'
-  - '海外'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- Pierre Lemaitre
+- 海外
+- ミステリ
+- 読書感想
+Date: 2017-03-13T18:57:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2017/03/13/blog-post_27
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068642279
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/D7wwGQ-HAU5L0Nd4H8piEEbCjEA
 ---
 
 [f:id:neputa:20260824160439w:plain:alt=アイキャッチ画像]

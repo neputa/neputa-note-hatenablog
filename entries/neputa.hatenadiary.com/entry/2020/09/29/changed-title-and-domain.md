@@ -1,12 +1,10 @@
 ---
 Title: ブログのタイトルとドメインが変わりました
-Date: 2020-09-29T13:28:00+09:00
-CustomPath: 2020/09/29/changed-title-and-domain
 Category:
-  - 'DEV'
+- DEV
+Date: 2020-09-29T13:28:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2020/09/29/changed-title-and-domain
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069144266
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/jTjPjMUY6WqeC8meRKrLQJKcK0A
-Draft: false
 ---
 
 [f:id:neputa:20260825225728w:plain:alt=アイキャッチ画像]

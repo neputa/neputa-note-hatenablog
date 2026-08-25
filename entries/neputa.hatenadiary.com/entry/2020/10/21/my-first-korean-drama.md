@@ -1,14 +1,12 @@
 ---
 Title: 初めての韓国ドラマ【梨泰院クラス・サイコだけど大丈夫・愛の不時着】
-Date: 2020-10-21T18:00:00+09:00
-CustomPath: 2020/10/21/my-first-korean-drama
 Category:
-  - 'MEDIA'
-  - 'Netflix'
-  - '映像鑑賞'
+- MEDIA
+- Netflix
+- 映像鑑賞
+Date: 2020-10-21T18:00:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2020/10/21/my-first-korean-drama
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069144357
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/kI9D8Nk42DPQwQu73x6GrZDJj5w
-Draft: false
 ---
 
 [f:id:neputa:20260826000000w:plain:alt=アイキャッチ画像]

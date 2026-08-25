@@ -1,14 +1,13 @@
 ---
 Title: 『その犬の歩むところ』 ボストン・テラン 【あらすじ・感想】
-Date: 2018-07-22T15:24:00+09:00
-CustomPath: 2018/07/22/boston-teran-giv-the-story-of-a-dog-and-america
 Category:
-  - 'BOOK'
-  - '海外'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 海外
+- 文学
+- 読書感想
+Date: 2018-07-22T15:24:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2018/07/22/boston-teran-giv-the-story-of-a-dog-and-america
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069087559
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/qSVLS4520zJUcYvKrxMw-uzGQUM
 ---
 
 [:contents]

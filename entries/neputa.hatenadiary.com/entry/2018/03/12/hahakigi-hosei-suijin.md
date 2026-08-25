@@ -1,15 +1,14 @@
 ---
 Title: 『水神』帚木蓬生～江戸時代の農民たちによる大河小説～【あらすじ・感想】
-Date: 2018-03-12T15:33:00+09:00
-CustomPath: 2018/03/12/hahakigi-hosei-suijin
 Category:
-  - 'BOOK'
-  - '帚木蓬生'
-  - '歴史'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 帚木蓬生
+- 歴史
+- 文学
+- 読書感想
+Date: 2018-03-12T15:33:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2018/03/12/hahakigi-hosei-suijin
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069011600
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/OPAVod_5Pdq2mw0H5nzHCnSi1H8
 ---
 
 [f:id:neputa:20260825155730w:plain:alt=アイキャッチ画像]

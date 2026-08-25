@@ -1,14 +1,13 @@
 ---
 Title: 『神の火』高村薫【あらすじ・感想】
-Date: 2018-03-23T17:30:00+09:00
-CustomPath: 2018/03/23/takamura-kaoru-gods-fire
 Category:
-  - 'BOOK'
-  - '高村薫'
-  - '文学'
-  - '読書感想'
+- BOOK
+- 高村薫
+- 文学
+- 読書感想
+Date: 2018-03-23T17:30:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2018/03/23/takamura-kaoru-gods-fire
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069011586
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/fj6o-cRa1EOA0HRJ9RcQT2ymNRE
 ---
 
 [f:id:neputa:20260825155225w:plain:alt=アイキャッチ画像]

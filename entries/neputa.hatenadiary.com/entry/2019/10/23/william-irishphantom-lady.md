@@ -1,13 +1,12 @@
 ---
 Title: 『幻の女』 ウイリアム・アイリッシュ 【あらすじ・感想】
-Date: 2019-10-23T22:58:00+09:00
-CustomPath: 2019/10/23/william-irishphantom-lady
 Category:
-  - 'BOOK'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- ミステリ
+- 読書感想
+Date: 2019-10-23T22:58:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2019/10/23/william-irishphantom-lady
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069144137
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/6u02XoZYsPv784XfNLh_uxawubM
 ---
 
 [f:id:neputa:20260825225044w:plain:alt=アイキャッチ画像]

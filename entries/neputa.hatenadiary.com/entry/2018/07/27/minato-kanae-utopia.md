@@ -1,13 +1,12 @@
 ---
 Title: 『ユートピア』 湊かなえ 【あらすじ・感想】
-Date: 2018-07-27T13:53:00+09:00
-CustomPath: 2018/07/27/minato-kanae-utopia
 Category:
-  - 'BOOK'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- ミステリ
+- 読書感想
+Date: 2018-07-27T13:53:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2018/07/27/minato-kanae-utopia
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069087569
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/JnHXck4-wOTVM8xWOKTPTk0FjDE
 ---
 
 [f:id:neputa:20260825210230w:plain:alt=アイキャッチ画像]

@@ -1,14 +1,13 @@
 ---
 Title: 『廃用身』 久坂部羊 【あらすじ・感想】
-Date: 2018-02-02T17:00:00+09:00
-CustomPath: 2018/02/02/yo-kusakabe-haiyo-shin
 Category:
-  - 'BOOK'
-  - '久坂部羊'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- 久坂部羊
+- ミステリ
+- 読書感想
+Date: 2018-02-02T17:00:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2018/02/02/yo-kusakabe-haiyo-shin
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069011564
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/_9z9PCp2POFdeaGm5y3DNd7_OmY
 ---
 
 [f:id:neputa:20260825154554w:plain:alt=アイキャッチ画像]

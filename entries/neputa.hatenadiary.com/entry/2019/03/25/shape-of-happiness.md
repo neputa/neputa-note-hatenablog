@@ -1,12 +1,11 @@
 ---
 Title: 幸福のかたち【日記】
-Date: 2019-03-25T23:27:00+09:00
-CustomPath: 2019/03/25/shape-of-happiness
 Category:
-  - 'DIARY'
-  - '日記'
+- DIARY
+- 日記
+Date: 2019-03-25T23:27:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2019/03/25/shape-of-happiness
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069087641
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/qxPVUCos4xS59ZTIsXBneX9EpZo
 ---
 
 [f:id:neputa:20260825211141w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

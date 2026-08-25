@@ -1,13 +1,12 @@
 ---
 Title: Netflixオリジナルドラマ『13の理由』のススメ【ドラマ感想】
-Date: 2018-07-09T02:10:00+09:00
-CustomPath: 2018/07/09/13-reasons-why-netflix
 Category:
-  - 'MEDIA'
-  - 'Netflix'
-  - '映像鑑賞'
+- MEDIA
+- Netflix
+- 映像鑑賞
+Date: 2018-07-09T02:10:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2018/07/09/13-reasons-why-netflix
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069087549
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/WhlekpEiAfr2CHCg-AmMJD42YOs
 ---
 
 [f:id:neputa:20260825204822w:plain:alt=アイキャッチ画像]

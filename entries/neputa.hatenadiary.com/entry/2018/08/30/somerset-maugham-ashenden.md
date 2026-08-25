@@ -1,15 +1,14 @@
 ---
 Title: 『英国諜報員アシェンデン』サマセット・モーム【あらすじ・感想】
-Date: 2018-08-30T16:04:00+09:00
-CustomPath: 2018/08/30/somerset-maugham-ashenden
 Category:
-  - 'BOOK'
-  - 'Somerset Maugham'
-  - '海外'
-  - '文学'
-  - '読書感想'
+- BOOK
+- Somerset Maugham
+- 海外
+- 文学
+- 読書感想
+Date: 2018-08-30T16:04:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2018/08/30/somerset-maugham-ashenden
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069087621
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/kFk6RZXKabfJfNAdRa_KAt-hU7M
 ---
 
 [f:id:neputa:20260825210459w:plain:alt=アイキャッチ画像]

@@ -1,14 +1,13 @@
 ---
 Title: 『オブジェクト指向のこころ』を読んだ
-Date: 2020-09-23T03:29:00+09:00
-CustomPath: 2020/09/23/design-patterns-explained
 Category:
-  - 'BOOK'
-  - '技術書'
-  - 'dev'
-  - '読書感想'
+- BOOK
+- 技術書
+- dev
+- 読書感想
+Date: 2020-09-23T03:29:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2020/09/23/design-patterns-explained
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069144224
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/8WqrGAzia4EkPoFyu87edMlrQsM
 ---
 
 [f:id:neputa:20260825225550w:plain:alt=アイキャッチ画像]

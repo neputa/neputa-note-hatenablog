@@ -1,13 +1,12 @@
 ---
 Title: 『東欧サッカークロニクル』 長束恭行 【あらすじ・感想】
-Date: 2018-07-20T16:55:00+09:00
-CustomPath: 2018/07/20/nagatsuka-yasuyuki-eastern-europe-football-chronicle
 Category:
-  - 'BOOK'
-  - 'ノンフィクション'
-  - '読書感想'
+- BOOK
+- ノンフィクション
+- 読書感想
+Date: 2018-07-20T16:55:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2018/07/20/nagatsuka-yasuyuki-eastern-europe-football-chronicle
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069087633
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/rBtxJuo1UCW0ZiQvkdGTzmLJToA
 ---
 
 [f:id:neputa:20260825210709w:plain:alt=アイキャッチ画像]

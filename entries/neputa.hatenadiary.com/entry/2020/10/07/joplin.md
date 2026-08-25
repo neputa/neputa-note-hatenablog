@@ -1,14 +1,13 @@
 ---
 Title: Joplin おすすめ無料ノートアプリ 機能と使い方
-Date: 2020-10-07T19:40:00+09:00
-CustomPath: 2020/10/07/joplin
 Category:
-  - 'DEV'
-  - 'Joplin'
-  - 'Apps'
-  - '使い方'
+- DEV
+- Joplin
+- Apps
+- 使い方
+Date: 2020-10-07T19:40:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2020/10/07/joplin
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069144325
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/oEedBlTQyRdpKfTb8O0oz3b5luY
 ---
 
 [f:id:neputa:20260825235213w:plain:alt=アイキャッチ画像 JoplinのUI]

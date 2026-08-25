@@ -1,14 +1,13 @@
 ---
 Title: 『去年の冬、きみと別れ』 中村文則 【あらすじ・感想】
-Date: 2018-03-30T17:54:00+09:00
-CustomPath: 2018/03/30/nakamura-fuminori-breaking-up-with-you-at-last-winter
 Category:
-  - 'BOOK'
-  - '中村文則'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- 中村文則
+- ミステリ
+- 読書感想
+Date: 2018-03-30T17:54:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2018/03/30/nakamura-fuminori-breaking-up-with-you-at-last-winter
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069011592
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/Mgx5Bg39QAynnVi72xjAwPrhkHs
 ---
 
 [f:id:neputa:20260825155530w:plain:alt=アイキャッチ画像]

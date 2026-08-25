@@ -1,14 +1,13 @@
 ---
 Title: 『脳男』首藤瓜於 - 感情を持たない男の自我獲得を描くミステリ【あらすじ・感想】
-Date: 2018-06-02T17:00:00+09:00
-CustomPath: 2018/06/02/syudou-urio-brain-man
 Category:
-  - 'BOOK'
-  - '首藤瓜於'
-  - 'ミステリ'
-  - '読書感想'
+- BOOK
+- 首藤瓜於
+- ミステリ
+- 読書感想
+Date: 2018-06-02T17:00:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2018/06/02/syudou-urio-brain-man
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069087525
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/id159AYcsAUnR_TprK7P_b1y7_c
 ---
 
 [f:id:neputa:20260825203824w:plain:alt=アイキャッチ画像 脳男カバー]

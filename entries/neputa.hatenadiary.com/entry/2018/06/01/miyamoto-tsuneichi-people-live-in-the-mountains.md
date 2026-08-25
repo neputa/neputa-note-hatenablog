@@ -1,13 +1,12 @@
 ---
 Title: 『山に生きる人びと』 宮本常一 【あらすじ・感想】
-Date: 2018-06-01T17:00:00+09:00
-CustomPath: 2018/06/01/miyamoto-tsuneichi-people-live-in-the-mountains
 Category:
-  - 'BOOK'
-  - '記録・エッセイ'
-  - '読書感想'
+- BOOK
+- 記録・エッセイ
+- 読書感想
+Date: 2018-06-01T17:00:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2018/06/01/miyamoto-tsuneichi-people-live-in-the-mountains
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069087520
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/xrpBqaeDpGIu9HsWi3WMc3jB-xA
 ---
 
 [f:id:neputa:20260825202259w:plain:alt=アイキャッチ画像]

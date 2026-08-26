@@ -1,13 +1,12 @@
 ---
 Title: Dr.ハインリッヒ（ドクターハインリッヒ） M-1グランプリ応援記事
-Date: 2020-11-22T10:46:00+09:00
-CustomPath: 2020/11/22/dr-heinrich
 Category:
-  - 'DIARY'
-  - 'お笑い'
-  - '日記'
+- DIARY
+- お笑い
+- 日記
+Date: 2020-11-22T10:46:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2020/11/22/dr-heinrich
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069343749
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/9SLRcP0j-Quxrknh66j_Cn0hP5k
 ---
 
 [f:id:neputa:20260826203053w:plain:alt=アイキャッチ画像]

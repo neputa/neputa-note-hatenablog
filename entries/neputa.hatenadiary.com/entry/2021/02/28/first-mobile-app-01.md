@@ -1,11 +1,10 @@
 ---
 Title: 01．はじめてスマホアプリを作ってみた（検討フェーズ）
-Date: 2021-02-28T11:00:00+09:00
-CustomPath: 2021/02/28/first-mobile-app-01
 Category:
-  - 'DEV'
+- DEV
+Date: 2021-02-28T11:00:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2021/02/28/first-mobile-app-01
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069533166
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/4nOvjLppAbMeh225vwheeyYHZdo
 ---
 
 [f:id:neputa:20260826233621w:plain:alt=アイキャッチ画像]

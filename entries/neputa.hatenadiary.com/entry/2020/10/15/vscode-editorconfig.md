@@ -1,11 +1,10 @@
 ---
 Title: editorconfig for VSCodeでコーディングルールを統一
-Date: 2020-10-15T12:00:00+09:00
-CustomPath: 2020/10/15/vscode-editorconfig
 Category:
-  - 'DEV'
+- DEV
+Date: 2020-10-15T12:00:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2020/10/15/vscode-editorconfig
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069343694
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/mo1bntv06414HsnkT_tQr9p2kvg
 ---
 
 [f:id:neputa:20260826121437w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

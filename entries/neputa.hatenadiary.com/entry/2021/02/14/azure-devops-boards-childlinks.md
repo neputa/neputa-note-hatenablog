@@ -1,11 +1,10 @@
 ---
 Title: Azure DevOpsアドオン 1-Click Child-Links
-Date: 2021-02-14T22:45:00+09:00
-CustomPath: 2021/02/14/azure-devops-boards-childlinks
 Category:
-  - 'DEV'
+- DEV
+Date: 2021-02-14T22:45:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2021/02/14/azure-devops-boards-childlinks
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069533135
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/7lqfOnW9EHmlXjx6FAernbk06p0
 ---
 
 [f:id:neputa:20260826225055w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

@@ -1,13 +1,11 @@
 ---
 Title: 多階層の要素を一括削除したい【VSCode - Vim】
-Date: 2020-10-05T16:25:00+09:00
-CustomPath: 2020/10/05/vscode-vim-surround
 Category:
-  - 'DEV'
-  - 'VSCode'
+- DEV
+- VSCode
+Date: 2020-10-05T16:25:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2020/10/05/vscode-vim-surround
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069343711
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/n9gZjbVpHQy46PxrJJVS_UGddko
-Draft: false
 ---
 
 [f:id:neputa:20260826122806w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

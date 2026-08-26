@@ -1,12 +1,11 @@
 ---
 Title: VSCodeでStyleCopを使う方法【C#】
-Date: 2020-10-10T15:34:00+09:00
-CustomPath: 2020/10/10/vscode-stylecop
 Category:
-  - 'DEV'
-  - 'VSCode'
+- DEV
+- VSCode
+Date: 2020-10-10T15:34:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2020/10/10/vscode-stylecop
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069343731
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/bXm3-VaN06PchlAPMQLJvbfc7-Y
 ---
 
 [f:id:neputa:20260826123310w:plain:alt=アイキャッチ画像]

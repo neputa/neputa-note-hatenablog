@@ -38,7 +38,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 たとえばこのようなUserクラスがあります。
 
-```csp
+```csharp
 internal class User
 {
   public User(UserId userId, UserName userName, UserAge userAge)
@@ -56,7 +56,7 @@ internal class User
 
 そしてこのような条件式を引数に取るメソッドがあります。
 
-```csp
+```csharp
 internal interface IUserRepository
 {
   IEnumerable<User> FindWithCondition(Expression<Func<User, bool>> predicate);
@@ -65,7 +65,7 @@ internal interface IUserRepository
 
 このメソッドをMoqにSetupで追加するにはこのように書く。
 
-```csp
+```csharp
 var moq = new Mock<IUserRepository>(); moq.Setup(x =>
     x.FindWithCondition(It.IsAny<Expression<Func<User, bool>>>()))
 .Returns(users);
@@ -75,7 +75,7 @@ var moq = new Mock<IUserRepository>(); moq.Setup(x =>
 
 It.Is()で条件によって異なる値を返せないかやってみると、
 
-```csp
+```csharp
 moq.Setup(x => x.FindWithCondition(It.Is<Expression<Func<User, bool>>>(
               x => x.Age.Value >= 20 && x.Age.Value <= 29)))
     .Returns(users20);
@@ -90,7 +90,7 @@ moq.Setup(x => x.FindWithCondition(It.Is<Expression<Func<User, bool>>>(
 
 ではどうするかというと、Returnsの中に条件を書く。
 
-```csp
+```csharp
 moq.Setup(x => x.FindWithCondition(It.IsAny<Expression<Func<User, bool>>>()))
     .Returns((Expression<Func<User, bool>> predicate) =>
                  users.AsQueryable().Where(predicate));

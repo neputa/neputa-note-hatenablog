@@ -4,7 +4,4 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
-    # Optionally you can set:
-    # open-pull-requests-limit: 5
-    # allow:
-    #   - dependency-type: "direct" # or "indirect"
+    open-pull-requests-limit: 5

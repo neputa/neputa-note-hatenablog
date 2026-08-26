@@ -79,7 +79,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 シーズン1のみ全6話
 
-[f:id:neputa:20260826203903w:plain:title=<a href='https://www.imdb.com/title/tt8855592/?ref_=fn_al_tt_1' target='_blank'>IMDb</a>:alt=ドラマ 泥の沼]
+[f:id:neputa:20260826203903w:plain:title=:alt=ドラマ 泥の沼]
 
 本作は、戒厳令がまだ敷かれていた80年代初頭のポーランド南西部の小さな町で、若い娼婦と地元の共産主義活動家が何者かに殺される事件で幕を開けます。
 
@@ -97,7 +97,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 シーズン1のみ全6話
 
-[f:id:neputa:20260826203910w:plain:title=<a href='https://www.imdb.com/title/tt1910645/?ref_=nv_sr_srsg_8' target='_blank'>IMDb</a>:alt=ドラマ その森に]
+[f:id:neputa:20260826203910w:plain:title=www.imdb.com:alt=ドラマ その森に]
 
 ひとつ前の「泥の沼」と同じ人が邦題をつけた説を推します。
 
@@ -117,7 +117,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 シーズン1のみ全8話
 
-[f:id:neputa:20260826203916w:plain:title=<a href='https://www.imdb.com/title/tt7371666/?ref_=nv_sr_srsg_0' target='_blank'>IMDb</a>:alt=ドラマ 1983]
+[f:id:neputa:20260826203916w:plain:title=www.imdb.com:alt=ドラマ 1983]
 
 この作品はSFですね。IFの世界です。
 
@@ -137,7 +137,7 @@ SFとヨーロッパ史に親しみのある人には余計に刺さると思い
 
 シーズン2各8話
 
-[f:id:neputa:20260826203924w:plain:title=<a href='https://www.imdb.com/title/tt8917248/?ref_=nv_sr_srsg_2' target='_blank'>IMDb</a>:alt=ドラマ サインズ]
+[f:id:neputa:20260826203924w:plain:title=www.imdb.com:alt=ドラマ サインズ]
 
 ポーランドの閉鎖的な田舎町が舞台であり、この設定が作品の魅力でもある。
 
@@ -157,7 +157,7 @@ SFとヨーロッパ史に親しみのある人には余計に刺さると思い
 
 シーズン2各3話
 
-[f:id:neputa:20260826203931w:plain:title=<a href='https://www.imdb.com/title/tt4173216/?ref_=nv_sr_srsg_3' target='_blank'>IMDb</a>:alt=blog image]
+[f:id:neputa:20260826203931w:plain:title=www.imdb.com:alt=blog image]
 
 こちらは最近見たのですが、制作は2014-2015と少し前の作品です。
 

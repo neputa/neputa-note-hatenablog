@@ -1,11 +1,10 @@
 ---
 Title: xUnitでUnit Testが実行できない原因と対処法【Visual Studio 2019】
-Date: 2021-01-20T11:42:00+09:00
-CustomPath: 2021/01/20/xunit-trouble-shooting
 Category:
-  - 'DEV'
+- DEV
+Date: 2021-01-20T11:42:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2021/01/20/xunit-trouble-shooting
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069533106
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/iWHIlxjVd74Ck0zqIhMZRTF6akY
 ---
 
 [f:id:neputa:20260826224739w:plain:alt=アイキャッチ画像]

@@ -1,14 +1,13 @@
 ---
 Title: 2020年の振り返り、来年のこと【日記】
-Date: 2020-12-31T06:07:00+09:00
-CustomPath: 2020/12/31/lookingback-2020
 Category:
-  - 'DIARY'
-  - '日記'
-  - '文鳥'
-  - '振り返り'
+- DIARY
+- 日記
+- 文鳥
+- 振り返り
+Date: 2020-12-31T06:07:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2020/12/31/lookingback-2020
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069343830
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/KTw7xXPdmN-T-sCYYX1MWQogf9k
 ---
 
 [f:id:neputa:20260826204140w:plain:alt=アイキャッチ画像]

@@ -1,15 +1,13 @@
 ---
 Title: 『Clean Architecture 達人に学ぶソフトウェアの構造と設計』を読む
-Date: 2021-02-12T20:13:00+09:00
-CustomPath: 2021/02/12/clean-architecture
 Category:
-  - 'BOOK'
-  - '技術書'
-  - 'dev'
-  - '読書感想'
+- BOOK
+- 技術書
+- dev
+- 読書感想
+Date: 2021-02-12T20:13:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2021/02/12/clean-architecture
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069533174
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/oz08R4dF1K-Zeav_7fxod7x_9oo
-Draft: false
 ---
 
 [f:id:neputa:20260826234500w:plain:alt=アイキャッチ画像]

@@ -1,11 +1,10 @@
 ---
 Title: 07．はじめてスマホアプリを作ってみた（保守フェーズ）
-Date: 2021-03-06T11:33:00+09:00
-CustomPath: 2021/03/06/first-mobile-app-07
 Category:
-  - 'DEV'
+- DEV
+Date: 2021-03-06T11:33:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2021/03/06/first-mobile-app-07
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070313597
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/2XaAUAVTCge1kxXvQAW_DYAktjA
 ---
 
 [f:id:neputa:20260829010944w:plain:alt=アイキャッチ画像]

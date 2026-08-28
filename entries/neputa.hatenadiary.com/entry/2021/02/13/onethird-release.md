@@ -1,11 +1,10 @@
 ---
 Title: アラフォー初心者だけどスマホアプリを開発～リリースまでがんばってみた
-Date: 2021-02-13T21:18:00+09:00
-CustomPath: 2021/02/13/onethird-release
 Category:
-  - 'DEV'
+- DEV
+Date: 2021-02-13T21:18:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2021/02/13/onethird-release
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069533214
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/EMJaOHuuttLd-wJ89Ryv2Ghj3QQ
 ---
 
 ![アイキャッチ画像](../assets/images/hero__2021__02__onethird-release.webp)

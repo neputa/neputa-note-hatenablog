@@ -1,13 +1,12 @@
 ---
 Title: 『善と悪の経済学』トーマス・セドラチェク【あらすじ・感想】
-Date: 2021-08-25T11:30:00+09:00
-CustomPath: 2021/08/25/economics-of-good-and-evil
 Category:
-  - 'BOOK'
-  - 'ノンフィクション'
-  - '読書感想'
+- BOOK
+- ノンフィクション
+- 読書感想
+Date: 2021-08-25T11:30:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2021/08/25/economics-of-good-and-evil
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070695982
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/8QBi8eKVkd818kofJrrk4s-_x2s
 ---
 
 [f:id:neputa:20260829172726w:plain:alt=アイキャッチ画像]

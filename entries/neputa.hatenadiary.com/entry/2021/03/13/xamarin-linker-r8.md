@@ -1,13 +1,12 @@
 ---
 Title: AndroidアプリのAPKサイズを圧縮しようと試みて敗れる話
-Date: 2021-03-13T11:30:00+09:00
-CustomPath: 2021/03/13/xamarin-linker-r8
 Category:
-  - 'DEV'
-  - 'Xamarin Forms'''
-  - 'dotnet'
+- DEV
+- Xamarin Forms'
+- dotnet
+Date: 2021-03-13T11:30:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2021/03/13/xamarin-linker-r8
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070695863
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/l-dNLpwqavPmVKbp61AFwsJeZhQ
 ---
 
 [f:id:neputa:20260829165921w:plain:alt=アイキャッチ画像]

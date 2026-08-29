@@ -2,6 +2,7 @@
 Title: 02．はじめてスマホアプリを作ってみた（要件フェーズ）
 Category:
 - DEV
+- MobileApps
 Date: 2021-03-01T11:30:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2021/03/01/first-mobile-app-02
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069533185
@@ -15,17 +16,17 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 こちらの一覧の2つ目、「要件フェーズ」の記事。
 
-1. [検討フェーズ（どんなアプリを作るか）](/2021/02/28/first-mobile-app-01)
-1. 要件フェーズ（どんな要件のアプリにするか）【今回】
-1. [調査フェーズ（どんな技術を使うか）](/2021/03/02/first-mobile-app-03)
-1. [設計フェーズ（どうやって作るか）](/2021/03/03/first-mobile-app-04)
-1. [開発フェーズ（実際に作りはじめる）](/2021/03/04/first-mobile-app-05)
-1. [公開フェーズ（アプリを公開する）](/2021/03/05/first-mobile-app-06)
-1. [保守フェーズ（公開から現在まで）](/2021/03/06/first-mobile-app-07)
+1. [検討フェーズ（どんなアプリを作るか）](/entry/2021/02/28/first-mobile-app-01)
+2. 要件フェーズ（どんな要件のアプリにするか）【今回】
+3. [調査フェーズ（どんな技術を使うか）](/entry/2021/03/02/first-mobile-app-03)
+4. [設計フェーズ（どうやって作るか）](/entry/2021/03/first-mobile-app-04)
+5. [開発フェーズ（実際に作りはじめる）](/entry/2021/03/04/first-mobile-app-05)
+6. [公開フェーズ（アプリを公開する）](/entry/2021/03/05/first-mobile-app-06)
+7. [保守フェーズ（公開から現在まで）](/entry/2021/03/06/first-mobile-app-07)
 
 ダイジェストで読みたい方はこちらの記事を。
 
-[https://www.neputa-note.net/2021/02/13/onethird-release:embed:cite]
+- [アラフォー初心者だけどスマホアプリを開発～リリースまでがんばってみた - neputa note](/entry/2021/02/13/onethird-release)
 
 インストールはこちらから。
 
@@ -42,7 +43,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 [f:id:neputa:20260828105737w:plain:alt=an image of thinking]
 
-[前回](/2021/02/28/first-mobile-app-01)では、「どんなアプリを作るか」を決めた。
+[前回](/entry/2021/02/28/first-mobile-app-01)では、「どんなアプリを作るか」を決めた。
 
 今回は「どんな」をもう少し具体的にしてみたい。
 
@@ -164,7 +165,7 @@ Windows版は、以下から「guiflow-win32.zip」をダウンロード・解�
 
 ### GUIをデザインしてみる【Adobe XD】
 
-[f:id:neputa:20260828105800w:plain:alt=an image of colors]  Photo by <a href='https://www.pexels.com/ja-jp/@kaboompics?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels' target='_blank'>Kaboompics.com</a> in <a href='https://www.pexels.com/ja-jp/photo/5933/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels' target='_blank'>Pexels</a>"
+[f:id:neputa:20260828105800w:plain:alt=an image of colors] _Photo by <a href='https://www.pexels.com/ja-jp/@kaboompics?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels' target='_blank'>Kaboompics.com</a> in <a href='https://www.pexels.com/ja-jp/photo/5933/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels' target='_blank'>Pexels</a>_
 
 ツールを調べてよく出てくるのは「Figma」「Adobe XD」「Sketch」など。
 
@@ -225,7 +226,7 @@ Windows版は、以下から「guiflow-win32.zip」をダウンロード・解�
 
 ## まとめ
 
-[f:id:neputa:20260828105818w:plain:alt=an image of a conclusion] Photo by：<a href='https://www.pexels.com/ja-jp/@ann-h-45017?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels' target='_blank'>Ann H</a> in <a href='https://www.pexels.com/ja-jp/photo/1888005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels' target='_blank'>Pexels</a>"
+[f:id:neputa:20260828105818w:plain:alt=an image of a conclusion] _Photo by：<a href='https://www.pexels.com/ja-jp/@ann-h-45017?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels' target='_blank'>Ann H</a> in <a href='https://www.pexels.com/ja-jp/photo/1888005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels' target='_blank'>Pexels</a>_
 
 駆け足ではあるが、「どんな要件のアプリにするか」をこんな具合に考えた、をまとめてみた。
 
@@ -235,10 +236,10 @@ Windows版は、以下から「guiflow-win32.zip」をダウンロード・解�
 
 ## はじめてスマホアプリを作ってみた 記事一覧
 
-1. [検討フェーズ（どんなアプリを作るか）](/2021/02/28/first-mobile-app-01)
-1. 要件フェーズ（どんな要件のアプリにするか）【今回】
-1. [調査フェーズ（どんな技術を使うか）](/2021/03/02/first-mobile-app-03)
-1. [設計フェーズ（どうやって作るか）](/2021/03/03/first-mobile-app-04)
-1. [開発フェーズ（実際に作りはじめる）](/2021/03/04/first-mobile-app-05)
-1. [公開フェーズ（アプリを公開する）](/2021/03/05/first-mobile-app-06)
-1. [保守フェーズ（公開から現在まで）](/2021/03/06/first-mobile-app-07)
+1. [検討フェーズ（どんなアプリを作るか）](/entry/2021/02/28/first-mobile-app-01)
+2. 要件フェーズ（どんな要件のアプリにするか）【今回】
+3. [調査フェーズ（どんな技術を使うか）](/entry/2021/03/02/first-mobile-app-03)
+4. [設計フェーズ（どうやって作るか）](/entry/2021/03/first-mobile-app-04)
+5. [開発フェーズ（実際に作りはじめる）](/entry/2021/03/04/first-mobile-app-05)
+6. [公開フェーズ（アプリを公開する）](/entry/2021/03/05/first-mobile-app-06)
+7. [保守フェーズ（公開から現在まで）](/entry/2021/03/06/first-mobile-app-07)

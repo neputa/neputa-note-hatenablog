@@ -2,12 +2,13 @@
 Title: アラフォー初心者だけどスマホアプリを開発～リリースまでがんばってみた
 Category:
 - DEV
+- MobileApps
 Date: 2021-02-13T21:18:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2021/02/13/onethird-release
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069533214
 ---
 
-![アイキャッチ画像](../assets/images/hero__2021__02__onethird-release.webp)
+[f:id:neputa:20260829153521w:plain:alt=アイキャッチ画像]
 
 [:contents]
 
@@ -19,19 +20,19 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 実際に行った作業の詳細は、以下リンクを参照。
 
-1. [検討フェーズ（どんなアプリを作るか）](/2021/02/first-mobile-app-01/)
-1. [要件フェーズ（どんな要件のアプリにするか）](/2021/03/first-mobile-app-02/)
-1. [調査フェーズ（どんな技術を使うか）](/2021/03/first-mobile-app-03/)
-1. [設計フェーズ（どうやって作るか）](/2021/03/first-mobile-app-04/)
-1. [開発フェーズ（実際に作りはじめる）](/2021/03/first-mobile-app-05/)
-1. [公開フェーズ（アプリを公開する）](/2021/03/first-mobile-app-06/)
-1. [保守フェーズ（公開から現在まで）](/2021/03/first-mobile-app-07/)
+1. [検討フェーズ（どんなアプリを作るか）](/entry/2021/02/28/first-mobile-app-01)
+2. [要件フェーズ（どんな要件のアプリにするか）](/entry/2021/03/01/first-mobile-app-02)
+3. [調査フェーズ（どんな技術を使うか）](/entry/2021/03/02/first-mobile-app-03)
+4. [設計フェーズ（どうやって作るか）](/entry/2021/03/first-mobile-app-04)
+5. [開発フェーズ（実際に作りはじめる）](/entry/2021/03/04/first-mobile-app-05)
+6. [公開フェーズ（アプリを公開する）](/entry/2021/03/05/first-mobile-app-06)
+7. [保守フェーズ（公開から現在まで）](/entry/2021/03/06/first-mobile-app-07)
 
 ## 作ったアプリ「OneThird」の概要
 
 毎日の睡眠を入力によって記録するアプリ。
 
-![OneThird ストア画像](../assets/images/1077449963029590631-onethird.webp)
+[f:id:neputa:20260829153528w:plain:alt=OneThird ストア画像]
 
 インストールはこちらから。
 
@@ -247,7 +248,7 @@ C#も当時からかなりバージョンが上がり復習を兼ねて以下を
 
 ### Project構成
 
-![Project構成図](../assets/images/1077449963029590631-onethird-project-diagram.webp 'Project構成図')
+[f:id:neputa:20260829153535w:plain:title=Project構成図:alt=Project構成図]
 
 #### Domain
 
@@ -303,12 +304,12 @@ RealmはSQLiteのようなローカルDBを提供してくれる製品。
 
 ## はじめてスマホアプリを作ってみた 記事一覧
 
-1. [検討フェーズ（どんなアプリを作るか）](/2021/02/first-mobile-app-01/)
-1. [要件フェーズ（どんな要件のアプリにするか）](/2021/03/first-mobile-app-02/)
-1. [調査フェーズ（どんな技術を使うか）](/2021/03/first-mobile-app-03/)
-1. [設計フェーズ（どうやって作るか）](/2021/03/first-mobile-app-04/)
-1. [開発フェーズ（実際に作りはじめる）](/2021/03/first-mobile-app-05/)
-1. [公開フェーズ（アプリを公開する）](/2021/03/first-mobile-app-06/)
-1. [保守フェーズ（公開から現在まで）](/2021/03/first-mobile-app-07/)
+1. [検討フェーズ（どんなアプリを作るか）](/entry/2021/02/28/first-mobile-app-01)
+2. [要件フェーズ（どんな要件のアプリにするか）](/entry/2021/03/01/first-mobile-app-02)
+3. [調査フェーズ（どんな技術を使うか）](/entry/2021/03/02/first-mobile-app-03)
+4. [設計フェーズ（どうやって作るか）](/entry/2021/03/first-mobile-app-04)
+5. [開発フェーズ（実際に作りはじめる）](/entry/2021/03/04/first-mobile-app-05)
+6. [公開フェーズ（アプリを公開する）](/entry/2021/03/05/first-mobile-app-06)
+7. [保守フェーズ（公開から現在まで）](/entry/2021/03/06/first-mobile-app-07)
 
 _Top photo by [Christina Morillo](https://www.pexels.com/ja-jp/@divinetechygirl?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) in [Pexels](https://www.pexels.com/ja-jp/photo/macbook-pro-1181244/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)_

@@ -2,6 +2,7 @@
 Title: 03．はじめてスマホアプリを作ってみた（調査フェーズ）【Xamarin.Forms】
 Category:
 - DEV
+- MobileApps
 Date: 2021-03-02T11:30:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2021/03/02/first-mobile-app-03
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069533247
@@ -16,16 +17,16 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 こちらの一覧の3つ目、「調査フェーズ」の記事。
 
 1. [検討フェーズ（どんなアプリを作るか）](/entry/2021/02/28/first-mobile-app-01)
-1. [要件フェーズ（どんな要件のアプリにするか）](/entry/2021/03/01/first-mobile-app-02)
-1. 調査フェーズ（どんな技術を使うか）【今回】
-1. [設計フェーズ（どうやって作るか）](/entry/2021/03/03/first-mobile-app-04)
-1. [開発フェーズ（実際に作りはじめる）](/entry/2021/03/04/first-mobile-app-05)
-1. [公開フェーズ（アプリを公開する）](/entry/2021/03/05/first-mobile-app-06)
-1. [保守フェーズ（公開から現在まで）](/entry/2021/03/06/first-mobile-app-07)
+2. [要件フェーズ（どんな要件のアプリにするか）](/entry/2021/03/01/first-mobile-app-02)
+3. 調査フェーズ（どんな技術を使うか）【今回】
+4. [設計フェーズ（どうやって作るか）](/entry/2021/03/first-mobile-app-04)
+5. [開発フェーズ（実際に作りはじめる）](/entry/2021/03/04/first-mobile-app-05)
+6. [公開フェーズ（アプリを公開する）](/entry/2021/03/05/first-mobile-app-06)
+7. [保守フェーズ（公開から現在まで）](/entry/2021/03/06/first-mobile-app-07)
 
 ダイジェストで読みたい方はこちらの記事を。
 
-[/entry/2021/02/13/onethird-release:embed:cite]
+- [アラフォー初心者だけどスマホアプリを開発～リリースまでがんばってみた - neputa note](/entry/2021/02/13/onethird-release)
 
 インストールはこちらから。
 
@@ -41,7 +42,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 ### スマホアプリってどんな技術を使うのか調べる
 
 [f:id:neputa:20260828233943w:plain:alt=an image of tools]
-Photo by： [Anna Shvets](https://www.pexels.com/ja-jp/@shvetsa?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+_Photo by： [Anna Shvets](https://www.pexels.com/ja-jp/@shvetsa?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)_
 
 [前回](/entry/2021/03/01/first-mobile-app-02)は、大まかではあるが、アプリの要件を決定していく過程について書いた。
 
@@ -59,7 +60,7 @@ Photo by： [Anna Shvets](https://www.pexels.com/ja-jp/@shvetsa?utm_content=attr
 
 ### アプリのプラットフォームを考える
 
-[f:id:neputa:20260828233951w:plain:alt=an image of platforms]Photo by：[Obi Onyeador](https://unsplash.com/@thenewmalcolm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+[f:id:neputa:20260828233951w:plain:alt=an image of platforms] _Photo by：[Obi Onyeador](https://unsplash.com/@thenewmalcolm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 まずこちらの記事を見てみると、世界全体では「Android」のシェアが多いが、日本では「iPhone」の方がシェアは高いらしい。
 
@@ -147,7 +148,7 @@ Objective-Cなど」が良いと思う。
 
 ### データベースを考える
 
-[f:id:neputa:20260828233959w:plain:alt=an image of thinking]Photo by：<a href='https://unsplash.com/@tofi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>Tobias Fischer</a> in <a href='https://unsplash.com/s/photos/database?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>Unsplash</a>
+[f:id:neputa:20260828233959w:plain:alt=an image of thinking] _Photo by：<a href='https://unsplash.com/@tofi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>Tobias Fischer</a> in <a href='https://unsplash.com/s/photos/database?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>Unsplash</a>_
 
 前項がだいぶ長くなってしまったが、続いて「データベース」について書きたい。
 
@@ -212,7 +213,7 @@ B2C」というサービスを使用することにした。
 
 ## まとめ
 
-[f:id:neputa:20260828234008w:plain:alt=blog image]Photo by：<a href='https://www.pexels.com/ja-jp/@ann-h-45017?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels' target='_blank'>Ann H</a> in <a href='https://www.pexels.com/ja-jp/photo/1888005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels' target='_blank'>Pexels</a>
+[f:id:neputa:20260828234008w:plain:alt=blog image] _Photo by：<a href='https://www.pexels.com/ja-jp/@ann-h-45017?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels' target='_blank'>Ann H</a> in <a href='https://www.pexels.com/ja-jp/photo/1888005/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels' target='_blank'>Pexels</a>_
 
 長くなったが、今回のアプリで「どんな技術を使うか」について考えた過程をまとめた。
 
@@ -220,7 +221,7 @@ B2C」というサービスを使用することにした。
 
 先日読んだ「Clean Architecture　達人に学ぶソフトウェアの構造と設計」という書籍は、今回書いたようなフレームワークやデータベースなどは「詳細」である、と書かれていた。
 
-[https://www.neputa-note.net/2021/02/clean-architecture/:embed:cite]
+- [『Clean Architecture 達人に学ぶソフトウェアの構造と設計』を読む - neputa-note](/entry/2021/02/12/clean-architecture)
 
 おそらく経験を積むと、そう考えることができると思うのだが、初心者にとって「実際に使う道具が何であるか」は、とても重要だと思う。
 
@@ -235,9 +236,9 @@ B2C」というサービスを使用することにした。
 ## はじめてスマホアプリを作ってみた 記事一覧
 
 1. [検討フェーズ（どんなアプリを作るか）](/entry/2021/02/28/first-mobile-app-01)
-1. [要件フェーズ（どんな要件のアプリにするか）](/entry/2021/03/01/first-mobile-app-02)
-1. 調査フェーズ（どんな技術を使うか）【今回】
-1. [設計フェーズ（どうやって作るか）](/entry/2021/03/03/first-mobile-app-04)
-1. [開発フェーズ（実際に作りはじめる）](/entry/2021/03/04/first-mobile-app-05)
-1. [公開フェーズ（アプリを公開する）](/entry/2021/03/05/first-mobile-app-06)
-1. [保守フェーズ（公開から現在まで）](/entry/2021/03/06/first-mobile-app-07)
+2. [要件フェーズ（どんな要件のアプリにするか）](/entry/2021/03/01/first-mobile-app-02)
+3. 調査フェーズ（どんな技術を使うか）【今回】
+4. [設計フェーズ（どうやって作るか）](/entry/2021/03/first-mobile-app-04)
+5. [開発フェーズ（実際に作りはじめる）](/entry/2021/03/04/first-mobile-app-05)
+6. [公開フェーズ（アプリを公開する）](/entry/2021/03/05/first-mobile-app-06)
+7. [保守フェーズ（公開から現在まで）](/entry/2021/03/06/first-mobile-app-07)

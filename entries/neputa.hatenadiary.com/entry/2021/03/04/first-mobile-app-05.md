@@ -19,7 +19,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 1. [検討フェーズ（どんなアプリを作るか）](/entry/2021/02/28/first-mobile-app-01)
 2. [要件フェーズ（どんな要件のアプリにするか）](/entry/2021/03/01/first-mobile-app-02)
 3. [調査フェーズ（どんな技術を使うか）](/entry/2021/03/02/first-mobile-app-03)
-4. [設計フェーズ（どうやって作るか）](/entry/2021/03/first-mobile-app-04)
+4. [設計フェーズ（どうやって作るか）](entry/2021/03/03/first-mobile-app-04)
 5. 開発フェーズ（実際に作りはじめる）【今回】
 6. [公開フェーズ（アプリを公開する）](/entry/2021/03/05/first-mobile-app-06)
 7. [保守フェーズ（公開から現在まで）](/entry/2021/03/06/first-mobile-app-07)
@@ -470,7 +470,7 @@ Gitは自分のPC上でソース管理を行うが、Webを介してGithubや、
 1. [検討フェーズ（どんなアプリを作るか）](/entry/2021/02/28/first-mobile-app-01)
 2. [要件フェーズ（どんな要件のアプリにするか）](/entry/2021/03/01/first-mobile-app-02)
 3. [調査フェーズ（どんな技術を使うか）](/entry/2021/03/02/first-mobile-app-03)
-4. [設計フェーズ（どうやって作るか）](/entry/2021/03/first-mobile-app-04)
+4. [設計フェーズ（どうやって作るか）](entry/2021/03/03/first-mobile-app-04)
 5. 開発フェーズ（実際に作りはじめる）【今回】
 6. [公開フェーズ（アプリを公開する）](/entry/2021/03/05/first-mobile-app-06)
 7. [保守フェーズ（公開から現在まで）](/entry/2021/03/06/first-mobile-app-07)

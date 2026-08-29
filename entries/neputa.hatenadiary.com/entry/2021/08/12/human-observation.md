@@ -1,13 +1,11 @@
 ---
 Title: 嫉妬の後の行動に人の本質を見る【日記】
-Date: 2021-08-12T14:55:00+09:00
-CustomPath: 2021/08/12/human-observation
 Category:
-  - 'DIARY'
-  - '日記'
+- DIARY
+- 日記
+Date: 2021-08-12T14:55:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2021/08/12/human-observation
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070696136
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/PXycDUAr4t0UckGB6mOlngOpi1s
-Draft: false
 ---
 
 [f:id:neputa:20260829173355w:plain:alt=アイキャッチ画像]

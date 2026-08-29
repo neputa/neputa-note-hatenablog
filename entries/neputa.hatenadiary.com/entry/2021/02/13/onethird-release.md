@@ -8,7 +8,7 @@ URL: https://neputa.hatenadiary.com/entry/2021/02/13/onethird-release
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069533214
 ---
 
-![アイキャッチ画像](../../../../../../assets/images/hero__2021__02__onethird-release.webp)
+[f:id:neputa:20260829153521w:plain:alt=アイキャッチ画像]
 
 [:contents]
 
@@ -32,7 +32,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 毎日の睡眠を入力によって記録するアプリ。
 
-![OneThird ストア画像](../../../../../../assets/images/1077449963029590631-onethird.webp)
+[f:id:neputa:20260829153528w:plain:alt=OneThird ストア画像]
 
 インストールはこちらから。
 
@@ -248,7 +248,7 @@ C#も当時からかなりバージョンが上がり復習を兼ねて以下を
 
 ### Project構成
 
-![Project構成図](../../../../../../assets/images/1077449963029590631-onethird-project-diagram.webp 'Project構成図')
+[f:id:neputa:20260829153535w:plain:title=Project構成図:alt=Project構成図]
 
 #### Domain
 

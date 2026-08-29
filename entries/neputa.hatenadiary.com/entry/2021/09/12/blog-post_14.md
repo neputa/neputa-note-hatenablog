@@ -1,11 +1,10 @@
 ---
 Title: リダイレクトエラー Indexに登録されない【Blogger】
-Date: 2021-09-12T20:12:00+09:00
-CustomPath: 2021/09/12/blog-post_14
 Category:
-  - 'DEV'
+- DEV
+Date: 2021-09-12T20:12:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2021/09/12/blog-post_14
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070696221
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/5NeQfgjjM_90aVpwmKdId8rliCA
 ---
 
 [f:id:neputa:20260829175412w:plain:alt=アイキャッチ画像]

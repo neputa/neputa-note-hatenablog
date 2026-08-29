@@ -2,6 +2,7 @@
 Title: 01．はじめてスマホアプリを作ってみた（検討フェーズ）
 Category:
 - DEV
+- MobileApps
 Date: 2021-02-28T11:00:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2021/02/28/first-mobile-app-01
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069533166
@@ -15,12 +16,12 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 先日こちらに書いたことの詳細。
 
-[https://www.neputa-note.net/2021/02/13/onethird-release:embed:cite]
+- [アラフォー初心者だけどスマホアプリを開発～リリースまでがんばってみた - neputa note](/entry/2021/02/13/onethird-release)
 
 インストールはこちらから。
 
-<a href='https://play.google.com/store/apps/details?id=com.neputafactory.onethird&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target='_blank' >
-[f:id:neputa:20260826233629w:plain:alt=Google Play で手に入れよう]
+<a href='https://play.google.com/store/apps/details?id=com.neputafactory.onethird' target='_blank' >
+  <img src='https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260826/20260826233629.webp' alt='Google Play で手に入れよう' width="250px" height="83px">
 </a>
 
 > [!WARNING]
@@ -31,16 +32,12 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 それなりのボリュームがあるため全7回に分けて書いてみたい。
 
 1. 検討フェーズ（どんなアプリを作るか）【今回】
-1. [要件フェーズ（どんな要件のアプリにするか）](/2021/03/01/first-mobile-app-02)
-1. [調査フェーズ（どんな技術を使うか）](/2021/03/02/first-mobile-app-03)
-1. [設計フェーズ（どうやって作るか）](/2021/03/03/first-mobile-app-04)
-1. [開発フェーズ（実際に作りはじめる）](/2021/03/04/first-mobile-app-05)
-1. [公開フェーズ（アプリを公開する）](/2021/03/05/first-mobile-app-06)
-1. [保守フェーズ（公開から現在まで）](/2021/03/06/first-mobile-app-07)
-
-ダイジェストで読みたい方はこちらの記事を。
-
-[https://www.neputa-note.net/2021/02/13/onethird-release:embed:cite]
+2. [要件フェーズ（どんな要件のアプリにするか）](/entry/2021/03/01/first-mobile-app-02)
+3. [調査フェーズ（どんな技術を使うか）](/entry/2021/03/02/first-mobile-app-03)
+4. [設計フェーズ（どうやって作るか）](/entry/2021/03/first-mobile-app-04)
+5. [開発フェーズ（実際に作りはじめる）](/entry/2021/03/04/first-mobile-app-05)
+6. [公開フェーズ（アプリを公開する）](/entry/2021/03/05/first-mobile-app-06)
+7. [保守フェーズ（公開から現在まで）](/entry/2021/03/06/first-mobile-app-07)
 
 はじめてスマホアプリを作るにあたり、迷ったこと、どうやって解決したか、をできるだけ詳細に書いてみる。
 
@@ -53,7 +50,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 ### 「スマホアプリを作ってみたい」と思ったキッカケ
 
 [f:id:neputa:20260826233636w:plain:alt=an image of opportunity]
-Photo by [Gabby K](https://www.pexels.com/ja-jp/@gabby-k?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+_Photo by [Gabby K](https://www.pexels.com/ja-jp/@gabby-k?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)_
 
 最初に思い立ったのは昨年2020年の6月ごろ。
 
@@ -72,7 +69,7 @@ COVID-19新型コロナウイルスの影響ですっかり生活様式が一変
 ### なぜスマホアプリ？
 
 [f:id:neputa:20260826233644w:plain:alt=an image of mobile apps]
-Photo by [Pixabay](https://www.pexels.com/ja-jp/@pixabay?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+_Photo by [Pixabay](https://www.pexels.com/ja-jp/@pixabay?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)_
 
 10年以上前、かつて仕事でプログラムを書いていたことがある。
 
@@ -91,7 +88,7 @@ Photo by [Pixabay](https://www.pexels.com/ja-jp/@pixabay?utm_content=attribution
 ### 何を作ればいいか考える
 
 [f:id:neputa:20260826233652w:plain:alt=an image of thinking]
-Photo by [Pixabay](https://www.pexels.com/ja-jp/@pixabay?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+_Photo by [Pixabay](https://www.pexels.com/ja-jp/@pixabay?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)_
 
 かつて関わっていたシステムは業務システム。
 
@@ -114,7 +111,7 @@ Photo by [Pixabay](https://www.pexels.com/ja-jp/@pixabay?utm_content=attribution
 ### 「睡眠記録アプリ」に決定する
 
 [f:id:neputa:20260826233659w:plain:alt=an image of sleeping]
-Photo by [いらすとや](https://www.irasutoya.com/2018/11/blog-post_95.html)
+_Photo by [いらすとや](https://www.irasutoya.com/2018/11/blog-post_95.html)_
 
 私は長年「睡眠」という生活行動を苦手としてきた。
 
@@ -136,9 +133,9 @@ Photo by [いらすとや](https://www.irasutoya.com/2018/11/blog-post_95.html)
 ## はじめてスマホアプリを作ってみた 記事一覧
 
 1. 検討フェーズ（どんなアプリを作るか）【今回】
-1. [要件フェーズ（どんな要件のアプリにするか）](/2021/03/01/first-mobile-app-02)
-1. [調査フェーズ（どんな技術を使うか）](/2021/03/02/first-mobile-app-03)
-1. [設計フェーズ（どうやって作るか）](/2021/03/03/first-mobile-app-04)
-1. [開発フェーズ（実際に作りはじめる）](/2021/03/04/first-mobile-app-05)
-1. [公開フェーズ（アプリを公開する）](/2021/03/05/first-mobile-app-06)
-1. [保守フェーズ（公開から現在まで）](/2021/03/06/first-mobile-app-07)
+2. [要件フェーズ（どんな要件のアプリにするか）](/entry/2021/03/01/first-mobile-app-02)
+3. [調査フェーズ（どんな技術を使うか）](/entry/2021/03/02/first-mobile-app-03)
+4. [設計フェーズ（どうやって作るか）](/entry/2021/03/first-mobile-app-04)
+5. [開発フェーズ（実際に作りはじめる）](/entry/2021/03/04/first-mobile-app-05)
+6. [公開フェーズ（アプリを公開する）](/entry/2021/03/05/first-mobile-app-06)
+7. [保守フェーズ（公開から現在まで）](/entry/2021/03/06/first-mobile-app-07)

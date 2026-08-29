@@ -1,12 +1,11 @@
 ---
 Title: イやな予感が頭をよぎる変なクセを治したい【日記】
-Date: 2021-08-07T11:37:00+09:00
-CustomPath: 2021/08/07/thinkinghabits
 Category:
-  - 'DIARY'
-  - '日記'
+- DIARY
+- 日記
+Date: 2021-08-07T11:37:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2021/08/07/thinkinghabits
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070696122
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/YfsCQ16oVEGN0YN12mXuT-oIGt8
 ---
 
 [f:id:neputa:20260829173213w:plain:alt=アイキャッチ画像]

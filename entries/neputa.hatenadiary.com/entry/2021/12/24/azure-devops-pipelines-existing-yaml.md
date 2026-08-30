@@ -1,12 +1,11 @@
 ---
 Title: 既存のYAMLを使用してAzure Pipelinesを作成する
-Date: 2021-12-24T15:31:00+09:00
-CustomPath: 2021/12/24/azure-devops-pipelines-existing-yaml
 Category:
-  - 'DEV'
-  - 'Azure'
+- DEV
+- Azure
+Date: 2021-12-24T15:31:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2021/12/24/azure-devops-pipelines-existing-yaml
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032071260783
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/gf3s7Lp34SrH1zVX9JZBMKu_E7o
 ---
 
 [f:id:neputa:20260830235512w:plain:alt=アイキャッチ画像]

@@ -51,7 +51,7 @@ _Photo by [Aaron Burden](https://unsplash.com/@aaronburden?utm_source=unsplash&u
 
 一方で電子書籍の各社シェアも気になるところです。「アマゾン強し」は変わらずですが、電子書籍専門サービスが続々と増え、テレビCMや電車の中吊り広告でもよく見かけます。
 
-[https://webtan.impress.co.jp/n/2020/08/21/37186:embed:cite]
+- [電子書籍の市場規模、前年から2割増の3473億円に。利用サービスでは「Kindleストア」が僅差の1位【インプレス総研調べ】 | Web担当者Forum](https://webtan.impress.co.jp/n/2020/08/21/37186)
 
 以上のように書籍の形態から購入手段までさまざまな選択肢がありますが、私は4年前に「脱・アマゾン」を宣言し、「ハイブリット型総合書店　honto」を利用しています。
 
@@ -188,7 +188,7 @@ hontoに新規アカウント登録をすると、もれなく電子書籍限定
 
 <a href='https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3213907&pid=887627960' target='_blank' rel='nofollow'>
     <img src='https://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3213907&pid=887627960' height='1' width='1' alt='value commerce'/>
-    <img src='../assets/images/honto-coupon-banner.webp' alt='honto coupon'>
+    <img src='https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260831/20260831004147.webp' alt='honto coupon'>
 </a>
 
 ### 紙で買ったら電子書籍は半額！読割50

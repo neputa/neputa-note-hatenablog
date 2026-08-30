@@ -24,7 +24,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 この時点ではバージョン19を使用した情報が得られたので、こちらのブログを参考に実装した。
 
-[https://www.xamarinhelp.com/admob-xamarin-forms-display-google-ads-mobile-app/:embed:cite]
+https://www.xamarinhelp.com/admob-xamarin-forms-display-google-ads-mobile-app/ （リンク切れ）
 
 そして現在、狭いXamarin Formsの界隈にもバージョン20に対応した情報が出始めたのをキッカケに対応するとした。
 

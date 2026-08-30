@@ -1,12 +1,11 @@
 ---
 Title: 思考の記録【日記】
-Date: 2021-11-14T22:29:00+09:00
-CustomPath: 2021/11/14/record-of-thought
 Category:
-  - 'DIARY'
-  - '日記'
+- DIARY
+- 日記
+Date: 2021-11-14T22:29:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2021/11/14/record-of-thought
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070847029
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/ToScE-xB8h8b2HBVe84Mw_dmN4U
 ---
 
 [f:id:neputa:20260830171040w:plain:alt=アイキャッチ画像]

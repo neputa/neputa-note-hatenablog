@@ -1,12 +1,11 @@
 ---
 Title: 個人開発スマホアプリ更新「OneThird」を更新した
-Date: 2022-01-16T05:23:00+09:00
-CustomPath: 2022/01/16/onethird-newversion-1-1
 Category:
-  - 'DEV'
-  - 'MobileApps'
+- DEV
+- MobileApps
+Date: 2022-01-16T05:23:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2022/01/16/onethird-newversion-1-1
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032071260968
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/pvE372dXDQAdlL3fBfaua69qZrE
 ---
 
 [f:id:neputa:20260831001342w:plain:alt=アイキャッチ画像]

@@ -1,12 +1,11 @@
 ---
 Title: Ubuntu 20.04にアプリをインストールする
-Date: 2021-11-08T15:34:00+09:00
-CustomPath: 2021/11/08/ubuntu-apps-installation
 Category:
-  - 'DEV'
-  - 'Ubuntu'
+- DEV
+- Ubuntu
+Date: 2021-11-08T15:34:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2021/11/08/ubuntu-apps-installation
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032071260592
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/tqLaSYiZ69ZnTAMooVFeFiyG4XU
 ---
 
 [f:id:neputa:20260830215241w:plain:alt=アイキャッチ画像]

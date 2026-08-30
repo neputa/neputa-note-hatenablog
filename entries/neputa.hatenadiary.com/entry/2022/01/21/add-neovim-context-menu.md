@@ -1,12 +1,11 @@
 ---
 Title: 「Neovimで編集」のコンテキストメニューを追加する【Windows10】
-Date: 2022-01-21T23:22:00+09:00
-CustomPath: 2022/01/21/add-neovim-context-menu
 Category:
-  - 'DEV'
-  - 'Vim'
+- DEV
+- Vim
+Date: 2022-01-21T23:22:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2022/01/21/add-neovim-context-menu
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032071260872
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/aJY-gDmkSfQbuI4swK1_FazhGpI
 ---
 
 [:contents]

@@ -55,8 +55,6 @@ Azure DevOps PipelinesのLibraryに以下を登録する。
 
 Variable groupの登録手順は下記を参照
 
-[https://blog.okazuki.jp/entry/2020/03/02/002723:embed:cite]
-
 [https://learn.microsoft.com/ja-jp/azure/devops/pipelines/library/variable-groups?view=azure-devops&tabs=yaml:embed:cite]
 
 Secure fileの登録手順は下記を参照

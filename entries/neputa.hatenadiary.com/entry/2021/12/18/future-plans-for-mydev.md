@@ -1,12 +1,11 @@
 ---
 Title: 今後の作業を整理する【個人開発 / Xamarin Forms】
-Date: 2021-12-18T15:57:00+09:00
-CustomPath: 2021/12/18/future-plans-for-mydev
 Category:
-  - 'DEV'
-  - 'MobileApps'
+- DEV
+- MobileApps
+Date: 2021-12-18T15:57:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2021/12/18/future-plans-for-mydev
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032071260769
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/RPeEm9RXZvGAMncs86epzvvgsxY
 ---
 
 [f:id:neputa:20260830234906w:plain:alt=アイキャッチ画像]

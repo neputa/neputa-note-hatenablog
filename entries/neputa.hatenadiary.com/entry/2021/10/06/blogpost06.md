@@ -1,12 +1,11 @@
 ---
 Title: 【Ubuntu/mozc】日本語入力切り替えショートカットキーを非トグルに変更する
-Date: 2021-10-06T07:00:00+09:00
-CustomPath: 2021/10/06/blogpost06
 Category:
-  - 'DEV'
-  - 'Ubuntu'
+- DEV
+- Ubuntu
+Date: 2021-10-06T07:00:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2021/10/06/blogpost06
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070847023
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/0oNSz2W_o7Bs66dtYyQ2Bq4D3GY
 ---
 
 [f:id:neputa:20260830170907w:plain:alt=アイキャッチ画像]

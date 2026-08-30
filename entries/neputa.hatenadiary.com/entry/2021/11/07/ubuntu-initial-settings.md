@@ -16,7 +16,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 先日、中古ノートPCを購入しUbuntu20.04LTSをインストールした。
 
-[https://www.neputa-note.net/2021/10/blogpost01/:embed:cite]
+[https://www.neputa-note.net/entry/2021/10/02/blogpost01:embed:cite]
 
 今回はUbuntuインストール後に行ったことをまとめる。
 
@@ -234,7 +234,7 @@ GNOME Shell Extensionsはブラウザからアクセスして使用する。
 
 他のブラウザを使用する方は下記サイトを参考にされたし。
 
-[https://linuxfan.info/setup-gnome-shell-extensions:embed:cite]
+https://linuxfan.info/setup-gnome-shell-extensions - リンク切れ
 
 gnome-shell-extension-prefsインストール
 
@@ -368,7 +368,7 @@ fc-cache -fv
 
 手順が多いので別記事にまとめている。
 
-[https://www.neputa-note.net/2021/10/blogpost05/:embed:cite]
+[https://www.neputa-note.net/entry/2021/10/05/blogpost05:embed:cite]
 
 ### 日本語入力切り替えのショートカットキーを設定する
 
@@ -380,7 +380,7 @@ fc-cache -fv
 
 手順が多いので別記事にまとめている。
 
-[https://www.neputa-note.net/2021/10/blogpost06/:embed:cite]
+[https://www.neputa-note.net/entry/2021/10/06/blogpost06:embed:cite]
 
 ## 参考サイト
 

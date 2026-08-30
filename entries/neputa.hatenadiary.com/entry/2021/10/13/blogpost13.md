@@ -1,11 +1,10 @@
 ---
 Title: 「Search Console」の「リダイレクト エラー」を解決する ～その２～【Blogger】
-Date: 2021-10-13T21:58:00+09:00
-CustomPath: 2021/10/13/blogpost13
 Category:
-  - 'DEV'
+- DEV
+Date: 2021-10-13T21:58:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2021/10/13/blogpost13
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070847020
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/Nbxf6KLU6Xmxye0snJSejDXTQo4
 ---
 
 [f:id:neputa:20260829230950w:plain:alt=アイキャッチ画像]

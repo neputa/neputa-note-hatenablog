@@ -1,12 +1,11 @@
 ---
 Title: Ubuntu 20.04 日本語Remixインストール後にやったこと17項目
-Date: 2021-11-07T19:11:00+09:00
-CustomPath: 2021/11/07/ubuntu-initial-settings
 Category:
-  - 'DEV'
-  - 'Ubuntu'
+- DEV
+- Ubuntu
+Date: 2021-11-07T19:11:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2021/11/07/ubuntu-initial-settings
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032071260545
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/7HD3Fu9eqPsMnAcAagKcObx71Gg
 ---
 
 [f:id:neputa:20260830214814w:plain:alt=アイキャッチ画像]

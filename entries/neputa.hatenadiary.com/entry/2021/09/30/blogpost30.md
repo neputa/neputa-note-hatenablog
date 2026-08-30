@@ -1,14 +1,13 @@
 ---
 Title: 『GHOST IN THE SHELL / 攻殻機動隊 4Kリマスター』感想
-Date: 2021-09-30T05:30:00+09:00
-CustomPath: 2021/09/30/blogpost30
 Category:
-  - 'MEDIA'
-  - '映像鑑賞'
-  - '映画'
-  - '攻殻機動隊'
+- MEDIA
+- 映像鑑賞
+- 映画
+- 攻殻機動隊
+Date: 2021-09-30T05:30:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2021/09/30/blogpost30
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070846968
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/u3Pi6P2ajB5zUDzEAFmXlUg-SN4
 ---
 
 [f:id:neputa:20260829225349w:plain:alt=アイキャッチ画像]

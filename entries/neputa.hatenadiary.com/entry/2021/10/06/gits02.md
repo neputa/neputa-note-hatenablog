@@ -1,15 +1,14 @@
 ---
 Title: 攻殻機動隊の漫画・アニメを楽しむためのおすすめ順
-Date: 2021-10-06T04:42:00+09:00
-CustomPath: 2021/10/06/gits02
 Category:
-  - 'MEDIA'
-  - 'アニメ'
-  - '映画'
-  - '攻殻機動隊'
-  - '漫画'
+- MEDIA
+- アニメ
+- 映画
+- 攻殻機動隊
+- 漫画
+Date: 2021-10-06T04:42:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2021/10/06/gits02
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070847033
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/P8TLU4Y4DY2HhFEXFTkwE4WlgVE
 ---
 
 [アイキャッチ画像 攻殻機動隊ロゴ・草薙少佐・タチコマ](../assets/images/hero__ghost-in-the-shell.webp)

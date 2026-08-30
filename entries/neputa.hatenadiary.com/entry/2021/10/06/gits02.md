@@ -11,8 +11,7 @@ URL: https://neputa.hatenadiary.com/entry/2021/10/06/gits02
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070847033
 ---
 
-![アイキャッチ画像 攻殻機動隊ロゴ・草薙少佐・タチコマ](../../../../../../assets/images/hero__ghost-in-the-shell.webp)
-_Photo by [攻殻機動隊 STAND ALONE COMPLEX | アニメ動画見放題 | dアニメストア](https://animestore.docomo.ne.jp/animestore/ci_pc?workId=10844)_
+![アイキャッチ画像 攻殻機動隊ロゴ・草薙少佐・タチコマ](../../../../../../assets/images/hero__ghost-in-the-shell.webp) _Photo by [攻殻機動隊 STAND ALONE COMPLEX | アニメ動画見放題 | dアニメストア](https://animestore.docomo.ne.jp/animestore/ci_pc?workId=10844)_
 
 [:contents]
 

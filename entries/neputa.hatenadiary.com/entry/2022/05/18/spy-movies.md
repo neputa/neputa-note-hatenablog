@@ -1,13 +1,12 @@
 ---
 Title: 『紛争でしたら八田まで』の監修：川口貴久氏おすすめのスパイ映画５作品を見た
-Date: 2022-05-18T12:00:00+09:00
-CustomPath: 2022/05/18/spy-movies
 Category:
-  - 'MEDIA'
-  - '映画'
-  - '映像鑑賞'
+- MEDIA
+- 映画
+- 映像鑑賞
+Date: 2022-05-18T12:00:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2022/05/18/spy-movies
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072025621
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/dProGJSnxd9ru-NcfzLF12EP5nk
 ---
 
 [f:id:neputa:20260902031311w:plain:alt=アイキャッチ画像]

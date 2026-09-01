@@ -87,12 +87,12 @@ endfunction
 
 以下は、Pタグを付与するデモ。空行を除くすべての選択行のテキストにPタグを付与する。
 
-<video controls src='../assets/videos/atag-p-command-demo.mp4'></video>
+[f:id:neputa:20260902045430g:plain:alt=Atag p コマンドのデモGifアニメ]
 _Atag p コマンドデモ_
 
 こちらは引数を「li」にし、liタグを追加している。
 
-<video controls src='../assets/videos/atag-li-command-demo.mp4'></video>
+[f:id:neputa:20260902045531g:plain:alt=Atag li コマンドデモのGifアニメ]
 _Atag li コマンドデモ_
 
 書いてて思ったが、liの場合はolやulを選択して囲むとかすればよいかもしれん。
@@ -170,7 +170,7 @@ endfunction
 2. その状態で、コマンドウインドウを「:」で呼び出し、コマンド名「Cimg」を入力し、Enterする
 3. 先ほど記した仕様のタグに変換される
 
-<video controls src='../assets/videos/cimg-command-demo.mp4'></video>
+[f:id:neputa:20260902045625g:plain:alt=Cimg コマンドデモのGifアニメ]
 _Cimg コマンドデモ_
 
 ## 最後に

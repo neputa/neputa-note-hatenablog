@@ -84,7 +84,9 @@ UserSecretsとAzure DevOps Pipelines Libraryの詳細は以下を参照
 
 例としてはこんな感じ。
 
-```csharp {CosmosDBConstants.cs}
+#### CosmosDBConstants.cs
+
+```csharp
 namespace OneThirdCL.Infrastructure.CosmosDb;
 
 internal static class CosmosDBConstants
@@ -112,13 +114,15 @@ internal static class CosmosDBConstants
 
 ASP.NET Coreアプリケーションの場合、新規作成したアプリケーションのProgram.cs（.NET6.0以前はStartup.cs）でジェネレートされたこの一行にすべて含まれている。
 
-```csharp Program.cs
+#### Program.cs
+
+```csharp
 var builder = WebApplication.CreateBuilder(args);
 ```
 
 よってすぐに使用できる。
 
-```csharp Program.cs
+```csharp
 var builder = WebApplication.CreateBuilder(args);
 var movieApiKey = builder.Configuration["Movies:ServiceApiKey"];
 ```

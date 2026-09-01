@@ -102,7 +102,8 @@ _Photo by：[Craig Whitehead](https://unsplash.com/@sixstreetunder?utm_source=un
 
 ### ゼロ・ダーク・サーティ
 
-[f:id:neputa:20260902031320w:plain:title=Photo by：<a href='https://movies.yahoo.co.jp/movie/344170/' target='_blank' >Yahoo!映画</a>:alt=ゼロ・ダーク・サーティ]
+[f:id:neputa:20260902031320w:plain:alt=ゼロ・ダーク・サーティ]
+Photo by：<a href='https://movies.yahoo.co.jp/movie/344170/' target='_blank' >Yahoo!映画</a>
 
 #### ゼロ・ダーク・サーティ あらすじ
 
@@ -130,7 +131,8 @@ _Photo by：[Craig Whitehead](https://unsplash.com/@sixstreetunder?utm_source=un
 
 ### シリアナ
 
-[f:id:neputa:20260902031331w:plain:title=Photo by：<a href='https://movies.yahoo.co.jp/movie/322815/' target='_blank' >シリアナ の映画情報 - Yahoo!映画</a>:alt=映画 シリアナ]
+[f:id:neputa:20260902031331w:plain:alt=映画 シリアナ]
+<a href='https://movies.yahoo.co.jp/movie/322815/' target='_blank' >シリアナ の映画情報 - Yahoo!映画</a>
 
 #### シリアナ あらすじ
 
@@ -183,7 +185,8 @@ _Photo by：[Craig Whitehead](https://unsplash.com/@sixstreetunder?utm_source=un
 
 ### 工作 黒金星と呼ばれた男
 
-[f:id:neputa:20260902031339w:plain:title=Photo by：<a href='https://movies.yahoo.co.jp/movie/367629/' target='_blank' >Yahoo!映画</a>:alt=映画 工作　黒金星（ブラック・ヴィーナス）]
+[f:id:neputa:20260902031339w:plain:alt=映画 工作　黒金星（ブラック・ヴィーナス）]
+Photo by：<a href='https://movies.yahoo.co.jp/movie/367629/' target='_blank' >Yahoo!映画</a>
 
 #### 工作 黒金星と呼ばれた男 あらすじ
 
@@ -219,7 +222,8 @@ _Photo by：[Craig Whitehead](https://unsplash.com/@sixstreetunder?utm_source=un
 
 ### フェア・ゲーム
 
-[f:id:neputa:20260902031348w:plain:title=Photo by：<a href='https://movies.yahoo.co.jp/movie/340261/' target='_blank' >Yahoo!映画</a>:alt=映画 フェア・ゲーム]
+[f:id:neputa:20260902031348w:plain:alt=映画 フェア・ゲーム]
+Photo by：<a href='https://movies.yahoo.co.jp/movie/340261/' target='_blank' >Yahoo!映画</a>
 
 #### フェア・ゲーム あらすじ
 
@@ -257,7 +261,8 @@ _Photo by：[Craig Whitehead](https://unsplash.com/@sixstreetunder?utm_source=un
 
 ### 誰よりも狙われた男
 
-[f:id:neputa:20260902031356w:plain:title=Photo by：<a href='https://movies.yahoo.co.jp/movie/349727/' target='_blank' >Yahoo!映画</a>:alt=映画 誰よりも狙われた男]
+[f:id:neputa:20260902031356w:plain:alt=映画 誰よりも狙われた男]
+Photo by：<a href='https://movies.yahoo.co.jp/movie/349727/' target='_blank' >Yahoo!映画</a>
 
 #### 誰よりも狙われた男 あらすじ
 

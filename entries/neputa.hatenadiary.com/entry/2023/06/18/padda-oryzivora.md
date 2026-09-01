@@ -1,13 +1,12 @@
 ---
 Title: 文鳥と暮らす　～「溺愛とは？」と思っていた時期が私にもありました【日記】
-Date: 2023-06-18T10:10:00+09:00
-CustomPath: 2023/06/18/padda-oryzivora
 Category:
-  - 'DIARY'
-  - '文鳥'
-  - '日記'
+- DIARY
+- 文鳥
+- 日記
+Date: 2023-06-18T10:10:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2023/06/18/padda-oryzivora
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072646506
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/41qu81GqumD2qFe2J4dfk5y7MvQ
 ---
 
 [f:id:neputa:20260902074047w:plain:alt=アイキャッチ画像]

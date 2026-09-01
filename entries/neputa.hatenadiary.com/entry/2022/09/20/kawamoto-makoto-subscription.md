@@ -1,13 +1,12 @@
 ---
 Title: サブスクの功罪について ー川本真琴さんのツイートに思うこと【日記】
-Date: 2022-09-20T21:44:00+09:00
-CustomPath: 2022/09/20/kawamoto-makoto-subscription
 Category:
-  - 'MEDIA'
-  - '音楽'
-  - '日記'
+- MEDIA
+- 音楽
+- 日記
+Date: 2022-09-20T21:44:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2022/09/20/kawamoto-makoto-subscription
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072629376
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/-lUvkejLJDEIUelHmMjDMXczhVA
 ---
 
 [f:id:neputa:20260902055154w:plain:alt=アイキャッチ画像]

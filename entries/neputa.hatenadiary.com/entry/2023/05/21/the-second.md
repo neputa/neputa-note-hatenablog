@@ -1,13 +1,12 @@
 ---
 Title: 『THE SECOND 〜漫才トーナメント〜』を視聴した感想【日記】
-Date: 2023-05-21T22:18:00+09:00
-CustomPath: 2023/05/21/the-second
 Category:
-  - 'DIARY'
-  - 'お笑い'
-  - '日記'
+- DIARY
+- お笑い
+- 日記
+Date: 2023-05-21T22:18:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2023/05/21/the-second
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072646489
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/Huz5VEsamoJbrznFFd2IReSEGc0
 ---
 
 [f:id:neputa:20260902073235w:plain:alt=アイキャッチ画像]

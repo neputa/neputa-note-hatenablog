@@ -1,12 +1,11 @@
 ---
 Title: ドコモショップに因縁をつける高齢者 ～どこにでもある親子間の不毛なやり取り
-Date: 2023-01-26T11:55:00+09:00
-CustomPath: 2023/01/26/diary-about-parent-and-child
 Category:
-  - 'DIARY'
-  - '日記'
+- DIARY
+- 日記
+Date: 2023-01-26T11:55:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2023/01/26/diary-about-parent-and-child
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072629456
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/kI4J0VPMO4nmPMVY35SNJ1xe26Y
 ---
 
 [f:id:neputa:20260902060033w:plain:alt=アイキャッチ画像]

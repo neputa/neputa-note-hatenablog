@@ -1,13 +1,11 @@
 ---
 Title: 【日記】銃と民主主義
-Date: 2022-07-09T13:08:00+09:00
-CustomPath: 2022/07/09/blog-post
 Category:
-  - 'DIARY'
-  - '日記'
+- DIARY
+- 日記
+Date: 2022-07-09T13:08:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2022/07/09/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072025627
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/6Z2wgDp2QiHq9XpIlM5rBykA0XI
-Draft: false
 ---
 
 [f:id:neputa:20260902033713w:plain:alt=アイキャッチ画像]

@@ -1,12 +1,11 @@
 ---
 Title: 統一教会に関する「爆笑問題・太田光」の発言に思うことを言語化する
-Date: 2022-09-17T10:00:00+09:00
-CustomPath: 2022/09/17/bakumon-ota-hikari
 Category:
-  - 'DIARY'
-  - '日記'
+- DIARY
+- 日記
+Date: 2022-09-17T10:00:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2022/09/17/bakumon-ota-hikari
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072629345
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/3kocXbKrn1H6OJJZgU9vRyr46L0
 ---
 
 [f:id:neputa:20260902054146w:plain:alt=アイキャッチ画像]

@@ -1,13 +1,12 @@
 ---
 Title: 「正しさとは何か？」 倫理学の入門書を３冊読んでみた【日記】
-Date: 2023-08-27T16:31:00+09:00
-CustomPath: 2023/08/27/introduction-to-ethics
 Category:
-  - 'BOOK'
-  - '新書'
-  - '日記'
+- BOOK
+- 新書
+- 日記
+Date: 2023-08-27T16:31:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2023/08/27/introduction-to-ethics
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072646521
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/6j2rNYFSej7Gc20eZhkSY8CqG0c
 ---
 
 [f:id:neputa:20260902074940w:plain:alt=アイキャッチ画像 秤と人がモチーフの倫理をイメージしたイラスト]

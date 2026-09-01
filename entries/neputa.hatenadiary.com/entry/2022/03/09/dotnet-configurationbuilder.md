@@ -1,12 +1,11 @@
 ---
 Title: ConfigurationBuilderを理解する【.NET6.0】
-Date: 2022-03-09T02:35:00+09:00
-CustomPath: 2022/03/09/dotnet-configurationbuilder
 Category:
-  - 'DEV'
-  - 'dotnet'
+- DEV
+- dotnet
+Date: 2022-03-09T02:35:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2022/03/09/dotnet-configurationbuilder
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072025607
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/I0WsEinSxyMWh0VL-7ioeFlGXMA
 ---
 
 [f:id:neputa:20260901024725w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

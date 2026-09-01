@@ -1,13 +1,12 @@
 ---
 Title: 『自民党の統一教会汚染 追跡3000日』鈴木エイト【あらすじ・感想】
-Date: 2022-11-10T13:55:00+09:00
-CustomPath: 2022/11/10/suzuki-eito-toitsukyokai
 Category:
-  - 'BOOK'
-  - 'ノンフィクション'
-  - '読書感想'
+- BOOK
+- ノンフィクション
+- 読書感想
+Date: 2022-11-10T13:55:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2022/11/10/suzuki-eito-toitsukyokai
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072629373
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/HA11B4Zsq6jdqlEhN82SHDpcSz8
 ---
 
 [f:id:neputa:20260902055025w:plain:alt=アイキャッチ画像]

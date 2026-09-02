@@ -1,15 +1,14 @@
 ---
 Title: AstroとTailwindで静的サイトを作ってみた 【Jamstack】
-Date: 2024-05-29T21:54:00+09:00
-CustomPath: 2024/05/29/astro-tailwind
 Category:
-  - 'DEV'
-  - 'Astro'
-  - 'nodejs'
-  - 'WSL2'
-  - 'Ubuntu'
+- DEV
+- Astro
+- nodejs
+- WSL2
+- Ubuntu
+Date: 2024-05-29T21:54:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/05/29/astro-tailwind
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072992334
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/QHRu5IDBk6ORIQy59iMcy9vfPDE
 ---
 
 [f:id:neputa:20260903005112w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

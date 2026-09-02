@@ -1,13 +1,12 @@
 ---
 Title: 家族との別れ【日記】
-Date: 2024-03-22T06:19:00+09:00
-CustomPath: 2024/03/22/family-farewell
 Category:
-  - 'DIARY'
-  - '文鳥'
-  - '日記'
+- DIARY
+- 文鳥
+- 日記
+Date: 2024-03-22T06:19:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/03/22/family-farewell
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072765780
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/tkysuaV7t24wF7f2W7sSEmRc140
 ---
 
 [f:id:neputa:20260902125422w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

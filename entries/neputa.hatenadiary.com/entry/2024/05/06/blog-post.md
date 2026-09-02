@@ -1,11 +1,10 @@
 ---
 Title: 思い出す、手を動かす【日記】
-Date: 2024-05-06T22:57:00+09:00
-CustomPath: 2024/05/06/blog-post
 Category:
-  - '日記'
+- 日記
+Date: 2024-05-06T22:57:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/05/06/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072992368
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/f9mq6ZO3rBaTQ643KfTa8PgGIwo
 ---
 
 [f:id:neputa:20260903005318w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

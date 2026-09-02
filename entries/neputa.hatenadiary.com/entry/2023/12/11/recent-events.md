@@ -1,14 +1,12 @@
 ---
 Title: 最近のこと【日記】
-Date: 2023-12-11T17:28:00+09:00
-CustomPath: 2023/12/11/recent-events
 Category:
-  - 'DIARY'
-  - '文鳥'
-  - '日記'
+- DIARY
+- 文鳥
+- 日記
+Date: 2023-12-11T17:28:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2023/12/11/recent-events
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072765797
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/-RPN4PCuVQ1dq7h7CA6t8-fbNe8
-Draft: false
 ---
 
 [f:id:neputa:20260902125750w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

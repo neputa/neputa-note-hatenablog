@@ -1,12 +1,11 @@
 ---
 Title: PostmanでAzure B2CのAccessTokenを取得する
-Date: 2023-12-03T17:54:00+09:00
-CustomPath: 2023/12/03/postman-azure-b2c
 Category:
-  - 'DEV'
-  - 'Azure'
+- DEV
+- Azure
+Date: 2023-12-03T17:54:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2023/12/03/postman-azure-b2c
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072765801
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/XuOUycAZJ3Vw_yhA9g63t2xb10A
 ---
 
 [f:id:neputa:20260902131004w:plain:alt=アイキャッチ画像]

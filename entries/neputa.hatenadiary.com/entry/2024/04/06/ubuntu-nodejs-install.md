@@ -1,13 +1,12 @@
 ---
 Title: Ubuntu 22.04に最新のNode.jsとnpmをインストールする方法
-Date: 2024-04-06T22:30:00+09:00
-CustomPath: 2024/04/06/ubuntu-nodejs-install
 Category:
-  - 'DEV'
-  - 'Ubuntu'
-  - 'nodejs'
+- DEV
+- Ubuntu
+- nodejs
+Date: 2024-04-06T22:30:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/04/06/ubuntu-nodejs-install
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072992269
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/2clwbLJMFdkb9OpORuKmWE3EuOo
 ---
 
 [f:id:neputa:20260902235529w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

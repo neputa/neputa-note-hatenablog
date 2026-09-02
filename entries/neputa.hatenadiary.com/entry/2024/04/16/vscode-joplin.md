@@ -1,13 +1,11 @@
 ---
 Title: ノートアプリJoplinをVSCodeで使用する（拡張機能を使用）
-Date: 2024-04-16T23:35:00+09:00
-CustomPath: 2024/04/16/vscode-joplin
 Category:
-  - 'DEV'
-  - 'VSCode'
+- DEV
+- VSCode
+Date: 2024-04-16T23:35:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/04/16/vscode-joplin
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072992306
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/ay-gRLPkra6qozfYHWbBtIrMjwI
-Draft: false
 ---
 
 [f:id:neputa:20260903003718w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

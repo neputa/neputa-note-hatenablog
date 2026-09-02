@@ -1,12 +1,11 @@
 ---
 Title: Bloggerの投稿記事のアーカイブ一覧ページを作成する
-Date: 2024-04-05T23:35:00+09:00
-CustomPath: 2024/04/05/blogger-archives
 Category:
-  - 'DEV'
-  - 'Blogger'
+- DEV
+- Blogger
+Date: 2024-04-05T23:35:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/04/05/blogger-archives
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072765818
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/QenQ_gp7-le6myOc9J98yI42MeU
 ---
 
 [f:id:neputa:20260902230210w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

@@ -1,12 +1,11 @@
 ---
 Title: BloggerのカスタムドメインCNAMEを再度確認する方法
-Date: 2024-04-04T16:24:00+09:00
-CustomPath: 2024/04/04/blogger-cname
 Category:
-  - 'DEV'
-  - 'Blogger'
+- DEV
+- Blogger
+Date: 2024-04-04T16:24:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/04/04/blogger-cname
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072992203
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/wI2a1XNlwNN-IykLimHwV-uFQNg
 ---
 
 [f:id:neputa:20260903010045w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

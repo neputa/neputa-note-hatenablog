@@ -1,16 +1,14 @@
 ---
 Title: 『昨日』 アゴタ・クリストフ 【あらすじ・感想】
-Date: 2023-03-18T14:59:00+09:00
-CustomPath: 2023/03/18/hier-agota-kristof
 Category:
-  - 'BOOK'
-  - 'Agota Kristof'
-  - '海外'
-  - '文学'
-  - '読書感想'
+- BOOK
+- Agota Kristof
+- 海外
+- 文学
+- 読書感想
+Date: 2023-03-18T14:59:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2023/03/18/hier-agota-kristof
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072646463
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/GIwooo9_Lt_WhnCqYjT7jmZk96I
-Draft: false
 ---
 
 [f:id:neputa:20260902072755w:plain:alt=アイキャッチ画像]

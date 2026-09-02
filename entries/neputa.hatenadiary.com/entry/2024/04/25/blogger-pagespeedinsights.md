@@ -1,12 +1,11 @@
 ---
 Title: PageSpeed Insightsの4項目でオール100を達成・実施事項まとめ【Blogger】
-Date: 2024-04-25T06:21:00+09:00
-CustomPath: 2024/04/25/blogger-pagespeedinsights
 Category:
-  - 'DEV'
-  - 'Blogger'
+- DEV
+- Blogger
+Date: 2024-04-25T06:21:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/04/25/blogger-pagespeedinsights
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072992208
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/j5lWNEkzZqFg1jhBirQdvfZ2bvU
 ---
 
 [f:id:neputa:20260902234804w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

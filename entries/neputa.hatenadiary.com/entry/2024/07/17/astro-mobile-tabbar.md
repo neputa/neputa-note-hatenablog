@@ -80,6 +80,12 @@ mobileFooter.astro
 
 ```astro
 ---
+import type { MarkdownHeading } from 'astro'
+import TableOfContents from '@/components/ui/TableOfContents'
+import HomeIcon from '@/components/icons/HomeIcon'
+import CloseIcon from '@/components/icons/CloseIcon'
+import ToTopIcon from '@/components/icons/ToTopIcon'
+import TableOfContentsIcon from '@/components/icons/TableOfContentsIcon'
 
 type Props = {
   headings: MarkdownHeading[]
@@ -183,40 +189,40 @@ TableOfContents.astro
 
 ```astro
 ---
+import { cn } from '@/utils'
+const { heading } = Astro.props
 
-const { headings } = Astro.props
-
-type TableOfContent = {
-  depth: number
-  text: string
-  slug: string
-  subheadings: TableOfContent[]
+type Heading = {
+depth: number
+text: string
+slug: string
+subheadings: Heading[]
 }
 
-const targetHeadings: TableOfContent[] = headings.filter(
-  (e: TableOfContent) => e.depth === 2 || e.depth === 3
-)
-const toc = buildToc(targetHeadings)
-function buildToc(headings: TableOfContent[]) {
-  let toc: TableOfContent[] = []
-  let parentHeadings = new Map()
-  headings.forEach((h) => {
-    let heading = { ...h, subheadings: [] }
-    parentHeadings.set(heading.depth, heading)
-    // Change 2 to 1 if your markdown includes your <h1>
-    if (heading.depth === 1 || heading.depth === 2) {
-      toc.push(heading)
-    } else {
-      parentHeadings.get(heading.depth - 1).subheadings.push(heading)
-    }
-  })
-  return toc
+export interface Props {
+ heading: Heading
 }
 ---
 
-<ul class='flex flex-col gap-1 [text-wrap:pretty]'>
-  {toc.map((heading) => <TabletOfContentsHeading heading={heading} />)}
-</ul>
+<li class='flex flex-col'>
+ <a
+  href={'#' + heading.slug}
+  class={cn(
+   `bg-slate-200 dark:bg-slate-800 dark:hover:bg-primary-500 hover:bg-primary-400 hover:text-white  py-1 px-3 dark:text-white mb-2 first-letter:uppercase w-fit line-clamp-1 overflow-hidden text-base rounded-lg`
+  )}
+ >
+  {heading.text}
+ </a>
+ {
+  heading.subheadings.length > 0 && (
+   <ul class='ml-3'>
+    {heading.subheadings.map((subheading) => (
+     <Astro.self heading={subheading} />
+    ))}
+   </ul>
+  )
+ }
+</li>
 ```
 
 </details>
@@ -228,11 +234,11 @@ TabletOfContentsHeading.astro
 
 ```astro
 ---
-
+import { cn } from '@/utils'
 const { heading } = Astro.props
 
 type Heading = {
-depth: number
+  depth: number
 text: string
 slug: string
 subheadings: Heading[]
@@ -256,7 +262,7 @@ export interface Props {
     heading.subheadings.length > 0 && (
       <ul class='ml-3'>
         {heading.subheadings.map((subheading) => (
-          <Astro.self heading={subheading} />
+            <Astro.self heading={subheading} />
         ))}
       </ul>
     )
@@ -275,6 +281,11 @@ BlogPost.astro
 
 ```astro
 ---
+import type { CollectionEntry } from 'astro:content'
+import BaseLayout from '@/layouts/BaseLayout'
+import Tag from '@/components/ui/Tag'
+import type { MarkdownHeading } from 'astro'
+import MobileFooter from '@/components/widgets/MobileFooter'
 
 type Props = {
   id: CollectionEntry<'blog'>['id']

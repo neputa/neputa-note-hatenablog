@@ -66,11 +66,10 @@ pnpm add -D astro-breadcrumbs
 
 ```astro
 ---
-
-// [!code ++]
-
-// [!code ++]
-
+import HeaderLink from './HeaderLink.astro'
+import { SITE_TITLE } from '../consts'
+import { Breadcrumbs } from 'astro-breadcrumbs'
+import 'astro-breadcrumbs/breadcrumbs.css'
 ---
 
 <header>
@@ -82,7 +81,6 @@ pnpm add -D astro-breadcrumbs
       <HeaderLink href='/about'>About</HeaderLink>
     </div>
   </nav>
-// [!code ++]
   <Breadcrumbs />
 </header>
 ```
@@ -93,7 +91,7 @@ pnpm add -D astro-breadcrumbs
 
 ```astro
 ---
-
+import { Breadcrumbs } from 'astro-breadcrumbs'
 ---
 
 <Breadcrumbs linkTextFormat='lower' ariaLabel='Breadcrumbs' truncated='true'>
@@ -170,10 +168,7 @@ pnpm add -D astro-breadcrumbs
   {Astro.slots.has("index") && index === 0 ? (
     <slot name="index" slot="index" />
   ) : (
-// [!code --]
-    text
-// [!code ++]
-    decodeURI(text)
+    decodeURI(text) //ココを修正
   )}
 </BreadcrumbLink>
 
@@ -188,9 +183,6 @@ pnpm add -D astro-breadcrumbs
 ```json
 {
   "devDependencies": {
-// [!code --]
-    "astro-breadcrumbs": "^2.3.1",
-// [!code ++]
     "astro-breadcrumbs": "git+https://github.com/neputa/astro-breadcrumbs-fork.git"
   }
 }

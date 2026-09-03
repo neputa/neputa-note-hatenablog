@@ -1,12 +1,11 @@
 ---
 Title: AstroのサイトでGoogle Adsenseを遅延読み込みする
-Date: 2024-07-20T17:02:57+09:00
-CustomPath: 2024/07/20/adsense-lazy-loading
 Category:
-  - 'DEV'
-  - 'Astro'
+- DEV
+- Astro
+Date: 2024-07-20T17:02:57+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/07/20/adsense-lazy-loading
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073027564
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/902Wy1IqZobmv1UFnqdorlocoxk
 ---
 
 [f:id:neputa:20260903033851w:plain:alt=AstroとAdsenseのロゴ]

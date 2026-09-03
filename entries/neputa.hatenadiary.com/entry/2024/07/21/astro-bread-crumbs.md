@@ -1,14 +1,13 @@
 ---
 Title: Astroにパンくずリスト（breadcrumb list）を追加する
-Date: 2024-07-21T15:54:36+09:00
-CustomPath: 2024/07/21/astro-bread-crumbs
 Category:
-  - 'DEV'
-  - 'Astro'
-  - 'nodejs'
-  - 'WSL2'
+- DEV
+- Astro
+- nodejs
+- WSL2
+Date: 2024-07-21T15:54:36+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/07/21/astro-bread-crumbs
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073027590
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/skTsnphPn0doR01R1Pee3SMlepM
 ---
 
 [f:id:neputa:20260903105618w:plain:alt=複数のパンを背景にAstroのロゴが前面にあるイメージ画像]

@@ -1,14 +1,13 @@
 ---
 Title: Astro Googleアナリティクス（GA4）のJavaScriptを遅延読み込みする
-Date: 2024-07-20T03:00:00+09:00
-CustomPath: 2024/07/20/astro-lazy-loading-analytics
 Category:
-  - 'DEV'
-  - 'Astro'
-  - 'WSL2'
-  - 'nodejs'
+- DEV
+- Astro
+- WSL2
+- nodejs
+Date: 2024-07-20T03:00:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/07/20/astro-lazy-loading-analytics
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073027605
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/0rIj7sRMjUShVXW_0bK-_66Qo6E
 ---
 
 [f:id:neputa:20260903200917w:plain:alt=宇宙を背景にしたAstroとGoogle Analyticsのロゴ]

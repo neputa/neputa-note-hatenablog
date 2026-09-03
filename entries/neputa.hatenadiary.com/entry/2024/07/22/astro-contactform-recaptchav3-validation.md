@@ -1,12 +1,11 @@
 ---
 Title: 【Astro】Contact FormにValidationとreCAPTCHA v3を追加する
-Date: 2024-07-22T22:03:13+09:00
-CustomPath: 2024/07/22/astro-contactform-recaptchav3-validation
 Category:
-  - 'DEV'
-  - 'Astro'
+- DEV
+- Astro
+Date: 2024-07-22T22:03:13+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/07/22/astro-contactform-recaptchav3-validation
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073027581
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/Fbcd05r6JBskfuqC9KRPh8fFrY8
 ---
 
 [f:id:neputa:20260903035833w:plain:alt=Astro・React Hook Form・reCAPTCHAのロゴマーク]

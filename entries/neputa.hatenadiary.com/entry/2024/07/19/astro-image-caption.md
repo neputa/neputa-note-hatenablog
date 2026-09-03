@@ -84,18 +84,19 @@ pnpm add -D @microflash/remark-figure-caption remark-gfm
 - astro.config.mjsにプラグインを追加する
 
 ```javascript
-
-// [!code ++]
-
-// [!code ++]
+import { defineConfig } from 'astro/config'
+import mdx from '@astrojs/mdx'
+import tailwind from '@astrojs/tailwind'
+import sitemap from '@astrojs/sitemap'
+import remarkGfm from 'remark-gfm' // [!code ++]
+import remarkFigureCaption from '@microflash/remark-figure-caption' // [!code ++]
 
 // https://astro.build/config
 export default defineConfig({
   site: 'https://example.com',
   integrations: [mdx(), sitemap()],
   markdown: {
-// [!code ++]
-    remarkPlugins: [remarkFigureCaption, remarkGfm]
+    remarkPlugins: [remarkFigureCaption, remarkGfm] // [!code ++]
   },
   integrations: [
     tailwind(),
@@ -168,8 +169,9 @@ const { title, src, alt } = Astro.props
 
 ```astro
 ---
-
-// [!code ++]
+import { type CollectionEntry, getCollection } from 'astro:content'
+import BlogPost from '../../layouts/BlogPost.astro'
+import BlogImage from '../../components/BlogImage.astro' // [!code ++]
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog')
@@ -186,7 +188,7 @@ const { Content } = await post.render()
 
 <BlogPost {...post.data}>
   <Content />// [!code --]
-  <Content components={{ img: BlogImage }} />// [!code ++]
+  <Content components={{ img: BlogImage }} /> // [!code ++]
 </BlogPost>
 ```
 

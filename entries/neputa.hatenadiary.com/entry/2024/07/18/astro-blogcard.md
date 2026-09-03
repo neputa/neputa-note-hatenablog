@@ -76,6 +76,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 ```astro
 ---
+import { Image } from 'astro:assets'
 
 interface Props {
   title: string
@@ -102,7 +103,14 @@ const { title, description, url, domain } = Astro.props
   </div>
   <div class='mt-2'>
     <a class='flex p-0' href={url} target='_blank'>
-
+      <Image
+        src={`https://www.google.com/s2/favicons?domain=${url}`}
+        width={16}
+        height={16}
+        format='webp'
+        alt='favicon for blog card'
+        class='m-0 md:m-0'
+      />
       <span class='mx-2 my-0 text-sm leading-none'>{domain}</span>
     </a>
   </div>

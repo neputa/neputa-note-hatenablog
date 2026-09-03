@@ -1,14 +1,13 @@
 ---
 Title: AstroのBlogにモバイル表示用のタブバー（TabBar）を追加する
-Date: 2024-07-17T03:00:00+09:00
-CustomPath: 2024/07/17/astro-mobile-tabbar
 Category:
-  - 'DEV'
-  - 'Astro'
-  - 'WSL2'
-  - 'nodejs'
+- DEV
+- Astro
+- WSL2
+- nodejs
+Date: 2024-07-17T03:00:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/07/17/astro-mobile-tabbar
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073027596
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/fo9CXWjX1svYsjg8XZ_dU9gCiLE
 ---
 
 [f:id:neputa:20260903125016w:plain:alt=宇宙が背景のAstroロゴ]

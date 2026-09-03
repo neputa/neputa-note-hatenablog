@@ -117,8 +117,9 @@ const adsBannerId = '0000000000'
 
 ```astro
 ---
-
-// [!code ++]
+import { type CollectionEntry, getCollection } from 'astro:content'
+import BlogPost from '../../layouts/BlogPost.astro'
+import GoogleAdsense from '@/components/widgets/GoogleAdsense'
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog')
@@ -135,7 +136,12 @@ const { Content } = await post.render()
 
 <BlogPost {...post.data}>
   <Content />
-// [!code ++]
+  <GoogleAdsense />
+</BlogPost>
+---
+
+<BlogPost {...post.data}>
+  <Content />
   <GoogleAdsense />
 </BlogPost>
 ```

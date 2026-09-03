@@ -88,15 +88,15 @@ import { defineConfig } from 'astro/config'
 import mdx from '@astrojs/mdx'
 import tailwind from '@astrojs/tailwind'
 import sitemap from '@astrojs/sitemap'
-import remarkGfm from 'remark-gfm' // [!code ++]
-import remarkFigureCaption from '@microflash/remark-figure-caption' // [!code ++]
+import remarkGfm from 'remark-gfm'
+import remarkFigureCaption from '@microflash/remark-figure-caption'
 
 // https://astro.build/config
 export default defineConfig({
   site: 'https://example.com',
   integrations: [mdx(), sitemap()],
   markdown: {
-    remarkPlugins: [remarkFigureCaption, remarkGfm] // [!code ++]
+    remarkPlugins: [remarkFigureCaption, remarkGfm]
   },
   integrations: [
     tailwind(),
@@ -171,7 +171,7 @@ const { title, src, alt } = Astro.props
 ---
 import { type CollectionEntry, getCollection } from 'astro:content'
 import BlogPost from '../../layouts/BlogPost.astro'
-import BlogImage from '../../components/BlogImage.astro' // [!code ++]
+import BlogImage from '../../components/BlogImage.astro'
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog')
@@ -188,7 +188,7 @@ const { Content } = await post.render()
 
 <BlogPost {...post.data}>
   <Content />// [!code --]
-  <Content components={{ img: BlogImage }} /> // [!code ++]
+  <Content components={{ img: BlogImage }} />
 </BlogPost>
 ```
 

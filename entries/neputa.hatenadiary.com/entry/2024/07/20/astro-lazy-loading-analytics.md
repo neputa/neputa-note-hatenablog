@@ -63,14 +63,16 @@ pnpm add -D @astrojs/partytown
 - astro.config.mjsにpartytownをimportし設定を追加する
 
 ```javascript
+import { defineConfig } from 'astro/config'
+import partytown from '@astrojs/partytown'
 
 export default defineConfig({
   integrations: [
-    partytown({// [!code ++]
-      config: {// [!code ++]
-        forward: ['dataLayer.push']// [!code ++]
-      }// [!code ++]
-    })// [!code ++]
+    partytown({
+      config: {
+        forward: ['dataLayer.push']
+      }
+    })
   ]
 })
 ```
@@ -111,14 +113,13 @@ const gaId: string = 'G-XXXXXXXXXX'
 
 ```astro
 ---
-// [!code ++]
-
+import GoogleAnalytics from '@/components/meta/GoogleAnalytics'
 ---
 
 <html lang='ja'>
   <head>
     <!-- 省略-->
-    <GoogleAnalytics />// [!code ++]
+    <GoogleAnalytics />
   </head>
 
   <!-- 省略-->

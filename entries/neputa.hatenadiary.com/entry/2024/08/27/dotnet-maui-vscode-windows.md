@@ -1,14 +1,13 @@
 ---
 Title: VSCode & .NET MAUIでAndroidアプリ開発環境を構築する【Windows】
-Date: 2024-08-27T05:22:29+09:00
-CustomPath: 2024/08/27/dotnet-maui-vscode-windows
 Category:
-  - 'DEV'
-  - 'VSCode'
-  - 'MAUI'
-  - 'dotnet'
+- DEV
+- VSCode
+- MAUI
+- dotnet
+Date: 2024-08-27T05:22:29+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/08/27/dotnet-maui-vscode-windows
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782683
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/BaYgSqgrfAWArsjQsoFbznW4HC8
 ---
 
 [f:id:neputa:20260904230622w:plain:alt=.NET MAUIとVSCodeのロゴと中央にdotnet botのキャラクター]

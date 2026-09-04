@@ -1,13 +1,12 @@
 ---
 Title: 網膜色素変性症と向き合う
-Date: 2024-10-21T08:07:47+09:00
-CustomPath: 2024/10/21/pigmentary-degeneration-of-the-retina
 Category:
-  - 'DIARY'
-  - 'vision'
-  - '日記'
+- DIARY
+- vision
+- 日記
+Date: 2024-10-21T08:07:47+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/10/21/pigmentary-degeneration-of-the-retina
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782773
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/tAtbOvadWgM_prU4RI7SgMpuWho
 ---
 
 [f:id:neputa:20260904232507w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

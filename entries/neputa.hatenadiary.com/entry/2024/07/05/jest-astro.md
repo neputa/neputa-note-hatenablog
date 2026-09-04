@@ -1,14 +1,13 @@
 ---
 Title: AstroのユニットテストをJestで行う【ESモジュール対処法】
-Date: 2024-07-05T13:23:08+09:00
-CustomPath: 2024/07/05/jest-astro
 Category:
-  - 'DEV'
-  - 'nodejs'
-  - 'Jest'
-  - 'Astro'
+- DEV
+- nodejs
+- Jest
+- Astro
+Date: 2024-07-05T13:23:08+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/07/05/jest-astro
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073380939
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/56YPhq04NmKSxrutXxZERZs5I5Y
 ---
 
 [f:id:neputa:20260904205125w:plain:alt=宇宙を背景にAstroとJestのロゴが並ぶアイキャッチ画像]

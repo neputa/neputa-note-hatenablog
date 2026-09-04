@@ -1,12 +1,11 @@
 ---
 Title: 今日のモヤモヤ【日記】
-Date: 2024-07-14T13:30:41+09:00
-CustomPath: 2024/07/14/blurred-feelings
 Category:
-  - 'DIARY'
-  - '日記'
+- DIARY
+- 日記
+Date: 2024-07-14T13:30:41+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/07/14/blurred-feelings
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073380852
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/lovH4ZZAlk-z2dAJU0gThCiLnX4
 ---
 
 [f:id:neputa:20260904014114w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

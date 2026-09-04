@@ -1,13 +1,12 @@
 ---
 Title: Android Emulator作成エラー対応メモ【.NET MAUI】
-Date: 2024-08-26T03:18:27+09:00
-CustomPath: 2024/08/26/dotnet-maui-avdmanager-error
 Category:
-  - 'DEV'
-  - 'MAUI'
-  - 'dotnet'
+- DEV
+- MAUI
+- dotnet
+Date: 2024-08-26T03:18:27+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/08/26/dotnet-maui-avdmanager-error
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782662
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/PMYzj6rajNR6csKkopkhBwTHvJE
 ---
 
 [f:id:neputa:20260904223644w:plain:alt=dotnet mauiのロゴとdotnet-botキャラクター]

@@ -1,15 +1,14 @@
 ---
 Title: BlogをBloggerからAstroへ移行した
-Date: 2024-07-01T03:51:30+09:00
-CustomPath: 2024/07/01/migrated-blogger-to-astro
 Category:
-  - 'DEV'
-  - 'Astro'
-  - 'Blogger'
-  - 'WSL2'
-  - 'nodejs'
+- DEV
+- Astro
+- Blogger
+- WSL2
+- nodejs
+Date: 2024-07-01T03:51:30+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/07/01/migrated-blogger-to-astro
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073380987
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/1Ro9zHke2pHHfczSJiCreKTmRQ8
 ---
 
 [f:id:neputa:20260904213748w:plain:alt=宇宙が背景のAstroロゴ]

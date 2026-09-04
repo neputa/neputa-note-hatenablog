@@ -1,14 +1,13 @@
 ---
 Title: 個人開発のスマホアプリで「LiteDB」を使ってみた【.NET MAUI / C#】
-Date: 2024-10-10T03:06:41+09:00
-CustomPath: 2024/10/10/mobile-app-and-litedb
 Category:
-  - 'DEV'
-  - 'MAUI'
-  - 'dotnet'
-  - 'MobileApps'
+- DEV
+- MAUI
+- dotnet
+- MobileApps
+Date: 2024-10-10T03:06:41+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/10/10/mobile-app-and-litedb
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782747
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/JsOafCI3ogWzayCDCSPWTbPMIfw
 ---
 
 [f:id:neputa:20260904232224w:plain:alt=個人開発アプリCheckListMakerの宣伝用バナー]

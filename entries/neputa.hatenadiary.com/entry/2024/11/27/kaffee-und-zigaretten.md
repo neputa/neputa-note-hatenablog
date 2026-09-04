@@ -1,15 +1,14 @@
 ---
 Title: 『珈琲と煙草』 フェルディナント・フォン・シーラッハ ～読書感想と引用メモ
-Date: 2024-11-27T04:07:28+09:00
-CustomPath: 2024/11/27/kaffee-und-zigaretten
 Category:
-  - 'BOOK'
-  - 'Schirach'
-  - '海外'
-  - '読書感想'
-  - '記録・エッセイ'
+- BOOK
+- Schirach
+- 海外
+- 読書感想
+- 記録・エッセイ
+Date: 2024-11-27T04:07:28+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/11/27/kaffee-und-zigaretten
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782862
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/sd_K4dpxozHwcYj9Xub524bF1q8
 ---
 
 [f:id:neputa:20260904232908w:plain:alt=珈琲と煙草のカバー]

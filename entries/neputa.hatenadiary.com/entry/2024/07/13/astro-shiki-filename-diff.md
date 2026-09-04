@@ -1,14 +1,13 @@
 ---
 Title: 【Astro/Shiki】markdownのコードブロックにファイル名とdiffを追加する
-Date: 2024-07-13T16:38:27+09:00
-CustomPath: 2024/07/13/astro-shiki-filename-diff
 Category:
-  - 'DEV'
-  - 'Astro'
-  - 'WSL2'
-  - 'nodejs'
+- DEV
+- Astro
+- WSL2
+- nodejs
+Date: 2024-07-13T16:38:27+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/07/13/astro-shiki-filename-diff
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073380845
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/II0nW2fTlo4CqDOjNBvCcsjttfQ
 ---
 
 [f:id:neputa:20260904015315w:plain:alt=宇宙が背景のAstroロゴ]

@@ -1,13 +1,12 @@
 ---
 Title: ASP.NET Core Web & nginxをConoHa VPS & Docker composeで公開する
-Date: 2024-11-26T06:23:46+09:00
-CustomPath: 2024/11/26/aspnetcore-nginx-docker-conoha-vps
 Category:
-  - 'DEV'
-  - 'dotnet'
-  - 'docker'
+- DEV
+- dotnet
+- docker
+Date: 2024-11-26T06:23:46+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/11/26/aspnetcore-nginx-docker-conoha-vps
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782871
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/VCqO0srELzU9D1yabWrE7qnBrrw
 ---
 
 [f:id:neputa:20260904233616w:plain:alt=dotnetとGMO Conohaのロゴマーク]

@@ -1,12 +1,11 @@
 ---
 Title: 血縁について
-Date: 2024-08-13T07:07:02+09:00
-CustomPath: 2024/08/13/blood-relative
 Category:
-  - 'DIARY'
-  - '日記'
+- DIARY
+- 日記
+Date: 2024-08-13T07:07:02+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/08/13/blood-relative
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073380961
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/DXzJQYk4vmg3YDO_pdP0mS0fPl0
 ---
 
 [f:id:neputa:20260904205317w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

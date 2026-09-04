@@ -1,12 +1,11 @@
 ---
 Title: パリ パラリンピック 2024【備忘録】
-Date: 2024-09-09T11:31:18+09:00
-CustomPath: 2024/09/09/paralympics-2024
 Category:
-  - 'DIARY'
-  - '日記'
+- DIARY
+- 日記
+Date: 2024-09-09T11:31:18+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/09/09/paralympics-2024
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782714
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/3V3VRa_VWEB6rwRDZJn5m7KD7Rk
 ---
 
 [f:id:neputa:20260905001701w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

@@ -1,13 +1,12 @@
 ---
 Title: 前後も裏表も関係なく着れる「フェリシモ オールライト研究所」の服を買ってみた
-Date: 2024-12-01T05:09:23+09:00
-CustomPath: 2024/12/01/felissimo-without-borders
 Category:
-  - 'DIARY'
-  - '日記'
-  - 'インクルーシブ'
+- DIARY
+- 日記
+- インクルーシブ
+Date: 2024-12-01T05:09:23+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/12/01/felissimo-without-borders
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159580
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/FM55l7bv6GA4QmtEaw3TG9gH1pE
 ---
 
 [f:id:neputa:20260905215239w:plain:alt=インクルーシブをイメージした抽象的なイラスト]

@@ -1,12 +1,11 @@
 ---
 Title: 黄金頭さんに会ってきた
-Date: 2024-12-08T09:47:00+09:00
-CustomPath: 2024/12/08/i-met-mr-goldhead
 Category:
-  - 'DIARY'
-  - '日記'
+- DIARY
+- 日記
+Date: 2024-12-08T09:47:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2024/12/08/i-met-mr-goldhead
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159594
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/g3W7IOmyWdoEWaqPDmK56Ra2Zvo
 ---
 
 [f:id:neputa:20260905215442w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

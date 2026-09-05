@@ -1,12 +1,11 @@
 ---
 Title: CloudflareでのTTFB改善方法とその影響について
-Date: 2025-03-03T21:16:39+09:00
-CustomPath: 2025/03/03/cloudflare-ttfb
 Category:
-  - 'DEV'
-  - 'cloudflare'
+- DEV
+- cloudflare
+Date: 2025-03-03T21:16:39+09:00
+URL: https://neputa.hatenadiary.com/entry/2025/03/03/cloudflare-ttfb
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159672
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/HNmM80Lp3r5dZ6rUWFV59Mga5-c
 ---
 
 [f:id:neputa:20260905220442w:plain:alt=cloudflareのネットワーク拠点をプロットした世界地図]

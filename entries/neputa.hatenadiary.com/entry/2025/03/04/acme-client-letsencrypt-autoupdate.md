@@ -1,11 +1,11 @@
 ---
 Title: ACME Client - CertbotでLet's Encrypt自動更新を設定する方法
-CustomPath: 2025/03/04/acme-client-letsencrypt-autoupdate
 Category:
-  - 'DEV'
-  - 'docker'
+- DEV
+- docker
+Date: 2026-09-05T23:53:26+09:00
+URL: https://neputa.hatenadiary.com/entry/2025/03/04/acme-client-letsencrypt-autoupdate
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159803
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/GAvsojUC7U3yWnWNKOz2zMMxwdo
 ---
 
 [f:id:neputa:20260905234728w:plain:alt=Let's Encryptのロゴマーク]

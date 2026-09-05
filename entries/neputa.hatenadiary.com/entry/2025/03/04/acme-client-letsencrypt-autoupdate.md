@@ -92,7 +92,6 @@ RUN apt-get update && apt-get install -y certbot
 COPY ./nginx.conf /etc/nginx/nginx.conf
 COPY ./site.conf.template /etc/nginx/templates/site.conf.template
 
-// [!code ++]
 RUN mkdir -p /var/www/certbot
 
 CMD [ "nginx", "-g", "daemon off;" ]

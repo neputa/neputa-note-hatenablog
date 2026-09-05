@@ -46,7 +46,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 PageSpeed Insightsと、手元のチェックとの差異は、Cloudflareのキャッシュ機能によるものと考えられる。次のサイトで、そのあたりを分かりやすく説明している。
 
-[https://discover.hubpages.com/technology/Reduce-TTFB-Time-To-First-Byte-with-CloudFlare?utm_source=pocket_saves:embed:cite]
+- [How to Reduce TTFB (Time to First Byte) With Cloudflare - Discover HubPages](https://discover.hubpages.com/technology/Reduce-TTFB-Time-To-First-Byte-with-CloudFlare?utm_source=pocket_saves)
 
 この記事内容を参考に、要点を次にまとめる。
 

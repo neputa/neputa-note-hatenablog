@@ -25,7 +25,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 最初の検査では、網膜に異常が見られたため、網膜色素変性症の可能性があると診断された。
 
-[https://www.neputa-note.net/2024/10/pigmentary-degeneration-of-the-retina/:embed:cite]
+[https://www.neputa-note.net/entry/2024/10/21/pigmentary-degeneration-of-the-retina:embed:cite]
 
 その後、2度目の検査では、網膜の異常が発生した原因は他の病気によるものではないと判断された。
 

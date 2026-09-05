@@ -1,13 +1,12 @@
 ---
 Title: 視覚に関する記録 03 【日記】
-Date: 2025-03-09T08:24:18+09:00
-CustomPath: 2025/03/09/my-records-of-my-vision-03
 Category:
-  - 'DIARY'
-  - 'vision'
-  - '日記'
+- DIARY
+- vision
+- 日記
+Date: 2025-03-09T08:24:18+09:00
+URL: https://neputa.hatenadiary.com/entry/2025/03/09/my-records-of-my-vision-03
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159715
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/t1S-gr2LLrFB77NvoRWU7i-lHQE
 ---
 
 [f:id:neputa:20260905233147w:plain:alt=視力検査をモチーフにした抽象的なイラスト]

@@ -1,12 +1,11 @@
 ---
 Title: 最近思うこと（2025年1月）
-Date: 2025-01-28T05:06:00+09:00
-CustomPath: 2025/01/28/recent-thoughts
 Category:
-  - 'DIARY'
-  - '日記'
+- DIARY
+- 日記
+Date: 2025-01-28T05:06:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2025/01/28/recent-thoughts
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159712
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/J17x-572kUzFxGlFLRveqdT1SaA
 ---
 
 [f:id:neputa:20260905232724w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

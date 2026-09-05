@@ -1,13 +1,12 @@
 ---
 Title: サングラスについて
-Date: 2025-01-12T05:04:08+09:00
-CustomPath: 2025/01/12/about-sunglasses
 Category:
-  - 'DIARY'
-  - '日記'
-  - 'vision'
+- DIARY
+- 日記
+- vision
+Date: 2025-01-12T05:04:08+09:00
+URL: https://neputa.hatenadiary.com/entry/2025/01/12/about-sunglasses
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159625
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/VZnXj__NON3WIqYXvd8l38WvLXw
 ---
 
 [f:id:neputa:20260905215730w:plain:alt=サングラスをかけた女性の顔のアップ]

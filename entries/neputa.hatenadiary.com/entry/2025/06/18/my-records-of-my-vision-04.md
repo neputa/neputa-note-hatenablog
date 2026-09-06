@@ -1,13 +1,12 @@
 ---
 Title: 視覚に関する記録 04 【日記】
-Date: 2025-06-18T18:02:03+09:00
-CustomPath: 2025/06/18/my-records-of-my-vision-04
 Category:
-  - 'DIARY'
-  - 'vision'
-  - '日記'
+- DIARY
+- vision
+- 日記
+Date: 2025-06-18T18:02:03+09:00
+URL: https://neputa.hatenadiary.com/entry/2025/06/18/my-records-of-my-vision-04
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210480
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/KbXXula1kiU-4l3_Rm4j_C21zP0
 ---
 
 [f:id:neputa:20260906024753w:plain:alt=白杖歩行と障害者手帳を抽象化したイラストイメージ]

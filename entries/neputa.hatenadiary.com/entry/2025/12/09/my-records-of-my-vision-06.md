@@ -1,13 +1,12 @@
 ---
 Title: 視覚に関する記録 06 【日記】
-Date: 2025-12-09T04:50:31+09:00
-CustomPath: 2025/12/09/my-records-of-my-vision-06
 Category:
-  - 'DIARY'
-  - 'vision'
-  - '日記'
+- DIARY
+- vision
+- 日記
+Date: 2025-12-09T04:50:31+09:00
+URL: https://neputa.hatenadiary.com/entry/2025/12/09/my-records-of-my-vision-06
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210529
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/DdwXfOSp20iHNkRRbGCp5Zu223c
 ---
 
 [f:id:neputa:20260907011522w:plain:alt=目の検査を受ける女性と遺伝子を表す螺旋や試験管などを配置した視覚検査のイメージイラスト]

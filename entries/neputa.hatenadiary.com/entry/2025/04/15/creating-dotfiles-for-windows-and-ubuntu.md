@@ -1,13 +1,12 @@
 ---
 Title: WindowsとUbuntu用のdotfilesの作成方法
-Date: 2025-04-15T05:24:55+09:00
-CustomPath: 2025/04/15/creating-dotfiles-for-windows-and-ubuntu
 Category:
-  - 'DEV'
-  - 'Ubuntu'
-  - 'Windows'
+- DEV
+- Ubuntu
+- Windows
+Date: 2025-04-15T05:24:55+09:00
+URL: https://neputa.hatenadiary.com/entry/2025/04/15/creating-dotfiles-for-windows-and-ubuntu
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210432
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/WVHsMhU1XXNV6ZlfPdcofeqJ27A
 ---
 
 [f:id:neputa:20260906020708w:plain:alt=3つのアイコンが並ぶアイキャッチ画像 WindowsとUbuntuのロゴ、dotfilesの文字列を記したファイルアイコン]

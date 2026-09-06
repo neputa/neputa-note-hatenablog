@@ -1,13 +1,12 @@
 ---
 Title: 『UNIXという考え方』 Mike Gancarz 【感想・備忘録】
-Date: 2025-03-31T15:54:49+09:00
-CustomPath: 2025/03/31/the-unix-philosophy
 Category:
-  - 'BOOK'
-  - '技術書'
-  - '読書感想'
+- BOOK
+- 技術書
+- 読書感想
+Date: 2025-03-31T15:54:49+09:00
+URL: https://neputa.hatenadiary.com/entry/2025/03/31/the-unix-philosophy
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210448
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/dYgFAxQoOZVGXTFIjpCH-mZL478
 ---
 
 [f:id:neputa:20260906022213w:plain:alt=議論しているイラストを背景にUNIXという考え方の本のカバーが前面にあるアイキャッチ画像]

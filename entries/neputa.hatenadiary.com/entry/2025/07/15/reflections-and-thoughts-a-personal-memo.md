@@ -1,12 +1,11 @@
 ---
 Title: 最近思うことのメモ
-Date: 2025-07-15T06:44:50+09:00
-CustomPath: 2025/07/15/reflections-and-thoughts-a-personal-memo
 Category:
-  - 'DIARY'
-  - '日記'
+- DIARY
+- 日記
+Date: 2025-07-15T06:44:50+09:00
+URL: https://neputa.hatenadiary.com/entry/2025/07/15/reflections-and-thoughts-a-personal-memo
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210470
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/BlzaXDTYq_nLoNyqkpvLKYg7-wc
 ---
 
 [f:id:neputa:20260906024402w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

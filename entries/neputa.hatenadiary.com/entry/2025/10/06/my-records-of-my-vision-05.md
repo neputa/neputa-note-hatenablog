@@ -1,13 +1,12 @@
 ---
 Title: 視覚に関する記録 05 【日記】
-Date: 2025-10-06T16:19:47+09:00
-CustomPath: 2025/10/06/my-records-of-my-vision-05
 Category:
-  - 'DIARY'
-  - 'vision'
-  - '日記'
+- DIARY
+- vision
+- 日記
+Date: 2025-10-06T16:19:47+09:00
+URL: https://neputa.hatenadiary.com/entry/2025/10/06/my-records-of-my-vision-05
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210545
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/ks7VCDWkORS9oCsw-bZIxk_zgYI
 ---
 
 [f:id:neputa:20260907021355w:plain:alt=サングラスをかけ白杖を持つ女性が歩く姿のイラスト]

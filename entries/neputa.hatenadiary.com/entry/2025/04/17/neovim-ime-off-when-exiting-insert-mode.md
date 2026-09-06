@@ -1,13 +1,12 @@
 ---
 Title: 'Neovim: インサートモードを抜けるときにIMEをオフにする'
-Date: 2025-04-17T00:00:00+09:00
-CustomPath: 2025/04/17/neovim-ime-off-when-exiting-insert-mode
 Category:
-  - 'DEV'
-  - 'Vim'
-  - 'Ubuntu'
+- DEV
+- Vim
+- Ubuntu
+Date: 2025-04-17T00:00:00+09:00
+URL: https://neputa.hatenadiary.com/entry/2025/04/17/neovim-ime-off-when-exiting-insert-mode
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210456
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/4s8p0askc4wtWU_CFgf4uSV3AaQ
 ---
 
 [f:id:neputa:20260906024224w:plain:alt=Neovimのロゴ]

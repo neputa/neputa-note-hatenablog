@@ -284,7 +284,7 @@ public partial class MainView : ContentPage
 
 #### 4. MainViewModel.cs
 
-```csharp MainViewModel.cs
+```csharp
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 

@@ -120,7 +120,7 @@ pnpm add react @astrojs/react react-hook-form
 
 ##### astro.config.mjs
 
-```astro
+```javascript
 import { defineConfig } from 'astro/config';
 import react from '@astrojs/react';
 
@@ -138,7 +138,7 @@ export default defineConfig({
 - 必要に応じて本番環境に、同じ名前の環境変数を設定しておく。
 - .env ファイルはプロジェクトのルートディレクトリに配置し、gitignoreに追加して、バージョン管理から除外する。
 
-```env
+```dotenv
 VITE_RECAPTCHA_SITE_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 VITE_FORMSPREE_ENDPOINT=https://formspree.io/f/xxxxxxxx
 ```

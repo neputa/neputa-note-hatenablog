@@ -1,12 +1,11 @@
 ---
 Title: 2026年3月2日に見た夢
-Date: 2026-03-03T02:38:27+09:00
-CustomPath: 2026/03/03/a-dream-i-had-on-2-march-2026
 Category:
-  - 'DIARY'
-  - '日記'
+- DIARY
+- 日記
+Date: 2026-03-03T02:38:27+09:00
+URL: https://neputa.hatenadiary.com/entry/2026/03/03/a-dream-i-had-on-2-march-2026
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074653114
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/H0BLJwtrE0roOGI_4Hphd6WdKjA
 ---
 
 [f:id:neputa:20260907043621w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]

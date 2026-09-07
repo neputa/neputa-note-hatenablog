@@ -1,9 +1,8 @@
 ---
 Title: 『アルピニズムと死』 山野井泰史 【あらすじ・感想】
 Category:
-- BOOK
-- 記録・エッセイ
-- 読書感想
+  - 記録・エッセイ
+  - 読書感想
 Date: 2016-03-23T19:29:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2016/03/23/blog-post_23
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067895363

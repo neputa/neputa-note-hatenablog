@@ -1,9 +1,8 @@
 ---
 Title: Netflixで見るおすすめドラマ７作品
 Category:
-- MEDIA
 - Netflix
-- 映像鑑賞
+- ドラマ
 Date: 2016-08-03T10:11:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2016/08/03/netflix-drama-2016
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068290591

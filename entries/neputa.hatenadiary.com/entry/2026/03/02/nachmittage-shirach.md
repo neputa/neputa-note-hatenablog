@@ -1,11 +1,10 @@
 ---
 Title: 『午後』 フェルディナント・フォン・シーラッハ - 酒寄進一 訳 【読書感想】
 Category:
-- BOOK
-- Schirach
-- 海外
-- 読書感想
-- 記録・エッセイ
+  - Schirach
+  - 海外
+  - 記録・エッセイ
+  - 読書感想
 Date: 2026-03-02T16:21:20+09:00
 URL: https://neputa.hatenadiary.com/entry/2026/03/02/nachmittage-shirach
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074653128

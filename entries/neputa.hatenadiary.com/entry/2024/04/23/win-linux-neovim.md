@@ -1,9 +1,9 @@
 ---
 Title: Win-Linux間のコピペ「^M」問題の対処について
 Category:
-- DEV
-- Windows
-- WSL2
+  - WSL2
+  - Windows
+  - dev
 Date: 2024-04-23T11:30:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2024/04/23/win-linux-neovim
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072992322

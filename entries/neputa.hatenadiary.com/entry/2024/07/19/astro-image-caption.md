@@ -1,10 +1,10 @@
 ---
 Title: Astro Blog記事の画像にキャプションを付ける
 Category:
-- DEV
-- Astro
-- nodejs
-- WSL2
+  - Astro
+  - WSL2
+  - dev
+  - nodejs
 Date: 2024-07-19T03:00:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2024/07/19/astro-image-caption
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073027593

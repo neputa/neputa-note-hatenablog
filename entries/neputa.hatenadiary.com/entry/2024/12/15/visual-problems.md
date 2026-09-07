@@ -1,9 +1,8 @@
 ---
 Title: 目の病気 2か月ぶりの通院・経過についての備忘録
 Category:
-- DIARY
-- vision
-- 日記
+  - 日記
+  - 視覚障害
 Date: 2024-12-15T22:01:16+09:00
 URL: https://neputa.hatenadiary.com/entry/2024/12/15/visual-problems
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159667

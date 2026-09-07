@@ -1,11 +1,10 @@
 ---
 Title: 『推定無罪』 スコット・トゥロー 【あらすじ・感想】
 Category:
-- BOOK
-- Scott Turow
-- 海外
-- ミステリ
-- 読書感想
+  - Scott Turow
+  - ミステリ
+  - 海外
+  - 読書感想
 Date: 2017-10-30T17:00:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2017/10/30/scott-turow-presumptuous
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068792226

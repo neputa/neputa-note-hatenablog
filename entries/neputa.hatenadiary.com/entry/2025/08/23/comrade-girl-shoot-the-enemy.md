@@ -1,9 +1,8 @@
 ---
 Title: 『同志少女よ、敵を撃て』（著:逢坂冬馬）のあらすじと読書感想
 Category:
-- BOOK
-- 読書感想
-- 歴史
+  - 歴史
+  - 読書感想
 Date: 2025-08-23T21:20:41+09:00
 URL: https://neputa.hatenadiary.com/entry/2025/08/23/comrade-girl-shoot-the-enemy
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210497

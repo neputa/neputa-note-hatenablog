@@ -1,9 +1,8 @@
 ---
 Title: Netflixオリジナルドラマ『クリミナル』（全4編）のススメ
 Category:
-- MEDIA
 - Netflix
-- 映像鑑賞
+- ドラマ
 Date: 2021-01-31T17:56:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2021/01/31/netflix-criminal
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069533145

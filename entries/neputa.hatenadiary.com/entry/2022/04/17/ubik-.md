@@ -1,11 +1,10 @@
 ---
 Title: 『ユービック』 フィリップ・K・ディック 【あらすじ・感想】
 Category:
-- BOOK
-- Philip K Dick
-- SF・ファンタジー
-- 海外
-- 読書感想
+  - Philip K Dick
+  - SF・ファンタジー
+  - 海外
+  - 読書感想
 Date: 2022-04-17T15:43:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2022/04/17/ubik-
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072025614

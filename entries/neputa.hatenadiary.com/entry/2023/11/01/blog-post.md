@@ -1,8 +1,8 @@
 ---
 Title: 最新バージョンのNeovimを.debパッケージからインストール
 Category:
-- DEV
-- Vim
+  - Vim
+  - dev
 Date: 2023-11-01T17:51:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2023/11/01/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072765757

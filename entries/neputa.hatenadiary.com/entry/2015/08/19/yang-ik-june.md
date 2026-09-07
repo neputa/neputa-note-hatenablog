@@ -1,8 +1,7 @@
 ---
 Title: すっかりファンになってしまった「ヤン・イクチュン」
 Category:
-- MEDIA
-- 映像鑑賞
+- 映画
 - 日記
 Date: 2015-08-19T08:46:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2015/08/19/yang-ik-june

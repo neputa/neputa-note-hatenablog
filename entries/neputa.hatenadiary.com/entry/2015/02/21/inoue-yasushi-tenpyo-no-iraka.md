@@ -1,9 +1,8 @@
 ---
 Title: 『天平の甍』 井上靖 【あらすじ・感想】
 Category:
-- BOOK
-- 歴史
-- 読書感想
+  - 歴史
+  - 読書感想
 Date: 2015-02-21T23:49:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2015/02/21/inoue-yasushi-tenpyo-no-iraka
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067587707

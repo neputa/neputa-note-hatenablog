@@ -1,9 +1,8 @@
 ---
 Title: 最近のこと【日記】
 Category:
-- DIARY
-- 文鳥
-- 日記
+  - 文鳥
+  - 日記
 Date: 2023-12-11T17:28:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2023/12/11/recent-events
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072765797

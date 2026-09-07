@@ -1,9 +1,8 @@
 ---
 Title: 『考える生き方』 finalvent 【あらすじ・感想】
 Category:
-- BOOK
-- 記録・エッセイ
-- 読書感想
+  - 記録・エッセイ
+  - 読書感想
 Date: 2014-12-23T21:30:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2014/12/23/finalvent
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067173725

@@ -1,11 +1,12 @@
 ---
 Title: BlogをBloggerからAstroへ移行した
 Category:
-- DEV
-- Astro
-- Blogger
-- WSL2
-- nodejs
+  - Astro
+  - Blogger
+  - Cloudflare
+  - WSL2
+  - dev
+  - nodejs
 Date: 2024-07-01T03:51:30+09:00
 URL: https://neputa.hatenadiary.com/entry/2024/07/01/migrated-blogger-to-astro
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073380987

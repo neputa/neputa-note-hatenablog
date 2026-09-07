@@ -1,9 +1,8 @@
 ---
 Title: 視覚に関する記録 12 - 本格的なロービジョン生活の始まり
 Category:
-- DIARY
-- vision
-- 日記
+  - 日記
+  - 視覚障害
 Date: 2026-06-01T13:34:11+09:00
 URL: https://neputa.hatenadiary.com/entry/2026/06/01/my-records-of-my-vision-12
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074769427

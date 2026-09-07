@@ -1,9 +1,8 @@
 ---
 Title: 【日記】2025年の振り返りと2026年の展望
 Category:
-- DIARY
-- 日記
-- 振り返り
+  - 振り返り
+  - 日記
 Date: 2025-12-27T13:43:49+09:00
 URL: https://neputa.hatenadiary.com/entry/2025/12/27/review-and-outlook-2025-2026
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074653106
@@ -62,7 +61,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 視覚に関する記事はこちらにまとめている。
 
-- [#vision タグの記事一覧](https://www.neputa-note.net/tags/vision/)
+- [#視覚障害 タグの記事一覧](https://neputa-note.net/archive/category/視覚障害)
 
 ### 2. 読書時間を増やす（月2冊以上）
 

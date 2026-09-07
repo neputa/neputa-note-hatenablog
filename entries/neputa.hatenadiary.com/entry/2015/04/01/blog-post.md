@@ -1,10 +1,9 @@
 ---
 Title: 『名もなき人たちのテーブル』マイケル・オンダーチェ【あらすじ・感想】
 Category:
-- BOOK
-- 海外
-- 文学
-- 読書感想
+  - 文学
+  - 海外
+  - 読書感想
 Date: 2015-04-01T20:20:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2015/04/01/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067773778

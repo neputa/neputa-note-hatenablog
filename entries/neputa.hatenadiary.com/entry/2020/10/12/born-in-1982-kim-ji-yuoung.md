@@ -1,8 +1,6 @@
 ---
 Title: 『 82年生まれ、キム・ジヨン』を見ての感想 【おすすめ映画】
 Category:
-- MEDIA
-- 映像鑑賞
 - 映画
 Date: 2020-10-12T17:00:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2020/10/12/born-in-1982-kim-ji-yuoung

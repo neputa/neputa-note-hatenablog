@@ -1,11 +1,10 @@
 ---
 Title: 『立証責任』 スコット・トゥロー 【あらすじ・感想】
 Category:
-- BOOK
-- Scott Turow
-- 海外
-- ミステリ
-- 読書感想
+  - Scott Turow
+  - ミステリ
+  - 海外
+  - 読書感想
 Date: 2018-05-03T07:05:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2018/05/03/scott-turow-burden-of-proof
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069011668

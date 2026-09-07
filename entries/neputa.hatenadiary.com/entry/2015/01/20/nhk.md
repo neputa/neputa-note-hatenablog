@@ -1,9 +1,8 @@
 ---
 Title: 『ヤクザマネー』 NHKヤクザマネー取材班 【あらすじ・感想】
 Category:
-- BOOK
-- ノンフィクション
-- 読書感想
+  - ノンフィクション
+  - 読書感想
 Date: 2015-01-20T23:05:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2015/01/20/nhk
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067507556

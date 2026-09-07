@@ -1,9 +1,8 @@
 ---
 Title: 『暗渠の宿』 西村賢太 【あらすじ・感想】
 Category:
-- BOOK
-- 文学
-- 読書感想
+  - 文学
+  - 読書感想
 Date: 2018-05-09T00:45:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2018/05/09/kenta-nishimura-hotel-of-the-culvert
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069011642

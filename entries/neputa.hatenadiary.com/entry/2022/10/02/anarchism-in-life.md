@@ -1,9 +1,8 @@
 ---
 Title: 『くらしのアナキズム』 松村圭一郎【読書感想・備忘録】
 Category:
-- BOOK
-- 記録・エッセイ
-- 読書感想
+  - 記録・エッセイ
+  - 読書感想
 Date: 2022-10-02T17:02:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2022/10/02/anarchism-in-life
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072629355

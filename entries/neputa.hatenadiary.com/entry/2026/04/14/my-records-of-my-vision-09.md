@@ -1,9 +1,8 @@
 ---
 Title: 視覚に関する記録 09 - 錐体桿体ジストロフィと診断された日
 Category:
-- DIARY
-- vision
-- 日記
+  - 日記
+  - 視覚障害
 Date: 2026-04-14T03:00:26+09:00
 URL: https://neputa.hatenadiary.com/entry/2026/04/14/my-records-of-my-vision-09
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074653159

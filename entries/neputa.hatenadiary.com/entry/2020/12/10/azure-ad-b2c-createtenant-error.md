@@ -1,7 +1,8 @@
 ---
 Title: Azure AD B2C 新規テナント作成時のエラー対処法
 Category:
-- DEV
+  - Azure
+  - dev
 Date: 2020-12-10T13:41:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2020/12/10/azure-ad-b2c-createtenant-error
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069343777

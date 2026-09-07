@@ -1,9 +1,8 @@
 ---
 Title: 『屠場』 本橋成一 ～リアルが問いかける写真集～
 Category:
-- BOOK
-- ノンフィクション
-- 読書感想
+  - ノンフィクション
+  - 読書感想
 Date: 2011-03-12T00:30:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2011/03/12/motohashi-seiichi-slaughterhouse
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032066984540

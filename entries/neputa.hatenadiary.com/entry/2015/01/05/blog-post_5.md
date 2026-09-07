@@ -1,9 +1,8 @@
 ---
 Title: 『皇室制度―明治から戦後まで』 鈴木正幸 【あらすじ・感想】
 Category:
-- BOOK
-- 新書
-- 読書感想
+  - 新書
+  - 読書感想
 Date: 2015-01-05T21:20:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2015/01/05/blog-post_5
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067507535

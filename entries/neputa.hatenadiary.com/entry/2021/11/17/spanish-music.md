@@ -1,9 +1,7 @@
 ---
 Title: おすすめのスペイン語ミュージック3選 +1
 Category:
-- MEDIA
 - 音楽
-- 日記
 Date: 2021-11-17T12:00:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2021/11/17/spanish-music
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070847066

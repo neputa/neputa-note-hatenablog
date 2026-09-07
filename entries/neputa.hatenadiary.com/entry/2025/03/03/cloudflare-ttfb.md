@@ -1,8 +1,8 @@
 ---
 Title: CloudflareでのTTFB改善方法とその影響について
 Category:
-- DEV
-- cloudflare
+  - Cloudflare
+  - dev
 Date: 2025-03-03T21:16:39+09:00
 URL: https://neputa.hatenadiary.com/entry/2025/03/03/cloudflare-ttfb
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159672

@@ -1,9 +1,8 @@
 ---
 Title: 『令和元年のテロリズム』 磯部涼【読書感想・日記】
 Category:
-- BOOK
-- ノンフィクション
-- 読書感想
+  - ノンフィクション
+  - 読書感想
 Date: 2022-08-03T23:56:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2022/08/03/terrorism-in-2019
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072629320

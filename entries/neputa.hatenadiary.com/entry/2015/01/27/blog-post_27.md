@@ -1,9 +1,8 @@
 ---
 Title: 『アメリカの巨大軍需産業』 広瀬隆 【あらすじ・感想】
 Category:
-- BOOK
-- 新書
-- 読書感想
+  - 新書
+  - 読書感想
 Date: 2015-01-27T09:06:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2015/01/27/blog-post_27
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067386748

@@ -1,10 +1,9 @@
 ---
 Title: 『エベレストを越えて』 植村直己 【あらすじ・感想】
 Category:
-- BOOK
-- 植村直己
-- 記録・エッセイ
-- 読書感想
+  - 植村直己
+  - 記録・エッセイ
+  - 読書感想
 Date: 2016-01-30T09:32:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2016/01/30/blog-post_30
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067856633

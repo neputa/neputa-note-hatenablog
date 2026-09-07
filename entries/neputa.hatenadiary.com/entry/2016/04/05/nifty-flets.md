@@ -1,8 +1,7 @@
 ---
 Title: フレッツから@nifty光に乗換えて困ったこと ルータについて
 Category:
-- DIARY
-- 日記
+  - 日記
 Date: 2016-04-05T18:00:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2016/04/05/nifty-flets
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068011134

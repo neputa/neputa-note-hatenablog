@@ -1,10 +1,11 @@
 ---
 Title: Androidアプリ16kbメモリページサイズ対応に関するメモ
 Category:
-- DEV
-- MobileApps
-- MAUI
-- dotnet
+  - Azure
+  - MAUI
+  - MobileApps
+  - dev
+  - dotnet
 Date: 2026-03-16T05:25:19+09:00
 URL: https://neputa.hatenadiary.com/entry/2026/03/16/notes-on-supporting-16kb-memory-size-for-android-apps
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074653131

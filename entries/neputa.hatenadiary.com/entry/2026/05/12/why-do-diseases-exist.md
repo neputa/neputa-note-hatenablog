@@ -1,13 +1,12 @@
 ---
 Title: なぜ病気は存在するのか？ を考える
-Date: 2026-05-12T02:06:14+09:00
-CustomPath: 2026/05/12/why-do-diseases-exist
 Category:
-  - 'DIARY'
-  - '日記'
-  - '生物学'
+- DIARY
+- 日記
+- 生物学
+Date: 2026-05-12T02:06:14+09:00
+URL: https://neputa.hatenadiary.com/entry/2026/05/12/why-do-diseases-exist
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074769416
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/ip3V8L-0Scu8njnk2HU6dBcNCmM
 ---
 
 [f:id:neputa:20260907130246w:plain:alt=遺伝子や生物進化を抽象的なイラストで表現したアイキャッチ画像]

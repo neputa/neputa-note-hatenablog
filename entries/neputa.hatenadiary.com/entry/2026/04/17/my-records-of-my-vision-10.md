@@ -1,13 +1,12 @@
 ---
 Title: 視覚に関する記録 10 - 診断確定後の生活準備
-Date: 2026-04-17T13:13:20+09:00
-CustomPath: 2026/04/17/my-records-of-my-vision-10
 Category:
-  - 'DIARY'
-  - 'vision'
-  - '日記'
+- DIARY
+- vision
+- 日記
+Date: 2026-04-17T13:13:20+09:00
+URL: https://neputa.hatenadiary.com/entry/2026/04/17/my-records-of-my-vision-10
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074769352
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/w9a_YErWGXkWw6LU8J6l2Bxcf1Q
 ---
 
 [f:id:neputa:20260907114336w:plain:alt=音符と植物の葉をあしらったパステルカラーのさわやかな印象のイメージ画像]

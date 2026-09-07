@@ -1,13 +1,12 @@
 ---
 Title: 視覚に関する記録 13 - 身体障害者になった日
-Date: 2026-06-12T02:26:19+09:00
-CustomPath: 2026/06/12/my-records-of-my-vision-13
 Category:
-  - 'DIARY'
-  - 'vision'
-  - '日記'
+- DIARY
+- vision
+- 日記
+Date: 2026-06-12T02:26:19+09:00
+URL: https://neputa.hatenadiary.com/entry/2026/06/12/my-records-of-my-vision-13
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074769454
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/gEkhhII9Pt4No0-4THt6GPOQAnI
 ---
 
 [f:id:neputa:20260907135746w:plain:alt=手帳を渡す受付スタッフと受け取る人物のイラスト]

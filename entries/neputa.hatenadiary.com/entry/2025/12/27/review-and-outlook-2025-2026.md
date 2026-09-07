@@ -1,13 +1,12 @@
 ---
 Title: 【日記】2025年の振り返りと2026年の展望
-Date: 2025-12-27T13:43:49+09:00
-CustomPath: 2025/12/27/review-and-outlook-2025-2026
 Category:
-  - 'DIARY'
-  - '日記'
-  - '振り返り'
+- DIARY
+- 日記
+- 振り返り
+Date: 2025-12-27T13:43:49+09:00
+URL: https://neputa.hatenadiary.com/entry/2025/12/27/review-and-outlook-2025-2026
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074653106
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/wUlHs3NOjVZjY1Cw_3ekmkzGkSs
 ---
 
 [f:id:neputa:20260907041748w:plain:alt=午年の馬と2025年・2026年のカレンダーを並べたイラスト]

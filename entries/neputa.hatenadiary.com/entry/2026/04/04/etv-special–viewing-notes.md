@@ -1,13 +1,12 @@
 ---
 Title: ETV特集『世界はことばで満ちている』 視聴メモ
-Date: 2026-04-04T15:55:10+09:00
-CustomPath: 2026/04/04/etv-special–viewing-notes
 Category:
-  - 'MEDIA'
-  - 'TV'
-  - '日記'
+- MEDIA
+- TV
+- 日記
+Date: 2026-04-04T15:55:10+09:00
+URL: https://neputa.hatenadiary.com/entry/2026/04/04/etv-special%E2%80%93viewing-notes
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074653135
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/FljBGDWVlga960JS5XVPFbcPozY
 ---
 
 [f:id:neputa:20260907045155w:plain:alt=NHK Eテレのロゴ]

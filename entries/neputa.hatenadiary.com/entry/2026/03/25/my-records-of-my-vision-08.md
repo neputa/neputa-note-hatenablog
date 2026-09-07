@@ -1,13 +1,12 @@
 ---
 Title: 視覚に関する記録 08 【日記】
-Date: 2026-03-25T14:39:38+09:00
-CustomPath: 2026/03/25/my-records-of-my-vision-08
 Category:
-  - 'DIARY'
-  - 'vision'
-  - '日記'
+- DIARY
+- vision
+- 日記
+Date: 2026-03-25T14:39:38+09:00
+URL: https://neputa.hatenadiary.com/entry/2026/03/25/my-records-of-my-vision-08
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074653122
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/PvRdYu0WbTNtWh8Rv5r1hhBuiJk
 ---
 
 [f:id:neputa:20260907044105w:plain:alt=眼科で医師が見守る中、頭に器具を付けて横になる患者のイラスト]

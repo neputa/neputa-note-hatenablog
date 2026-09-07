@@ -1,12 +1,11 @@
 ---
 Title: 【日記】最近のこと―1月31日
-Date: 2026-01-31T07:37:46+09:00
-CustomPath: 2026/01/31/recent-events-20260131
 Category:
-  - 'DIARY'
-  - '日記'
+- DIARY
+- 日記
+Date: 2026-01-31T07:37:46+09:00
+URL: https://neputa.hatenadiary.com/entry/2026/01/31/recent-events-20260131
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074653100
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/_Kddlh_-Y5R808JvwDq4C84iH20
 ---
 
 [f:id:neputa:20260907041121w:plain:alt=表情のない抽象的な祈る人の姿をモチーフにしたイラスト]

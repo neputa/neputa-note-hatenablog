@@ -1,13 +1,12 @@
 ---
 Title: 視覚に関する記録 07 【日記】
-Date: 2025-12-14T04:23:38+09:00
-CustomPath: 2025/12/14/my-records-of-my-vision-07
 Category:
-  - 'DIARY'
-  - 'vision'
-  - '日記'
+- DIARY
+- vision
+- 日記
+Date: 2025-12-14T04:23:38+09:00
+URL: https://neputa.hatenadiary.com/entry/2025/12/14/my-records-of-my-vision-07
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074653095
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/OSZSaBM2x0meqcGWtS_mnp04zIo
 ---
 
 [f:id:neputa:20260907030240w:plain:alt=医師が患者に視力検査用器具の遮眼子を渡すイラスト]

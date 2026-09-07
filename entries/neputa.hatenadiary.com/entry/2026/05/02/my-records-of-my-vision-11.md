@@ -1,13 +1,12 @@
 ---
 Title: 視覚に関する記録 11 - 視野障害2級相当の診断
-Date: 2026-05-02T07:15:54+09:00
-CustomPath: 2026/05/02/my-records-of-my-vision-11
 Category:
-  - 'DIARY'
-  - 'vision'
-  - '日記'
+- DIARY
+- vision
+- 日記
+Date: 2026-05-02T07:15:54+09:00
+URL: https://neputa.hatenadiary.com/entry/2026/05/02/my-records-of-my-vision-11
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074769373
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/5D-J6xt0Z5-hJJKHxHfvWcgaR7k
 ---
 
 [f:id:neputa:20260907114811w:plain:alt=申請手続きのイメージイラスト 申請書とそれを記入する手が中心にあり、周囲には抽象的なオブジェクトが配置されている]

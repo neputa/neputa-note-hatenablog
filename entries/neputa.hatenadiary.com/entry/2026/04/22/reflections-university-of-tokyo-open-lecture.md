@@ -1,9 +1,9 @@
 ---
 Title: 【YouTube】東京大学公開講座 小林武彦 教授 「人間の在り方、生き方」 感想
 Category:
-- MEDIA
 - 小林武彦
 - 生物学
+- 動画
 Date: 2026-04-22T12:55:55+09:00
 URL: https://neputa.hatenadiary.com/entry/2026/04/22/reflections-university-of-tokyo-open-lecture
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074769525

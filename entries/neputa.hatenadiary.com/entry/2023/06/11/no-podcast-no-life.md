@@ -1,9 +1,7 @@
 ---
 Title: No Podcast No Life 【日記】
 Category:
-- MEDIA
 - Podcast
-- 日記
 Date: 2023-06-11T12:00:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2023/06/11/no-podcast-no-life
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072646497

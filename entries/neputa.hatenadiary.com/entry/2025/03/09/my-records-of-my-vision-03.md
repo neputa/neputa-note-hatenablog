@@ -1,9 +1,8 @@
 ---
 Title: 視覚に関する記録 03 【日記】
 Category:
-- DIARY
-- vision
-- 日記
+  - 日記
+  - 視覚障害
 Date: 2025-03-09T08:24:18+09:00
 URL: https://neputa.hatenadiary.com/entry/2025/03/09/my-records-of-my-vision-03
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159715

@@ -1,8 +1,7 @@
 ---
 Title: 最近思うこと（2025年1月）
 Category:
-- DIARY
-- 日記
+  - 日記
 Date: 2025-01-28T05:06:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2025/01/28/recent-thoughts
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159712

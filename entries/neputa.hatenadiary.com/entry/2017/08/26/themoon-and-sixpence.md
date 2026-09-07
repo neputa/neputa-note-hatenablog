@@ -1,12 +1,10 @@
 ---
 Title: 『月と六ペンス』サマセット・モーム著【あらすじ・感想】
 Category:
-- BOOK
-- Somerset Maugham
-- 海外
-- 文学
-- 読書感想
-- あらすじ
+  - Somerset Maugham
+  - 文学
+  - 海外
+  - 読書感想
 Date: 2017-08-26T10:46:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2017/08/26/themoon-and-sixpence
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068737116

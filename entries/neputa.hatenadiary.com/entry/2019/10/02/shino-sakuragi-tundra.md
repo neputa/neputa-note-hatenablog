@@ -1,10 +1,9 @@
 ---
 Title: 『凍原』 桜木紫乃 【あらすじ・感想】
 Category:
-- BOOK
-- 桜木紫乃
-- ミステリ
-- 読書感想
+  - ミステリ
+  - 桜木紫乃
+  - 読書感想
 Date: 2019-10-02T05:06:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2019/10/02/shino-sakuragi-tundra
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069144297

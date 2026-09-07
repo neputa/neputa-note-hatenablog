@@ -1,12 +1,12 @@
 ---
 Title: VSCode & .NET MAUIでAndroidアプリ開発環境を構築する【Ubuntu on WSL】
 Category:
-- DEV
-- MAUI
-- WSL2
-- Ubuntu
-- VSCode
-- dotnet
+  - MAUI
+  - Ubuntu
+  - VSCode
+  - WSL2
+  - dev
+  - dotnet
 Date: 2024-07-28T04:17:43+09:00
 URL: https://neputa.hatenadiary.com/entry/2024/07/28/dotnet-maui-vscode-wsl
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073380893

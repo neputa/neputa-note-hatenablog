@@ -1,8 +1,7 @@
 ---
 Title: 幸福のかたち【日記】
 Category:
-- DIARY
-- 日記
+  - 日記
 Date: 2019-03-25T23:27:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2019/03/25/shape-of-happiness
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069087641

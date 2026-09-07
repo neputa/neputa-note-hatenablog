@@ -1,10 +1,9 @@
 ---
 Title: 『われわれはなぜ死ぬのか』 柳澤桂子 【あらすじ・感想】
 Category:
-- BOOK
-- 記録・エッセイ
-- 読書感想
-- 生物学
+  - 生物学
+  - 記録・エッセイ
+  - 読書感想
 Date: 2015-06-03T18:36:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2015/06/03/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067856496

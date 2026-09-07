@@ -1,10 +1,9 @@
 ---
 Title: 『誰もいない夜に咲く』 桜木紫乃 【あらすじ・感想】
 Category:
-- BOOK
-- 桜木紫乃
-- 文学
-- 読書感想
+  - 文学
+  - 桜木紫乃
+  - 読書感想
 Date: 2017-09-28T14:32:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2017/09/28/sakuragi-shino-daremoinai-yorunisaku
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068737166

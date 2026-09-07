@@ -1,8 +1,8 @@
 ---
 Title: 02．はじめてスマホアプリを作ってみた（要件フェーズ）
 Category:
-- DEV
-- MobileApps
+  - MobileApps
+  - dev
 Date: 2021-03-01T11:30:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2021/03/01/first-mobile-app-02
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069533185

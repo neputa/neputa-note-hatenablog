@@ -1,9 +1,8 @@
 ---
 Title: オレンジ・イズ・ニュー・ブラックの魅力と感想
 Category:
-- MEDIA
 - Netflix
-- 映像鑑賞
+- ドラマ
 - オレンジ・イズ・ニュー・ブラック
 Date: 2016-06-26T20:10:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2016/06/26/orange-is-the-new-black

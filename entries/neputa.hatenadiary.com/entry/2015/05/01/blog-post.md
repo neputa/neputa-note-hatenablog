@@ -1,9 +1,8 @@
 ---
 Title: 『神さまたちの遊ぶ庭』宮下奈都 感想とあらすじ
 Category:
-- BOOK
-- 記録・エッセイ
-- 読書感想
+  - 記録・エッセイ
+  - 読書感想
 Date: 2015-05-01T20:33:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2015/05/01/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067773838

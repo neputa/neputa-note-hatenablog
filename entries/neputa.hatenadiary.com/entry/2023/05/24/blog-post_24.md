@@ -1,9 +1,8 @@
 ---
 Title: 『一気読み世界史』 出口治明 【感想・レビュー】
 Category:
-- BOOK
-- 歴史
-- 読書感想
+  - 歴史
+  - 読書感想
 Date: 2023-05-24T00:37:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2023/05/24/blog-post_24
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072646467

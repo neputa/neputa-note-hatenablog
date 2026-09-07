@@ -1,11 +1,10 @@
 ---
 Title: 『アンドロイドは電気羊の夢を見るか?』ブレードランナー原作【あらすじ・感想】
 Category:
-- BOOK
-- Philip K Dick
-- SF・ファンタジー
-- 海外
-- 読書感想
+  - Philip K Dick
+  - SF・ファンタジー
+  - 海外
+  - 読書感想
 Date: 2015-02-04T23:52:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2015/02/04/do-androids-dream-of-electric-sheep
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067587747

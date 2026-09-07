@@ -1,10 +1,9 @@
 ---
 Title: 『きみはいい子』 中脇初枝 【あらすじ・感想】
 Category:
-- BOOK
-- 中脇初枝
-- 文学
-- 読書感想
+  - 中脇初枝
+  - 文学
+  - 読書感想
 Date: 2020-11-09T12:00:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2020/11/09/nakawaki-hatsue-kimiha-iiko
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069343741

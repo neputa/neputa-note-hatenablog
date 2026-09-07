@@ -1,7 +1,8 @@
 ---
 Title: Azure DevOpsアドオン 1-Click Child-Links
 Category:
-- DEV
+  - Azure
+  - dev
 Date: 2021-02-14T22:45:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2021/02/14/azure-devops-boards-childlinks
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069533135

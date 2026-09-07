@@ -1,9 +1,7 @@
 ---
 Title: 無観客・配信ライブの新しいカタチ【無料で見れるおすすめ9選】
 Category:
-- MEDIA
 - 音楽
-- 日記
 Date: 2021-09-22T22:30:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2021/09/22/blogpost22
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070846948

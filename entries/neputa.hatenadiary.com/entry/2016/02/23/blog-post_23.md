@@ -1,9 +1,8 @@
 ---
 Title: 『新編 単独行』 加藤文太郎 【あらすじ・感想】
 Category:
-- BOOK
-- 記録・エッセイ
-- 読書感想
+  - 記録・エッセイ
+  - 読書感想
 Date: 2016-02-23T19:56:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2016/02/23/blog-post_23
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067895314

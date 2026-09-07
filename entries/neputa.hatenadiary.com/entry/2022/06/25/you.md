@@ -1,9 +1,8 @@
 ---
 Title: Netflixおすすめドラマ『You Don't Know Me』 英国発の法廷ミステリ
 Category:
-- MEDIA
 - Netflix
-- 映像鑑賞
+- ドラマ
 Date: 2022-06-25T23:13:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2022/06/25/you
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072025624

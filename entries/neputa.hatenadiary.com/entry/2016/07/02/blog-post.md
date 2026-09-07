@@ -1,10 +1,9 @@
 ---
 Title: 『絶叫』葉真中顕【あらすじ・感想】
 Category:
-- BOOK
-- 葉真中顕
-- ミステリ
-- 読書感想
+  - ミステリ
+  - 葉真中顕
+  - 読書感想
 Date: 2016-07-02T12:08:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2016/07/02/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068290641

@@ -1,8 +1,7 @@
 ---
 Title: 【日記】最近のこと―1月31日
 Category:
-- DIARY
-- 日記
+  - 日記
 Date: 2026-01-31T07:37:46+09:00
 URL: https://neputa.hatenadiary.com/entry/2026/01/31/recent-events-20260131
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074653100
@@ -66,7 +65,7 @@ SNSは民俗学的資料としてブログと並び素晴らしい記録媒体�
 
 これは私自身のこと。詳しいことは他の記事で書いている。
 
-- [視覚に関する記録記事 一覧](https://neputa.hatenadiary.com/archive/category/vision)
+- [視覚障害に関する記録記事 一覧](https://neputa-note.net/archive/category/視覚障害)
 
 意識的に行動範囲を狭めているため、特別支障を感じることは少ない。あるとすれば、日常のごくごく些細なこと。
 

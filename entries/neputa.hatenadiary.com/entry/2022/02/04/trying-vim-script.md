@@ -1,8 +1,9 @@
 ---
 Title: 【Neovim・Vim】HTMLタグを追加・変換するユーザ定義コマンドを作る
 Category:
-- DEV
-- Vim
+  - Blogger
+  - Vim
+  - dev
 Date: 2022-02-04T13:00:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2022/02/04/trying-vim-script
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072025592

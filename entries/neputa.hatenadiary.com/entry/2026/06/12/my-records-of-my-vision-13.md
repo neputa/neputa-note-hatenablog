@@ -1,9 +1,8 @@
 ---
 Title: 視覚に関する記録 13 - 身体障害者になった日
 Category:
-- DIARY
-- vision
-- 日記
+  - 日記
+  - 視覚障害
 Date: 2026-06-12T02:26:19+09:00
 URL: https://neputa.hatenadiary.com/entry/2026/06/12/my-records-of-my-vision-13
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074769454

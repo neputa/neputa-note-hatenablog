@@ -1,10 +1,9 @@
 ---
 Title: 『指し手の顔 脳男２』首藤瓜於 - 続編のあらすじと感想【ミステリ】
 Category:
-- BOOK
-- 首藤瓜於
-- ミステリ
-- 読書感想
+  - ミステリ
+  - 読書感想
+  - 首藤瓜於
 Date: 2018-06-09T15:23:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2018/06/09/syudou-urio-brain-man-2
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069087540

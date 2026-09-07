@@ -1,10 +1,10 @@
 ---
 Title: Astroのrssフィードに記事の本文を追加する
 Category:
-- DEV
-- Astro
-- nodejs
-- WSL2
+  - Astro
+  - WSL2
+  - dev
+  - nodejs
 Date: 2024-07-12T14:17:35+09:00
 URL: https://neputa.hatenadiary.com/entry/2024/07/12/astro-rss
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073380883

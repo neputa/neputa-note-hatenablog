@@ -1,8 +1,7 @@
 ---
 Title: 万年筆で美しい字を書けるようになりたい
 Category:
-- DIARY
-- 日記
+  - 日記
 Date: 2025-10-14T05:05:27+09:00
 URL: https://neputa.hatenadiary.com/entry/2025/10/14/beautiful-letters-with-a-fountain-pen
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210501

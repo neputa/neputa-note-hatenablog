@@ -1,10 +1,9 @@
 ---
 Title: 『銃』 中村文則 【あらすじ・感想】
 Category:
-- BOOK
-- 中村文則
-- 文学
-- 読書感想
+  - 中村文則
+  - 文学
+  - 読書感想
 Date: 2017-07-28T17:00:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2017/07/28/jyu-nakamura-fuminori
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068737055

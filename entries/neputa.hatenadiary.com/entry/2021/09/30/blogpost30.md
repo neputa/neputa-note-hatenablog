@@ -1,8 +1,7 @@
 ---
 Title: 『GHOST IN THE SHELL / 攻殻機動隊 4Kリマスター』感想
 Category:
-- MEDIA
-- 映像鑑賞
+- アニメ
 - 映画
 - 攻殻機動隊
 Date: 2021-09-30T05:30:00+09:00

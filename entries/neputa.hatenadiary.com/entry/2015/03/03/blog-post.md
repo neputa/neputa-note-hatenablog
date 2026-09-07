@@ -1,10 +1,9 @@
 ---
 Title: 『魚のように』 中脇初枝 【あらすじ・感想】
 Category:
-- BOOK
-- 中脇初枝
-- 文学
-- 読書感想
+  - 中脇初枝
+  - 文学
+  - 読書感想
 Date: 2015-03-03T05:35:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2015/03/03/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067587616

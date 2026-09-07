@@ -1,8 +1,7 @@
 ---
 Title: 【日記】遺品整理
 Category:
-- DIARY
-- 日記
+  - 日記
 Date: 2021-09-10T23:14:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2021/09/10/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070696191

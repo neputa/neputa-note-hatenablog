@@ -1,10 +1,9 @@
 ---
 Title: 『そして誰もいなくなる』 今邑彩 【あらすじ・感想】
 Category:
-- BOOK
-- 今邑彩
-- ミステリ
-- 読書感想
+  - ミステリ
+  - 今邑彩
+  - 読書感想
 Date: 2016-06-07T17:59:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2016/06/07/blog-post_7
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068011203

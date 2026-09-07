@@ -1,9 +1,9 @@
 ---
 Title: 電子書籍を始めたい・乗り換えたい『honto』のススメ
 Category:
-- BOOK
-- 日記
-- 電子書籍
+  - 日記
+  - 電子書籍
+  - honto
 Date: 2022-01-22T16:15:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2022/01/22/i-recommend-honto
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032071260842

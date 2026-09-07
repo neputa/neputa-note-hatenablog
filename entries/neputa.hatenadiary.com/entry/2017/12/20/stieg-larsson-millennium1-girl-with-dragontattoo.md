@@ -1,11 +1,10 @@
 ---
 Title: 『ミレニアム１　ドラゴン・タトゥーの女』スティーグ・ラーソン【あらすじ・感想】
 Category:
-- BOOK
-- Stieg Larsson
-- 海外
-- ミステリ
-- 読書感想
+  - Stieg Larsson
+  - ミステリ
+  - 海外
+  - 読書感想
 Date: 2017-12-20T10:29:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2017/12/20/stieg-larsson-millennium1-girl-with-dragontattoo
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068792290

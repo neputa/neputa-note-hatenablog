@@ -1,7 +1,8 @@
 ---
 Title: リダイレクトエラー Indexに登録されない【Blogger】
 Category:
-- DEV
+  - Blogger
+  - dev
 Date: 2021-09-12T20:12:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2021/09/12/blog-post_14
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070696221

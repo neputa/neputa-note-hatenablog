@@ -2,10 +2,9 @@
 Title: 『そこのみにて光輝く』 佐藤泰志 【あらすじ・感想】
 Date: 2016-05-12T05:59:00+09:00
 Category:
-  - 'BOOK'
-  - '佐藤泰志'
-  - '文学'
-  - '読書感想'
+  - 佐藤泰志
+  - 文学
+  - 読書感想
 URL: https://neputa.hatenadiary.com/entry/2016/05/12/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068011138
 ---

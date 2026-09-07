@@ -1,8 +1,7 @@
 ---
 Title: 曽野綾子氏のコラムと批判について　雑感
 Category:
-- DIARY
-- 日記
+  - 日記
 Date: 2015-02-19T01:39:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2015/02/19/blog-post_19
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067507606

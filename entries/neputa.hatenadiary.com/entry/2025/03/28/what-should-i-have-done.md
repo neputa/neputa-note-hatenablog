@@ -1,8 +1,8 @@
 ---
 Title: 映画『どうすればよかったか？』を観て考えたこと【日記】
 Category:
-- MEDIA
 - 映画
+- ドキュメンタリー
 Date: 2025-03-28T08:02:27+09:00
 URL: https://neputa.hatenadiary.com/entry/2025/03/28/what-should-i-have-done
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159723

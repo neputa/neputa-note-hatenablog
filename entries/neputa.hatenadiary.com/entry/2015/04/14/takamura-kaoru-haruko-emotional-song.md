@@ -1,10 +1,9 @@
 ---
 Title: 『晴子情歌』 高村薫 【あらすじ・感想】
 Category:
-- BOOK
-- 高村薫
-- 文学
-- 読書感想
+  - 文学
+  - 読書感想
+  - 高村薫
 Date: 2015-04-14T19:32:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2015/04/14/takamura-kaoru-haruko-emotional-song
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067773846

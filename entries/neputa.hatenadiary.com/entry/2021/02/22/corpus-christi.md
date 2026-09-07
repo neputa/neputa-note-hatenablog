@@ -1,9 +1,7 @@
 ---
 Title: 映画『聖なる犯罪者』を見た【感想】
 Category:
-- MEDIA
 - 映画
-- 映像鑑賞
 Date: 2021-02-22T22:51:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2021/02/22/corpus-christi
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069533158

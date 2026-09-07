@@ -1,10 +1,9 @@
 ---
 Title: 『すじぼり』 福澤徹三 【あらすじ・感想】
 Category:
-- BOOK
-- 福澤徹三
-- 文学
-- 読書感想
+  - 文学
+  - 福澤徹三
+  - 読書感想
 Date: 2017-11-12T16:49:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2017/11/12/tetsuzo-fukuzawa-sujibori
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068792278

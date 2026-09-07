@@ -1,9 +1,8 @@
 ---
 Title: Dr.ハインリッヒ（ドクターハインリッヒ） M-1グランプリ応援記事
 Category:
-- DIARY
-- お笑い
-- 日記
+  - お笑い
+  - 日記
 Date: 2020-11-22T10:46:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2020/11/22/dr-heinrich
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069343749

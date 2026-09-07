@@ -1,10 +1,10 @@
 ---
 Title: Astro 一致するタグ数で関連記事を表示する
 Category:
-- DEV
-- Astro
-- WSL2
-- nodejs
+  - Astro
+  - WSL2
+  - dev
+  - nodejs
 Date: 2024-07-15T03:00:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2024/07/15/astro-related-posts
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073380844

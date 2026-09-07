@@ -1,17 +1,16 @@
 ---
 Title: 【作品紹介】 2017年に読んだ本　私のおすすめベスト10作品
 Category:
-- BOOK
-- Agota Kristof
-- Somerset Maugham
-- Scott Turow
-- Stieg Larsson
-- Pierre Lemaitre
-- Adler-Olsen
-- 桜木紫乃
-- 文学
-- 日記
-- 振り返り
+  - Adler-Olsen
+  - Agota Kristof
+  - Pierre Lemaitre
+  - Scott Turow
+  - Somerset Maugham
+  - Stieg Larsson
+  - 振り返り
+  - 文学
+  - 日記
+  - 桜木紫乃
 Date: 2017-12-25T18:17:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2017/12/25/my-best-books-2017
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068792283

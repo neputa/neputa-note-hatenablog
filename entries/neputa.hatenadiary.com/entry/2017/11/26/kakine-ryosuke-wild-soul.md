@@ -1,9 +1,8 @@
 ---
 Title: 『ワイルド・ソウル』垣根涼介【あらすじ・感想】
 Category:
-- BOOK
-- ミステリ
-- 読書感想
+  - ミステリ
+  - 読書感想
 Date: 2017-11-26T17:00:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2017/11/26/kakine-ryosuke-wild-soul
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068792252

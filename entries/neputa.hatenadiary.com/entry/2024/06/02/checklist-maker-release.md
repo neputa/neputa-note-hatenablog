@@ -1,11 +1,11 @@
 ---
 Title: 手書きのメモをチェックリスト化するアプリを作った【.NET MAUI】
 Category:
-- DEV
-- MAUI
-- dotnet
-- Azure
-- MobileApps
+  - Azure
+  - MAUI
+  - MobileApps
+  - dev
+  - dotnet
 Date: 2024-06-02T17:05:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2024/06/02/checklist-maker-release
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073027555

@@ -1,10 +1,9 @@
 ---
 Title: 『西の魔女が死んだ』 梨木香歩 【あらすじ・感想】
 Category:
-- BOOK
-- 梨木香歩
-- 文学
-- 読書感想
+  - 文学
+  - 梨木香歩
+  - 読書感想
 Date: 2018-04-04T16:51:00+09:00
 URL: https://neputa.hatenadiary.com/entry/2018/04/04/kaho-nashiki-the-witch-of-the-west-died
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069011582

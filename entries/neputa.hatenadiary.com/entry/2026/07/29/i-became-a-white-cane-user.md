@@ -1,13 +1,12 @@
 ---
 Title: 白杖ユーザーになった日｜補装具費支給制度で購入するまでの流れと使い始めの記録
-Date: 2026-07-29T03:24:31+09:00
-CustomPath: 2026/07/29/i-became-a-white-cane-user
 Category:
-  - 'DIARY'
-  - '日記'
-  - 'vision'
+- DIARY
+- 日記
+- vision
+Date: 2026-07-29T03:24:31+09:00
+URL: https://neputa.hatenadiary.com/entry/2026/07/29/i-became-a-white-cane-user
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074769534
-PreviewURL: https://neputa.hatenadiary.com/draft/entry/0fGzQlrayjpd7AmXoBnkNqILuPI
 ---
 
 [f:id:neputa:20260907141641w:plain:alt=白杖を持ち公園を歩く男性のイラスト]

@@ -1,0 +1,202 @@
+(function () {
+  // Skip processing if darkModeJs already exists
+  if (window.darkModeJs) {
+    console.log('Dark mode JS already initialized');
+    return;
+  }
+
+  // Add attribute to enable dark mode
+  document.documentElement.setAttribute('data-enable-dark-mode', 'true');
+
+  // Theme constants
+  const THEMES = {
+    LIGHT: 'light',
+    DARK: 'dark',
+    AUTO: 'auto'
+  };
+
+  // SVG icon definitions
+  const ICONS = {
+    SUN: `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>`,
+    MOON: `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>`,
+    MONITOR: `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg>`,
+  };
+
+  // Local storage key
+  const STORAGE_KEY = 'codefocus-theme-preference';
+
+  // Get current theme
+  function getCurrentTheme() {
+    const savedTheme = localStorage.getItem(STORAGE_KEY);
+    if (savedTheme && [THEMES.LIGHT, THEMES.DARK, THEMES.AUTO].includes(savedTheme)) {
+      return savedTheme;
+    }
+    return THEMES.AUTO; // Default: match system settings
+  }
+
+  // Apply theme
+  function applyTheme(theme) {
+    if (theme === THEMES.AUTO) {
+      // Remove data-theme attribute to match system settings
+      document.documentElement.removeAttribute('data-theme');
+    } else {
+      // Set data-theme attribute for explicit theme
+      document.documentElement.setAttribute('data-theme', theme);
+    }
+
+    // Save to local storage
+    localStorage.setItem(STORAGE_KEY, theme);
+  }
+
+  // Get icon corresponding to current theme
+  function getIconForTheme(theme) {
+    switch (theme) {
+      case THEMES.LIGHT:
+        return ICONS.SUN;
+      case THEMES.DARK:
+        return ICONS.MOON;
+      case THEMES.AUTO:
+      default:
+        return ICONS.MONITOR;
+    }
+  }
+
+  // Create theme switcher button container
+  function createThemeSwitcher() {
+    // Container element
+    const container = document.createElement('div');
+    container.className = 'theme-toggle-container';
+
+    // Main button
+    const mainButton = document.createElement('button');
+    mainButton.className = 'theme-toggle-main';
+    mainButton.setAttribute('aria-label', 'Toggle theme');
+    mainButton.setAttribute('aria-expanded', 'false');
+
+    // Set icon based on current theme
+    const currentIcon = document.createElement('span');
+    currentIcon.className = 'current-mode-icon';
+    currentIcon.innerHTML = getIconForTheme(getCurrentTheme());
+    mainButton.appendChild(currentIcon);
+
+    // Dropdown
+    const dropdown = document.createElement('div');
+    dropdown.className = 'theme-toggle-dropdown';
+
+    // Dropdown options
+    const options = [
+      { theme: THEMES.LIGHT, icon: ICONS.SUN, label: 'ライトモード', tooltip: 'ライトモードに固定' },
+      { theme: THEMES.DARK, icon: ICONS.MOON, label: 'ダークモード', tooltip: 'ダークモードに固定' },
+      { theme: THEMES.AUTO, icon: ICONS.MONITOR, label: '自動切り替え', tooltip: 'システム設定に合わせる' }
+    ];
+
+    // Create option buttons
+    options.forEach(option => {
+      const button = document.createElement('button');
+      button.className = 'theme-toggle-option';
+      button.setAttribute('aria-label', option.tooltip);
+      button.setAttribute('data-theme', option.theme);
+      button.title = option.tooltip;
+
+      const iconSpan = document.createElement('span');
+      iconSpan.className = 'theme-icon';
+      iconSpan.innerHTML = option.icon;
+      button.appendChild(iconSpan);
+
+      const labelSpan = document.createElement('span');
+      labelSpan.className = 'theme-label';
+      labelSpan.textContent = option.label;
+      button.appendChild(labelSpan);
+
+      // Add active class if matches current theme
+      if (getCurrentTheme() === option.theme) {
+        button.classList.add('active');
+      }
+
+      // Click event
+      button.addEventListener('click', (e) => {
+        e.stopPropagation();
+
+        // Apply theme
+        applyTheme(option.theme);
+
+        // Close dropdown
+        toggleDropdown(false);
+
+        // Update main button icon
+        currentIcon.innerHTML = option.icon;
+
+        // Update active state
+        dropdown.querySelectorAll('.theme-toggle-option').forEach(btn => {
+          btn.classList.remove('active');
+        });
+        button.classList.add('active');
+      });
+
+      dropdown.appendChild(button);
+    });
+
+    // Main button click event
+    mainButton.addEventListener('click', (e) => {
+      e.stopPropagation();
+      toggleDropdown();
+    });
+
+    // Toggle dropdown visibility
+    function toggleDropdown(force) {
+      const isVisible = typeof force !== 'undefined' ? force : !dropdown.classList.contains('show');
+      dropdown.classList.toggle('show', isVisible);
+      mainButton.setAttribute('aria-expanded', isVisible ? 'true' : 'false');
+    }
+
+    // Close dropdown on document click
+    document.addEventListener('click', (e) => {
+      if (!container.contains(e.target)) {
+        toggleDropdown(false);
+      }
+    });
+
+    // Close dropdown on Escape key
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && dropdown.classList.contains('show')) {
+        toggleDropdown(false);
+      }
+    });
+
+    // Assemble components
+    container.appendChild(mainButton);
+    container.appendChild(dropdown);
+
+    return container;
+  }
+
+  // Initialization
+  function initialize() {
+    // Apply current theme
+    applyTheme(getCurrentTheme());
+
+    // Add theme switcher UI
+    const switcher = createThemeSwitcher();
+    document.body.appendChild(switcher);
+
+    // Monitor system color setting changes (to react in auto mode)
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
+      if (getCurrentTheme() === THEMES.AUTO) {
+        applyTheme(THEMES.AUTO); // Reapply to reflect changes
+      }
+    });
+  }
+
+  // Initialize after DOMContentLoaded
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initialize);
+  } else {
+    initialize();
+  }
+
+  // Register to global object
+  window.darkModeJs = {
+    applyTheme,
+    getCurrentTheme,
+  };
+})();

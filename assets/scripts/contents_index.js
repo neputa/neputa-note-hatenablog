@@ -1,0 +1,52 @@
+  (function () {
+    'use strict';
+
+    document.addEventListener('DOMContentLoaded', function () {
+      // Search for table of contents in article
+      const tocElements = document.querySelectorAll('.table-of-contents');
+
+      tocElements.forEach(function (toc) {
+        // Skip already processed TOC
+        if (toc.classList.contains('toc-processed')) {
+          return;
+        }
+
+        // Wrap TOC with container
+        const tocContainer = document.createElement('div');
+        tocContainer.className = 'toc-container';
+        toc.parentNode.insertBefore(tocContainer, toc);
+        tocContainer.appendChild(toc);
+
+        // Create TOC title
+        const tocTitle = document.createElement('div');
+        tocTitle.className = 'toc-title';
+        tocTitle.innerHTML = '目次 <span class="toc-toggle-icon"></span>';
+        tocContainer.insertBefore(tocTitle, toc);
+
+        // Wrap TOC content section with div
+        const tocContent = document.createElement('div');
+        tocContent.className = 'toc-content';
+        tocContent.appendChild(toc.cloneNode(true));
+        tocContainer.replaceChild(tocContent, toc);
+
+        // Set state for toggle (default is closed)
+        tocContainer.classList.add('toc-closed');
+
+        // Set click event
+        tocTitle.addEventListener('click', function () {
+          if (tocContainer.classList.contains('toc-open')) {
+            // Close if currently open
+            tocContainer.classList.remove('toc-open');
+            tocContainer.classList.add('toc-closed');
+          } else {
+            // Open if currently closed
+            tocContainer.classList.remove('toc-closed');
+            tocContainer.classList.add('toc-open');
+          }
+        });
+
+        // Mark as processed
+        tocContent.querySelector('.table-of-contents').classList.add('toc-processed');
+      });
+    });
+  })();

@@ -4,7 +4,7 @@ Category:
   - 新書
   - 読書感想
 Date: 2017-10-24T17:38:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2017/10/24/hideki-shibuya-Invitation-to-constitution
+URL: https://neputa.hatenadiary.com/entry/2017/10/24/hideki-shibuya-invitation-to-constitution
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068737214
 ---
 

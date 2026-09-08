@@ -1,0 +1,144 @@
+/* <system section="theme" selected="6802418398435013379"> */
+@import url("https://usercss.blog.st-hatena.com/-/theme/6802418398435013379.css?version=96bd5c1e06096ec35762dc8a1f4aecd73487389c");
+/* </system> */
+
+/* 警告記法 */
+.markdown-alert {
+  border-left: 3px solid !important;
+  border-radius: 0px !important;
+  padding: 0.5rem !important;
+}
+
+.markdown-alert p {
+  font-style: normal !important;
+  margin: 16px 0 0 !important;
+}
+
+.markdown-alert .markdown-alert-title {
+  align-items: center;
+  display: flex;
+  margin: 0 !important;
+}
+
+.markdown-alert .markdown-alert-title svg {
+  padding-right: 0.3em !important;
+}
+
+.markdown-alert-note {
+  border-left-color: #0969da !important;
+}
+
+.markdown-alert-note .markdown-alert-title {
+  color: #0969da !important;
+  fill: #0969da !important;
+}
+
+.markdown-alert-tip {
+  border-left-color: #1a7f37 !important;
+}
+
+.markdown-alert-tip .markdown-alert-title {
+  color: #1a7f37 !important;
+  fill: #1a7f37 !important;
+}
+
+.markdown-alert-important {
+  border-left-color: #8250df !important;
+}
+
+.markdown-alert-important .markdown-alert-title {
+  color: #8250df !important;
+  fill: #8250df !important;
+}
+
+.markdown-alert-warning {
+  border-left-color: #bf8700 !important;
+}
+
+.markdown-alert-warning .markdown-alert-title {
+  color: #bf8700 !important;
+  fill: #bf8700 !important;
+}
+
+.markdown-alert-caution {
+  border-left-color: #cf222e !important;
+}
+
+.markdown-alert-caution .markdown-alert-title {
+  color: #cf222e !important;
+  fill: #cf222e !important;
+}
+
+/* Shiki コードブロック */
+pre.shiki {
+    background-color: #0d1117;
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+}
+
+pre.shiki::before {
+    background-color: #21262d;
+    border-bottom: 1px solid #30363d;
+    color: #c9d1d9;
+    content: attr(data-lang);
+    display: block;
+    font-size: .85rem;
+    font-weight: 700;
+    line-height: 24px;
+    padding: 8px 16px;
+}
+
+pre.shiki code {
+    counter-reset: step;
+    display: block;
+    font-size: 14px;
+    line-height: 1.5;
+    overflow-x: auto;
+    padding: 16px;
+}
+
+pre.shiki .line {
+    display: inline-block;
+    width: 100%;
+}
+
+pre.shiki .line::before {
+    color: #6e7681;
+    content: counter(step);
+    counter-increment: step;
+    margin-right: 1.5em;
+    opacity: .9;
+    user-select: none;
+    width: 3em;
+}
+
+.copy-btn {
+    background-color: #30363d;
+    border: 1px solid #6e7681;
+    border-radius: 4px;
+    color: #c9d1d9;
+    cursor: pointer;
+    font-size: .75rem;
+    padding: 4px 10px;
+    position: absolute;
+    top: 6px;
+    right: 10px;
+    transition: all .2s;
+    z-index: 10;
+}
+
+.copy-btn:hover {
+    background-color: #6e7681;
+    border-color: #8b949e;
+    color: #fff;
+
+}
+
+.copy-btn.copied {
+    background-color: #2ea043;
+    border-color: #2ea043;
+    color: #fff;
+}

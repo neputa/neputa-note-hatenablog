@@ -208,6 +208,7 @@
     "/2021/08/foresee-death/": "/entry/2021/08/07/thinkinghabits",
     "/2021/08/human-observation/": "/entry/2021/08/12/human-observation",
     "/2021/08/our-girl-a/": "/entry/2021/08/27/ourgirla",
+    "/2021/08/ourgirla/": "/entry/2021/08/27/ourgirla",
     "/2021/08/tarinaifutari/": "/entry/2021/06/14/tarinaifutari",
     "/2021/08/thinkinghabits/": "/entry/2021/08/07/thinkinghabits",
     "/2021/09/blog-post/": "/entry/2021/09/10/blog-post",

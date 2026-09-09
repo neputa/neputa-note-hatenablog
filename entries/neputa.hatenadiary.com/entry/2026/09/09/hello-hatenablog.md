@@ -1,12 +1,10 @@
 ---
 Title: はじめてのはてなブログへの投稿
 Category:
-  - 日記
+- 日記
+Date: 2026-09-10T01:00:39.293+09:00
+URL: https://www.neputa-note.net/entry/2026/09/09/hello-hatenablog
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032075771695
-PreviewURL: https://www.neputa-note.net/draft/entry/KfWnFTWiDODse7Bfm1f7qaDaufg
-Date: 2026-09-09T16:00:39.293Z
-CustomPath: 2026/09/09/hello-hatenablog
-Draft: false
 ---
 
 [f:id:neputa:20260910011039w:plain:alt=はてなブログのロゴ]

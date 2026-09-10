@@ -1,9 +1,9 @@
 ---
 Title: 黄金頭さんに会ってきた
 Category:
-  - 日記
+- 日記
 Date: 2024-12-08T09:47:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2024/12/08/i-met-mr-goldhead
+URL: https://www.neputa-note.net/entry/2024/12/08/i-met-mr-goldhead
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159594
 ---
 

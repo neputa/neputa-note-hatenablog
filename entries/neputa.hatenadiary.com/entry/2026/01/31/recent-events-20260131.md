@@ -1,9 +1,9 @@
 ---
 Title: 【日記】最近のこと―1月31日
 Category:
-  - 日記
+- 日記
 Date: 2026-01-31T07:37:46+09:00
-URL: https://neputa.hatenadiary.com/entry/2026/01/31/recent-events-20260131
+URL: https://www.neputa-note.net/entry/2026/01/31/recent-events-20260131
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074653100
 ---
 

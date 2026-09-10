@@ -1,10 +1,10 @@
 ---
 Title: 『マインド・タイム 脳と意識の時間』ベンジャミン・リベット【読書感想】
 Category:
-  - 記録・エッセイ
-  - 読書感想
+- 記録・エッセイ
+- 読書感想
 Date: 2024-08-10T15:02:53+09:00
-URL: https://neputa.hatenadiary.com/entry/2024/08/10/mind-time
+URL: https://www.neputa-note.net/entry/2024/08/10/mind-time
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782708
 ---
 

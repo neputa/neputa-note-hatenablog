@@ -1,11 +1,11 @@
 ---
 Title: 『氷』　アンナ・カヴァン 【あらすじ・感想】
 Category:
-  - SF・ファンタジー
-  - 海外
-  - 読書感想
+- SF・ファンタジー
+- 海外
+- 読書感想
 Date: 2015-05-29T00:50:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2015/05/29/blog-post_29
+URL: https://www.neputa-note.net/entry/2015/05/29/blog-post_29
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067773841
 ---
 

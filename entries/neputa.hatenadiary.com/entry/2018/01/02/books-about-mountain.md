@@ -1,9 +1,9 @@
 ---
 Title: 【作品紹介】「山」にまつわる本　～小説、ノンフィクションなどなど
 Category:
-  - 日記
+- 日記
 Date: 2018-01-02T15:21:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2018/01/02/books-about-mountain
+URL: https://www.neputa-note.net/entry/2018/01/02/books-about-mountain
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068810228
 ---
 

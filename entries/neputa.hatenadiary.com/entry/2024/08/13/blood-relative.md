@@ -1,9 +1,9 @@
 ---
 Title: 血縁について
 Category:
-  - 日記
+- 日記
 Date: 2024-08-13T07:07:02+09:00
-URL: https://neputa.hatenadiary.com/entry/2024/08/13/blood-relative
+URL: https://www.neputa-note.net/entry/2024/08/13/blood-relative
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073380961
 ---
 

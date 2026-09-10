@@ -1,10 +1,10 @@
 ---
 Title: 『サピエンス全史』 ユヴァル・ノア・ハラリ 【あらすじ・感想】
 Category:
-  - ノンフィクション
-  - 読書感想
+- ノンフィクション
+- 読書感想
 Date: 2020-08-26T00:49:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2020/08/26/harariyuvalnoah-abriefhistoryofhumankind
+URL: https://www.neputa-note.net/entry/2020/08/26/harariyuvalnoah-abriefhistoryofhumankind
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069144404
 ---
 

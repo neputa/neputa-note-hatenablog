@@ -1,13 +1,13 @@
 ---
 Title: Kindleからhontoへ乗り換え！電子書籍サービス10社比較
 Category:
-  - honto
-  - kindle
-  - 日記
-  - 電子書籍
-  - 電子書籍リーダー
+- honto
+- kindle
+- 日記
+- 電子書籍
+- 電子書籍リーダー
 Date: 2017-07-09T16:47:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2017/07/09/amazon-kindle-honto
+URL: https://www.neputa-note.net/entry/2017/07/09/amazon-kindle-honto
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068737085
 ---
 

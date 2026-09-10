@@ -1,12 +1,12 @@
 ---
 Title: 『ミレニアム３　眠れる女と狂卓の騎士』スティーグ・ラーソン【あらすじ・感想】
 Category:
-  - Stieg Larsson
-  - ミステリ
-  - 海外
-  - 読書感想
+- Stieg Larsson
+- ミステリ
+- 海外
+- 読書感想
 Date: 2018-01-10T12:14:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2018/01/10/stieg-larsson-millennium3-girl-who-kicked-hornets-nest
+URL: https://www.neputa-note.net/entry/2018/01/10/stieg-larsson-millennium3-girl-who-kicked-hornets-nest
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068810221
 ---
 

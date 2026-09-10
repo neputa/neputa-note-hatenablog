@@ -4,7 +4,7 @@ Category:
 - Netflix
 - ドラマ
 Date: 2020-11-06T17:00:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2020/11/06/netflix-poland
+URL: https://www.neputa-note.net/entry/2020/11/06/netflix-poland
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069343799
 ---
 

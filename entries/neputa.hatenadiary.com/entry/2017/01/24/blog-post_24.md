@@ -1,11 +1,11 @@
 ---
 Title: 『ロスト・ケア』 葉真中顕 【あらすじ・感想】
 Category:
-  - ミステリ
-  - 葉真中顕
-  - 読書感想
+- ミステリ
+- 葉真中顕
+- 読書感想
 Date: 2017-01-24T22:41:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2017/01/24/blog-post_24
+URL: https://www.neputa-note.net/entry/2017/01/24/blog-post_24
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068539128
 ---
 

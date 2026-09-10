@@ -1,11 +1,11 @@
 ---
 Title: 『家守綺譚』 梨木香歩 【あらすじ・感想】
 Category:
-  - 文学
-  - 梨木香歩
-  - 読書感想
+- 文学
+- 梨木香歩
+- 読書感想
 Date: 2018-05-21T17:09:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2018/05/21/nashiki-kaho-iemori-kitan
+URL: https://www.neputa-note.net/entry/2018/05/21/nashiki-kaho-iemori-kitan
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069011718
 ---
 

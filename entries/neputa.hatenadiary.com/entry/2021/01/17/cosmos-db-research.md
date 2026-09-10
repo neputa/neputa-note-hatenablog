@@ -1,10 +1,10 @@
 ---
 Title: Azure Cosmos DB を使ってみる 【初心者の備忘録】
 Category:
-  - Azure
-  - dev
+- Azure
+- dev
 Date: 2021-01-17T10:00:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2021/01/17/cosmos-db-research
+URL: https://www.neputa-note.net/entry/2021/01/17/cosmos-db-research
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069533097
 ---
 

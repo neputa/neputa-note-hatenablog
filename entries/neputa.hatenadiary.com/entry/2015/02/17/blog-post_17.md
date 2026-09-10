@@ -1,10 +1,10 @@
 ---
 Title: 『最後の将軍』 司馬遼太郎 【あらすじ・感想】
 Category:
-  - 歴史
-  - 読書感想
+- 歴史
+- 読書感想
 Date: 2015-02-17T19:21:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2015/02/17/blog-post_17
+URL: https://www.neputa-note.net/entry/2015/02/17/blog-post_17
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067507572
 ---
 

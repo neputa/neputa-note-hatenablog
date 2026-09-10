@@ -1,10 +1,10 @@
 ---
 Title: 『少年法―基本理念から改正問題まで』澤登俊雄【あらすじ・感想】
 Category:
-  - 新書
-  - 読書感想
+- 新書
+- 読書感想
 Date: 2015-01-08T12:52:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2015/01/08/blog-post_8
+URL: https://www.neputa-note.net/entry/2015/01/08/blog-post_8
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067507523
 ---
 

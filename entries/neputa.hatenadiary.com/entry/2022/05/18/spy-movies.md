@@ -3,7 +3,7 @@ Title: 『紛争でしたら八田まで』の監修：川口貴久氏おすす�
 Category:
 - 映画
 Date: 2022-05-18T12:00:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2022/05/18/spy-movies
+URL: https://www.neputa-note.net/entry/2022/05/18/spy-movies
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072025621
 ---
 

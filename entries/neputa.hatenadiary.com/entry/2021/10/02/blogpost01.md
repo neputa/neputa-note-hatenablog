@@ -1,9 +1,9 @@
 ---
 Title: 中古ノートPCにUbuntu 20.04LTSをインストールする方法
 Category:
-  - dev
+- dev
 Date: 2021-10-02T08:24:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2021/10/02/blogpost01
+URL: https://www.neputa-note.net/entry/2021/10/02/blogpost01
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070846998
 ---
 

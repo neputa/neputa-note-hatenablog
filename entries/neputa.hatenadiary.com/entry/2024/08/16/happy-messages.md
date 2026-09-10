@@ -1,9 +1,9 @@
 ---
 Title: うれしい問い合わせメッセージ
 Category:
-  - 日記
+- 日記
 Date: 2024-08-16T04:49:45+09:00
-URL: https://neputa.hatenadiary.com/entry/2024/08/16/happy-messages
+URL: https://www.neputa-note.net/entry/2024/08/16/happy-messages
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782734
 ---
 

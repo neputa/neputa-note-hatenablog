@@ -1,13 +1,13 @@
 ---
 Title: アラフォー初心者だけどスマホアプリを開発～リリースまでがんばってみた
 Category:
-  - Azure
-  - MAUI
-  - MobileApps
-  - dev
-  - dotnet
+- Azure
+- MAUI
+- MobileApps
+- dev
+- dotnet
 Date: 2021-02-13T21:18:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2021/02/13/onethird-release
+URL: https://www.neputa-note.net/entry/2021/02/13/onethird-release
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069533214
 ---
 

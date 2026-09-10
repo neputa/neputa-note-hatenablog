@@ -1,10 +1,10 @@
 ---
 Title: PurgeCssで複数のhtmlファイルの不要CSSセレクタを削除する
 Category:
-  - dev
-  - nodejs
+- dev
+- nodejs
 Date: 2024-04-07T16:28:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2024/04/07/purgecss
+URL: https://www.neputa-note.net/entry/2024/04/07/purgecss
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072992230
 ---
 

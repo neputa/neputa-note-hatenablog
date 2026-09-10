@@ -1,10 +1,10 @@
 ---
 Title: 『誘拐児』 翔田寛 【あらすじ・感想】
 Category:
-  - ミステリ
-  - 読書感想
+- ミステリ
+- 読書感想
 Date: 2016-06-02T02:34:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2016/06/02/blog-post
+URL: https://www.neputa-note.net/entry/2016/06/02/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068011189
 ---
 

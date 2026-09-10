@@ -1,11 +1,11 @@
 ---
 Title: 『土の中の子供』 中村文則 【あらすじ・感想】
 Category:
-  - 中村文則
-  - 文学
-  - 読書感想
+- 中村文則
+- 文学
+- 読書感想
 Date: 2015-05-03T20:01:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2015/05/03/fuminori-nakamura-children-in-the-soil
+URL: https://www.neputa-note.net/entry/2015/05/03/fuminori-nakamura-children-in-the-soil
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067773890
 ---
 

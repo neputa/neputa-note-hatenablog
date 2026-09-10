@@ -1,9 +1,9 @@
 ---
 Title: 2026年3月23日に見た夢
 Category:
-  - 日記
+- 日記
 Date: 2026-03-23T15:02:20+09:00
-URL: https://neputa.hatenadiary.com/entry/2026/03/23/a-dream-i-had-on-23-march-2026
+URL: https://www.neputa-note.net/entry/2026/03/23/a-dream-i-had-on-23-march-2026
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074653139
 ---
 

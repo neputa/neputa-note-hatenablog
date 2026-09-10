@@ -5,7 +5,7 @@ Category:
 - 生物学
 - 動画
 Date: 2026-04-22T12:55:55+09:00
-URL: https://neputa.hatenadiary.com/entry/2026/04/22/reflections-university-of-tokyo-open-lecture
+URL: https://www.neputa-note.net/entry/2026/04/22/reflections-university-of-tokyo-open-lecture
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074769525
 ---
 

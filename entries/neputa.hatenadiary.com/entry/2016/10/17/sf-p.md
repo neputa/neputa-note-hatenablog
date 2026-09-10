@@ -1,11 +1,11 @@
 ---
 Title: 『星を継ぐもの』ジェイムズ・P・ホーガン【あらすじ・感想】
 Category:
-  - SF・ファンタジー
-  - 海外
-  - 読書感想
+- SF・ファンタジー
+- 海外
+- 読書感想
 Date: 2016-10-17T20:05:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2016/10/17/sf-p
+URL: https://www.neputa-note.net/entry/2016/10/17/sf-p
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068290747
 ---
 

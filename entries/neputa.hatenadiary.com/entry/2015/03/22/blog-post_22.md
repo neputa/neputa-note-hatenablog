@@ -1,11 +1,11 @@
 ---
 Title: 『白い夏の墓標』帚木蓬生～細菌研究を巡るミステリ～【あらすじ・感想】
 Category:
-  - 帚木蓬生
-  - 文学
-  - 読書感想
+- 帚木蓬生
+- 文学
+- 読書感想
 Date: 2015-03-22T11:57:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2015/03/22/blog-post_22
+URL: https://www.neputa-note.net/entry/2015/03/22/blog-post_22
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067587622
 ---
 

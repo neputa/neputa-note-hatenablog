@@ -1,13 +1,13 @@
 ---
 Title: AstroとFormspreeで簡単な問い合わせフォーム作成
 Category:
-  - Astro
-  - Ubuntu
-  - WSL2
-  - dev
-  - nodejs
+- Astro
+- Ubuntu
+- WSL2
+- dev
+- nodejs
 Date: 2025-08-12T12:30:06+09:00
-URL: https://neputa.hatenadiary.com/entry/2025/08/12/astro-formspree-contact-form
+URL: https://www.neputa-note.net/entry/2025/08/12/astro-formspree-contact-form
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210487
 ---
 

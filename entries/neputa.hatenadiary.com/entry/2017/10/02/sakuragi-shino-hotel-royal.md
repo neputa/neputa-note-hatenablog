@@ -1,11 +1,11 @@
 ---
 Title: 『ホテルローヤル』 桜木紫乃 【あらすじ・感想】
 Category:
-  - 文学
-  - 桜木紫乃
-  - 読書感想
+- 文学
+- 桜木紫乃
+- 読書感想
 Date: 2017-10-02T19:43:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2017/10/02/sakuragi-shino-hotel-royal
+URL: https://www.neputa-note.net/entry/2017/10/02/sakuragi-shino-hotel-royal
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068737247
 ---
 

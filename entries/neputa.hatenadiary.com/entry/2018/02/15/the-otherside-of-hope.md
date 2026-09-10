@@ -3,7 +3,7 @@ Title: 【映画】希望のかなた　アキ・カウリスマキ作 【感想
 Category:
 - 映画
 Date: 2018-02-15T21:25:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2018/02/15/the-otherside-of-hope
+URL: https://www.neputa-note.net/entry/2018/02/15/the-otherside-of-hope
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068810248
 ---
 

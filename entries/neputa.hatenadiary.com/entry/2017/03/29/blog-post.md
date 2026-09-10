@@ -1,11 +1,11 @@
 ---
 Title: 『海炭市叙景』 佐藤泰志 【あらすじ・感想】
 Category:
-  - 佐藤泰志
-  - 文学
-  - 読書感想
+- 佐藤泰志
+- 文学
+- 読書感想
 Date: 2017-03-29T19:51:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2017/03/29/blog-post
+URL: https://www.neputa-note.net/entry/2017/03/29/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068642304
 ---
 

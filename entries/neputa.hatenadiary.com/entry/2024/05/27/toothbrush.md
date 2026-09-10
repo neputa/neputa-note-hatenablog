@@ -1,9 +1,9 @@
 ---
 Title: これは歯ブラシです。【日記】
 Category:
-  - 日記
+- 日記
 Date: 2024-05-27T16:36:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2024/05/27/toothbrush
+URL: https://www.neputa-note.net/entry/2024/05/27/toothbrush
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073027573
 ---
 

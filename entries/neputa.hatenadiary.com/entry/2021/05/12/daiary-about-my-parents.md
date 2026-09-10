@@ -1,9 +1,9 @@
 ---
 Title: 【日記】直接会話をしない夫婦（両親）の話
 Category:
-  - 日記
+- 日記
 Date: 2021-05-12T19:45:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2021/05/12/daiary-about-my-parents
+URL: https://www.neputa-note.net/entry/2021/05/12/daiary-about-my-parents
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070695954
 ---
 

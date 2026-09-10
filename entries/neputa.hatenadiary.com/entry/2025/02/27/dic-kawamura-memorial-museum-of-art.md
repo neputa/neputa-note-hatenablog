@@ -1,9 +1,9 @@
 ---
 Title: DIC川村記念美術館のロスコ・ルーム訪問記：高村薫の小説から実物の絵画へ
 Category:
-  - 日記
+- 日記
 Date: 2025-02-27T21:00:11+09:00
-URL: https://neputa.hatenadiary.com/entry/2025/02/27/dic-kawamura-memorial-museum-of-art
+URL: https://www.neputa-note.net/entry/2025/02/27/dic-kawamura-memorial-museum-of-art
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159687
 ---
 

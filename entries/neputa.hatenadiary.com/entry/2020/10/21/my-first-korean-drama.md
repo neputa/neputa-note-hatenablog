@@ -4,7 +4,7 @@ Category:
 - Netflix
 - ドラマ
 Date: 2020-10-21T18:00:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2020/10/21/my-first-korean-drama
+URL: https://www.neputa-note.net/entry/2020/10/21/my-first-korean-drama
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069144357
 ---
 

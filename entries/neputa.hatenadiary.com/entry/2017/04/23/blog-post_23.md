@@ -1,12 +1,12 @@
 ---
 Title: 『特捜部Ｑ 檻の中の女』～デンマーク発のミステリー 【あらすじ・感想】
 Category:
-  - Adler-Olsen
-  - ミステリ
-  - 海外
-  - 読書感想
+- Adler-Olsen
+- ミステリ
+- 海外
+- 読書感想
 Date: 2017-04-23T20:46:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2017/04/23/blog-post_23
+URL: https://www.neputa-note.net/entry/2017/04/23/blog-post_23
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068642417
 ---
 

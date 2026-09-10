@@ -1,10 +1,10 @@
 ---
 Title: 網膜色素変性症と向き合う
 Category:
-  - 日記
-  - 視覚障害
+- 日記
+- 視覚障害
 Date: 2024-10-21T08:07:47+09:00
-URL: https://neputa.hatenadiary.com/entry/2024/10/21/pigmentary-degeneration-of-the-retina
+URL: https://www.neputa-note.net/entry/2024/10/21/pigmentary-degeneration-of-the-retina
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782773
 ---
 

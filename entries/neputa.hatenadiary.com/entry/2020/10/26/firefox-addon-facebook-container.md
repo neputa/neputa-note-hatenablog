@@ -1,9 +1,9 @@
 ---
 Title: FirefoxにFacebook Containerをインストールする
 Category:
-  - 日記
+- 日記
 Date: 2020-10-26T17:30:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2020/10/26/firefox-addon-facebook-container
+URL: https://www.neputa-note.net/entry/2020/10/26/firefox-addon-facebook-container
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069144333
 ---
 

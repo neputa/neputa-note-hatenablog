@@ -5,7 +5,7 @@ Category:
 - ドラマ
 - オレンジ・イズ・ニュー・ブラック
 Date: 2016-06-26T20:10:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2016/06/26/orange-is-the-new-black
+URL: https://www.neputa-note.net/entry/2016/06/26/orange-is-the-new-black
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068290541
 ---
 

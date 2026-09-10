@@ -1,10 +1,10 @@
 ---
 Title: 文鳥と暮らす　～これまでの１年をふり返って【日記】
 Category:
-  - 文鳥
-  - 日記
+- 文鳥
+- 日記
 Date: 2018-05-15T03:30:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2018/05/15/living-with-a-java-sparrow
+URL: https://www.neputa-note.net/entry/2018/05/15/living-with-a-java-sparrow
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069011613
 ---
 

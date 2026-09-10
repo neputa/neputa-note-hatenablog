@@ -1,12 +1,12 @@
 ---
 Title: Astroにパンくずリスト（breadcrumb list）を追加する
 Category:
-  - Astro
-  - WSL2
-  - dev
-  - nodejs
+- Astro
+- WSL2
+- dev
+- nodejs
 Date: 2024-07-21T15:54:36+09:00
-URL: https://neputa.hatenadiary.com/entry/2024/07/21/astro-bread-crumbs
+URL: https://www.neputa-note.net/entry/2024/07/21/astro-bread-crumbs
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073027590
 ---
 

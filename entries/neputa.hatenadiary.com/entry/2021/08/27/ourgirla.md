@@ -1,11 +1,11 @@
 ---
 Title: 『我らが少女A』高村薫　～警察ミステリの傑作～【あらすじ・感想】
 Category:
-  - 文学
-  - 読書感想
-  - 高村薫
+- 文学
+- 読書感想
+- 高村薫
 Date: 2021-08-27T07:21:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2021/08/27/ourgirla
+URL: https://www.neputa-note.net/entry/2021/08/27/ourgirla
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070696076
 ---
 

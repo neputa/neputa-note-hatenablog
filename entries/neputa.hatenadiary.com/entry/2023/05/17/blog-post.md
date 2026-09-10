@@ -1,9 +1,9 @@
 ---
 Title: 【日記】アウトプット欲求の減退にまつわる最近のこと
 Category:
-  - 日記
+- 日記
 Date: 2023-05-17T18:13:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2023/05/17/blog-post
+URL: https://www.neputa-note.net/entry/2023/05/17/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072646471
 ---
 

@@ -1,10 +1,10 @@
 ---
 Title: 視覚に関する記録 08 【日記】
 Category:
-  - 日記
-  - 視覚障害
+- 日記
+- 視覚障害
 Date: 2026-03-25T14:39:38+09:00
-URL: https://neputa.hatenadiary.com/entry/2026/03/25/my-records-of-my-vision-08
+URL: https://www.neputa-note.net/entry/2026/03/25/my-records-of-my-vision-08
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074653122
 ---
 

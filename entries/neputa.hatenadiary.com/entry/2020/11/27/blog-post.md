@@ -1,9 +1,9 @@
 ---
 Title: 石を積む人の謎とその理由 - 日記
 Category:
-  - 日記
+- 日記
 Date: 2020-11-27T03:00:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2020/11/27/blog-post
+URL: https://www.neputa-note.net/entry/2020/11/27/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069343724
 ---
 

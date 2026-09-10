@@ -1,10 +1,10 @@
 ---
 Title: ブログのタイトルとドメインが変わりました
 Category:
-  - Blogger
-  - dev
+- Blogger
+- dev
 Date: 2020-09-29T13:28:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2020/09/29/changed-title-and-domain
+URL: https://www.neputa-note.net/entry/2020/09/29/changed-title-and-domain
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069144266
 ---
 

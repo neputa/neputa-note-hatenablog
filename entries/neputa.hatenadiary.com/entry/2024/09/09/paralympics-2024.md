@@ -1,9 +1,9 @@
 ---
 Title: パリ パラリンピック 2024【備忘録】
 Category:
-  - 日記
+- 日記
 Date: 2024-09-09T11:31:18+09:00
-URL: https://neputa.hatenadiary.com/entry/2024/09/09/paralympics-2024
+URL: https://www.neputa-note.net/entry/2024/09/09/paralympics-2024
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782714
 ---
 

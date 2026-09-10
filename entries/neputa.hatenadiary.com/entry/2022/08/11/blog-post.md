@@ -1,10 +1,10 @@
 ---
 Title: 『とんでもなく役に立つ数学』西成活裕【読書感想・備忘録】
 Category:
-  - 記録・エッセイ
-  - 読書感想
+- 記録・エッセイ
+- 読書感想
 Date: 2022-08-11T01:09:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2022/08/11/blog-post
+URL: https://www.neputa-note.net/entry/2022/08/11/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072629331
 ---
 

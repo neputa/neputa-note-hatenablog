@@ -3,7 +3,7 @@ Title: 映画「ジョーカー」を見て【感想】
 Category:
 - 映画
 Date: 2019-11-17T14:39:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2019/11/17/film-joker
+URL: https://www.neputa-note.net/entry/2019/11/17/film-joker
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069144169
 ---
 

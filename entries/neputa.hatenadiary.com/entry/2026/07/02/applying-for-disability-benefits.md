@@ -1,10 +1,10 @@
 ---
 Title: 障害年金を自力で申請してみた【視覚障害】
 Category:
-  - 日記
-  - 視覚障害
+- 日記
+- 視覚障害
 Date: 2026-07-02T17:07:09+09:00
-URL: https://neputa.hatenadiary.com/entry/2026/07/02/applying-for-disability-benefits
+URL: https://www.neputa-note.net/entry/2026/07/02/applying-for-disability-benefits
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074769493
 ---
 

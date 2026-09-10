@@ -1,9 +1,9 @@
 ---
 Title: 最近思うことのメモ
 Category:
-  - 日記
+- 日記
 Date: 2025-07-15T06:44:50+09:00
-URL: https://neputa.hatenadiary.com/entry/2025/07/15/reflections-and-thoughts-a-personal-memo
+URL: https://www.neputa-note.net/entry/2025/07/15/reflections-and-thoughts-a-personal-memo
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210470
 ---
 

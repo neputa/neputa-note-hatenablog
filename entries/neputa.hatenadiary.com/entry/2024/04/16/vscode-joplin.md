@@ -1,11 +1,11 @@
 ---
 Title: ノートアプリJoplinをVSCodeで使用する（拡張機能を使用）
 Category:
-  - Apps
-  - VSCode
-  - dev
+- Apps
+- VSCode
+- dev
 Date: 2024-04-16T23:35:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2024/04/16/vscode-joplin
+URL: https://www.neputa-note.net/entry/2024/04/16/vscode-joplin
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072992306
 ---
 

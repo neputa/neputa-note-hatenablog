@@ -1,10 +1,10 @@
 ---
 Title: AzureDevOpsのリポジトリをgithubからインポートする
 Category:
-  - Azure
-  - dev
+- Azure
+- dev
 Date: 2024-04-09T21:19:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2024/04/09/azuredevops-github
+URL: https://www.neputa-note.net/entry/2024/04/09/azuredevops-github
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072765769
 ---
 

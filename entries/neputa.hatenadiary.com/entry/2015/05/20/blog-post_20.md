@@ -1,11 +1,11 @@
 ---
 Title: 『孤児列車』 クリスティナ・ベイカー・クライン 【あらすじ・感想】
 Category:
-  - 文学
-  - 海外
-  - 読書感想
+- 文学
+- 海外
+- 読書感想
 Date: 2015-05-20T23:17:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2015/05/20/blog-post_20
+URL: https://www.neputa-note.net/entry/2015/05/20/blog-post_20
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067773832
 ---
 

@@ -1,10 +1,10 @@
 ---
 Title: 柳沢正史 医学博士 睡眠に関する講演動画のメモ【日記・備忘録】
 Category:
-  - 日記
-  - 睡眠
+- 日記
+- 睡眠
 Date: 2023-08-15T14:38:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2023/08/15/yanagisawa-masashi-lecture
+URL: https://www.neputa-note.net/entry/2023/08/15/yanagisawa-masashi-lecture
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072765718
 ---
 

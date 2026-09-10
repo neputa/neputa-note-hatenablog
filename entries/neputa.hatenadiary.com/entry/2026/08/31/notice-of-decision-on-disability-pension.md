@@ -1,10 +1,10 @@
 ---
 Title: 視覚障害：障害年金の決定通知が届いた
 Category:
-  - 日記
-  - 視覚障害
+- 日記
+- 視覚障害
 Date: 2026-08-31T03:24:31+09:00
-URL: https://neputa.hatenadiary.com/entry/2026/08/31/notice-of-decision-on-disability-pension
+URL: https://www.neputa-note.net/entry/2026/08/31/notice-of-decision-on-disability-pension
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074830405
 ---
 

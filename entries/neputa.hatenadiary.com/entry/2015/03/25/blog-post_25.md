@@ -1,11 +1,11 @@
 ---
 Title: 『ストーナー』 ジョン・ウィリアムズ 【あらすじ・感想】
 Category:
-  - 文学
-  - 海外
-  - 読書感想
+- 文学
+- 海外
+- 読書感想
 Date: 2015-03-25T22:45:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2015/03/25/blog-post_25
+URL: https://www.neputa-note.net/entry/2015/03/25/blog-post_25
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067587669
 ---
 

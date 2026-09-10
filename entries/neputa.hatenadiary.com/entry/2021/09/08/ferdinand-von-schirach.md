@@ -1,12 +1,12 @@
 ---
 Title: フェルディナント・フォン・シーラッハのススメ（ドイツのミステリー）
 Category:
-  - Schirach
-  - ミステリ
-  - 海外
-  - 読書感想
+- Schirach
+- ミステリ
+- 海外
+- 読書感想
 Date: 2021-09-08T17:00:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2021/09/08/ferdinand-von-schirach
+URL: https://www.neputa-note.net/entry/2021/09/08/ferdinand-von-schirach
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070846963
 ---
 

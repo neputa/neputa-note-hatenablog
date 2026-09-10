@@ -1,11 +1,11 @@
 ---
 Title: 『遮光』 中村文則 【あらすじ・感想】
 Category:
-  - 中村文則
-  - 文学
-  - 読書感想
+- 中村文則
+- 文学
+- 読書感想
 Date: 2017-06-27T16:52:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2017/06/27/blog-post
+URL: https://www.neputa-note.net/entry/2017/06/27/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068642435
 ---
 

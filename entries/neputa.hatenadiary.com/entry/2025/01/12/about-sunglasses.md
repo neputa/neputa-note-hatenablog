@@ -1,10 +1,10 @@
 ---
 Title: サングラスについて
 Category:
-  - 日記
-  - 視覚障害
+- 日記
+- 視覚障害
 Date: 2025-01-12T05:04:08+09:00
-URL: https://neputa.hatenadiary.com/entry/2025/01/12/about-sunglasses
+URL: https://www.neputa-note.net/entry/2025/01/12/about-sunglasses
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159625
 ---
 

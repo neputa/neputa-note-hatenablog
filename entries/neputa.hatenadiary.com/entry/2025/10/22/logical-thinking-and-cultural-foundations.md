@@ -1,10 +1,10 @@
 ---
 Title: 「論理的思考」の文化的基盤　渡邉雅子 【読書感想】
 Category:
-  - 人文・社会科学
-  - 読書感想
+- 人文・社会科学
+- 読書感想
 Date: 2025-10-22T14:49:09+09:00
-URL: https://neputa.hatenadiary.com/entry/2025/10/22/logical-thinking-and-cultural-foundations
+URL: https://www.neputa-note.net/entry/2025/10/22/logical-thinking-and-cultural-foundations
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210814
 ---
 

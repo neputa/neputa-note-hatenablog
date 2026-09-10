@@ -1,10 +1,10 @@
 ---
 Title: 視覚に関する記録 04 【日記】
 Category:
-  - 日記
-  - 視覚障害
+- 日記
+- 視覚障害
 Date: 2025-06-18T18:02:03+09:00
-URL: https://neputa.hatenadiary.com/entry/2025/06/18/my-records-of-my-vision-04
+URL: https://www.neputa-note.net/entry/2025/06/18/my-records-of-my-vision-04
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210480
 ---
 

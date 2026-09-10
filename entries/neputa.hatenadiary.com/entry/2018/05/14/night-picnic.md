@@ -1,9 +1,9 @@
 ---
 Title: 夜のピクニック【日記】
 Category:
-  - 日記
+- 日記
 Date: 2018-05-14T02:00:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2018/05/14/night-picnic
+URL: https://www.neputa-note.net/entry/2018/05/14/night-picnic
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069011656
 ---
 

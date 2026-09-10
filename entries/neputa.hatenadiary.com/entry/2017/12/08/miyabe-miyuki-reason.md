@@ -1,11 +1,11 @@
 ---
 Title: 『理由』宮部みゆき【あらすじ・感想】
 Category:
-  - ミステリ
-  - 宮部みゆき
-  - 読書感想
+- ミステリ
+- 宮部みゆき
+- 読書感想
 Date: 2017-12-08T19:09:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2017/12/08/miyabe-miyuki-reason
+URL: https://www.neputa-note.net/entry/2017/12/08/miyabe-miyuki-reason
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068792274
 ---
 

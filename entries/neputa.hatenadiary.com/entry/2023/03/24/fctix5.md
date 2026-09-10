@@ -1,10 +1,10 @@
 ---
 Title: 「Fcitx5」はfcitx-remoteのコマンド名が変わるので注意
 Category:
-  - Ubuntu
-  - dev
+- Ubuntu
+- dev
 Date: 2023-03-24T13:44:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2023/03/24/fctix5
+URL: https://www.neputa-note.net/entry/2023/03/24/fctix5
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072646444
 ---
 

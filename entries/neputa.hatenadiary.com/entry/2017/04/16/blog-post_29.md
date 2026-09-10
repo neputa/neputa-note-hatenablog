@@ -1,10 +1,10 @@
 ---
 Title: 『春を背負って』 笹本稜平 【あらすじ・感想】
 Category:
-  - 文学
-  - 読書感想
+- 文学
+- 読書感想
 Date: 2017-04-16T00:11:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2017/04/16/blog-post_29
+URL: https://www.neputa-note.net/entry/2017/04/16/blog-post_29
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068642400
 ---
 

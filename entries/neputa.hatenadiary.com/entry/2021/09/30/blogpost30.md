@@ -5,7 +5,7 @@ Category:
 - 映画
 - 攻殻機動隊
 Date: 2021-09-30T05:30:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2021/09/30/blogpost30
+URL: https://www.neputa-note.net/entry/2021/09/30/blogpost30
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070846968
 ---
 

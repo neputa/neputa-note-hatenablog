@@ -1,10 +1,10 @@
 ---
 Title: 視覚に関する記録 11 - 視野障害2級相当の診断
 Category:
-  - 日記
-  - 視覚障害
+- 日記
+- 視覚障害
 Date: 2026-05-02T07:15:54+09:00
-URL: https://neputa.hatenadiary.com/entry/2026/05/02/my-records-of-my-vision-11
+URL: https://www.neputa-note.net/entry/2026/05/02/my-records-of-my-vision-11
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074769373
 ---
 

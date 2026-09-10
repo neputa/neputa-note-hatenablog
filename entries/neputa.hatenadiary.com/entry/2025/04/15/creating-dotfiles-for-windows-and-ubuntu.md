@@ -1,11 +1,11 @@
 ---
 Title: WindowsとUbuntu用のdotfilesの作成方法
 Category:
-  - Ubuntu
-  - Windows
-  - dev
+- Ubuntu
+- Windows
+- dev
 Date: 2025-04-15T05:24:55+09:00
-URL: https://neputa.hatenadiary.com/entry/2025/04/15/creating-dotfiles-for-windows-and-ubuntu
+URL: https://www.neputa-note.net/entry/2025/04/15/creating-dotfiles-for-windows-and-ubuntu
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210432
 ---
 

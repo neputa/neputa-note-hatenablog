@@ -1,10 +1,10 @@
 ---
 Title: 視覚に関する記録 10 - 診断確定後の生活準備
 Category:
-  - 日記
-  - 視覚障害
+- 日記
+- 視覚障害
 Date: 2026-04-17T13:13:20+09:00
-URL: https://neputa.hatenadiary.com/entry/2026/04/17/my-records-of-my-vision-10
+URL: https://www.neputa-note.net/entry/2026/04/17/my-records-of-my-vision-10
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074769352
 ---
 

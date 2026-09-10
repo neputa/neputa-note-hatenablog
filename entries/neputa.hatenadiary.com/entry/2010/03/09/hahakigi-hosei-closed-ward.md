@@ -1,11 +1,11 @@
 ---
 Title: 『閉鎖病棟』帚木蓬生～二度に渡り映画化された名作～【あらすじ・読書感想】
 Category:
-  - 帚木蓬生
-  - 文学
-  - 読書感想
+- 帚木蓬生
+- 文学
+- 読書感想
 Date: 2010-03-09T02:00:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2010/03/09/hahakigi-hosei-closed-ward
+URL: https://www.neputa-note.net/entry/2010/03/09/hahakigi-hosei-closed-ward
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032066877872
 ---
 

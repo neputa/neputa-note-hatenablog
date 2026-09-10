@@ -1,12 +1,12 @@
 ---
 Title: Ubuntuにsnapで最新バージョンのNeovimをインストール
 Category:
-  - Ubuntu
-  - Vim
-  - WSL2
-  - dev
+- Ubuntu
+- Vim
+- WSL2
+- dev
 Date: 2024-05-08T07:32:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2024/05/08/neovim-snap
+URL: https://www.neputa-note.net/entry/2024/05/08/neovim-snap
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072992400
 ---
 

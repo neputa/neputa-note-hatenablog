@@ -1,10 +1,10 @@
 ---
 Title: 強い文鳥と弱い人間【日記】
 Category:
-  - 文鳥
-  - 日記
+- 文鳥
+- 日記
 Date: 2023-09-27T21:51:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2023/09/27/padda-oryzivora-illness
+URL: https://www.neputa-note.net/entry/2023/09/27/padda-oryzivora-illness
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072765748
 ---
 

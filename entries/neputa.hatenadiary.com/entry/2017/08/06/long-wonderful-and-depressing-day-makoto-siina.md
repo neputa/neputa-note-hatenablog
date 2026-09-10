@@ -1,11 +1,11 @@
 ---
 Title: 『長く素晴らしく憂鬱な一日』 椎名誠 【あらすじ・感想】
 Category:
-  - 文学
-  - 椎名誠
-  - 読書感想
+- 文学
+- 椎名誠
+- 読書感想
 Date: 2017-08-06T17:14:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2017/08/06/long-wonderful-and-depressing-day-makoto-siina
+URL: https://www.neputa-note.net/entry/2017/08/06/long-wonderful-and-depressing-day-makoto-siina
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068737082
 ---
 

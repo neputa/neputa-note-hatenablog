@@ -1,10 +1,10 @@
 ---
 Title: 明日のたりないふたり（若林正恭 ＆ 山里亮太）【ライブの感想】
 Category:
-  - お笑い
-  - 日記
+- お笑い
+- 日記
 Date: 2021-06-14T00:00:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2021/06/14/tarinaifutari
+URL: https://www.neputa-note.net/entry/2021/06/14/tarinaifutari
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070695821
 ---
 

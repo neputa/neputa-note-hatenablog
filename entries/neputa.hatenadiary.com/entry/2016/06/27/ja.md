@@ -1,11 +1,11 @@
 ---
 Title: 『虐殺器官』 伊藤計劃 【あらすじ・感想】
 Category:
-  - SF・ファンタジー
-  - 伊藤計劃
-  - 読書感想
+- SF・ファンタジー
+- 伊藤計劃
+- 読書感想
 Date: 2016-06-27T00:31:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2016/06/27/ja
+URL: https://www.neputa-note.net/entry/2016/06/27/ja
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068290597
 ---
 

@@ -1,10 +1,10 @@
 ---
 Title: VSCodeの背景画像（background）を設定してテンションを上げる
 Category:
-  - VSCode
-  - dev
+- VSCode
+- dev
 Date: 2022-02-05T13:10:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2022/02/05/vscode-extensions-background
+URL: https://www.neputa-note.net/entry/2022/02/05/vscode-extensions-background
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072025599
 ---
 

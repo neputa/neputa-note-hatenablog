@@ -1,11 +1,11 @@
 ---
 Title: 『無痛』 久坂部羊 【あらすじ・感想】
 Category:
-  - ミステリ
-  - 久坂部羊
-  - 読書感想
+- ミステリ
+- 久坂部羊
+- 読書感想
 Date: 2017-12-01T21:16:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2017/12/01/yo-kusakabe-painless
+URL: https://www.neputa-note.net/entry/2017/12/01/yo-kusakabe-painless
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068810232
 ---
 

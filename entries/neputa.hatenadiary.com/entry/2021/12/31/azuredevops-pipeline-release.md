@@ -1,11 +1,11 @@
 ---
 Title: AndroidアプリをAzure Pipelinesでビルド・リリースする方法【Xamarin.Forms】
 Category:
-  - Azure
-  - MobileApps
-  - dev
+- Azure
+- MobileApps
+- dev
 Date: 2021-12-31T02:31:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2021/12/31/azuredevops-pipeline-release
+URL: https://www.neputa-note.net/entry/2021/12/31/azuredevops-pipeline-release
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032071260823
 ---
 

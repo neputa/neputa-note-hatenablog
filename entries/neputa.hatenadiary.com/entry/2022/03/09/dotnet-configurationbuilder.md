@@ -1,11 +1,11 @@
 ---
 Title: ConfigurationBuilderを理解する【.NET6.0】
 Category:
-  - Azure
-  - dev
-  - dotnet
+- Azure
+- dev
+- dotnet
 Date: 2022-03-09T02:35:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2022/03/09/dotnet-configurationbuilder
+URL: https://www.neputa-note.net/entry/2022/03/09/dotnet-configurationbuilder
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072025607
 ---
 

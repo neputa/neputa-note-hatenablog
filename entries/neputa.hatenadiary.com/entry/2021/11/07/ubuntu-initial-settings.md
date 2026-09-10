@@ -1,10 +1,10 @@
 ---
 Title: Ubuntu 20.04 日本語Remixインストール後にやったこと17項目
 Category:
-  - Ubuntu
-  - dev
+- Ubuntu
+- dev
 Date: 2021-11-07T19:11:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2021/11/07/ubuntu-initial-settings
+URL: https://www.neputa-note.net/entry/2021/11/07/ubuntu-initial-settings
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032071260545
 ---
 

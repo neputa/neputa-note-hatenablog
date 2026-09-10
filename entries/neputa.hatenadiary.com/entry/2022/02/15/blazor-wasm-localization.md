@@ -1,10 +1,10 @@
 ---
 Title: Blazor WebAssemblyの多言語対応
 Category:
-  - dev
-  - dotnet
+- dev
+- dotnet
 Date: 2022-02-15T21:58:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2022/02/15/blazor-wasm-localization
+URL: https://www.neputa-note.net/entry/2022/02/15/blazor-wasm-localization
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072025581
 ---
 

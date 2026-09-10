@@ -1,11 +1,11 @@
 ---
 Title: 『逸脱 捜査一課・澤村慶司』 堂場瞬一 【あらすじ・感想】
 Category:
-  - ミステリ
-  - 堂場瞬一
-  - 読書感想
+- ミステリ
+- 堂場瞬一
+- 読書感想
 Date: 2015-01-03T15:44:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2015/01/03/blog-post
+URL: https://www.neputa-note.net/entry/2015/01/03/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067173760
 ---
 

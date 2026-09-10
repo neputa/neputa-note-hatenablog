@@ -1,11 +1,11 @@
 ---
 Title: 『三たびの海峡』帚木蓬生【あらすじ・感想】
 Category:
-  - 帚木蓬生
-  - 文学
-  - 読書感想
+- 帚木蓬生
+- 文学
+- 読書感想
 Date: 2015-01-12T23:07:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2015/01/12/blog-post_12
+URL: https://www.neputa-note.net/entry/2015/01/12/blog-post_12
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067178311
 ---
 

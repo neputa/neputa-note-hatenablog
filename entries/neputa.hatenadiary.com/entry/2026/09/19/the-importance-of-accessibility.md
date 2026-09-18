@@ -1,14 +1,12 @@
 ---
 Title: 視覚障害になってわかった、Webアクセシビリティの大切さ
 Category:
-  - 日記
-  - 視覚障害
-  - アクセシビリティ
+- 日記
+- 視覚障害
+- アクセシビリティ
+Date: 2026-09-19T02:16:15.718+09:00
+URL: https://www.neputa-note.net/entry/2026/09/19/the-importance-of-accessibility
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032078509617
-PreviewURL: https://www.neputa-note.net/draft/entry/NdtfJDimOUvQ72M9XSwZbg379Wk
-Draft: false
-Date: 2026-09-18T17:16:15.718Z
-CustomPath: 2026/09/19/the-importance-of-accessibility
 ---
 
 [f:id:neputa:20260919023504w:plain:alt=遮光眼鏡をかけた人物がノートPCを前にしている水彩風のイラスト]

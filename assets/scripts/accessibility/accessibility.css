@@ -1,0 +1,16 @@
+.archive-category-link,
+.hatena-id-link,
+.archive-module-month-title {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
+  padding: 4px 6px;
+}
+
+.bookmark-widget-counter {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 24px;
+  min-height: 24px;
+}

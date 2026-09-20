@@ -4,6 +4,8 @@
   // Old path -> new path mapping generated from redirect_list_min.txt.
   var REDIRECT_MAP = {
     "/2010/03/hahakigi-hosei-closed-ward/": "/entry/2010/03/09/hahakigi-hosei-closed-ward",
+    "/2011/03/motohashi-seiichi-slaughterhouse/": "/entry/2011/03/12/motohashi-seiichi-slaughterhouse",
+    "/2011/05/emergency-call-from-etrov/": "/entry/2011/05/06/emergency-call-from-etrov",
     "/2011/10/hahakigi-hosei-escape/": "/entry/2011/10/10/hahakigi-hosei-escape",
     "/2013/01/takamura-kaoru-cold-blood/": "/entry/2013/01/27/takamura-kaoru-cold-blood",
     "/2014/11/blog-post/": "/entry/2014/11/08/hahakigi-hosei-the-darkness-of-the-rose-window",

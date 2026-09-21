@@ -172,7 +172,7 @@ Cloudflare でリダイレクト用の Worker を設定しようかと思った�
 
 こちらの「CodeFocus」というテーマを使用させていただいた。
 
-[https://codefocus.hatenablog.jp/entry/2025/05/17/015533:embed:cite]
+[https://codefocus.hatenablog.jp/:embed:cite]
 
 テーマ選択の条件は次のとおりだ。
 

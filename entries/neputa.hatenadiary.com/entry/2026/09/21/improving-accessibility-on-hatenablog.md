@@ -1,12 +1,11 @@
 ---
 Title: はてなブログのアクセシビリティを少しだけ改善してみた
 Category:
-  - dev
-  - アクセシビリティ
+- dev
+- アクセシビリティ
+Date: 2026-09-21T17:05:59+09:00
+URL: https://www.neputa-note.net/entry/2026/09/21/improving-accessibility-on-hatenablog
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032080501094
-PreviewURL: https://www.neputa-note.net/draft/entry/wmeSyjT2ho_9k-DWmEHMa3dWKHQ
-Draft: false
-CustomPath: 2026/09/21/improving-accessibility-on-hatenablog
 ---
 
 [f:id:neputa:20260921170306w:plain:alt=記事タイトルを抽象化したモデル図にしたイラスト]

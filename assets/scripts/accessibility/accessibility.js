@@ -42,25 +42,13 @@
     });
   }
 
-  function fixHatenaStarIframes() {
-    document.querySelectorAll(
-      'iframe[src*="s.hatena.ne.jp/js/widget/add_star_iframe"]'
-    ).forEach(function (frame) {
-      if (!frame.getAttribute('title')) {
-        frame.setAttribute('title', 'はてなスター');
-      }
-    });
-  }
-
   function init() {
     fixMainLandmark();
     fixEntryThumbLinks();
-    fixHatenaStarIframes();
 
     const observer = new MutationObserver(function () {
       fixMainLandmark();
       fixEntryThumbLinks();
-      fixHatenaStarIframes();
     });
 
     observer.observe(document.body, {

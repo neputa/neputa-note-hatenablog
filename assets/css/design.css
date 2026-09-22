@@ -2,6 +2,121 @@
 @import url("https://usercss.blog.st-hatena.com/-/theme/6802418398435013379.css?version=96bd5c1e06096ec35762dc8a1f4aecd73487389c");
 /* </system> */
 
+/* グローバルナビゲーション（基本 / ライトモード） */
+.global-nav {
+  margin: 1em 0;
+  background-color: #fafafa; /* ライトモード時の背景色 */
+  border-top: 1px solid #e0e0e0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.global-nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.global-nav li {
+  margin: 0;
+}
+
+.global-nav a {
+  display: block;
+  padding: 0.8em;
+  color: #333333;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.global-nav a:hover,
+.global-nav a:focus {
+  background-color: #e9ecef;
+  text-decoration: underline;
+  outline: 2px solid #0056b3; /* フォーカスリングの強調 */
+  outline-offset: -2px;
+}
+
+/* ==================================================
+   Focusテーマ ダークモード対応（OS自動判定）
+   ================================================== */
+@media (prefers-color-scheme: dark) {
+  .global-nav {
+    background-color: #1a1f27; /* ダークモード時の背景色 */
+    border-color: #2d3748;
+  }
+  .global-nav a {
+    color: #e2e8f0;
+  }
+  .global-nav a:hover,
+  .global-nav a:focus {
+    background-color: #2d3748;
+    outline-color: #63b3ed;
+  }
+}
+
+/* ==================================================
+   Focusテーマ / スイッチ切り替え用（手動切り替え対応）
+   ================================================== */
+
+/* --- 1. ダークモード切り替え時 --- */
+[data-theme="dark"] .global-nav,
+html.dark .global-nav,
+body.dark-theme .global-nav,
+body.theme-dark .global-nav {
+  background-color: #1a1f27 !important;
+  border-color: #2d3748 !important;
+}
+
+[data-theme="dark"] .global-nav a,
+html.dark .global-nav a,
+body.dark-theme .global-nav a,
+body.theme-dark .global-nav a {
+  color: #e2e8f0 !important;
+}
+
+[data-theme="dark"] .global-nav a:hover,
+[data-theme="dark"] .global-nav a:focus,
+html.dark .global-nav a:hover,
+html.dark .global-nav a:focus,
+body.dark-theme .global-nav a:hover,
+body.dark-theme .global-nav a:focus,
+body.theme-dark .global-nav a:hover,
+body.theme-dark .global-nav a:focus {
+  background-color: #2d3748 !important;
+  outline-color: #63b3ed !important;
+}
+
+/* --- 2. ライトモード切り替え時（OS設定がダークの際の上書き） --- */
+[data-theme="light"] .global-nav,
+html.light .global-nav,
+body.light-theme .global-nav,
+body.theme-light .global-nav {
+  background-color: #fafafa !important;
+  border-color: #e0e0e0 !important;
+}
+
+[data-theme="light"] .global-nav a,
+html.light .global-nav a,
+body.light-theme .global-nav a,
+body.theme-light .global-nav a {
+  color: #333333 !important;
+}
+
+[data-theme="light"] .global-nav a:hover,
+[data-theme="light"] .global-nav a:focus,
+html.light .global-nav a:hover,
+html.light .global-nav a:focus,
+body.light-theme .global-nav a:hover,
+body.light-theme .global-nav a:focus,
+body.theme-light .global-nav a:hover,
+body.theme-light .global-nav a:focus {
+  background-color: #e9ecef !important;
+  outline-color: #0056b3 !important;
+}
+
 /* 警告記法 */
 .markdown-alert {
   border-left: 3px solid !important;

@@ -1,33 +1,178 @@
-var quoteBlock = document.querySelectorAll('blockquote > p');
-quoteBlock.forEach(function(e) {
-  const marker_pattern = new RegExp("^\\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\\](<br>|\n)");
-  const match = e.innerHTML.match(marker_pattern);
-  if (!match) { return; }
+  (function () {
+    'use strict';
 
-  var type = match[1];
-  var a = document.createElement('p');
-  a.classList.add('markdown-alert-title');
-  switch (type) {
-    case 'NOTE':
-      a.innerHTML += '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path></svg>';
-      break;
-    case 'TIP':
-      a.innerHTML += '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847a8.456 8.456 0 0 0-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.751.751 0 0 1-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75ZM5.75 12h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM6 15.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z"></path></svg>';
-      break;
-    case 'IMPORTANT':
-      a.innerHTML += '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0 1 14.25 13H8.06l-2.573 2.573A1.458 1.458 0 0 1 3 14.543V13H1.75A1.75 1.75 0 0 1 0 11.25Zm1.75-.25a.25.25 0 0 0-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25Zm7 2.25v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 9a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg>';
-      break;
-    case 'WARNING':
-      a.innerHTML += '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg>';
-      break;
-    case 'CAUTION':
-      a.innerHTML += '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M4.47.22A.749.749 0 0 1 5 0h6c.199 0 .389.079.53.22l4.25 4.25c.141.14.22.331.22.53v6a.749.749 0 0 1-.22.53l-4.25 4.25A.749.749 0 0 1 11 16H5a.749.749 0 0 1-.53-.22L.22 11.53A.749.749 0 0 1 0 11V5c0-.199.079-.389.22-.53Zm.84 1.28L1.5 5.31v5.38l3.81 3.81h5.38l3.81-3.81V5.31L10.69 1.5ZM8 4a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-1.5 0v-3.5A.75.75 0 0 1 8 4Zm0 8a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path></svg>';
-      break;
-  }
-  a.innerHTML += type.charAt(0) + type.slice(1).toLowerCase();
+    // Alert types and their titles
+    const ALERT_TITLES = {
+      note: 'Note',
+      tip: 'Tip',
+      important: 'Important',
+      warning: 'Warning',
+      caution: 'Caution',
+    };
 
-  e.innerHTML = e.innerHTML.replace(match[0], '');
-  e.parentElement.classList.add("markdown-alert");
-  e.parentElement.classList.add(`markdown-alert-${type.toLowerCase()}`);
-  e.parentElement.insertBefore(a, e);
-});
+    // Marker must be alone on its line: "[!NOTE]" followed by newline, <br> or end of paragraph.
+    // Only spaces and tabs are allowed around it, same as GitHub (not full-width space or &nbsp;),
+    // and it must be on the first line of the paragraph (no newline before it)
+    const MARKER_PATTERN = /^[ \t]*\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\][ \t]*(\r?\n|$)/i;
+
+    // Blockquotes already handled while the page was loading
+    const processed = new WeakSet();
+
+    // Returns marker info if the element is a paragraph starting with an alert marker
+    function findMarker(element) {
+      if (element.tagName !== 'P') {
+        return null;
+      }
+
+      const markerNode = element.firstChild;
+      if (!markerNode || markerNode.nodeType !== Node.TEXT_NODE) {
+        return null;
+      }
+
+      const match = markerNode.nodeValue.match(MARKER_PATTERN);
+      if (!match) {
+        return null;
+      }
+
+      // "[!NOTE]" ends at the text node boundary: next must be <br> or nothing (e.g. not "[!NOTE]<strong>")
+      const lineBreak = match[2] ? null : markerNode.nextSibling;
+      if (lineBreak && lineBreak.nodeName !== 'BR') {
+        return null;
+      }
+
+      return { paragraph: element, markerNode: markerNode, lineBreak: lineBreak, match: match };
+    }
+
+    // Only ASCII whitespace counts as blank, same as GitHub (&nbsp; or full-width space is content)
+    function isBlank(text) {
+      return !/[^ \t\r\n\f]/.test(text);
+    }
+
+    // Any element counts as content, including <br> (the <br> ending the marker line is skipped by the caller)
+    function hasContent(node) {
+      if (node.nodeType === Node.TEXT_NODE) {
+        return !isBlank(node.nodeValue);
+      }
+      return node.nodeType === Node.ELEMENT_NODE;
+    }
+
+    // Move a node keeping its state where moveBefore is supported (e.g. iframes are not reloaded)
+    function moveNode(parent, node) {
+      if (typeof parent.moveBefore === 'function') {
+        parent.moveBefore(node, null);
+      } else {
+        parent.appendChild(node);
+      }
+    }
+
+    // Whether the marker is followed by any content before `end` (the next marker paragraph)
+    function hasBody(marker, end) {
+      const { paragraph, markerNode, lineBreak, match } = marker;
+      if (!isBlank(markerNode.nodeValue.slice(match[0].length))) {
+        return true;
+      }
+      for (let node = (lineBreak || markerNode).nextSibling; node; node = node.nextSibling) {
+        if (hasContent(node)) {
+          return true;
+        }
+      }
+      for (let node = paragraph.nextSibling; node && node !== end; node = node.nextSibling) {
+        if (hasContent(node)) {
+          return true;
+        }
+      }
+      return false;
+    }
+
+    function renderAlert(blockquote, marker) {
+      const { paragraph, markerNode, lineBreak, match } = marker;
+
+      // Remove marker and the <br> after it. A newline after the marker is kept (not rendered), so that
+      // text extraction such as Hatena's requote gives "Note\nbody" instead of gluing the title to the body
+      const rest = markerNode.nodeValue.slice(match[0].length - match[2].length);
+      if (rest) {
+        markerNode.nodeValue = rest;
+      } else {
+        markerNode.remove();
+      }
+      if (lineBreak) {
+        lineBreak.remove();
+      }
+
+      // Marker-only paragraph ("> [!NOTE]\n>\n> text") leaves an empty paragraph
+      if (paragraph.children.length === 0 && isBlank(paragraph.textContent)) {
+        paragraph.remove();
+      }
+
+      const type = match[1].toLowerCase();
+      blockquote.classList.add('markdown-alert', 'markdown-alert-' + type);
+
+      const title = document.createElement('p');
+      title.className = 'markdown-alert-title';
+      title.textContent = ALERT_TITLES[type];
+      blockquote.insertBefore(title, blockquote.firstChild);
+    }
+
+    function convertBlockquote(blockquote) {
+      const markers = Array.from(blockquote.children).map(findMarker).filter(Boolean);
+
+      // A marker without body stays as plain text (same as GitHub)
+      const alerts = markers.filter(function (marker, i) {
+        return hasBody(marker, markers[i + 1] ? markers[i + 1].paragraph : null);
+      });
+
+      // Hatena Blog merges blockquotes separated by blank lines into one,
+      // so split it into one alert per marker paragraph. Walk backwards so each
+      // segment only holds the nodes up to the next marker.
+      for (let i = alerts.length - 1; i >= 0; i--) {
+        const paragraph = alerts[i].paragraph;
+        let target = blockquote;
+
+        if (paragraph !== blockquote.firstElementChild) {
+          target = blockquote.cloneNode(false);
+          target.removeAttribute('id');
+          // Insert first: moveBefore keeps node state only when moving within the document
+          blockquote.after(target);
+          let node = paragraph;
+          while (node) {
+            const next = node.nextSibling;
+            moveNode(target, node);
+            node = next;
+          }
+        }
+
+        renderAlert(target, alerts[i]);
+      }
+    }
+
+    function convertAlerts(isParsed) {
+      // Only top-level blockquotes written in Markdown (no class, unlike embeds such as twitter-tweet) are alerts
+      const blockquotes = document.querySelectorAll('.entry-content > blockquote:not([class])');
+
+      blockquotes.forEach(function (blockquote) {
+        if (processed.has(blockquote)) {
+          return;
+        }
+        // While loading, skip blockquotes the parser may still be filling (nothing follows them yet)
+        if (!isParsed && !blockquote.nextSibling && !blockquote.parentNode.nextSibling) {
+          return;
+        }
+        processed.add(blockquote);
+        convertBlockquote(blockquote);
+      });
+    }
+
+    if (document.readyState === 'loading') {
+      // Convert blockquotes as soon as they are parsed, so raw "[!NOTE]" quotes are not painted before DOMContentLoaded
+      const observer = new MutationObserver(function () {
+        convertAlerts(false);
+      });
+      observer.observe(document.documentElement, { childList: true, subtree: true });
+      document.addEventListener('DOMContentLoaded', function () {
+        observer.disconnect();
+        convertAlerts(true);
+      });
+    } else {
+      convertAlerts(true);
+    }
+  })();

@@ -2,7 +2,8 @@
 Title: ${TITLE}
 Category:
 - 日記
-CustomPath: yyyy/mm/dd/file-name
+Date: 2029-01-01T00:00:00.000Z
+CustomPath: 2029/01/01/file-name
 Draft: true
 ---
 

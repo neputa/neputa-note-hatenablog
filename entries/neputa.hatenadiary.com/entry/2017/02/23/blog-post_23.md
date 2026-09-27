@@ -33,11 +33,11 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 #### 第１作目『悲しみのイレーヌ』
 
-[https://www.neputa-note.net/2017/01/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2017/01/21/blog-post:embed:cite]
 
 #### 第２作目『その女アレックス』
 
-[https://www.neputa-note.net/2016/05/blog-post_30/:embed:cite]
+[https://www.neputa-note.net/entry/2016/05/30/blog-post_30:embed:cite]
 
 思っていた以上にどっぷりとハマってしまい、できることならば第1作目の『悲しみのイレーヌ』から読み始めたかった。
 

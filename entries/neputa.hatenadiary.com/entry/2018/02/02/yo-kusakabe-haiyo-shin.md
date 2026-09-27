@@ -39,7 +39,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 聞きなれない言葉だったので、読後に「[日本医学会医学用語管理](https://jams.med.or.jp/dic/mdic.html)」や、一般的な辞書に目を通してみたが見当たらない。以前読んだ『無痛』という作品でもリアルな医学用語を造語として登場させていたこともあり、もしかしたら「廃用身」も同じく著者による造語なのかもしれない。
 
-[https://www.neputa-note.net/2017/12/yo-kusakabe.painless/:embed:cite]
+[https://www.neputa-note.net/entry/2017/12/01/yo-kusakabe-painless:embed:cite]
 
 ### 本書の体裁
 

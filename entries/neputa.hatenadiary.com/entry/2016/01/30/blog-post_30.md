@@ -26,7 +26,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 すべてを受容する山のようなその人柄に魅了されると同時に亡くなられてしまったことが残念でならない。 本作品は植村氏が成し遂げたキャリアのうちのエベレスト登頂にフォーカスした著書であるが、以下の作品は彼自身が山に目覚め、どのように世界中を駆け巡ったかを記しており、こちらもまた読みごたえがある作品なので機会があれば是非オススメしたい。
 
-[https://www.neputa-note.net/2016/02/blog-post_11/:embed:cite]
+[https://www.neputa-note.net/entry/2016/02/11/blog-post_11:embed:cite]
 
 <div data-vc_mylinkbox_id='886765705'></div>
 
@@ -38,4 +38,4 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 ## 「山」に関連する記事
 
-[https://www.neputa-note.net/2018/01/books-about-mountain/:embed:cite]
+[https://www.neputa-note.net/entry/2018/01/02/books-about-mountain:embed:cite]

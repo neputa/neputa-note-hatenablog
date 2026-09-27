@@ -31,9 +31,9 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 他の感想記事でも述べているが、中村作品の初期三作品というのは本当にインパクトがあり、読んだ当時の衝撃を今でも思い出すことができる。
 そして本作「銃」はデビュー作にあたる。
 
-[https://www.neputa-note.net/2017/06/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2017/06/27/blog-post:embed:cite]
 
-[https://www.neputa-note.net/2015/05/fuminori-nakamura-children-in-the-soil/:embed:cite]
+[https://www.neputa-note.net/entry/2015/05/03/fuminori-nakamura-children-in-the-soil:embed:cite]
 
 上に挙げた二作品も素晴らしいのだが、本作品もデビュー作ながらとても好きな作品である。
 

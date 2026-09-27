@@ -261,7 +261,7 @@ stages:
 
 既存のYAMLファイルを対象とした新規Pipelineの作成手順は以下記事を参照。
 
-[https://www.neputa-note.net/2021/12/azure-devops-pipelines-existing-yaml/:embed:cite]
+[https://www.neputa-note.net/entry/2021/12/24/azure-devops-pipelines-existing-yaml:embed:cite]
 
 ### Azure DevOps Pipelinesによるリリース
 

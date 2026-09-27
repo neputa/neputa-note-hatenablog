@@ -32,7 +32,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 本作品は、デンマークにおける未解決事件を解決するという名目で、半ば強引に設けられた「特捜部Q」という微妙な名前の捜査本部が活躍するミステリ作品である。
 そしてシリーズものとして続いており、このあたりの経緯は前作の第1作目で詳しく語られている。
 
-[https://www.neputa-note.net/2017/04/blog-post_23/:embed:cite]
+[https://www.neputa-note.net/entry/2017/04/23/blog-post_23:embed:cite]
 
 前作に続きひと癖ある特捜部Qのリーダーであるカールと謎多きシリア系移民のアサドに加え、本作ではローセ・クヌスンという新人ならぬ変人が加わり地下の捜査本部はより混乱に満ち満ちている。
 

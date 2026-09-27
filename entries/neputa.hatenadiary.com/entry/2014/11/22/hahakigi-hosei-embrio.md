@@ -55,7 +55,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 主人公の野心は、本作の続きとなる次作「インターセックス」へと続いていく。
 
-[https://www.neputa-note.net/2014/11/hahakigi-hosei-intersex/:embed:cite]
+[https://www.neputa-note.net/entry/2014/11/15/hahakigi-hosei-intersex:embed:cite]
 
 ### 医療と倫理のせめぎ合い
 

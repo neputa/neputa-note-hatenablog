@@ -27,7 +27,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 残念ながら本作は前者である。
 しかし、先日読んだ『ルームメイト』という作品で感じた古めかしい表現が交じる独特な文体などに魅力を感じ、また読んでみたいと思ったのだ。
 
-[https://www.neputa-note.net/2016/03/blog-post_26/:embed:cite]
+[https://www.neputa-note.net/entry/2016/03/26/blog-post_26:embed:cite]
 
 本作はアガサ・クリスティーの「そして誰もいなくなった」をオマージュ作品でもある。その作品を舞台上演した演劇部の女子高生たちが、演じた役の通りに次々に殺されていくという内容だ。
 

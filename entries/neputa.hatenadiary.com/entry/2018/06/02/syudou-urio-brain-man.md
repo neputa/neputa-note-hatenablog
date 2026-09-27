@@ -152,16 +152,10 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 ## 続編『指し手の顔　脳男2』の感想記事
 
-[https://www.neputa-note.net/2018/06/syudou-urio-brain-man-2/:embed:cite]
+[https://www.neputa-note.net/entry/2018/06/09/syudou-urio-brain-man-2:embed:cite]
 
 ## 著者について
 
 > 首藤瓜於（しゅどう・うりお）<br>
 > 1956年栃木県生まれ。上智大学法学部卒業。会社勤務等を経て、2000年に『脳男』で第46回江戸川乱歩賞を受賞。著書に『事故係　生稲昇太の多感』『指し手の顔　脳男Ⅱ』（上・下）『刑事の墓場』『刑事のはらわた』がある。新刊は『大幽霊烏族　名探偵面鏡真澄』。<br>
 > -- 本書より引用
-
-## 似た作品の感想記事
-
-[https://www.neputa-note.net/2018/02/yo-kusakabe.haiyo-shin/:embed:cite]
-
-[https://www.neputa-note.net/2017/12/yo-kusakabe.painless/:embed:cite]

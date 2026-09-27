@@ -132,7 +132,7 @@ SNSでこれを薦めてくれた方は「読んだ後、透明人間になる�
 
 ちなみに先日読んだ「風景は記憶の順にできていく　椎名誠（著）」に「沈下橋」が紹介されており、偶然のつながりに嬉しくなった。
 
-[https://www.neputa-note.net/2015/02/blog-post_45/:embed:cite]
+[https://www.neputa-note.net/entry/2015/02/19/blog-post_45:embed:cite]
 
 ### 満てる（みてる）
 

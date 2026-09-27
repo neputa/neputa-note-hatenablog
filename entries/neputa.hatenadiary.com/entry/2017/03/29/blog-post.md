@@ -41,7 +41,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 一年ほど前に読んだ「そこのみにて光輝く」が、はじめて読んだ佐藤泰志作品だった。
 
-[https://www.neputa-note.net/2016/05/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2016/05/24/blog-post:embed:cite]
 
 本作品で同じような風景や時代背景が登場する。
 
@@ -135,7 +135,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 函館といえば、以前、真夜中にSNSで中脇初枝の「魚のように」を読んで！と誰あてもなくつぶやいていたのは函館の子だったのを思い出した。
 
-[https://www.neputa-note.net/2015/03/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2015/03/03/blog-post:embed:cite]
 
 <div data-vc_mylinkbox_id='886764104'></div>
 

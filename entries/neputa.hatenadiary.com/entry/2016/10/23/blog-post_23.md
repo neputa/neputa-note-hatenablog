@@ -50,7 +50,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 完全にオリジナルをなぞるといったものではなく、アガサの小説作品を作中に登場させ、作者独自のトリックで事件を描いている。
 
-[https://www.neputa-note.net/2016/06/blog-post_7/:embed:cite]
+[https://www.neputa-note.net/entry/2016/06/07/blog-post_7:embed:cite]
 
 ## 著者について
 

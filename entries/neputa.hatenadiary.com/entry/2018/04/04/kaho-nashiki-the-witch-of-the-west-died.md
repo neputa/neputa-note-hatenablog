@@ -42,7 +42,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 以前、同著者の『春になったら苺を摘みに』というエッセイを読みました。英国で若かりし日々を送った著者の回想が主な内容であり、特にお世話になった下宿先のご主人、ウエスト夫人の存在がいかに彼女に影響を与えたかを綴っていた。
 
-[https://www.neputa-note.net/2018/01/nashiki-kaho-when-spring-comes-to-pick-strawberries/:embed:cite]
+[https://www.neputa-note.net/entry/2018/01/28/nashiki-kaho-when-spring-comes-to-pick-strawberries:embed:cite]
 
 本作の「おばあちゃん」は、頭のなかで、すぐさまウエスト夫人と結びつく。そして「まい」は、幼かった頃の著者なのだろう。そう脳内変換処理をおこない読み進めていく。
 

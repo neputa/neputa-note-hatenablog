@@ -75,11 +75,11 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 #### 第二部作『ふたりの証拠』
 
-[https://www.neputa-note.net/2016/12/epi/:embed:cite]
+[https://www.neputa-note.net/entry/2016/12/05/epi:embed:cite]
 
 #### 第三部作『第三の嘘』
 
-[https://www.neputa-note.net/2017/01/epi/:embed:cite]
+[https://www.neputa-note.net/entry/2017/01/07/epi:embed:cite]
 
 ## 著者について
 

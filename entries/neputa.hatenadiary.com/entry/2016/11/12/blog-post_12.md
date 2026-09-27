@@ -35,7 +35,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 これは自分が本作に対し勝手に抱いていた希望であったがそれはまったくの当て外れであり、本作は新たな事件をサイキックパワーで解決するミステリー作品だった。
 
-[https://www.neputa-note.net/2016/11/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2016/11/03/blog-post:embed:cite]
 
 前畑滋子に依頼を持ち込んだのは12歳の息子を事故で亡くした女性、萩谷敏子。
 
@@ -53,7 +53,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 「火車」はとても面白かった。だが、それ以降、相性のよい作品を見つけられず残念だが、懲りずに他の作品も読んでみようと思う。
 
-[https://www.neputa-note.net/2016/10/blog-post_27/:embed:cite]
+[https://www.neputa-note.net/entry/2016/10/27/blog-post_27:embed:cite]
 
 <div data-vc_mylinkbox_id='886764398'></div>
 

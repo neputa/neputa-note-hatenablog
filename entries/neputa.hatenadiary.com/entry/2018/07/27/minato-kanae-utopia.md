@@ -132,7 +132,7 @@ Twitterのように、他の読書家さんとフォロー・フォロワー関�
 
 ご参考まで。
 
-[https://www.neputa-note.net/2015/01/web/:embed:cite]
+[https://www.neputa-note.net/entry/2015/01/11/web:embed:cite]
 
 ## 著者について
 

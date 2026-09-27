@@ -53,7 +53,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 沢渡という人物は非常に理解しにくい人物であるが、著者は人間の持つ悪意を究極的に純化した状態を描こうと試みてきた経緯があり、それらを参照することでいくらか理解の助けとなるかもしれない。
 
-[https://www.neputa-note.net/2017/04/2/:embed:cite]
+[https://www.neputa-note.net/entry/2017/04/07/2:embed:cite]
 
 そして本作には文献内容を抽象化することをせず、引用に近い形で用いられたおびただしい文章が続く。
 

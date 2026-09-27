@@ -38,15 +38,15 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 ### 第1作『悲しみのイレーヌ』
 
-[https://www.neputa-note.net/2017/01/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2017/01/21/blog-post:embed:cite]
 
 ### 第2作『その女アレックス』
 
-[https://www.neputa-note.net/2016/05/blog-post_30/:embed:cite]
+[https://www.neputa-note.net/entry/2016/05/30/blog-post_30:embed:cite]
 
 ### 第3作『傷だらけのカミーユ』
 
-[https://www.neputa-note.net/2017/02/blog-post_23/:embed:cite]
+[https://www.neputa-note.net/entry/2017/02/23/blog-post_23:embed:cite]
 
 本作『死のドレスを花婿に』は、著者のデビュー作『悲しみのイレーヌ』と『その女アレックス』の間に発表された作品で、その女アレックスの前身であると感じられる点が目立つ。
 

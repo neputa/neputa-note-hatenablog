@@ -36,7 +36,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 美しく、時に目が離せなくなる文章にしばしば出会う。
 
-[https://www.neputa-note.net/2017/05/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2017/05/15/blog-post:embed:cite]
 
 いずれまたほかの作品を読もうと思い、この度手に取ったのが本作品である。
 

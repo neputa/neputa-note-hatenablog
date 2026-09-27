@@ -92,9 +92,9 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 ページ数も、内容の濃さも、本作に負けず劣らず素晴らしい作品だ。
 
-[https://www.neputa-note.net/2015/08/takamura-kaoru.new-rear-king/:embed:cite]
+[https://www.neputa-note.net/entry/2015/08/12/takamura-kaoru-new-rear-king:embed:cite]
 
-[https://www.neputa-note.net/2015/11/takamura-kaoru-horse-pulling-the-sun/:embed:cite]
+[https://www.neputa-note.net/entry/2015/11/02/takamura-kaoru-horse-pulling-the-sun:embed:cite]
 
 ## 著者について
 

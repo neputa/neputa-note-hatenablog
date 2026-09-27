@@ -31,11 +31,11 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 『ラブレス』という作品を最初に読んでから桜木紫乃作品は本作で4作目となる。
 
-[https://www.neputa-note.net/2017/05/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2017/05/15/blog-post:embed:cite]
 
-[https://www.neputa-note.net/2017/09/sakuragi-shino-daremoinai-yorunisaku/:embed:cite]
+[https://www.neputa-note.net/entry/2017/09/28/sakuragi-shino-daremoinai-yorunisaku:embed:cite]
 
-[https://www.neputa-note.net/2017/10/sakuragi-shino-hotel-royal/:embed:cite]
+[https://www.neputa-note.net/entry/2017/10/02/sakuragi-shino-hotel-royal:embed:cite]
 
 出版年で見ると本作は『ホテルローヤル』『誰もいない夜に咲く』の前となる作品だが、その物語としての完成度はもっとも高い印象を受けた。
 

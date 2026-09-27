@@ -23,7 +23,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 先日読んだ『十二年目の映像（帚木蓬生）』に、「[東大安田講堂事件](https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%A4%A7%E5%AE%89%E7%94%B0%E8%AC%9B%E5%A0%82%E4%BA%8B%E4%BB%B6)」をモデルとした場面が描かれていた。
 
-[https://www.neputa-note.net/2015/04/blog-post_26/:embed:cite]
+[https://www.neputa-note.net/entry/2015/04/26/blog-post_26:embed:cite]
 
 年初に見た番組『知の巨人たち　第7回　三島由紀夫 -NHK』で、全共闘の学生と三島による討論の映像が一部使われていたことを思い出した。
 

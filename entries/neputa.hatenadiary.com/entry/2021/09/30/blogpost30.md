@@ -130,7 +130,7 @@ IMAX上映するところまだあるだろうか、できれば一人でも多�
 
 拙い内容ではありますが、下記の記事で見る順番のオススメなどをまとめているので興味がありましたらご覧になってみてください。
 
-[https://www.neputa-note.net/2021/10/gits02/:embed:cite]
+[https://www.neputa-note.net/entry/2021/10/06/gits02:embed:cite]
 
 攻殻機動隊　GHOST IN THE SHELLの感動を多くの人が、味わえるよう願ってやみません。
 

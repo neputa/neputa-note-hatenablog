@@ -85,7 +85,7 @@ FBIのプロファイラーと異なり、ドイツでは捜査権限のある�
 個人的に屈折感があり犯人とのシンクロ率を高め犯人の行動を予見して事件を解決してゆくような変人捜査官が好きだ。
 探偵であるがホームズしかり、その女アレックスなどに登場するカミーユ・ヴェルーヴェンなど。
 
-[https://www.neputa-note.net/2016/05/blog-post_30/:embed:cite]
+[https://www.neputa-note.net/entry/2016/05/30/blog-post_30:embed:cite]
 
 そして、追うものと追われるもののシンクロ率が100％に達したとき、事件が解決にいたる。
 追う側は犯人を知ることで事件を解き、追われる者は自分の最大の理解者であると錯覚してゆく。
@@ -110,10 +110,10 @@ FBIのプロファイラーと異なり、ドイツでは捜査権限のある�
 
 本書の訳者、酒寄進一氏による人気ドイツミステリ作家「フェルディナント・フォン・シーラッハ」について書いた記事。
 
-[https://www.neputa-note.net/2021/09/ferdinand-von-schirach/:embed:cite]
+[https://www.neputa-note.net/entry/2021/09/08/ferdinand-von-schirach:embed:cite]
 
 ## 「ドイツ」に関連する記事
 
-[https://www.neputa-note.net/2021/01/netflix-criminal/:embed:cite]
+[https://www.neputa-note.net/entry/2021/01/31/netflix-criminal:embed:cite]
 
-[https://www.neputa-note.net/2015/01/blog-post_15/:embed:cite]
+[https://www.neputa-note.net/entry/2015/01/15/blog-post_15:embed:cite]

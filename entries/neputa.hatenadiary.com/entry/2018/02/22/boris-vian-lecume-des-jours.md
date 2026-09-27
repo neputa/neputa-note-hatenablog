@@ -68,11 +68,3 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 > 1932年生、東京外国語大学ロシア語学科卒、フランス文学翻訳家<br>
 > 訳書『赤い草』『墓に唾をかけろ』『ヴェルコカンとプランクトン』ボリス・ヴィアン（以上早川書房刊）他多数<br>
 > -- 本書より引用
-
-## 「世界観に特徴のある海外文学」関連の記事
-
-[https://www.neputa-note.net/2015/05/blog-post_29/:embed:cite]
-
-[https://www.neputa-note.net/2015/01/blog-post_23/:embed:cite]
-
-[https://www.neputa-note.net/2015/03/kazuo-ishiguro-dont-let-me-go/:embed:cite]

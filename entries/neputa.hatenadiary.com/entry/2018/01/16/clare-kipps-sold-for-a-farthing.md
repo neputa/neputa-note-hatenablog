@@ -91,7 +91,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 以前「ピスタチオ」という作品を読んだことがある。
 
-[https://www.neputa-note.net/2017/02/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2017/02/01/blog-post:embed:cite]
 
 解説や訳者あとがきからは関係者によるこの作品およびクラレンスへの大きな愛を感じる。
 

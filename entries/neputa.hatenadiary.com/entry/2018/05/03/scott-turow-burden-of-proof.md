@@ -31,7 +31,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 著者のスコット・トゥローは元々アメリカの検事補でありながら、『推定無罪』という作品で作家デビューした経歴を持つ。
 
-[https://www.neputa-note.net/2017/10/scott-turow-presumptuous/:embed:cite]
+[https://www.neputa-note.net/entry/2017/10/30/scott-turow-presumptuous:embed:cite]
 
 地方検事の女性が殺害された事件にまつわる法廷ミステリで、大変読み応えのある作品だった。この作品に登場し主人公を弁護した人物「アレハンドロ・スターン」が、本作品『立証責任』における主役である。
 

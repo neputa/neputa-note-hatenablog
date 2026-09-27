@@ -173,9 +173,9 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 ## 続編の感想はこちら
 
-[https://www.neputa-note.net/2017/12/stieg-larsson-millennium2-girl-who-played-with-fire/:embed:cite]
+[https://www.neputa-note.net/entry/2017/12/29/stieg-larsson-millennium2-girl-who-played-with-fire:embed:cite]
 
-[https://www.neputa-note.net/2018/01/stieg-larsson-millennium3-girl-who-kicked-hornets-nest/:embed:cite]
+[https://www.neputa-note.net/entry/2018/01/10/stieg-larsson-millennium3-girl-who-kicked-hornets-nest:embed:cite]
 
 ## 著者について
 

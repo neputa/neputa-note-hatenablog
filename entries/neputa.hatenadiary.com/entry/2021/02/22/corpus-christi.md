@@ -125,7 +125,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 昨年ごろからNetflixでポーランドのドラマ作品を片っ端から見ている。
 
-[https://www.neputa-note.net/2020/11/netflix-poland/:embed:cite]
+[https://www.neputa-note.net/entry/2020/11/06/netflix-poland:embed:cite]
 
 若いころ、海外でポーランド出身の方々に、たいへんお世話になった時期がある。
 

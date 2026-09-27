@@ -34,14 +34,13 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 ちなみに晴子情歌は晴子という女性がはるか海の向こうで漁をする息子にあてた100通もの手紙が物語のほとんどを占めており、その内容から彼女の人生、そして北国の暮らし、昭和という時代をうかがい知るといった作品である。
 
-[https://www.neputa-note.net/2015/04/takamura-kaoru-haruko-emotional-song/:embed:cite]
+[https://www.neputa-note.net/entry/2015/04/14/takamura-kaoru-haruko-emotional-song:embed:cite]
 
 そしてもうひとつは『孤児列車』という作品。
 
-[https://www.neputa-note.net/2015/05/blog-post_20/:embed:cite]
+[https://www.neputa-note.net/entry/2015/05/20/blog-post_20:embed:cite]
 
-こちらはアメリカが舞台の作品だが大変な時代を生き抜いた女性の人生を知る話という点は同じだ。
-孤児列車という耳慣れぬ時代の遺物に触れる機会にもなる。
+こちらはアメリカが舞台の作品だが大変な時代を生き抜いた女性の人生を知る話という点は同じだ。孤児列車という耳慣れぬ時代の遺物に触れる機会にもなる。
 
 ### そして『ラブレス』はどんな話か
 

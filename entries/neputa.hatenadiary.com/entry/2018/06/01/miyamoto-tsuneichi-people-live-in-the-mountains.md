@@ -109,7 +109,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 個人的に山好きであるということもあり、これまで少ないながらも「山にまつわる本」をいくつか読んできた。簡単に紹介をしているので、興味がある方はのぞいてみていただけると嬉しい。
 
-[https://www.neputa-note.net/2018/01/books-about-mountain/:embed:cite]
+[https://www.neputa-note.net/entry/2018/01/02/books-about-mountain:embed:cite]
 
 ## 著者について
 

@@ -41,7 +41,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 以前読んだ山野井夫妻を描いたノンフィクション『凍（新潮文庫）著：沢木耕太郎』でも感じたことだが、著者の華麗な山行歴以上に、その生命体としての力強さに感動する。
 
-[https://www.neputa-note.net/2016/03/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2016/03/02/blog-post:embed:cite]
 
 ギャチュンカンで多くの指を失い、かつてのような華麗なクライミングができなくなった後の心境をこのように記している。
 
@@ -68,4 +68,4 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 ## 「山」に関連する記事
 
-[https://www.neputa-note.net/2018/01/books-about-mountain/:embed:cite]
+[https://www.neputa-note.net/entry/2018/01/02/books-about-mountain:embed:cite]

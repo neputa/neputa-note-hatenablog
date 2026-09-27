@@ -46,7 +46,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 外見から対比を感じるが、いずれの作品世界も人間を生物学的にとらえ、その進化の過程に着目し、未来世界をシミュレーションした結果を展開したもの。という共通した印象の作品だった。
 
-[https://www.neputa-note.net/2016/06/ja/:embed:cite]
+[https://www.neputa-note.net/entry/2016/06/27/ja:embed:cite]
 
 ### 物語の舞台設定
 

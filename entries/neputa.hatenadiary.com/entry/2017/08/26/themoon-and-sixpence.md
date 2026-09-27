@@ -50,7 +50,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 だがそのような人物はいったいどのような思考をしているのか。
 
-どのように世界を感じ生きているのか。
+のように世界を感じ生きているのか。
 
 またむこうから見る我々の世界とはどのようなものとして捉えられているか。
 
@@ -73,7 +73,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 先日「フィクションはノンフィクションを凌駕する」というテーマで駄文を綴ったが、この「月と六ペンス」は私にとってまさに当てはまる作品だった。
 
-[https://www.neputa-note.net/2017/08/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2017/08/22/blog-post:embed:cite]
 
 ### 月と六ペンスを知るきっかけ
 
@@ -93,7 +93,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 以下の作品でもそうだったが、私は本と実際に出会うまでに2つか3つのキッカケを必要とする面倒な人間であり、今作もまた時間を要してしまった。
 
-[https://www.neputa-note.net/2015/01/blog-post_23/:embed:cite]
+[https://www.neputa-note.net/entry/2015/01/23/blog-post_23:embed:cite]
 
 読み終えたいま、読むキッカケをいただいたことへの感謝の気持ちと共に、いまでも本と6ペンスの方は素晴らしい本と出会い元気に過ごしているだろうかと思いをめぐらせている。
 

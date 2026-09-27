@@ -30,7 +30,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 以前読んだ『サバイバル登山家』では、さまざまな過酷な山行記録を紹介するとともに「生命体としてなまなましく生きたい」という思いや「山で住まうもの、山そのものに対してフェアでありたい」という彼独自の山との向き合い方が伝わっていくる一冊であった。
 
-[https://www.neputa-note.net/2016/01/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2016/01/12/blog-post:embed:cite]
 
 それらの行為は著者が言うところの「テクノロジー」をここ百年ほどの間に人間が用いるようになる以前においては至極あたり前のことであり、言い方を変えれば我々が失ってきたものとも言える。
 
@@ -57,4 +57,4 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 ## 「山」に関連する記事
 
-[https://www.neputa-note.net/2018/01/books-about-mountain/:embed:cite]
+[https://www.neputa-note.net/entry/2018/01/02/books-about-mountain:embed:cite]

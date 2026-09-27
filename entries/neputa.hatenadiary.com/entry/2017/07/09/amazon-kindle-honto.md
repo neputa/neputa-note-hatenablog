@@ -27,7 +27,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 そんなわけで、電子書籍を利用しようと思い立ったときにアマゾンが提供する「Amazon Kindle」を選択するのは極めて自然な流れだったのです。
 
-[https://www.neputa-note.net/2016/10/kindle/:embed:cite]
+[https://www.neputa-note.net/entry/2016/10/11/kindle:embed:cite]
 
 数あるオンラインサービスの中からどこを選択するかは人それぞれで、自分にあったものを使うのが良いと思います。
 
@@ -69,7 +69,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 > [!NOTE]
 > hontoのサービスを詳細に紹介する記事を書いた（2022/01/22）
 
-[https://www.neputa-note.net/2022/01/i-recommend-honto/:embed:cite]
+[https://www.neputa-note.net/entry/2022/01/22/i-recommend-honto:embed:cite]
 
 <hr />
 

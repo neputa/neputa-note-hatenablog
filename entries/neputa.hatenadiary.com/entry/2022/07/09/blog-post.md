@@ -32,7 +32,7 @@ _Photo by [Alejo Reinoso](https://unsplash.com/@alejoreinoso?utm_source=unsplash
 
 そのことを強く認識したのはかつて読んだ中村文則の『銃』である。
 
-[https://www.neputa-note.net/2017/07/jyu-nakamura.fuminori/:embed:cite]
+[https://www.neputa-note.net/entry/2017/07/28/jyu-nakamura-fuminori:embed:cite]
 
 暴力団や警察官による発砲は近年も起きている。だが（まだ断定されているわけではないが）一般市民とされる人物による銃撃事件が起きたことの衝撃は大きい。
 

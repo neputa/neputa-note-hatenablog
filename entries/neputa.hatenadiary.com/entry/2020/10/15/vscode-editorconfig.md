@@ -13,7 +13,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 先日の以下記事の続きです。
 
-[https://www.neputa-note.net/2020/10/vscode-stylecop/:embed:cite]
+[https://www.neputa-note.net/entry/2020/10/10/vscode-stylecop:embed:cite]
 
 主に下記環境および言語を対象とした内容です。
 

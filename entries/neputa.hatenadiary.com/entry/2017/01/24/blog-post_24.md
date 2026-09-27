@@ -31,7 +31,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 本作は以前読んだ『絶叫』という作品の著者、葉真中顕氏の処女作である。
 
-[https://www.neputa-note.net/2016/07/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2016/07/02/blog-post:embed:cite]
 
 絶叫もそうであったが、日本の現代社会を色濃く反映した作品を書かれる方だという印象。そして登場する人物もどこにでもいる、と感じることができる人々であり、あるいは自分かもしれないと錯覚する。
 
@@ -126,7 +126,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 そういえば、安楽死の是非をテーマにした帚木蓬生氏の「安楽病棟」という作品でも、この感覚はあった。
 
-[https://www.neputa-note.net/2014/11/hahakigi-hosei-anraku-ward/:embed:cite]
+[https://www.neputa-note.net/entry/2014/11/29/hahakigi-hosei-anraku-ward:embed:cite]
 
 何もわからなくなってしまった老人たちの手のぬくもりや、かすかな反応から、人間としての温かさを感じ取る看護師の女性を通じ、人間という生き物とはなにかを教えてくれる作品だ。
 

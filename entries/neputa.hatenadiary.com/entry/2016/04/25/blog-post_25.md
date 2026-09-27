@@ -69,6 +69,6 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 ## 「精神医学」に関する読書感想
 
-[https://www.neputa-note.net/2014/11/hahakigi-hosei-the-darkness-of-the-rose-window/:embed:cite]
+[https://www.neputa-note.net/entry/2014/11/08/hahakigi-hosei-the-darkness-of-the-rose-window:embed:cite]
 
-[https://www.neputa-note.net/2010/03/hahakigi-hosei.closed-ward/:embed:cite]
+[https://www.neputa-note.net/entry/2010/03/09/hahakigi-hosei-closed-ward:embed:cite]

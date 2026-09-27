@@ -31,9 +31,9 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 著者の処女作であり三部作の第一作目「悪童日記」、続篇の第二作目「ふたりの証拠」からさらに時を経て、双子は晩年を送る老人としてこの完結篇に登場する。
 
-[https://www.neputa-note.net/2016/11/epi/:embed:cite]
+[https://www.neputa-note.net/entry/2016/11/15/epi:embed:cite]
 
-[https://www.neputa-note.net/2016/12/epi/:embed:cite]
+[https://www.neputa-note.net/entry/2016/12/05/epi:embed:cite]
 
 本作は衝撃的な幕開けとなる。日記の体で語られた双子の少年の日々を綴った一作目、一人は亡命し一心同体の二人が離れて過ごした青年期が描かれた二作目は偽りであることが明かされるのだ。
 

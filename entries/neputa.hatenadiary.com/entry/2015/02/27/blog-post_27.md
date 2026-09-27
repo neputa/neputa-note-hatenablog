@@ -24,7 +24,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 先日、中村文則の最新作「教団X」を読んでいた。
 
-[https://www.neputa-note.net/2015/03/nakamura-fuminori-cult-x/:embed:cite]
+[https://www.neputa-note.net/entry/2015/03/09/nakamura-fuminori-cult-x:embed:cite]
 
 私は足首を掴まれ一気に世界の底へと引きずりこまれた。
 
@@ -64,7 +64,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 大げさに書いてしまったが、単純に「教団X」を読み進めるのがしんどくなり、以前読んだ「翳りゆく夏」が気に入って買い求めた本書を先に読むことしたのである。
 
-[https://www.neputa-note.net/2015/02/blog-post_10/:embed:cite]
+[https://www.neputa-note.net/entry/2015/02/10/blog-post_10:embed:cite]
 
 ### あらためて感想
 

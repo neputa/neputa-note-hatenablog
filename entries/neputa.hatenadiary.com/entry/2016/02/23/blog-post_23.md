@@ -23,7 +23,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 また先日読んだ「孤高の人」のモデルとなった人物でもある。
 
-[https://www.neputa-note.net/2016/02/blog-post_7/:embed:cite]
+[https://www.neputa-note.net/entry/2016/02/07/blog-post_7:embed:cite]
 
 孤高の人では新田氏による加藤文太郎像が、独自のストーリーを織り交ぜながら描かれており、タイトル通り孤独な一面が強く押し出されている向きもある。
 
@@ -49,4 +49,4 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 ## 「山」に関連する記事
 
-[https://www.neputa-note.net/2018/01/books-about-mountain/:embed:cite]
+[https://www.neputa-note.net/entry/2018/01/02/books-about-mountain:embed:cite]

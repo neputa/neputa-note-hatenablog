@@ -34,7 +34,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 「狂人の作品」という印象でしかなかった。
 
-[https://www.neputa-note.net/2017/08/long-wonderful-and-depressing-day-makoto-siina/:embed:cite]
+[https://www.neputa-note.net/entry/2017/08/06/long-wonderful-and-depressing-day-makoto-siina:embed:cite]
 
 後に読んだエッセイで、著者は鬱の気がありこの頃はとくに酷かったと知る。
 

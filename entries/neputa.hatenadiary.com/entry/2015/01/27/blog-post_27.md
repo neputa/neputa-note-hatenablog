@@ -28,9 +28,9 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 先日読んだ「ヤクザマネー」に続き、「悪と仮面のルール（中村文則）」の参考文献をまとめ買いしたうちの一冊。
 
-[https://www.neputa-note.net/2015/01/nhk/:embed:cite]
+[https://www.neputa-note.net/entry/2015/01/20/nhk:embed:cite]
 
-[https://www.neputa-note.net/2014/12/blog-post_28/:embed:cite]
+[https://www.neputa-note.net/entry/2014/12/28/blog-post_28:embed:cite]
 
 ### 軍需産業の現況
 

@@ -28,9 +28,9 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 著書はこの作品の前、以降も人が意識的に抱く「悪意」というものをひとつのテーマとして描き続けている。
 
-[https://www.neputa-note.net/2017/04/2/:embed:cite]
+[https://www.neputa-note.net/entry/2017/04/07/2:embed:cite]
 
-[https://www.neputa-note.net/2015/03/nakamura-fuminori-cult-x/:embed:cite]
+[https://www.neputa-note.net/entry/2015/03/09/nakamura-fuminori-cult-x:embed:cite]
 
 ### 意識的に同種を殺す「人」という種について
 
@@ -61,9 +61,9 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 経済社会がもたらした悪とも言える「ヤクザ」と「軍事ビジネス」を描いた作品であり、とても興味深い内容だった。
 
-[https://www.neputa-note.net/2015/01/nhk/:embed:cite]
+[https://www.neputa-note.net/entry/2015/01/20/nhk:embed:cite]
 
-[https://www.neputa-note.net/2015/01/blog-post_27/:embed:cite]
+[https://www.neputa-note.net/entry/2015/01/27/blog-post_27:embed:cite]
 
 ## 映像化について
 

@@ -24,7 +24,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 物語としては、本作の次に前後して読んでしまった「エンブリオ」という作品の続きとなっている。
 
-[https://www.neputa-note.net/2014/11/hahakigi-hosei-embrio/:embed:cite]
+[https://www.neputa-note.net/entry/2014/11/22/hahakigi-hosei-embrio:embed:cite]
 
 ### インターセックスとは？
 

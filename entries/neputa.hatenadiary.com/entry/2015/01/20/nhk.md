@@ -22,7 +22,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 以前読んだ、「悪と仮面のルール（中村文則）」（参照）の参考文献をまとめ買いしたうちの一冊。
 
-[https://www.neputa-note.net/2014/12/blog-post_28/:embed:cite]
+[https://www.neputa-note.net/entry/2014/12/28/blog-post_28:embed:cite]
 
 金融の世界に詳しくないが、若い企業や株式市場に暴力団が絡むうわさ話は時折耳にしたことがある。
 

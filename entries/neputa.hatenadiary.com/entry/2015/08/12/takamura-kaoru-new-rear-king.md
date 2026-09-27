@@ -29,7 +29,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 『晴子情歌』では、晴子という戦前戦後を生きた女性が、本作の主人公である息子「彰之」に書き送った100通もの手紙が全編のほとんどを成すといった作品であった。
 
-[https://www.neputa-note.net/2015/04/takamura-kaoru-haruko-emotional-song/:embed:cite]
+[https://www.neputa-note.net/entry/2015/04/14/takamura-kaoru-haruko-emotional-song:embed:cite]
 
 晴子は早くに両親を亡くし、津軽の地に300年もの間君臨し続けた大家「福澤」へ奉公に出てから人生が一変する。太平洋戦争の最中、出征直前である福澤家の四男と急遽婚姻し、その後、旦那が出征中のあいだに福澤家直系である長男と関係を持ち、息子「彰之」が生まれる。この福澤家直系の男の名は「榮（さかえ）」という。
 
@@ -53,7 +53,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 そして次は久々の登場となる合田刑事が登場する『太陽を曳く馬』へと物語は続く。
 
-[https://www.neputa-note.net/2015/11/takamura-kaoru-horse-pulling-the-sun/:embed:cite]
+[https://www.neputa-note.net/entry/2015/11/02/takamura-kaoru-horse-pulling-the-sun:embed:cite]
 
 <div data-vc_mylinkbox_id='886766287'></div>
 

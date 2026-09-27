@@ -37,7 +37,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 福澤家直系の血筋でありながら外腹の子であるという複雑な立ち位置が、最高学府を出ていながら遠洋漁業へと彰之を向かわせたのか、やがて彼は船を降り、次作では出家し雲水となる。
 
-[https://www.neputa-note.net/2015/04/takamura-kaoru-haruko-emotional-song/:embed:cite]
+[https://www.neputa-note.net/entry/2015/04/14/takamura-kaoru-haruko-emotional-song:embed:cite]
 
 ### 新リア王について
 
@@ -49,7 +49,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 この時、彰之には学生時代に同棲していた女性の訪問を受け、二人の間に子どもができていたことを知らされる。名前は「秋道」、長編三部作の最終編『太陽を曳く馬』の中心人物の一人である。
 
-[https://www.neputa-note.net/2015/08/takamura-kaoru.new-rear-king/:embed:cite]
+[https://www.neputa-note.net/entry/2015/08/12/takamura-kaoru-new-rear-king:embed:cite]
 
 ## 太陽を曳く馬の感想
 

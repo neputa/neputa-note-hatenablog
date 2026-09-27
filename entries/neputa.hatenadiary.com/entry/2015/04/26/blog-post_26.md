@@ -57,4 +57,4 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 ## 学生運動に関連する作品の感想
 
-[https://www.neputa-note.net/2015/04/blog-post_27/:embed:cite]
+[https://www.neputa-note.net/entry/2015/04/27/blog-post_27:embed:cite]

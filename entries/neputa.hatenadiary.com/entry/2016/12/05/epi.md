@@ -37,11 +37,11 @@ LUCASとCLAUS。何やら紛らわしいなと思うその辺りのことは第�
 
 #### 前作『悪童日記』
 
-[https://www.neputa-note.net/2016/11/epi/:embed:cite]
+[https://www.neputa-note.net/entry/2016/11/15/epi:embed:cite]
 
 #### 次作『第三の嘘』
 
-[https://www.neputa-note.net/2017/01/epi/:embed:cite]
+[https://www.neputa-note.net/entry/2017/01/07/epi:embed:cite]
 
 ### 相変わらずのシンプルな文体
 

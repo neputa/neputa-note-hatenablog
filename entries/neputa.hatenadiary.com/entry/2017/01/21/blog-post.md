@@ -33,11 +33,11 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 #### 第２作『その女アレックス』
 
-[https://www.neputa-note.net/2016/05/blog-post_30/:embed:cite]
+[https://www.neputa-note.net/entry/2016/05/30/blog-post_30:embed:cite]
 
 #### 第３作『傷だらけのカミーユ』
 
-[https://www.neputa-note.net/2017/02/blog-post_23/:embed:cite]
+[https://www.neputa-note.net/entry/2017/02/23/blog-post_23:embed:cite]
 
 タイトルにある「イレーヌ」というのは、アレックスの作中で本作の主人公カミーユ刑事の妻である。どういう命運をたどった人物かがすでに分かってしまっている状態だったのでやや楽しみは半減であった。だがそれを差し引いても十二分に楽しめる作品であったし、圧倒された。
 

@@ -30,7 +30,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 本書は先日より利用し始めた電子書籍「Kindle」で読んだ2冊目の小説。
 
-[https://www.neputa-note.net/2016/10/kindle/:embed:cite]
+[https://www.neputa-note.net/entry/2016/10/11/kindle:embed:cite]
 
 上の三行まとめがすべてであるのだけどもう少し詳しく。
 

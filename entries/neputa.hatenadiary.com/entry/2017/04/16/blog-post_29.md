@@ -72,7 +72,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 本作品を読むきっかけは、「劔岳　点の記」という映画を撮った木村大作監督が、春を背負ってを原作とした映画を撮っているということを知ったことだった。
 
-[https://www.neputa-note.net/2016/01/blog-post_29/:embed:cite]
+[https://www.neputa-note.net/entry/2016/01/29/blog-post_29:embed:cite]
 
 <div data-vc_mylinkbox_id='886763582'></div>
 

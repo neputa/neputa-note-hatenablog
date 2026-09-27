@@ -73,7 +73,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 前回読んだ「火車」は非常に面白かったのだが、思えば狂走する失踪女性が本人視点で描かれることは限定的で、ほとんどが外からの視点であったように思う。
 
-[https://www.neputa-note.net/2016/10/blog-post_27/:embed:cite]
+[https://www.neputa-note.net/entry/2016/10/27/blog-post_27:embed:cite]
 
 そして有馬義男。
 
@@ -93,7 +93,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 本作品には、後日談を交えたミステリ作品として「楽園」という作品がある。こちらも個人的にはあまり入り込めず満喫することは叶わなかったが、その後の彼らがどうなったかを知ることができる意味ではよかった。
 
-[https://www.neputa-note.net/2016/11/blog-post_12/:embed:cite]
+[https://www.neputa-note.net/entry/2016/11/12/blog-post_12:embed:cite]
 
 ## 著者について
 

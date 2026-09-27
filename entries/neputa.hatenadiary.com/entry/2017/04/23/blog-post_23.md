@@ -33,15 +33,15 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 #### フランス人作家「ピエールルメートル」の作品
 
-[https://www.neputa-note.net/2016/05/blog-post_30/:embed:cite]
+[https://www.neputa-note.net/entry/2016/05/30/blog-post_30:embed:cite]
 
 #### ドイツ人作家「ライナー・レフラー」の作品
 
-[https://www.neputa-note.net/2017/04/abelchristo/:embed:cite]
+[https://www.neputa-note.net/entry/2017/04/02/abelchristo:embed:cite]
 
 #### イギリス人作家の大御所「アガサ・クリスティ」の作品
 
-[https://www.neputa-note.net/2016/10/blog-post_23/:embed:cite]
+[https://www.neputa-note.net/entry/2016/10/23/blog-post_23:embed:cite]
 
 ささやかではあるが、小説でさまざまな国々を巡る試みは大変楽しいもので、しばらくは続けていくつもりだった。この作品を読むまでは。
 
@@ -88,7 +88,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 そしてその実はピエール・ルメートルの『その女アレックス』を超える非情な監禁事件と言えるであろう。
 
-[https://www.neputa-note.net/2016/05/blog-post_30/:embed:cite]
+[https://www.neputa-note.net/entry/2016/05/30/blog-post_30:embed:cite]
 
 本作では監禁事件それ自体がとにかくえげつない。犯人の動機、監禁中の扱い、年月をかけた監禁期間、その期間の理由、思い出しただけでも身の毛がよだつ。
 

@@ -44,7 +44,7 @@ Netflixの魅力の1つであるオリジナル作品について、以下のイ
 
 詳しくは前回の記事を参考に。
 
-[https://www.neputa-note.net/2016/06/orange-is-the-new-black/:embed:cite]
+[https://www.neputa-note.net/entry/2016/06/26/orange-is-the-new-black:embed:cite]
 
 何もかもが新鮮で斬新だった。
 
@@ -167,7 +167,7 @@ Netflixの魅力の1つであるオリジナル作品について、以下のイ
 
 以下は別のブログで記した感想記事。
 
-[https://www.neputa-note.net/2011/10/hahakigi-hosei-escape/:embed:cite]
+[https://www.neputa-note.net/entry/2011/10/10/hahakigi-hosei-escape:embed:cite]
 
 HOMELANDも逃亡も、命をかけて戦った者をそれを命じた国家が追い詰めるという悲しい話。
 

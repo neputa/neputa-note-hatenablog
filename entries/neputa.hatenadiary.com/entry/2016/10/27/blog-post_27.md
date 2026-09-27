@@ -130,7 +130,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 そういえば、葉真中顕の「絶叫」も同じような読後感を抱いたことを思い出した。
 
-[https://www.neputa-note.net/2016/07/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2016/07/02/blog-post:embed:cite]
 
 ## 著者について
 

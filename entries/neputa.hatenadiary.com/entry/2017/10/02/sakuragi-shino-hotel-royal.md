@@ -62,9 +62,9 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 それはこれまでに読んだ本作で3冊目となる桜木紫乃作品に共通して感じたことでもある。
 
-[https://www.neputa-note.net/2017/05/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2017/05/15/blog-post:embed:cite]
 
-[https://www.neputa-note.net/2017/09/sakuragi-shino-daremoinai-yorunisaku/:embed:cite]
+[https://www.neputa-note.net/entry/2017/09/28/sakuragi-shino-daremoinai-yorunisaku:embed:cite]
 
 著者はあまり目立たぬような人々にも焦点を当てその人の暮らしや生活の様子をありのままに描く。あまり幸福ではない人が多いように感じる。
 

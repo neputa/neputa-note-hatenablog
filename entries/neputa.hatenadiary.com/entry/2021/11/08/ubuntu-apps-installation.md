@@ -59,7 +59,7 @@ sudo apt install ubuntu-cleaner
 
 興味がある方はこちらの記事を参考にされたし。
 
-[https://www.neputa-note.net/2020/10/joplin/:embed:cite]
+[https://www.neputa-note.net/entry/2020/10/07/joplin:embed:cite]
 
 インストールは下記コマンドを実行する。
 

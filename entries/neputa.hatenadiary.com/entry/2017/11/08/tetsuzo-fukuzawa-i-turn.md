@@ -141,8 +141,8 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 ## 「アウトロー」関連の感想記事
 
-[https://www.neputa-note.net/2017/11/kakine-ryosuke.wild-soul/:embed:cite]
+[https://www.neputa-note.net/entry/2017/11/26/kakine-ryosuke-wild-soul:embed:cite]
 
-[https://www.neputa-note.net/2017/11/tetsuzo-fukuzawa-sujibori/:embed:cite]
+[https://www.neputa-note.net/entry/2017/11/12/tetsuzo-fukuzawa-sujibori:embed:cite]
 
-[https://www.neputa-note.net/2015/01/nhk/:embed:cite]
+[https://www.neputa-note.net/entry/2015/01/20/nhk:embed:cite]

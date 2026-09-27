@@ -35,7 +35,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 ## 経緯
 
 - Astroで開発したこのブログの問い合わせフォームのバックエンドに「Newt」というサービスを使っていた。
-  - [【Astro】Contact FormにValidationとreCAPTCHA v3を追加する - neputa note](https://www.neputa-note.net/2024/07/astro-contactform-recaptchav3-validation/)
+  - [【Astro】Contact FormにValidationとreCAPTCHA v3を追加する - neputa note](https://www.neputa-note.net/entry/2024/07/22/astro-contactform-recaptchav3-validation)
 - コロナ禍に開業した国内のサービスであったが、来年2026年11月24日をもってサービスを終了することが発表された。
 - 当初、候補として考えていた「Formspree」を改めて調査し、実装することにした。
 

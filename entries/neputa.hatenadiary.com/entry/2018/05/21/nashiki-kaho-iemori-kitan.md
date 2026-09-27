@@ -74,7 +74,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 これまで読んできた著者の作品とはだいぶ趣が異なる作品だった。
 
-[https://www.neputa-note.net/2017/02/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2017/02/01/blog-post:embed:cite]
 
 最初に読んだ『ピスタチオ』や『西の魔女が死んだ』は、遠い外国の香り漂う作品だったように思う。
 

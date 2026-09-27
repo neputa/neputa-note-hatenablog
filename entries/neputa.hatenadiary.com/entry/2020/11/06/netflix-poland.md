@@ -64,7 +64,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 話しが反れますが、大好きな映画監督「アキ・カウリスマキ」の作品はこのような特徴が顕著です。
 
-[https://www.neputa-note.net/2018/02/the-otherside-of-hope/:embed:cite]
+[https://www.neputa-note.net/entry/2018/02/15/the-otherside-of-hope:embed:cite]
 
 その他の印象としては「しゃべるとき眉間にしわ寄る人多い」「みんなよくタバコ吸う」「水を飲み干すようにウォッカ飲む」といったところでしょうか。
 

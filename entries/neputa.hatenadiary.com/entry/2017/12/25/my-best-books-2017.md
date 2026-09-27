@@ -58,61 +58,61 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 ### 第10位　第三の嘘（アゴタ・クリストフ）
 
-[https://www.neputa-note.net/2017/01/epi/:embed:cite]
+[https://www.neputa-note.net/entry/2017/01/07/epi:embed:cite]
 
 第二次大戦前後を生き抜く双子の兄弟の物語。この作品はハンガリー出身の作家によるもので彼女自身の体験にもとづく作品と言われています。『悪童日記』から始まる三部作のラストを飾る作品でもあり読み応えばっちり。できることならばもっと若い頃に出会えたらより大きな衝撃を受けただろうなと思いました。
 
 ### 第９位　死のドレスを花婿に（ピエール・ルメートル）
 
-[https://www.neputa-note.net/2017/03/blog-post_27/:embed:cite]
+[https://www.neputa-note.net/entry/2017/03/13/blog-post_27:embed:cite]
 
 『その女アレックス』がベストセラーとなったフランス人作家の作品。執拗に、長きに渡り、少しずつ人の人生を狂わせる。究極胸糞復讐劇でもありますが、読者に驚きをもたらす強烈な仕掛けが見どころのミステリ作品です。アレックスを含むカミーユ警部三部作もよかったですが、こちらの方が個人的には好きですね。
 
 ### 第８位　特捜部Q ―Pからのメッセージ―（ユッシ・エーズラ・オールスン）
 
-[https://www.neputa-note.net/2017/11/jussi-adler-olsen-message-from-p/:embed:cite]
+[https://www.neputa-note.net/entry/2017/11/19/jussi-adler-olsen-message-from-p:embed:cite]
 
 こちらはデンマーク発のシリーズもの。過去の未解決事件を専門に捜査する「特捜部Q」というチームが活躍する物語で、とにかくクセのある人物しか出てこないのも見どころのひとつです。海の荒くれものバイキングの国だからか事件はひたすらに凶悪なものが多いのですが、過去の事件と現在がつながる瞬間に、ある種の快感をもたらしてくれる良作・良シリーズです。
 
 ### 第７位　春を背負って（笹本稜平）
 
-[https://www.neputa-note.net/2017/04/blog-post_29/:embed:cite]
+[https://www.neputa-note.net/entry/2017/04/16/blog-post_29:embed:cite]
 
 こちらは打って変わって日本の山小屋を舞台にした心温まる作品。美しい奥秩父の山々、夏の訪れを告げるシャクナゲのお花畑、自然の魅力が盛りだくさんで癒されます。都市部での生活や人間関係に疲れを感じてる人には最高の清涼剤になること間違いなし。
 
 ### 第６位　老人と海（ヘミングウェイ）
 
-[https://www.neputa-note.net/2017/09/hemingway-oldman-and-sea/:embed:cite]
+[https://www.neputa-note.net/entry/2017/09/21/hemingway-oldman-and-sea:embed:cite]
 
 アメリカを代表する作家アーネスト・ヘミングウェイの作品。老人が漁に出て帰るまでに儚い勝利と敗北が横たわり、まるで人間の一生を描いているかのよう。半世紀以上前の作品ですが、時代を経ても色あせることのない普遍的なテーマを力強く描いた素晴らしい作品。
 
 ### 第５位　Ｉターン（福澤徹三）
 
-[https://www.neputa-note.net/2017/11/tetsuzo-fukuzawa-i-turn/:embed:cite]
+[https://www.neputa-note.net/entry/2017/11/08/tetsuzo-fukuzawa-i-turn:embed:cite]
 
 同期入社の上司にこき使われ家庭ではATM扱い。悲哀たっぷりのサラリーマンが北九州の町で巻き起こす痛快逆転劇。これまで読んでこなかったタイプのエンターテインメント作ですが、なんも考えずに楽しめる。最後に筋を通した者たちをちゃんと称賛する物語構成もまたよし。久々にスカッとする気持ちの良い作品でした。
 
 ### 第４位　起終点駅　ターミナル（桜木紫乃）
 
-[https://www.neputa-note.net/2017/11/sakuragi-shino.terminal/:embed:cite]
+[https://www.neputa-note.net/entry/2017/11/04/sakuragi-shino-terminal:embed:cite]
 
 今年は桜木紫乃さんの作品と出会った年でもありました。最初に読んだのは『ラブレス』でしたが、いずれの作品も著者出身である北海道を舞台に描いており、社会とうまく折り合いがつけられない人々をやさしく包みこむような物語が印象的です。この「ターミナル」は、読んだなかでもっとも新しい作品。かつもっとも研ぎ澄まされた印象があり選びました。桜木マジックに酔いしれる人が増えるといいなと思います。
 
 ### 第３位　推定無罪（スコット・トゥロー）
 
-[https://www.neputa-note.net/2017/10/scott-turow-presumptuous/:embed:cite]
+[https://www.neputa-note.net/entry/2017/10/30/scott-turow-presumptuous:embed:cite]
 
 80年代アメリカ都市部における司法世界を舞台にした作品。しびれるような裁判劇と犯人をめぐるミステリ、そして法とは、人間とは何かと考えさせられる人間ドラマが見事に1つの物語として完結しているのが素晴らしい。冷徹に事実の積み重ねのみを要求する合理性の塊である法と、矛盾をはらみ愚かな振る舞いを止めることができない人間との対比が印象深かったですね。
 
 ### 第２位　ミレニアム１　ドラゴン・タトゥーの女（スティーグ・ラーソン）
 
-[https://www.neputa-note.net/2017/12/stieg-larsson.millennium1-girl-with-dragontattoo/:embed:cite]
+[https://www.neputa-note.net/entry/2017/12/20/stieg-larsson-millennium1-girl-with-dragontattoo:embed:cite]
 
 最初にハリウッド版の映画を見たのですが、話の筋を知っていたにもかかわらず、これほど楽しめるとは予想していなかった！スウェーデンの歴史、宗教や社会問題を背景に重厚かつ長大な物語を展開し、魅力的なキャラクターが軽やかに駆け抜ける。完成度が高く余計なことを考えず一心に没頭できる秀逸なミステリでした。この作品は三部作で、現在は第二部を読んでいます。また本国スウェーデンでは三作とも映像化されており、このあとも楽しみがいっぱいで鼻血が出そうです。
 
 ### 第１位　月と六ペンス（サマセット・モーム）
 
-[https://www.neputa-note.net/2017/08/themoon.and.sixpence/:embed:cite]
+[https://www.neputa-note.net/entry/2017/08/26/themoon-and-sixpence:embed:cite]
 
 いろいろ迷いましたが1位はこの作品としました。著名な画家ゴーギャンをモデルに描いた100年前のベストセラー。といっても、まったく古めかしさを感じさせない作品テーマと、ごく身近な物語に感じさせる人物描写が特徴で、翻訳の力が光る逸品です。
 
@@ -125,7 +125,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 2016年にアマゾンKindleで電子書籍デビューをしたのですが、国内のサービスでよいところがあれば乗り換えようと思い立ち実行に移しました。
 
-[https://www.neputa-note.net/2017/07/amazon-kindle-honto/:embed:cite]
+[https://www.neputa-note.net/entry/2017/07/09/amazon-kindle-honto:embed:cite]
 
 Kindleのサービス自体に不満があったわけではありません。
 

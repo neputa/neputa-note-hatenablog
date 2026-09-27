@@ -40,9 +40,9 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 そしてもちろん本作品「遮光」もその印象が濃厚であり、大好物のひとつだ。
 
-[https://www.neputa-note.net/2017/07/jyu-nakamura.fuminori/:embed:cite]
+[https://www.neputa-note.net/entry/2017/07/28/jyu-nakamura-fuminori:embed:cite]
 
-[https://www.neputa-note.net/2015/05/fuminori-nakamura-children-in-the-soil/:embed:cite]
+[https://www.neputa-note.net/entry/2015/05/03/fuminori-nakamura-children-in-the-soil:embed:cite]
 
 ### 青春文学としての遮光
 
@@ -86,7 +86,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 宗教、歴史、政治など幅広いテーマをひとつに集約しようと試み著者のたたかいぶりが個人的には印象に残る作品であり、その辺りを以前に書きなぐっているので興味がある方は読んでいただけると嬉しい。
 
-[https://www.neputa-note.net/2015/03/nakamura-fuminori-cult-x/:embed:cite]
+[https://www.neputa-note.net/entry/2015/03/09/nakamura-fuminori-cult-x:embed:cite]
 
 ## 著者について
 

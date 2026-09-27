@@ -31,9 +31,9 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 個性際立つキャラクター設定、はじめて挑む北欧ミステリの新鮮さ、1作目で一気に虜になった。しかし二作目でやや逡巡し、三作目はどうしようかと放置していた。
 
-[https://www.neputa-note.net/2017/04/blog-post_23/:embed:cite]
+[https://www.neputa-note.net/entry/2017/04/23/blog-post_23:embed:cite]
 
-[https://www.neputa-note.net/2017/06/q/:embed:cite]
+[https://www.neputa-note.net/entry/2017/06/21/q:embed:cite]
 
 だが読書メーターでは「おもしろかった！」の声をしばしば目にするしやはり気になって仕方なかった。
 

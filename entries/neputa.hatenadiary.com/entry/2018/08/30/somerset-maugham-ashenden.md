@@ -37,7 +37,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 傑作を残したある画家の破天荒な人生について、知人であった作家が語る構成の物語である。
 
-[https://www.neputa-note.net/2017/08/themoon.and.sixpence/:embed:cite]
+[https://www.neputa-note.net/entry/2017/08/26/themoon-and-sixpence:embed:cite]
 
 ### 主人公は著者？
 

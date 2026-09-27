@@ -31,7 +31,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 山への興味を自覚する以前に、高村薫の「マークスの山」を読んだことがありました。
 
-[https://www.neputa-note.net/2015/11/takamura-kaoru.marks-mountain/:embed:cite]
+[https://www.neputa-note.net/entry/2015/11/02/takamura-kaoru-marks-mountain:embed:cite]
 
 直木賞を受賞し、ドラマや映画にもなったことで、ご存知の方も多いかと思います。有名な警察ミステリ作品ですね。
 
@@ -43,7 +43,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 最初に読んだのがこちらです。
 
-[https://www.neputa-note.net/2016/01/blog-post_31/:embed:cite]
+[https://www.neputa-note.net/entry/2016/01/18/blog-post_31:embed:cite]
 
 新田さんは富士山の気象台で仕事をする気象職員を経て作家になられた方で、数多くの山岳小説を残されています。
 
@@ -71,7 +71,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 また浅野忠信主演の映画も素晴らしかったので興味がある方にはぜひ見てほしいです。
 
-[https://www.neputa-note.net/2016/01/blog-post_29/:embed:cite]
+[https://www.neputa-note.net/entry/2016/01/29/blog-post_29:embed:cite]
 
 ### 孤高の人　（新田次郎）
 
@@ -83,7 +83,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 一人で登山をしていた私に大きな勇気をくれた作品でもあります。
 
-[https://www.neputa-note.net/2016/02/blog-post_7/:embed:cite]
+[https://www.neputa-note.net/entry/2016/02/07/blog-post_7:embed:cite]
 
 ### 神々の山嶺（夢枕獏）
 
@@ -93,7 +93,7 @@ V6の岡田准一さんが主演した映画で話題になった作品です。
 
 山に挑む場面はとても迫力がありますが、どちらかといえば人間ドラマとしての要素が幾分強い作品でもありますね。
 
-[https://www.neputa-note.net/2016/02/blog-post_16/:embed:cite]
+[https://www.neputa-note.net/entry/2016/02/16/blog-post_16:embed:cite]
 
 ## 山にまつわる本　～ノンフィクション編～
 
@@ -107,7 +107,7 @@ V6の岡田准一さんが主演した映画で話題になった作品です。
 
 読んでいるあいだ、実際手に汗をかくほどでした。
 
-[https://www.neputa-note.net/2016/03/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2016/03/02/blog-post:embed:cite]
 
 ### アルピニズムと死　（山野井泰史）
 
@@ -121,7 +121,7 @@ V6の岡田准一さんが主演した映画で話題になった作品です。
 
 なぜ死なずにいられたかは不思議と思えるほど過酷な挑戦をしてきた、本人の言葉でその一端が語られている貴重な本です。
 
-[https://www.neputa-note.net/2016/03/blog-post_23/:embed:cite]
+[https://www.neputa-note.net/entry/2016/03/23/blog-post_23:embed:cite]
 
 ### サバイバル登山家　（服部文祥）
 
@@ -137,7 +137,7 @@ V6の岡田准一さんが主演した映画で話題になった作品です。
 
 人間は文明の進化とともに生物として退化していると思います。それに逆行し、原始の力を取り戻さんとする試みは目を見張るものがあります。
 
-[https://www.neputa-note.net/2016/01/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2016/01/12/blog-post:embed:cite]
 
 ### 百年前の山を旅する　（服部文祥）
 
@@ -149,7 +149,7 @@ V6の岡田准一さんが主演した映画で話題になった作品です。
 
 わたしたちの祖先の暮らしを知る旅でもあり多くを考えるきっかけにもなります。
 
-[https://www.neputa-note.net/2016/02/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2016/02/05/blog-post:embed:cite]
 
 ### 青春を山に賭けて
 
@@ -161,7 +161,7 @@ V6の岡田准一さんが主演した映画で話題になった作品です。
 
 そして彼の純粋さが国や人種を越えて人々の心を開き、そして冒険の道も開けていったその事実に心を動かされます。
 
-[https://www.neputa-note.net/2016/02/blog-post_11/:embed:cite]
+[https://www.neputa-note.net/entry/2016/02/11/blog-post_11:embed:cite]
 
 ### エベレストを越えて　（植村直己）
 
@@ -173,7 +173,7 @@ V6の岡田准一さんが主演した映画で話題になった作品です。
 
 歴史に名を刻むほどの大事は、良心だけでは足りないけれど、欲望や野心だけでもダメなのだと、植村さんは教えてくれます。
 
-[https://www.neputa-note.net/2016/01/blog-post_30/:embed:cite]
+[https://www.neputa-note.net/entry/2016/01/30/blog-post_30:embed:cite]
 
 ### 新編 単独行　（加藤文太郎）
 
@@ -185,7 +185,7 @@ V6の岡田准一さんが主演した映画で話題になった作品です。
 
 雪山のように真っ白く純粋な彼の思いに胸を打たれます。
 
-[https://www.neputa-note.net/2016/02/blog-post_23/:embed:cite]
+[https://www.neputa-note.net/entry/2016/02/23/blog-post_23:embed:cite]
 
 ### 空飛ぶ山岳救助隊　（羽根田治）
 
@@ -197,7 +197,7 @@ V6の岡田准一さんが主演した映画で話題になった作品です。
 
 山を楽しませていただいている一人として知っておくべきことがたくさん書かれている一冊でした。
 
-[https://www.neputa-note.net/2015/11/blog-post_4/:embed:cite]
+[https://www.neputa-note.net/entry/2015/11/04/blog-post_4:embed:cite]
 
 ## 山にまつわる本　〜番外編〜
 
@@ -211,7 +211,7 @@ V6の岡田准一さんが主演した映画で話題になった作品です。
 
 都市部で多くの人が暮らす現代において、大自然の中で生活する彼らの姿は新鮮に映るのではないでしょうか。
 
-[https://www.neputa-note.net/2015/05/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2015/05/01/blog-post:embed:cite]
 
 ### 終わりに
 

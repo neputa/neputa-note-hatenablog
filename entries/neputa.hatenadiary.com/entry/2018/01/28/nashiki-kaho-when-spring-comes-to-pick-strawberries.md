@@ -30,9 +30,9 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 以前、同著者による「ピスタチオ」という小説を読んだとき、実在するにもかかわらず掴みどころのないもの、たとえば水のような、何とも表現し難い感覚を味わった。続いて読んだのがスズメと十二年の歳月を共にした夫人による記録集で、こちらは彼女が翻訳を手がけたものだった。
 
-[https://www.neputa-note.net/2017/02/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2017/02/01/blog-post:embed:cite]
 
-[https://www.neputa-note.net/2018/01/clare-kipps-sold-for-a-farthing/:embed:cite]
+[https://www.neputa-note.net/entry/2018/01/16/clare-kipps-sold-for-a-farthing:embed:cite]
 
 この二作を通じ、ぼんやりといつまでも消えることなく残る印象があった。うまく言語化できないそれは、ようやく著者個人への興味だと気づいた次第。
 

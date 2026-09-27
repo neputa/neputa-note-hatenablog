@@ -169,4 +169,4 @@ Netflixで見たドラマ作品はいずれも起伏の多いストーリーで�
 
 ## オススメ韓国ドラマの記事
 
-[https://www.neputa-note.net/2020/10/my-first-korean-drama/:embed:cite]
+[https://www.neputa-note.net/entry/2020/10/21/my-first-korean-drama:embed:cite]

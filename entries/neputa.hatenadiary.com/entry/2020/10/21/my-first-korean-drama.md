@@ -36,7 +36,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 直近では「82年生まれ、キム・ジヨン」という作品を観ましたが、とってもいい映画でした。
 
-[https://www.neputa-note.net/2020/10/born-in-1982-kim-ji-yuoung/:embed:cite]
+[https://neputa.hatenadiary.com/entry/2020/10/12/born-in-1982-kim-ji-yuoung:embed:cite]
 
 いっぽう韓国ドラマというと、かなり大昔の話で恐縮ですが「冬のソナタ」という作品により、多くの人が親しむようになったと記憶しています。
 

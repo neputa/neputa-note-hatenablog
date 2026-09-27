@@ -56,7 +56,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 これは先日読んだ「Iターン」という作品に共通するもので、もしかしたらこの辺りから語られることは著者の常日頃からの思いなのかもしれない。
 
-[https://www.neputa-note.net/2017/11/tetsuzo-fukuzawa-i-turn/:embed:cite]
+[https://www.neputa-note.net/entry/2017/11/08/tetsuzo-fukuzawa-i-turn:embed:cite]
 
 速水の組は亮が盗みをしたクラブのケツ持ちのである側の金光という男を殺す。
 
@@ -70,7 +70,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 有史以降の人類の記録を振り返り観測してみると、異常や異端とされる対象は、現在にかけていかに変化してきたかを知ることができる本だ。
 
-[https://www.neputa-note.net/2016/04/blog-post_25/:embed:cite]
+[https://www.neputa-note.net/entry/2016/04/25/blog-post_25:embed:cite]
 
 善悪も同様に変化しうる、人間たちによる価値観に依存している。
 
@@ -178,8 +178,8 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 ## 「アウトロー」関連の感想記事
 
-[https://www.neputa-note.net/2017/11/kakine-ryosuke.wild-soul/:embed:cite]
+[https://www.neputa-note.net/entry/2017/11/26/kakine-ryosuke-wild-soul:embed:cite]
 
-[https://www.neputa-note.net/2017/11/tetsuzo-fukuzawa-i-turn/:embed:cite]
+[https://www.neputa-note.net/entry/2017/11/08/tetsuzo-fukuzawa-i-turn:embed:cite]
 
-[https://www.neputa-note.net/2015/01/nhk/:embed:cite]
+[https://www.neputa-note.net/entry/2015/01/20/nhk:embed:cite]

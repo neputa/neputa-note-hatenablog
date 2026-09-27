@@ -37,11 +37,11 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 一作目では、40年に渡り社会的に弱い立場にある女性をターゲットに繰り返されていた殺人と、経済界を牛耳る大物の真の姿を暴き出した。
 
-[https://www.neputa-note.net/2017/12/stieg-larsson.millennium1-girl-with-dragontattoo/:embed:cite]
+[https://www.neputa-note.net/entry/2017/12/20/stieg-larsson-millennium1-girl-with-dragontattoo:embed:cite]
 
 二作目では、平然と行われてきた人身売買に切り込み、結果として国家の歴史的な闇へといたる。
 
-[https://www.neputa-note.net/2017/12/stieg-larsson-millennium2-girl-who-played-with-fire/:embed:cite]
+[https://www.neputa-note.net/entry/2017/12/29/stieg-larsson-millennium2-girl-who-played-with-fire:embed:cite]
 
 ここまでくれば結末はある程度予想つくのだが、それでも魅せる最終作。
 
@@ -185,6 +185,6 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 ## ミレニアム１・２の感想
 
-[https://www.neputa-note.net/2017/12/stieg-larsson.millennium1-girl-with-dragontattoo/:embed:cite]
+[https://www.neputa-note.net/entry/2017/12/20/stieg-larsson-millennium1-girl-with-dragontattoo:embed:cite]
 
-[https://www.neputa-note.net/2017/12/stieg-larsson-millennium2-girl-who-played-with-fire/:embed:cite]
+[https://www.neputa-note.net/entry/2017/12/29/stieg-larsson-millennium2-girl-who-played-with-fire:embed:cite]

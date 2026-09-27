@@ -74,7 +74,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 下記記事で「コーディングはできるだけ余計なことをしない、できれば仕組みでさせない様に環境を整えたほうが良いと思っています」と書いたが、アーキテクチャにおいても同じなのだよなと激しく納得した次第。
 
-[https://www.neputa-note.net/2020/10/vscode-stylecop/:embed:cite]
+[https://www.neputa-note.net/entry/2020/10/10/vscode-stylecop:embed:cite]
 
 ### 設計の原則
 

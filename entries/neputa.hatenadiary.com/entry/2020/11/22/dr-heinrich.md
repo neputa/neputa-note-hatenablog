@@ -9,6 +9,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 ---
 
 [f:id:neputa:20260826203053w:plain:alt=アイキャッチ画像]
+_Photo by [AMeeT](https://www.ameet.jp/feature/2933/)_
 
 [:contents]
 
@@ -128,8 +129,4 @@ Dr. ハインリヒの漫才やトークは彼女たちのYoutubeチャンネル
 
 単独ライブに行ってきました。
 
-[https://www.neputa-note.net/2022/10/dr-heinrich/:embed:cite]
-
-<hr />
-
-_Top photo by [AMeeT](https://www.ameet.jp/feature/2933/)_
+[https://www.neputa-note.net/entry/2022/10/09/dr-heinrich:embed:cite]

@@ -108,7 +108,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 透明感のあるうつくしい文学作品で、著者の故郷・四万十川の流れのようにみずみずしい文章に魅せられた。
 
-[https://www.neputa-note.net/2015/03/blog-post/:embed:cite]
+[https://www.neputa-note.net/entry/2015/03/03/blog-post:embed:cite]
 
 ## 付箋を貼った箇所 引用
 

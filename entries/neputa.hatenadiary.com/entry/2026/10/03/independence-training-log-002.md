@@ -1,14 +1,12 @@
 ---
 Title: 障害福祉サービス 自立訓練（生活訓練）の記録 002 【アセスメント】
 Category:
-  - 日記
-  - 視覚障害
-  - 自立訓練
+- 日記
+- 視覚障害
+- 自立訓練
+Date: 2026-10-03T00:00:00+09:00
+URL: https://www.neputa-note.net/entry/2026/10/03/independence-training-log-002
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032085216521
-PreviewURL: https://www.neputa-note.net/draft/entry/jJojLcyD_YSCNmybfGNlNgRoYNE
-Draft: false
-Date: 2026-10-02T15:00:00.000Z
-CustomPath: 2026/10/03/independence-training-log-002
 ---
 
 [f:id:neputa:20260911222846w:plain:alt=曲がりくねった長い道があり向こう側にゴールのようなゲートが見える。スタート地点に歩き始める人間の姿がある。柔らかいトーンのイラスト]

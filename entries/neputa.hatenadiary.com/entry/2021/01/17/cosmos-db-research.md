@@ -184,7 +184,7 @@ C#であれば、書き込み時にToUniversalTime() 、読み込んだらToLoca
 
 その項目の全レコードを取得してから加工するのと、どちらが課金・パフォーマンス的に良いのかまだわかっていないのですが、こんなSQLを書いて取得することもできたよという例です。
 
-```csharp
+```cs
 var utcOffset = TimeZoneInfo.Local.BaseUtcOffset.TotalHours;
 
 // クエリを作成

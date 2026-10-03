@@ -34,7 +34,7 @@ homeディレクトリ配下にデフォルトで作成されている「ダウ�
 
 以下コマンドを実行する
 
-```bash
+```sh
 LANG=C xdg-user-dirs-gtk-update
 ```
 
@@ -48,19 +48,19 @@ LANG=C xdg-user-dirs-gtk-update
 
 homeディレクトリで下記コマンドを実行しディレクトリを作成する
 
-```bash
+```sh
 mkdir Desktop Downloads Templates Public Documents Music Pictures Videos
 ```
 
 設定ファイルを開く
 
-```bash
+```sh
 vi ~/.config/user-dirs.dirs
 ```
 
 ファイルを下記内容に修正する
 
-```text
+```nosyntax
 XDG_DESKTOP_DIR="$HOME/Desktop"
 XDG_DOWNLOAD_DIR="$HOME/Downloads"
 XDG_TEMPLATES_DIR="$HOME/Templates"
@@ -85,13 +85,13 @@ XDG_VIDEOS_DIR="$HOME/Videos"
 
 端末で以下を実行
 
-```bash
+```sh
 gsettings set org.gnome.shell.extensions.dash-to-dock show-trash true
 ```
 
 元に戻す場合
 
-```bash
+```sh
 gsettings reset org.gnome.shell.extensions.dash-to-dock show-trash false
 ```
 
@@ -101,13 +101,13 @@ gsettings reset org.gnome.shell.extensions.dash-to-dock show-trash false
 
 端末で以下を実行
 
-```bash
+```sh
 gsettings set org.gnome.shell.extensions.dash-to-dock show-apps-at-top true
 ```
 
 元に戻す場合
 
-```bash
+```sh
 gsettings reset org.gnome.shell.extensions.dash-to-dock show-apps-at-top
 ```
 
@@ -119,7 +119,7 @@ GUIからディレクトリ操作を行う際に、右クリックから新規�
 
 端末で以下を実行
 
-```bash
+```sh
 touch ~/templates/空のドキュメント
 ```
 
@@ -129,13 +129,13 @@ touch ~/templates/空のドキュメント
 
 端末で以下を実行
 
-```bash
+```sh
 gsettings set org.gnome.mutter auto-maximize false
 ```
 
 元に戻す場合
 
-```bash
+```sh
 gsettings reset org.gnome.mutter auto-maximize
 ```
 
@@ -151,13 +151,13 @@ GUIでファイルを操作する際、デフォルトだとファイルマネ�
 
 端末で以下を実行
 
-```bash
+```sh
 gsettings set org.gnome.nautilus.preferences always-use-location-entry true
 ```
 
 元に戻す場合
 
-```bash
+```sh
 gsettings set org.gnome.nautilus.preferences always-use-location-entry false
 ```
 
@@ -171,7 +171,7 @@ gsettings set org.gnome.nautilus.preferences always-use-location-entry false
 
 これを「NT UI JP」というフォントをインスト−ルして対処する。
 
-```bash
+```sh
 wget https://launchpad.net/~sicklylife/+archive/ubuntu/fonts-ja/+files/fonts-nt-ui-jp_2_all.deb
 sudo apt install ./fonts-nt-ui-jp_2_all.deb
 rm fonts-nt-ui-jp_2_all.deb
@@ -179,7 +179,7 @@ rm fonts-nt-ui-jp_2_all.deb
 
 元に戻す場合
 
-```bash
+```sh
 sudo apt remove -y fonts-nt-ui-jp
 sudo apt autoremove
 ```
@@ -190,7 +190,7 @@ sudo apt autoremove
 
 以下コマンドを実行する
 
-```bash
+```sh
 sudo dpkg-reconfigure keyboard-configuration
 ```
 
@@ -220,7 +220,7 @@ sudo dpkg-reconfigure keyboard-configuration
 
 ### 動画や音楽再生用のコーデックインストール
 
-```bash
+```sh
 sudo apt install ubuntu-restricted-extras
 ```
 
@@ -238,7 +238,7 @@ https://linuxfan.info/setup-gnome-shell-extensions - リンク切れ
 
 gnome-shell-extension-prefsインストール
 
-```bash
+```sh
 sudo apt install gnome-shell-extension-prefs
 ```
 
@@ -250,7 +250,7 @@ Firefoxで以下にアクセスしアドオンを追加する
 
 以下コマンドで必要なパッケージを追加・インストールする
 
-```bash
+```sh
 wget -q https://www.ubuntulinux.jp/ubuntu-ja-archive-keyring.gpg -O- | sudo apt-key add -
 wget -q https://www.ubuntulinux.jp/ubuntu-jp-ppa-keyring.gpg -O- | sudo apt-key add -
 sudo wget https://www.ubuntulinux.jp/sources.list.d/focal.list -O /etc/apt/sources.list.d/ubuntu-ja.list
@@ -269,31 +269,31 @@ sudo apt install ubuntu-defaults-ja
 
 ダウンロードしたファイルの場所で以下コマンドを実行しファイルを展開、展開されたディレクトリへ移動する
 
-```bash
+```sh
 tar xavf ./mozc-* && cd mozc-*/
 ```
 
 以下コマンドを実行し必要なパッケージをインストールする
 
-```bash
+```sh
 sudo apt update && sudo apt upgrade -y && sudo apt install -y devscripts debhelper libibus-1.0-dev pkg-config libxcb-xfixes0-dev libgtk2.0-dev python3-dev gyp protobuf-compiler libprotobuf-dev qtbase5-dev libqwt-qt5-dev libgwengui-qt5-dev libuim-dev libzinnia-dev fcitx-libs-dev gettext desktop-file-utils ninja-build
 ```
 
 以下コマンドでビルドする。私の貧弱マシンでは10分ほどかかった
 
-```bash
+```sh
 sudo ./build_mozc_plus_utdict
 ```
 
 ビルドが終わったら不要なパッケージを削除する
 
-```bash
+```sh
 tail -n 5 /var/log/apt/history.log | grep Install: | sed -e s/"Install: "// | sed -e s/", automatic"//g | sed -e s/"), "/"\n"/g | sed -e s/" (.*$"/""/g | tr '\n' ' ' | xargs sudo apt-get remove -y
 ```
 
 さきほどのビルドにより複数作成されたdebファイルを下記コマンドですべてインストールする
 
-```bash
+```sh
 sudo apt install -y mozc-utils-gui
 sudo dpkg -i ./mozc-data_*.deb ./mozc-server_*.deb ./mozc-utils-gui_*.deb ./ibus-mozc_*.deb ./fcitx-mozc_*.deb
 ```
@@ -330,7 +330,7 @@ sudo dpkg -i ./mozc-data_*.deb ./mozc-server_*.deb ./mozc-utils-gui_*.deb ./ibus
 
 下記コマンドで「gufw」をインストールする
 
-```bash
+```sh
 sudo apt install gufw
 ```
 
@@ -350,7 +350,7 @@ sudo apt install gufw
 
 下記コマンドでフォント一覧のキャッシュを更新する
 
-```bash
+```sh
 fc-cache -fv
 ```
 

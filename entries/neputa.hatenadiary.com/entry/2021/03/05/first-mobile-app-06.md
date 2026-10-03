@@ -258,7 +258,7 @@ DBの接続キーなどシークレット情報をApp Centerのビルド時に�
 
 Environment Variablesは、値を差し込むスクリプトを「appcenter-post-clone.sh」というファイル名でAndroidプロジェクトに用意しておく必要がある。
 
-```bash
+```sh
 #!/usr/bin/env bash
 
 echo "Environment Variables data replace"

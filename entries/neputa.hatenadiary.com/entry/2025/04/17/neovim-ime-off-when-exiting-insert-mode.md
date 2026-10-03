@@ -45,7 +45,7 @@ IMEオフは、Neovimの設定で外部アプリケーションを実行する�
 
 fcitx5は、aptでインストールできる。
 
-```bash
+```sh
 sudo apt update && sudo apt upgrade -y
 sudo apt install fcitx5
 ```

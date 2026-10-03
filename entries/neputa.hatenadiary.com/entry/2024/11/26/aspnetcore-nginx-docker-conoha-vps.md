@@ -164,14 +164,14 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 - 作業用の一般ユーザを作成する
 
-```bash
+```sh
 adduser ユーザ名
 gpasswd -a ユーザ名 sudo
 ```
 
 - 一度ログアウトし、作成したユーザでログインしなおす
 
-```bash
+```sh
 logout
 ```
 
@@ -179,7 +179,7 @@ logout
 
 - デフォルトのエディタ「nano」に不慣れのため、vimに変更する
 
-```shell
+```sh
 sudo apt update
 sudo atp install vim
 sudo update-alternatives --set editor /usr/bin/vim.basic
@@ -188,7 +188,7 @@ sudo update-alternatives --set editor /usr/bin/vim.basic
 - 作業用にnvimもインストールしておく
 - nvimはsnapでインストールする
 
-```shell
+```sh
 sudo apt update
 sudo atp install snapd -y
 sudo snap install nvim --classic
@@ -208,11 +208,11 @@ sudo snap install nvim --classic
   - /etc/ssh/sshd_config
   - /etc/ssh/sshd_config.d/\*.conf
 
-```shell
+```sh
 sudo vim /etc/ssh/sshd_config
 ```
 
-```log
+```messages
 # The strategy used for options in the default sshd_config shipped with
 # OpenSSH is to specify options with their default value where
 # possible, but leave them commented.  Uncommented options override the
@@ -243,7 +243,7 @@ PermitEmptyPasswords no// [!code ++]
 
 ssh.socketとsshを再起動し、設定変更を反映
 
-```shell
+```sh
 sudo systemctl restart ssh.socket
 sudo systemctl restart ssh
 ```
@@ -253,7 +253,7 @@ sudo systemctl restart ssh
 - conohaのコントロールパネルでポートの使用制限を設定したが、OS側にも行っておく
 - ファイアウォールはufwを使用する
 
-```shell
+```sh
 ufw --version
 ufw 0.36.2
 Copyright 2008-2023 Canonical Ltd.
@@ -261,19 +261,19 @@ Copyright 2008-2023 Canonical Ltd.
 
 - 無ければインストールする
 
-```shell
+```sh
 sudo apt update
 sudo apt install ufw
 ```
 
-```shell
+```sh
 sudo ufw enable
 Firewall is active and enabled on system startup
 ```
 
 SSH接続用ポートの通信許可を追加
 
-```shell
+```sh
 sudo ufw allow 40022/tcp
 Rule added
 Rule added (v6)
@@ -281,7 +281,7 @@ Rule added (v6)
 
 設定の確認
 
-```shell
+```sh
 sudo ufw status verbose
 Status: active
 Logging: on (low)
@@ -291,13 +291,13 @@ New profiles: skip
 
 設定の読み込み
 
-```shell
+```sh
 sudo ufw reload
 ```
 
 初期設定のSSH通信許可ルールを削除
 
-```shell
+```sh
 sudo ufw status numbered
 Status: active
 
@@ -314,7 +314,7 @@ Deleting:
 
 削除結果を確認
 
-```shell
+```sh
 sudo ufw status numbered
 Status: active
 
@@ -327,7 +327,7 @@ Status: active
 
 IPv6用の初期設定ルールも削除しておく
 
-```shell
+```sh
 sudo ufw delete 2
 Deleting:
  allow OpenSSH
@@ -335,7 +335,7 @@ Deleting:
 
 再々度確認
 
-```shell
+```sh
 sudo ufw status numbered
 Status: active
 
@@ -347,7 +347,7 @@ Status: active
 
 サーバ再起動
 
-```shell
+```sh
 sudo reboot
 ```
 
@@ -362,7 +362,7 @@ sudo reboot
 
 - vps側のsshディレクトリ権限を修正
 
-```shell
+```sh
 cd ~
 mkdir .ssh
 chmod 700 .ssh
@@ -370,7 +370,7 @@ chmod 700 .ssh
 
 - ローカルで鍵を生成し、VPSに送る
 
-```shell
+```sh
 cd ~/.ssh
 ssh-keygen -f id_rsa_conoha
 ssh-copy-id -p 40022 -i ~/.ssh/id_rsa_conoha.pub remote-user@remote-url
@@ -378,7 +378,7 @@ ssh-copy-id -p 40022 -i ~/.ssh/id_rsa_conoha.pub remote-user@remote-url
 
 - ローカルの~/.ssh/configを修正し「ssh conoha」で接続できるようにする
 
-```text
+```nosyntax
 Host conoha
     HostName リモートのアドレス
     IdentityFile ~/.ssh/id_rsa_conoha
@@ -388,7 +388,7 @@ Host conoha
 
 - 先ほどローカルから送付したvps側の鍵ファイル権限を修正
 
-```shell
+```sh
 cd ~/.ssh
 chmod 600 authorized_keys
 ```
@@ -397,7 +397,7 @@ chmod 600 authorized_keys
 
 - sshd_configを以下のとおり修正
 
-```text
+```nosyntax
 sudo vim /etc/ssh/sshd_config
 
 PasswordAuthentication yes   # 変更前
@@ -407,7 +407,7 @@ PasswordAuthentication no    # 変更後
 
 - sshd_configに、「Include /etc/ssh/sshd_config.d/\*.conf」とある通り、該当ファイルの内容も修正しておく必要がある
 
-```shell
+```sh
 ls /etc/ssh/sshd_config.d
 50-cloud-init.conf
 sudo vim /etc/ssh/sshd_config.d/50-cloud-init.conf
@@ -416,13 +416,13 @@ PasswordAuthentication no
 
 - sshdを再起動し設定を反映
 
-```shell
+```sh
 sudo systemctl restart sshd
 ```
 
 - 設定の反映状況を確認
 
-```shell
+```sh
 sudo sshd -T | grep passwordauthentication
 passwordauthentication no
 ```
@@ -448,7 +448,7 @@ passwordauthentication no
 - 今回設定したドメインはmakuta-kobo-app.top
 - ドメイン本体と、実際に運用するサブドメインと併せて実行する
 
-```shell
+```sh
 sudo certbot certonly --standalone -d makuta-kobo-app.top -d www.makuta-kobo-app.top
 Saving debug log to /var/log/letsencrypt/letsencrypt.log
 Requesting a certificate for makuta-kobo-app.top and www.makuta-kobo-app.top
@@ -474,7 +474,7 @@ If you like Certbot, please consider supporting our work by:
 - webアプリのDockerイメージを作成し、Docker Hubにアップロードする
 - まずプロジェクト直下にDockerfileを作る
 
-```docker
+```conf
 # https://hub.docker.com/_/microsoft-dotnet
 FROM mcr.microsoft.com/dotnet/sdk:8.0-jammy AS build
 WORKDIR /source
@@ -502,7 +502,7 @@ ENTRYPOINT ["./OneThird.WebAPI"]
 
 - Program.csに以下を追加
 
-```csharp
+```cs
 app.UseForwardedHeaders(new ForwardedHeadersOptions
 {
     ForwardedHeaders = ForwardedHeaders.XForwardedFor | ForwardedHeaders.XForwardedProto
@@ -511,19 +511,19 @@ app.UseForwardedHeaders(new ForwardedHeadersOptions
 
 - dockerイメージをビルド
 
-```shell
+```sh
 docker build -t onethird-api:latest .
 ```
 
 - Docker Hub にログイン
 
-```shell
+```sh
 docker login -u ユーザ名 -p パスワード
 ```
 
 - Docker Hub にアップロード
 
-```shell
+```sh
 docker tag onethird-api sa39bo/repos:latest
 docker push sa39bo/repos
 ```
@@ -532,13 +532,13 @@ docker push sa39bo/repos
 
 - conohaに作業ディレクトリ、nginxディレクトリを作成する
 
-```shell
+```sh
 mkdir -p ~/work/myproject/nginx
 ```
 
 - 3つのファイルを格納する
 
-```docker
+```conf
 FROM nginx:latest
 
 COPY ./nginx.conf /etc/nginx/nginx.conf
@@ -550,7 +550,7 @@ CMD [ "nginx", "-g", "daemon off;" ]
 
 - nginx.conf
 
-```text
+```nosyntax
 worker_processes 1;
 
 events { worker_connections 1024; }
@@ -564,7 +564,7 @@ http {
 
 - site.conf.template
 
-```text
+```nosyntax
 upstream web-app {
     server ${BACKEND_HOST};
 }
@@ -620,7 +620,7 @@ services:
 
 - あとはDocker Composeでアプリを起動すれば終了
 
-```shell
+```sh
 docker compose up -d
 ```
 

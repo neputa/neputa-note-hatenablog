@@ -35,7 +35,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 マイクロソフトのOffice互換アプリケーション。念のため入れておく。
 
-```bash
+```sh
 sudo add-apt-repository -n ppa:libreoffice/ppa
 sudo apt update
 sudo apt dist-upgrade -y
@@ -47,7 +47,7 @@ sudo apt dist-upgrade -y
 
 よくあるCleanerアプリのUbuntu版
 
-```bash
+```sh
 sudo apt install ubuntu-cleaner
 ```
 
@@ -63,7 +63,7 @@ sudo apt install ubuntu-cleaner
 
 インストールは下記コマンドを実行する。
 
-```bash
+```sh
 wget -O - https://raw.githubusercontent.com/laurent22/joplin/master/Joplin_install_and_update.sh | bash
 ```
 
@@ -79,7 +79,7 @@ wget -O - https://raw.githubusercontent.com/laurent22/joplin/master/Joplin_insta
 
 以下コマンドを実行しインストールする
 
-```bash
+```sh
 sudo apt install ダウンロードした.debファイル
 sudo apt install -y apt-transport-https
 sudo apt update

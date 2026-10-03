@@ -59,7 +59,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 #### ListRelatedPosts.astro
 
-```astro
+```jsx
 ---
 import type { CollectionEntry } from 'astro:content'
 import { getPosts } from '@/utils'
@@ -104,7 +104,7 @@ const relatedPosts = posts
 
 - 次に、ListRelatedPosts.astro にレンダリングを実装する
 
-```astro
+```jsx
 ---
 /*--- 省略 ---*/
 ---
@@ -143,7 +143,7 @@ const relatedPosts = posts
 
 #### [...slug].astro
 
-```astro
+```jsx
 ---
 import { type CollectionEntry } from 'astro:content'
 import BlogPost from '@/layouts/BlogPost'

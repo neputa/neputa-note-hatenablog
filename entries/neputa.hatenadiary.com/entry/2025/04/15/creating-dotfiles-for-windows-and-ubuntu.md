@@ -106,7 +106,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 **.dotfiles/**_
 
-```bash
+```sh
 .
 ├── Setup-Windows.ps1
 ├── setup_ubuntu.sh
@@ -134,7 +134,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 - 既存の設定ファイルがある場合は、バックアップが作成される
 - その後、アプリケーションのインストールが行われる
 
-```bash
+```sh
 bash -c "$(wget -qO- https://raw.githubusercontent.com/neputa/dotfiles/refs/heads/main/setup_ubuntu.sh)"
 ```
 
@@ -142,7 +142,7 @@ bash -c "$(wget -qO- https://raw.githubusercontent.com/neputa/dotfiles/refs/head
 - 実行すると、C:\Users\user\.dotfilesにリポジトリがクローンされる
 - その後の処理は、Ubuntuと同様
 
-```powershell
+```ps1
 Invoke-Expression (Invoke-WebRequest -Uri "https://raw.githubusercontent.com/neputa/dotfiles/refs/heads/main/Setup-Windows.ps1").Content
 ```
 

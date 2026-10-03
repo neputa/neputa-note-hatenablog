@@ -87,7 +87,7 @@ UserSecretsとAzure DevOps Pipelines Libraryの詳細は以下を参照
 
 #### CosmosDBConstants.cs
 
-```csharp
+```cs
 namespace OneThirdCL.Infrastructure.CosmosDb;
 
 internal static class CosmosDBConstants
@@ -117,20 +117,20 @@ ASP.NET Coreアプリケーションの場合、新規作成したアプリケ�
 
 #### Program.cs
 
-```csharp
+```cs
 var builder = WebApplication.CreateBuilder(args);
 ```
 
 よってすぐに使用できる。
 
-```csharp
+```cs
 var builder = WebApplication.CreateBuilder(args);
 var movieApiKey = builder.Configuration["Movies:ServiceApiKey"];
 ```
 
 ASP.NET Core以外の場合はこのように記述することで、同様に設定情報を使用することができる。
 
-```csharp
+```cs
 var builder = new ConfigurationBuilder()
   .AddJsonFile(path: "appsettings.json")
   .AddEnvironmentVariables()
@@ -191,7 +191,7 @@ ConfigurationBuilderで設定ファイルプロバイダ作成するクラス。
 
 ConfigManager.Settings["NodeName"]; で、シークレット情報を読み込めるようにする。
 
-```csharp
+```cs
 using System.IO;
 using System.Reflection;
 using Microsoft.Extensions.Configuration;
@@ -237,7 +237,7 @@ CosmosDbで使用するConstantsを定義するクラス。
 
 ConfigManagerクラスを使用してシークレット情報を設定している。
 
-```csharp
+```cs
 namespace OneThirdCL.Infrastructure.CosmosDb;
 
 internal static class ConstantsCosmosDB
@@ -260,7 +260,7 @@ internal static class ConstantsCosmosDB
 
 ローカルの開発環境で使用するCosmosDbの接続情報。
 
-```csharp
+```cs
 {
   "CosmosdbDatabaseId": "DatabaseId",
   "CosmosdbCollectionId": "CollectionId",

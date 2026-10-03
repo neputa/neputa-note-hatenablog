@@ -63,31 +63,31 @@ vi
 
 ターミナルを起動し、root権限にスイッチする
 
-```bash
+```sh
 sudo su -
 ```
 
 aptディレクトリに移動
 
-```bash
+```sh
 cd /etc/apt
 ```
 
 sources.listファイルのバックアップ
 
-```bash
+```sh
 cp -p sources.list sources.list.$(/bin/date +"%Y%m%d")
 ```
 
 sources.listファイル内のdeb-srcのコメントアウトを解除
 
-```bash
+```sh
 sed -i -e "s/# deb-src/deb-src/" sources.list
 ```
 
 root権限から通常ユーザに戻る
 
-```bash
+```sh
 exit
 ```
 
@@ -95,7 +95,7 @@ exit
 
 build-essential devscriptsをインストール
 
-```bash
+```sh
 sudo apt update
 sudo apt upgrade -y
 sudo apt install build-essential devscripts -y
@@ -103,7 +103,7 @@ sudo apt install build-essential devscripts -y
 
 fcitx-mozをビルドする時に依存するパッケージをインストール
 
-```bash
+```sh
 sudo apt build-dep fcitx-mozc -y
 ```
 
@@ -111,13 +111,13 @@ sudo apt build-dep fcitx-mozc -y
 
 fcitx-mozcのソースをダウンロード
 
-```bash
+```sh
 sudo apt source fcitx-mozc
 ```
 
 viでソースファイルを開く
 
-```bash
+```sh
 vi $(find ./ -type f -name property_handler.cc)
 ```
 
@@ -145,14 +145,14 @@ const bool kActivatedOnLaunch = true;
 
 修正したfcitx-mozcをビルドする
 
-```bash
+```sh
 cd mozc*/
 dpkg-buildpackage -us -uc -b
 ```
 
 fcitx-mozcをインストールする
 
-```bash
+```sh
 sudo dpkg -i ../mozc*.deb ../ibus-mozc*.deb
 ```
 

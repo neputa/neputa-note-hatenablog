@@ -56,7 +56,7 @@ VSCodeでVimエミュレータの拡張機能を使用しているが、何か�
 
 ※NeovimのパスはC:\Apps\Neovimを前提にしているので適宜修正を（6カ所）
 
-```reg
+```registry
 Windows Registry Editor Version 5.00
 
   [HKEY_CLASSES_ROOT\*\shell\nvim]

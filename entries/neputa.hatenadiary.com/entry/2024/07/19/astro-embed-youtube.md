@@ -53,7 +53,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 - プロジェクトにastro-embedをインストール
 
-```bash
+```sh
 pnpm add -D astro-embed
 ```
 
@@ -64,7 +64,7 @@ pnpm add -D astro-embed
 
 #### astro-embed-test.mdx
 
-```mdx
+```markdown
 ---
 title: 'astro-embedを試す'
 description: 'TwitterとYoutubeの埋め込みを表示してみる'

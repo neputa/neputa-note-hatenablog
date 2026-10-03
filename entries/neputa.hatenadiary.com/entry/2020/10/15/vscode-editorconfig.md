@@ -119,7 +119,7 @@ Globが使用できます。
 
 以下は、[editorconfig.org](https://editorconfig.org/)にあるサンプルです。
 
-```ini
+```dosini
 # EditorConfig is awesome: https://EditorConfig.org
 
 # top-most EditorConfig file
@@ -168,7 +168,7 @@ indent_size = 2
 
 たとえば、C#ではthisを省略できますが、以下はこのルールを定義するケースです。
 
-```ini editor-config
+```dosini
 # Avoid "this." and "Me." if not necessary
 # dotnet_style_qualification_for_field = false:warning
 dotnet_style_qualification_for_property = false:warning
@@ -204,7 +204,7 @@ warningの部分を、suggestionに変更すると、警告ではなく、情報
 
 みなさま良きコーディングライフを！
 
-```ini
+```dosini
 # .editorconfig について詳しくは、次をご覧ください
 # https://aka.ms/editorconfigdocs
 

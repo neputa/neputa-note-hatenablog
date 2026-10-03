@@ -46,7 +46,7 @@ Visual Studio上でUnit Testを実行するものの、テストがRunしない�
 
 出力 → 出力元（S）: → テストを開くと下記のログが出力されていた。
 
-```log
+```messages
 ログのレベルは、情報 (既定) に設定されています。 System.IO.FileLoadException:
 ファイルまたはアセンブリ 'Microsoft.VisualStudio.LiveShare, Version=1.16.0.0, Culture=neutral,
   PublicKeyToken=b03f5f7f11d50a3a'、またはその依存関係の 1

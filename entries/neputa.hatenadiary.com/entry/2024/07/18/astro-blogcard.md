@@ -74,7 +74,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 #### BlogCard.astro
 
-```astro
+```jsx
 ---
 import { Image } from 'astro:assets'
 
@@ -125,7 +125,7 @@ const { title, description, url, domain } = Astro.props
 
 次のコードをブラウザのブックマークに保存して使用する。
 
-```text
+```nosyntax
 javascript:(function(){const t=document.createElement("style");t.innerHTML="\n    .custom-dialog {\n      color: #fff;\n%20%20%20%20%20%20overflow:%20auto;\n%20%20%20%20%20%20max-width:%2080%;\n%20%20%20%20%20%20max-height:%2080%;\n%20%20%20%20%20%20position:%20fixed;\n%20%20%20%20%20%20top:%2050%;\n%20%20%20%20%20%20left:%2050%;\n%20%20%20%20%20%20transform:%20translate(-50%,%20-50%);\n%20%20%20%20%20%20padding:%2020px;\n%20%20%20%20%20%20background-color:%20#171717;\n%20%20%20%20%20%20box-shadow:%200%202px%2010px%20rgba(0,%200,%200,%200.1);\n%20%20%20%20%20%20z-index:%2010000;\n%20%20%20%20%20%20font-size:14px;\n%20%20%20%20}\n%20%20%20%20.custom-dialog-overlay%20{\n%20%20%20%20%20%20position:%20fixed;\n%20%20%20%20%20%20top:%200;\n%20%20%20%20%20%20left:%200;\n%20%20%20%20%20%20width:%20100%;\n%20%20%20%20%20%20height:%20100%;\n%20%20%20%20%20%20background:%20rgba(0,%200,%200,%200.4);\n%20%20%20%20%20%20z-index:%209999;\n%20%20%20%20}\n%20%20%20%20.custom-dialog-close%20{\n%20%20%20%20%20%20float:%20right;\n%20%20%20%20%20%20cursor:%20pointer;\n%20%20%20%20}\n%20%20",document.head.appendChild(t);const%20e=()=>document.title,n=t=>{const%20e=document.querySelector(`meta[property='${t}']`);return%20e?e.getAttribute("content"):void%200},o={title:n("og:title")||e(),desp:n("og:description")||"",url:document.URL,domain:location.host},r=t=>t.replace(/["'\\\n\r]/g,function(t){switch(t){case'"':return"&quot;";case"'":return"&#39;";case"\\":return"\\\\";case"\n":case"\r":return"";default:return%20t}}),c=`\n%20%20%20%20&lt;BlogCard\n%20%20%20%20title="${r(o.title)}"\n%20%20%20%20description="${r(o.desp)}"\n%20%20%20%20url='${o.url}'\n%20%20%20%20domain='${o.domain}'%20/&gt;\n%20%20`,a=document.createElement("div");a.className="custom-dialog-overlay";const%20i=document.createElement("div");i.className="custom-dialog",i.innerHTML=`<pre>${c}</pre><button%20class="custom-dialog-close">%E9%96%89%E3%81%98%E3%82%8B</button>`,a.appendChild(i),document.body.appendChild(a),i.querySelector(".custom-dialog-close").onclick=(()=>{document.body.removeChild(a)}),navigator.clipboard.writeText(c.trim().replace("&lt;","<").replace("&gt;",">")).then(()=>{alert("%E3%82%B3%E3%83%94%E3%83%BC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F")}).catch(t=>{alert("%E3%82%B3%E3%83%94%E3%83%BC%E3%81%AB%E5%A4%B1%E6%95%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F:%20",t)})})();
 ```
 

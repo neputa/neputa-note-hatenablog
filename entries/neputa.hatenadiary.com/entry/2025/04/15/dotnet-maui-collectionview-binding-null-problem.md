@@ -134,7 +134,7 @@ XAMLでコンパイル済みのバインドを使用しているが、エラー�
 
 **Item.cs**_
 
-```csharp
+```cs
 namespace CollectionViewDemos.Models;
 
 public class Item

@@ -117,76 +117,104 @@ body.theme-light .global-nav a:focus {
   outline-color: #0056b3 !important;
 }
 
-/* Shiki コードブロック */
-pre.shiki {
-    background-color: #0d1117;
-    border: 1px solid #30363d;
-    border-radius: 8px;
-    overflow: hidden;
-    padding: 0;
-    position: relative;
+/* コードブロックのラッパー要素 */
+.code-block-wrapper {
+  position: relative;
+  margin: 1em 0;
 }
 
-pre.shiki::before {
-    background-color: #21262d;
-    border-bottom: 1px solid #30363d;
-    color: #c9d1d9;
-    content: attr(data-lang);
-    display: block;
-    font-size: .85rem;
-    font-weight: 700;
-    line-height: 24px;
-    padding: 8px 16px;
+/* コードブロック自体のスタイル調整 */
+.code-block-wrapper pre.code {
+  margin: 0;
 }
 
-pre.shiki code {
-    counter-reset: step;
-    display: block;
-    font-size: 14px;
-    line-height: 1.5;
-    overflow-x: auto;
-    padding: 16px;
+/* 折り返しなしのコードブロック (デフォルト) */
+.code-block-wrapper pre.code.nowrap {
+  white-space: pre;
+  overflow-x: auto;
+  text-overflow: initial;
 }
 
-pre.shiki .line {
-    display: inline-block;
-    width: 100%;
+/* 折り返しありのコードブロック */
+.code-block-wrapper pre.code.wrap {
+  white-space: pre-wrap;
+  overflow-x: visible;
 }
 
-pre.shiki .line::before {
-    color: #6e7681;
-    content: counter(step);
-    counter-increment: step;
-    margin-right: 1.5em;
-    opacity: .9;
-    user-select: none;
-    width: 3em;
+/* コードブロックボタン共通のスタイル */
+.code-copy-button,
+.code-wrap-toggle {
+  position: absolute;
+  top: 0rem;
+  margin: 15px;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  background-color: var(--bg-code-light, #1a2737);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 18px 18px;
+  border: 1px solid var(--bg-code-light, #1a2737);
+  border-radius: 4px;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.2s, background-color 0.2s;
 }
 
-.copy-btn {
-    background-color: #30363d;
-    border: 1px solid #6e7681;
-    border-radius: 4px;
-    color: #c9d1d9;
-    cursor: pointer;
-    font-size: .75rem;
-    padding: 4px 10px;
-    position: absolute;
-    top: 6px;
-    right: 10px;
-    transition: all .2s;
-    z-index: 10;
+/* コピーボタンのスタイル */
+.code-copy-button {
+  right: 0rem;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='none' stroke='rgba(255, 255, 255, 0.75)' stroke-width='1.4' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath fill-rule='evenodd' d='M2 11 V3.5 A1.5 1.5 0 0 1 3.5 2 H10' /%3E%3Crect fill-rule='evenodd' x='5' y='5' width='9' height='9' rx='1.5' /%3E%3C/svg%3E");
 }
 
-.copy-btn:hover {
-    background-color: #6e7681;
-    border-color: #8b949e;
-    color: #fff;
-
+/* 折り返し切り替えボタンのスタイル */
+.code-wrap-toggle {
+  right: 2.5rem;
+  /* コピーボタンの左に配置 */
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='rgba(255, 255, 255, 0.75)' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='7 8 3 12 7 16'/%3E%3Cpolyline points='17 8 21 12 17 16'/%3E%3Cline x1='3' y1='12' x2='21' y2='12'/%3E%3C/svg%3E");
 }
 
-.copy-btn.copied {
-    background-color: #2ea043;
-    border-color: #2ea043;
-    color: #fff;
+@media (max-width: 768px) {
+
+  .code-copy-button,
+  .code-wrap-toggle {
+    width: 24px;
+    height: 24px;
+    background-size: 16px 16px;
+  }
+}
+
+/* ホバー時のスタイル */
+.code-copy-button:hover,
+.code-wrap-toggle:hover {
+  opacity: 1 !important;
+  background-color: var(--bg-code-light, #1a2737);
+}
+
+/* フォーカス時のスタイル */
+.code-copy-button:focus,
+.code-wrap-toggle:focus {
+  outline: none;
+}
+
+/* コードブロックラッパーホバー時にボタンを表示 */
+.code-block-wrapper:hover .code-copy-button,
+.code-block-wrapper:hover .code-wrap-toggle {
+  opacity: 0.75;
+}
+
+/* ツールチップのスタイル */
+.code-copy-button[title]:hover::after,
+.code-wrap-toggle[title]:hover::after {
+  content: attr(title);
+  position: absolute;
+  top: -40px;
+  right: 0;
+  padding: 4px 8px;
+  background-color: var(--bg-code-light, #1a2737);
+  color: var(--text-code-tooltip, #c9d1d9);
+  border-radius: 4px;
+  font-size: 12px;
+  white-space: nowrap;
+  z-index: 10;
 }

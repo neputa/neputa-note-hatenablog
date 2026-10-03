@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2026/05/12/why-do-diseases-exist
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074769416
 ---
 
-[f:id:neputa:20260907130246w:plain:alt=遺伝子や生物進化を抽象的なイラストで表現したアイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260907/20260907130246.webp" alt="遺伝子や生物進化を抽象的なイラストで表現したアイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

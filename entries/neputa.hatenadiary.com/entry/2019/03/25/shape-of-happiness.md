@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2019/03/25/shape-of-happiness
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069087641
 ---
 
-[f:id:neputa:20260825211141w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260825/20260825211141.webp" alt="アイキャッチ画像 夕暮れの湖畔のイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 ## 久しぶりの投稿
 

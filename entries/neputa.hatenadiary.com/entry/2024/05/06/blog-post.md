@@ -7,7 +7,7 @@ URL: https://neputa.hatenadiary.com/entry/2024/05/06/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072992368
 ---
 
-[f:id:neputa:20260903005318w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260903/20260903005318.webp" alt="アイキャッチ画像 夕暮れの湖畔のイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 いま命ある者たちより、いなくなってしまった者たちを思う時間が長い。
 

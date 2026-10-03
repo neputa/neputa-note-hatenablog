@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2015/08/12/takamura-kaoru-new-rear-king
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067856521
 ---
 
-[f:id:neputa:20260822132603w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260822/20260822132603.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2021/09/22/blogpost22
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070846948
 ---
 
-[f:id:neputa:20260829224723w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260829/20260829224723.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 _Photo by [Jesus Loves Austin](https://unsplash.com/ja/@jesuslovesaustin?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) in [Unsplash](https://unsplash.com/ja/%E5%86%99%E7%9C%9F/%E8%A1%97%E3%81%AE%E6%98%8E%E3%81%8B%E3%82%8A%E3%81%AE%E5%86%99%E7%9C%9F%E3%82%92%E6%92%AE%E3%82%8B%E9%BB%92%E3%81%84%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E4%B8%80%E7%9C%BC%E3%83%AC%E3%83%95%E3%82%AB%E3%83%A1%E3%83%A9-0O0gux4OZX4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)_
 
 [:contents]

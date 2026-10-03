@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2015/11/02/takamura-kaoru-marks-mountain
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067857039
 ---
 
-[f:id:neputa:20260822145622w:plain:alt=マークスの山 表紙]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260822/20260822145622.webp" alt="マークスの山 表紙" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

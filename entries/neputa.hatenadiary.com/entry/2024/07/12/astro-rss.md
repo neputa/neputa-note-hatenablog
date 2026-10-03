@@ -10,7 +10,7 @@ URL: https://www.neputa-note.net/entry/2024/07/12/astro-rss
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073380883
 ---
 
-[f:id:neputa:20260904020247w:plain:alt=宇宙が背景のAstroとRSSのロゴ]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260904/20260904020247.webp" alt="宇宙が背景のAstroとRSSのロゴ" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

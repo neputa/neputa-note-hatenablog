@@ -10,7 +10,7 @@ URL: https://www.neputa-note.net/entry/2024/07/20/astro-lazy-loading-analytics
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073027605
 ---
 
-[f:id:neputa:20260903200917w:plain:alt=宇宙を背景にしたAstroとGoogle Analyticsのロゴ]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260903/20260903200917.webp" alt="宇宙を背景にしたAstroとGoogle Analyticsのロゴ" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

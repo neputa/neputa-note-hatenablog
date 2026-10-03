@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2016/11/12/blog-post_12
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068539092
 ---
 
-[f:id:neputa:20260824111516w:plain:alt=アイキャッチ 楽園カバー]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260824/20260824111516.webp" alt="アイキャッチ 楽園カバー" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

@@ -10,7 +10,7 @@ URL: https://www.neputa-note.net/entry/2024/07/21/astro-bread-crumbs
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073027590
 ---
 
-[f:id:neputa:20260903105618w:plain:alt=複数のパンを背景にAstroのロゴが前面にあるイメージ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260903/20260903105618.webp" alt="複数のパンを背景にAstroのロゴが前面にあるイメージ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

@@ -10,7 +10,7 @@ URL: https://www.neputa-note.net/entry/2024/07/05/jest-astro
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073380939
 ---
 
-[f:id:neputa:20260904205125w:plain:alt=宇宙を背景にAstroとJestのロゴが並ぶアイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260904/20260904205125.webp" alt="宇宙を背景にAstroとJestのロゴが並ぶアイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2024/12/01/felissimo-without-borders
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159580
 ---
 
-[f:id:neputa:20260905215239w:plain:alt=インクルーシブをイメージした抽象的なイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260905/20260905215239.webp" alt="インクルーシブをイメージした抽象的なイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

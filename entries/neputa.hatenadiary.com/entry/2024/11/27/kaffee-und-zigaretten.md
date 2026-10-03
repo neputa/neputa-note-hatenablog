@@ -10,7 +10,7 @@ URL: https://www.neputa-note.net/entry/2024/11/27/kaffee-und-zigaretten
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782862
 ---
 
-[f:id:neputa:20260904232908w:plain:alt=珈琲と煙草のカバー]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260904/20260904232908.webp" alt="珈琲と煙草のカバー" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

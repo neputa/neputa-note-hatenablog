@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2025/04/15/creating-dotfiles-for-windows-
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210432
 ---
 
-[f:id:neputa:20260906020708w:plain:alt=3つのアイコンが並ぶアイキャッチ画像 WindowsとUbuntuのロゴ、dotfilesの文字列を記したファイルアイコン]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260906/20260906020708.webp" alt="3つのアイコンが並ぶアイキャッチ画像 WindowsとUbuntuのロゴ、dotfilesの文字列を記したファイルアイコン" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

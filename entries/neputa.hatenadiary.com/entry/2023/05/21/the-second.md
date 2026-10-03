@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2023/05/21/the-second
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072646489
 ---
 
-[f:id:neputa:20260902073235w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260902/20260902073235.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 _Photo by : [お笑いナタリー](https://natalie.mu/owarai/gallery/news/525392/2048621)_
 
 [:contents]

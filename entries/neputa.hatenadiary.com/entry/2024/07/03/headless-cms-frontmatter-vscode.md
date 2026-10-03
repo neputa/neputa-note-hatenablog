@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2024/07/03/headless-cms-frontmatter-vscod
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073380918
 ---
 
-[f:id:neputa:20260904022033w:plain:alt=FrontMatter CMSとVSCodeのロゴ]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260904/20260904022033.webp" alt="FrontMatter CMSとVSCodeのロゴ" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

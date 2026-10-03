@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2025/12/09/my-records-of-my-vision-06
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210529
 ---
 
-[f:id:neputa:20260907011522w:plain:alt=目の検査を受ける女性と遺伝子を表す螺旋や試験管などを配置した視覚検査のイメージイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260907/20260907011522.webp" alt="目の検査を受ける女性と遺伝子を表す螺旋や試験管などを配置した視覚検査のイメージイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

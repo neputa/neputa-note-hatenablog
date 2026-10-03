@@ -10,7 +10,7 @@ URL: https://www.neputa-note.net/entry/2017/11/19/jussi-adler-olsen-message-from
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068792258
 ---
 
-[f:id:neputa:20260825005327w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260825/20260825005327.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2024/04/04/blogger-cname
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072992203
 ---
 
-[f:id:neputa:20260903010045w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260903/20260903010045.webp" alt="アイキャッチ画像 夕暮れの湖畔のイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 このブログ（Google Blogger）にCloudflareを導入しようと設定を進めていたところ、かつてカスタムドメインを設定した際に発行されたCNAMEが分からず困っていた。
 

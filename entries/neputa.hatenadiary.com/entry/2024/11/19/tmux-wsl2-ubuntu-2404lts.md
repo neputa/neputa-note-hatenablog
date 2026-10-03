@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2024/11/19/tmux-wsl2-ubuntu-2404lts
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782895
 ---
 
-[f:id:neputa:20260904234149w:plain:alt=Ubuntuとtmuxのロゴマーク]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260904/20260904234149.webp" alt="Ubuntuとtmuxのロゴマーク" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2021/08/07/thinkinghabits
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070696122
 ---
 
-[f:id:neputa:20260829173213w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260829/20260829173213.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

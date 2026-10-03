@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2017/08/22/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068737122
 ---
 
-[f:id:neputa:20260824215241w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260824/20260824215241.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 大げさなタイトルを掲げたが、ごく私的な話である。
 

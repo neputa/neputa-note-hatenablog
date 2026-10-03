@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2015/01/11/web
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067507580
 ---
 
-[f:id:neputa:20260821165318w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260821/20260821165318.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 ## 「ブクログ」から「読書メーター」へ移行してみた
 

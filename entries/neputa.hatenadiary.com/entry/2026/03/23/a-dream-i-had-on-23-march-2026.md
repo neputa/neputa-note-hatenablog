@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2026/03/23/a-dream-i-had-on-23-march-2026
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074653139
 ---
 
-[f:id:neputa:20260907045349w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260907/20260907045349.webp" alt="アイキャッチ画像 夕暮れの湖畔のイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 仕事を探していた私は全国に拠点を持つ物流会社の面接を受けることになった。
 

@@ -9,9 +9,9 @@ URL: https://www.neputa-note.net/entry/2018/07/22/boston-teran-giv-the-story-of-
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069087559
 ---
 
-[:contents]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260825/20260825210037.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
-[f:id:neputa:20260825210037w:plain:alt=アイキャッチ画像]
+[:contents]
 
 ## あらすじ
 

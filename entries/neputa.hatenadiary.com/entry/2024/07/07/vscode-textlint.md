@@ -10,7 +10,7 @@ URL: https://www.neputa-note.net/entry/2024/07/07/vscode-textlint
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073380975
 ---
 
-[f:id:neputa:20260904205947w:plain:alt=textlintとVSCodeのロゴ]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260904/20260904205947.webp" alt="textlintとVSCodeのロゴ" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

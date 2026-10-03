@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2015/05/20/blog-post_20
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067773832
 ---
 
-[f:id:neputa:20260822111257w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260822/20260822111257.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2022/02/05/vscode-extensions-background
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072025599
 ---
 
-[f:id:neputa:20260901024345w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260901/20260901024345.webp" alt="アイキャッチ画像 夕暮れの湖畔のイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

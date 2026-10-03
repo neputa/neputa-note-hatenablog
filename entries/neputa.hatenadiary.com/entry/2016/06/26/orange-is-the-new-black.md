@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2016/06/26/orange-is-the-new-black
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068290541
 ---
 
-[f:id:neputa:20260823165042w:plain:alt=アイキャッチ画像 オレンジ・イズ・ニューブラック]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260823/20260823165042.webp" alt="アイキャッチ画像 オレンジ・イズ・ニューブラック" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

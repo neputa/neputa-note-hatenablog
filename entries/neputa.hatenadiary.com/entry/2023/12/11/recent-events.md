@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2023/12/11/recent-events
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072765797
 ---
 
-[f:id:neputa:20260902125750w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260902/20260902125750.webp" alt="アイキャッチ画像 夕暮れの湖畔のイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

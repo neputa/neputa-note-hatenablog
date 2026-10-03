@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2021/12/24/azure-devops-pipelines-existin
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032071260783
 ---
 
-[f:id:neputa:20260830235512w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260830/20260830235512.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

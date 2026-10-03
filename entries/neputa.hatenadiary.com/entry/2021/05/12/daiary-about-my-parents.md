@@ -7,6 +7,8 @@ URL: https://www.neputa-note.net/entry/2021/05/12/daiary-about-my-parents
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070695954
 ---
 
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260904/20260904232507.webp" alt="アイキャッチ画像 夕暮れの湖畔のイラスト" width="800" height="420" loading="eager" fetchpriority="high">
+
 今日の昼頃、父から電話があった。
 
 「明日の納骨、お母さんに確認してあるか？きっと忘れてるからちゃんと言っておかないと」

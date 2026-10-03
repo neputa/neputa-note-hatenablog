@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2024/08/26/dotnet-maui-avdmanager-error
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782662
 ---
 
-[f:id:neputa:20260904223644w:plain:alt=dotnet mauiのロゴとdotnet-botキャラクター]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260904/20260904223644.webp" alt="dotnet mauiのロゴとdotnet-botキャラクター" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

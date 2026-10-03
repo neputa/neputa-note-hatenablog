@@ -12,7 +12,7 @@ URL: https://www.neputa-note.net/entry/2024/07/28/dotnet-maui-vscode-wsl
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073380893
 ---
 
-[f:id:neputa:20260904021132w:plain:alt=.NET MAUIとVSCodeのロゴ]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260904/20260904021132.webp" alt=".NET MAUIとVSCodeのロゴ" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

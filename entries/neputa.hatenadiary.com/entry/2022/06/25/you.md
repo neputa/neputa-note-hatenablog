@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2022/06/25/you
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072025624
 ---
 
-[f:id:neputa:20260902033526w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260902/20260902033526.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 _Photo by：[BBC Courtroom](https://www.whats-on-netflix.com/news/bbc-courtroom-drama-you-dont-know-me-headed-to-netflix-in-june-2022/)_
 
 [:contents]

@@ -10,7 +10,7 @@ URL: https://www.neputa-note.net/entry/2024/07/17/astro-mobile-tabbar
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073027596
 ---
 
-[f:id:neputa:20260903125016w:plain:alt=宇宙が背景のAstroロゴ]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260903/20260903125016.webp" alt="宇宙が背景のAstroロゴ" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

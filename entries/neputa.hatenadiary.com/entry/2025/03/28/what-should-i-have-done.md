@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2025/03/28/what-should-i-have-done
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159723
 ---
 
-[f:id:neputa:20260905233712w:plain:alt=映画 どうずればよかったか？ のパンフレット]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260905/20260905233712.webp" alt="映画 どうずればよかったか？ のパンフレット" width="800" height="420" loading="eager" fetchpriority="high">
 
 先日、ドキュメンタリー映画『どうすればよかったか？』を観た。
 

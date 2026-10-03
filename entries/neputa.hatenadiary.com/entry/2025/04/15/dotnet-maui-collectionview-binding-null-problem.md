@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2025/04/15/dotnet-maui-collectionview-bin
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210421
 ---
 
-[f:id:neputa:20260906002610w:plain:alt=スマートフォン上の.NET MAUIアプリに虫メガネをかざし、トラブルの原因を探るイラストによるイメージ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260906/20260906002610.webp" alt="スマートフォン上の.NET MAUIアプリに虫メガネをかざし、トラブルの原因を探るイラストによるイメージ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

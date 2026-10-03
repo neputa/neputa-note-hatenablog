@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2025/04/17/neovim-ime-off-when-exiting-in
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210456
 ---
 
-[f:id:neputa:20260906024224w:plain:alt=Neovimのロゴ]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260906/20260906024224.webp" alt="Neovimのロゴ" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

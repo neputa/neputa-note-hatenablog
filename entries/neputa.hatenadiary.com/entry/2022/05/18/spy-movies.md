@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2022/05/18/spy-movies
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072025621
 ---
 
-[f:id:neputa:20260902031311w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260902/20260902031311.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 _Photo by：[Craig Whitehead](https://unsplash.com/@sixstreetunder?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/spy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 [:contents]

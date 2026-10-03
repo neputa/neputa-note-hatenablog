@@ -10,7 +10,7 @@ URL: https://www.neputa-note.net/entry/2024/08/27/dotnet-maui-vscode-windows
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782683
 ---
 
-[f:id:neputa:20260904230622w:plain:alt=.NET MAUIとVSCodeのロゴと中央にdotnet botのキャラクター]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260904/20260904230622.webp" alt=".NET MAUIとVSCodeのロゴと中央にdotnet botのキャラクター" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

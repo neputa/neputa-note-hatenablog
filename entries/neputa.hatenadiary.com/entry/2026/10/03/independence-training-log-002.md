@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2026/10/03/independence-training-log-002
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032085216521
 ---
 
-[f:id:neputa:20260911222846w:plain:alt=曲がりくねった長い道があり向こう側にゴールのようなゲートが見える。スタート地点に歩き始める人間の姿がある。柔らかいトーンのイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260911/20260911222846.webp" alt="曲がりくねった長い道があり向こう側にゴールのようなゲートが見える。スタート地点に歩き始める人間の姿がある。柔らかいトーンのイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

@@ -11,7 +11,7 @@ URL: https://www.neputa-note.net/entry/2024/10/10/mobile-app-and-litedb
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782747
 ---
 
-[f:id:neputa:20260904232224w:plain:alt=個人開発アプリCheckListMakerの宣伝用バナー]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260904/20260904232224.webp" alt="個人開発アプリCheckListMakerの宣伝用バナー" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

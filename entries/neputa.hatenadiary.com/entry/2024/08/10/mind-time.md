@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2024/08/10/mind-time
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782708
 ---
 
-[f:id:neputa:20260904231039w:plain:alt=マインド・タイム カバー]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260904/20260904231039.webp" alt="マインド・タイム カバー" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

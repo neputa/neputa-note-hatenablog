@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2026/09/21/improving-accessibility-on-hat
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032080501094
 ---
 
-[f:id:neputa:20260921170306w:plain:alt=記事タイトルを抽象化したモデル図にしたイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260921/20260921170306.webp" alt="記事タイトルを抽象化したモデル図にしたイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

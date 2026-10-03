@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2014/11/22/hahakigi-hosei-embrio
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067077048
 ---
 
-[f:id:neputa:20260820153037w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260820/20260820153037.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

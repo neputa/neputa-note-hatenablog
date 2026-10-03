@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2026/05/02/my-records-of-my-vision-11
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074769373
 ---
 
-[f:id:neputa:20260907114811w:plain:alt=申請手続きのイメージイラスト 申請書とそれを記入する手が中心にあり、周囲には抽象的なオブジェクトが配置されている]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260907/20260907114811.webp" alt="申請手続きのイメージイラスト 申請書とそれを記入する手が中心にあり、周囲には抽象的なオブジェクトが配置されている" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2025/10/22/logical-thinking-and-cultural-
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210814
 ---
 
-[f:id:neputa:20260907022802w:plain:alt=論理的思考と文化基盤の書籍カバー]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260907/20260907022802.webp" alt="論理的思考と文化基盤の書籍カバー" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

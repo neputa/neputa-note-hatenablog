@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2026/07/29/i-became-a-white-cane-user
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074769534
 ---
 
-[f:id:neputa:20260907141641w:plain:alt=白杖を持ち公園を歩く男性のイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260907/20260907141641.webp" alt="白杖を持ち公園を歩く男性のイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

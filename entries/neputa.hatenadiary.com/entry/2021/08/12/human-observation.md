@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2021/08/12/human-observation
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070696136
 ---
 
-[f:id:neputa:20260829173355w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260829/20260829173355.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 _Photo by：[Warren Wong](https://unsplash.com/@wflwong?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 これは他人に対する感情の話しだ。

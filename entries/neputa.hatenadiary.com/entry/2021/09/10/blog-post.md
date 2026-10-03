@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2021/09/10/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070696191
 ---
 
-[f:id:neputa:20260829174929w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260829/20260829174929.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 今年三月に妹が亡くなってから少しずつ遺品整理をしてきた。
 

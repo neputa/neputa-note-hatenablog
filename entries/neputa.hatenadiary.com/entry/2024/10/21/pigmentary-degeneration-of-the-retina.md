@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2024/10/21/pigmentary-degeneration-of-the
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782773
 ---
 
-[f:id:neputa:20260904232507w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260904/20260904232507.webp" alt="アイキャッチ画像 夕暮れの湖畔のイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

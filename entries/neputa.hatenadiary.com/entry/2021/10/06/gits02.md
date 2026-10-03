@@ -10,7 +10,8 @@ URL: https://www.neputa-note.net/entry/2021/10/06/gits02
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070847033
 ---
 
-[f:id:neputa:20260830212359w:plain:alt=アイキャッチ画像 攻殻機動隊ロゴ・草薙少佐・タチコマ] _Photo by [攻殻機動隊 STAND ALONE COMPLEX | アニメ動画見放題 | dアニメストア](https://animestore.docomo.ne.jp/animestore/ci_pc?workId=10844)_
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260830/20260830212359.webp" alt="アイキャッチ画像 攻殻機動隊ロゴ・草薙少佐・タチコマ" width="800" height="420" loading="eager" fetchpriority="high">
+ _Photo by [攻殻機動隊 STAND ALONE COMPLEX | アニメ動画見放題 | dアニメストア](https://animestore.docomo.ne.jp/animestore/ci_pc?workId=10844)_
 
 [:contents]
 

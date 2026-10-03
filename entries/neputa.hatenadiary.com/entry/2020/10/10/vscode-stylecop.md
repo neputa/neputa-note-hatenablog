@@ -52,7 +52,7 @@ StyleCopはVSCodeの拡張機能には対応していない。NugetPackageを管
 - ※最新バージョンのパッケージのコードは、[こちら](https://www.nuget.org/packages/stylecop.analyzers/)のページの「PackageReference」タブから取得できます。
 - コンソールで、「dotnet restore」を実行します。
 
-```powershell
+```ps1
 PS C:\Users\xxxxxx\> dotnet restore
 復元対象のプロジェクトを決定しています...
 C:\Users\xxxxxx\source\repos\TestApp\TestApp.csproj を復元しました (188 ms)。
@@ -68,7 +68,7 @@ StyleCopのインストールが完了すると、コード解析が始まり、
 
 その場合は、「.editorconfig」にignore対象のCheckIDを追加します。（.editorconfigを有効化する手順は後述します）
 
-```ini
+```dosini
 [*.{cs}]
 
 ### StyleCop Ignore ###

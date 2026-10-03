@@ -72,7 +72,7 @@ wwwroot配下にあるindex.htmlのbodyタグの終了タグ直前に以下の�
 
 Program.csのawait builder.Build().RunAsync();を削除し、Cultureの設定処理を追加する。全体は以下のとおり。
 
-```csharp
+```cs
 using BlazorApp1;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
@@ -116,7 +116,7 @@ await host.RunAsync();
 
 Sharedフォルダに「CultureSelector.razor」の名前でヘッダーに設置する言語セレクターコンポーネントを作成する
 
-```razor
+```cs
 @using System.Globalization
 @using BlazorApp1.Properties
 @inject IStringLocalizer<Resource> Loc
@@ -158,7 +158,7 @@ Sharedフォルダに「CultureSelector.razor」の名前でヘッダーに設�
 
 MainLayout.razorに &lt;CultureSelector /&gt; を追加し、ヘッダに言語セレクターを設置する
 
-```razor
+```html
 @inherits LayoutComponentBase
 
 <div class="page">

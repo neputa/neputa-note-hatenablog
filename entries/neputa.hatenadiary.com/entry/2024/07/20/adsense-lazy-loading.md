@@ -56,7 +56,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 #### GoogleAdsense.astro
 
-```astro
+```jsx
 ---
 const isProd = import.meta.env.PROD
 const adsClientId = 'ca-pub-0000000000000000'
@@ -115,7 +115,7 @@ const adsBannerId = '0000000000'
 
 - [...slug].astroにcomponentを設置する
 
-```astro
+```jsx
 ---
 import { type CollectionEntry, getCollection } from 'astro:content'
 import BlogPost from '../../layouts/BlogPost.astro'

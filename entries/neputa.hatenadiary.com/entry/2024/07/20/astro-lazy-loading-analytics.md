@@ -54,7 +54,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 - Partytownのパッケージをインストールする
 
-```bash
+```sh
 pnpm add -D @astrojs/partytown
 ```
 
@@ -84,7 +84,7 @@ export default defineConfig({
 
 ### GoogleAnalytics.astro
 
-```astro
+```jsx
 ---
 const gaId: string = 'G-XXXXXXXXXX'
 ---
@@ -111,7 +111,7 @@ const gaId: string = 'G-XXXXXXXXXX'
 
 - Layoutのheadタグにcomponentを追加する
 
-```astro
+```jsx
 ---
 import GoogleAnalytics from '@/components/meta/GoogleAnalytics'
 ---

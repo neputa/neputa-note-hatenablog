@@ -134,13 +134,13 @@ AndroidプロジェクトのProperties配下のAndroidManifest.xmlに下記を�
 
 OnCreateメソッドに下記1行を追加する。
 
-```csharp
+```cs
 MobileAds.Initialize(ApplicationContext);
 ```
 
 完成したMainActivity.csはこんな感じ。
 
-```csharp
+```cs
 using Android.App;
 using Android.Content.PM;
 using Android.Gms.Ads;
@@ -258,19 +258,19 @@ Androidプロジェクトでの作業は以上。
 
 FinishedLaunchingメソッドに、以下1行を追加する。
 
-```csharp
+```cs
 MobileAds.SharedInstance.Start(CompletionHandler);
 ```
 
 クラス内に以下メソッドを追加する。
 
-```csharp
+```cs
 private void CompletionHandler(InitializationStatus status){}
 ```
 
 完成したAppDelegate.csはこんな感じ。
 
-```csharp
+```cs
 using Foundation;
 using Google.MobileAds;
 using Prism;
@@ -403,7 +403,7 @@ xmlns:controls="clr-namespace:MarcTron.Plugin.Controls;assembly=Plugin.MtAdmob"
 
 完成したMainPageViewModel.csはこんな感じ。
 
-```csharp
+```cs
 using MarcTron.Plugin;
 using Prism.Commands;
 using Prism.Navigation;

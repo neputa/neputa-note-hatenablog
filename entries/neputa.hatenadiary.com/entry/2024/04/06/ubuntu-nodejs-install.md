@@ -36,7 +36,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 - 現時点（2024/04/06）における[最新のnode.jsバージョン](https://nodejs.org/en)は「v20.12.1」
 - 一方Ubuntuのリポジトリは
 
-```bash
+```sh
 $ sudo apt show nodejs
 Package: nodejs
 Version: 12.22.9~dfsg-1ubuntu3.4
@@ -54,7 +54,7 @@ Origin: Ubuntu
 
 - すでにubuntuのリポジトリでnode.jsのインストールを試みていたりした場合は削除しておく
 
-```bash
+```sh
 sudo apt purge nodejs
 sudo apt autoremove
 ```
@@ -63,7 +63,7 @@ sudo apt autoremove
 
 - 以下コマンドでnvmをダウンロード＆インストールする
 
-```bash
+```sh
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
 ```
 
@@ -72,7 +72,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
 - 次のコマンドを実行し「npm」が返ってくることを確認する
   - ない場合はインストールできていないのでログを確認
 
-```bash
+```sh
 command -v nvm
 nvm
 ```
@@ -81,7 +81,7 @@ nvm
 
 - LTS（Long Term Support）の最新バージョンを以下コマンドでインストール
 
-```bash
+```sh
 nvm install --lts
 Installing latest LTS version.
 Downloading and installing node v20.12.1...
@@ -95,7 +95,7 @@ Creating default alias: default -> lts/* (-> v20.12.1)
 
 - インストールされたnode.jsのバージョンを確認
 
-```bash
+```sh
 nvm ls
       -> v20.12.1
       system
@@ -104,7 +104,7 @@ nvm ls
 
 同時にインストールされたnpmのバージョンを確認
 
-```bash
+```sh
 npm -v
 10.5.0
 ```
@@ -121,7 +121,7 @@ npm -v
 
 node、npm、n、それぞれのパスを確認する。
 
-```bash
+```sh
 which node
 /home/username/.nvm/versions/node/v21.7.2/bin/node
 which npm
@@ -132,7 +132,7 @@ which n
 
 それぞれのパスにシンボリックリンクを貼る。（失敗した場合の変更、削除は先ほどのサイトで確認）
 
-```bash
+```sh
 sudo ln -s /home/username/.nvm/versions/node/v21.7.2/bin/node /usr/bin/node
 sudo ln -s /home/username/.nvm/versions/node/v21.7.2/bin/npm /usr/bin/npm
 sudo ln -s /home/username/.nvm/versions/node/v21.7.2/bin/n /usr/bin/n
@@ -142,7 +142,7 @@ sudo ln -s /home/username/.nvm/versions/node/v21.7.2/bin/n /usr/bin/n
 
 以下コマンドでnode.jsとnpmのアップデートを行う。
 
-```bash
+```sh
 sudo npm install -g n
 
 added 1 package in 1s
@@ -153,7 +153,7 @@ sudo n stable
 
 PurgeCSSのインストール
 
-```bash
+```sh
 npm install -g purgecss
 ```
 

@@ -200,7 +200,7 @@ Astroを最大限生かした開発方法を先駆者たちから学ばない手
 
 フォルダ構成は以下のとおり。（[AstroWind](https://github.com/onwidget/astrowind)より引用）
 
-```bash
+```sh
 /
 ├── public/
 │ ├── _headers

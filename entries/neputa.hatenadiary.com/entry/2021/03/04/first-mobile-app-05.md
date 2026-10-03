@@ -73,7 +73,7 @@ Domainは、追加でウェブアプリを作ることになったり、デー�
 
 睡眠記録のEntityはこんな感じになた。
 
-```csharp
+```cs
 using System;
 using OneThird.Domain.Exceptions;
 using OneThird.Domain.Models.Slogs.ValueObjects;
@@ -212,7 +212,7 @@ namespace OneThird.Domain.Models.Slogs
 
 そこで必要となるインターフェイスもこのDomainに作っておく。
 
-```csharp
+```cs
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using OneThird.Domain.Models.Slogs.ValueObjects;

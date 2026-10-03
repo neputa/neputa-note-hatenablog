@@ -53,7 +53,7 @@ Ubuntuに最新バージョンのNeovimをsnapでインストールする手順�
 
 snapを使用するにはsystemdが必要。 WSLのバージョン0.67.6以上でsystemdがサポートされている。 powershellでWSL2のバージョンを確認する。
 
-```powershell
+```ps1
 > wsl --version
 WSL バージョン: 2.1.5.0
 カーネル バージョン: 5.15.146.1-2
@@ -66,13 +66,13 @@ Windows バージョン: 10.0.22631.3527
 
 古い場合はpowershellで以下コマンドを実行し、更新する。
 
-```powershell
+```ps1
 wsl --update
 ```
 
 次に、WSL2のUbuntu環境で設定ファイル「wsl.conf」を作成し保存する。
 
-```bash
+```sh
 sudo vi /etc/wsl.conf
 # 以下を記載し保存する
 [boot]
@@ -81,13 +81,13 @@ systemd=true
 
 PowershellでWSL2を再起動する。
 
-```powershell
+```ps1
 wsl --shutdown
 ```
 
 Ubuntuでsystemctlを実行する。以下のようなログが出力されたらOK。
 
-```bash
+```sh
 systemctl
 UNIT >
 sys-devices-LNXSYSTM:00-LNXSYBUS:00-ACPI0004:00-VMBUS:00-b1800c5a\x2d49d5\x2d487d\x2d9e4a\x2da9c7dea2a810-pci49d5:00->
@@ -112,13 +112,13 @@ sys-devices-virtual-block-ram12.device >
 
 aptでインストールしている場合はremoveしておく。
 
-```bash
+```sh
 sudo apt remove nvim
 ```
 
 自分は前回。debパッケージからインストールしたので直接削除した。
 
-```bash
+```sh
 sudo rm -rf /usr/bin/nvim
 ```
 
@@ -126,14 +126,14 @@ sudo rm -rf /usr/bin/nvim
 
 以下コマンドでsnapによるNeovimインストール。
 
-```bash
+```sh
 sudo snap install nvim --classic
 nvim v0.9.4 from neovim-snap (neovim-snap) installed
 ```
 
 バージョンを確認
 
-```bash
+```sh
 nvim -v
 NVIM v0.9.4
 Build type: RelWithDebInfo
@@ -144,7 +144,7 @@ LuaJIT 2.1.1692716794
 
 デフォルトでsnapのインストールディレクトリはaptと異なる。
 
-```bash
+```sh
 which nvim
 /snap/bin/nvim
 ```

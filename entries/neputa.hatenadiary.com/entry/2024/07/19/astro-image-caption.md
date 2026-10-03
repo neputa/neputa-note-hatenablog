@@ -77,7 +77,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
   - [Microflash/remark-figure-caption](https://github.com/Microflash/remark-figure-caption)
   - [remarkjs/remark-gfm](https://github.com/remarkjs/remark-gfm)
 
-```bash
+```sh
 pnpm add -D @microflash/remark-figure-caption remark-gfm
 ```
 
@@ -145,7 +145,7 @@ heroImage: '/blog-placeholder-3.jpg'
 
 ##### BlogImage.astro
 
-```astro
+```jsx
 ---
 
 const { title, src, alt } = Astro.props
@@ -154,20 +154,18 @@ const { title, src, alt } = Astro.props
 <figure class='w-fit'>
 
   {
-    /* eslint-disable astro/no-set-html-directive */
     title && (
       <figcaption class='mt-4 text-center text-sm text-gray-700 dark:text-gray-300 md:mt-2'>
         <Fragment set:html={title} />
       </figcaption>
     )
-    /* eslint-enable astro/no-set-html-directive */
   }
 </figure>
 ```
 
 - [...slug].astroに作成したcomponentを追加する
 
-```astro
+```jsx
 ---
 import { type CollectionEntry, getCollection } from 'astro:content'
 import BlogPost from '../../layouts/BlogPost.astro'
@@ -196,7 +194,7 @@ const { Content } = await post.render()
 
 - MDXファイルで以下のように記述すると画像URLの後ろにクォーテーションで囲ったテキストがキャプションとして表示される
 
-```mdx
+```markdown
 ---
 title: '画像キャプションのテスト記事'
 description: 'componentを使って画像にキャプションを付ける'

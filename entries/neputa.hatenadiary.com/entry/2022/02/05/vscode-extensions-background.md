@@ -120,7 +120,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 - UbuntuなどLinuxマシンの場合、VSCodeのインストールディレクトリの権限を変更しないと拡張機能が動作しない場合がある
 
-```bash
+```sh
 sudo chown <your_username>/usr/share/code -R
 chmod ugo+rwx /usr/share/code
 ```

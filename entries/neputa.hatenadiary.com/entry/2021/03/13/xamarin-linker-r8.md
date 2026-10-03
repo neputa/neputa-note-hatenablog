@@ -110,7 +110,7 @@ R8 Shrinker、Linker、どちらも何もせずに使えるわけではなく、
 
 「FATAL」があるあたりを見てみると、こんなメッセージがある。
 
-```log
+```messages
 java.lang.ClassNotFoundException: Didn't find class "com.google.android.gms.ads.MobileAdsInitProvider"
 ```
 

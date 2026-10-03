@@ -51,7 +51,7 @@ WindowsにVSCodeをインストール済みであること
   - [Windows に .NET をインストールする - .NET | Microsoft Learn](https://learn.microsoft.com/ja-jp/dotnet/core/install/windows#install-with-visual-studio-code)
 - .NET インストーラ―またはwingetコマンドで、.NET 8 をインストールする
 
-```powershell
+```ps1
 winget install Microsoft.DotNet.SDK.8
 ```
 
@@ -60,7 +60,7 @@ winget install Microsoft.DotNet.SDK.8
 - VSCodeの拡張機能タブより、「[.NET MAUI](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-maui)」をインストールする
 - VSCodeのターミナルで以下コマンドを実行し、.NET MAUI の workload をインストールする（時間がかかる）
 
-```bash
+```sh
 dotnet workload install maui
 ```
 
@@ -101,7 +101,7 @@ dotnet workload install maui
   - Android SDKとJDKのインストールパスは任意の場所を指定する
   - フルパスを記述すること
 
-```bash
+```sh
 dotnet build -t:InstallAndroidDependencies -f:net8.0-android -p:AndroidSdkDirectory="C:\workload\android\sdk" -p:JavaSdkDirectory="C:\workload\jdk" -p:AcceptAndroidSDKLicenses=True
 ```
 
@@ -153,26 +153,26 @@ dotnet build -t:InstallAndroidDependencies -f:net8.0-android -p:AndroidSdkDirect
 
 - ターミナルでsdkmanagerが存在するパスへ移動（Pathを設定している場合はどこからでもOK）
 
-```powershell
+```ps1
 cd C:\workload\android\sdk\cmdline-tools\11.0\bin
 ```
 
 - 以下コマンドを実行し、Emulatorをインストールする
 
-```powershell
+```ps1
 sdkmanager "emulator" "system-images;android-34;google_apis;x86_64"
 ```
 
 - 以下コマンドで、ライセンス同意を行う（ひたすら「y」）
 
-```powershell
+```ps1
 sdkmanager --licenses --verbose
 ```
 
 - 以下コマンドを実行し、Emulatorを作成する
   - -nパラメータはEmulatorの名前
 
-```powershell
+```ps1
 avdmanager create avd -n API34 -k "system-images;android-34;google_apis;x86_64"
 ```
 

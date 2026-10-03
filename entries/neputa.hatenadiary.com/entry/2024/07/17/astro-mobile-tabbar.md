@@ -78,7 +78,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 mobileFooter.astro
 
-```astro
+```jsx
 ---
 import type { MarkdownHeading } from 'astro'
 import TableOfContents from '@/components/ui/TableOfContents'
@@ -187,7 +187,7 @@ const { headings } = Astro.props
 
 TableOfContents.astro
 
-```astro
+```jsx
 ---
 import { cn } from '@/utils'
 const { heading } = Astro.props
@@ -232,7 +232,7 @@ export interface Props {
 
 TabletOfContentsHeading.astro
 
-```astro
+```jsx
 ---
 import { cn } from '@/utils'
 const { heading } = Astro.props
@@ -279,7 +279,7 @@ export interface Props {
 
 BlogPost.astro
 
-```astro
+```jsx
 ---
 import type { CollectionEntry } from 'astro:content'
 import BaseLayout from '@/layouts/BaseLayout'

@@ -57,7 +57,7 @@ Let's Encryptの有効期間は90日であり、有効期限が切れるとWeb A
 
 作業対象となるWeb APIアプリのDocker Composeのファイル構成は以下のとおり。
 
-```bash
+```sh
 .
 ├── docker-compose.yml
 └── nginx
@@ -84,7 +84,7 @@ nginxのDockerfileとsite.conf.templateに、Certbotの設定を追加する。
 
 ##### nginx/Dockerfile
 
-```docker
+```conf
 FROM nginx:latest
 
 RUN apt-get update && apt-get install -y certbot
@@ -99,7 +99,7 @@ CMD [ "nginx", "-g", "daemon off;" ]
 
 ##### nginx/site.conf.template
 
-```log
+```messages
 upstream app {
     server app:5000;
 }
@@ -136,7 +136,7 @@ server {
 
 #### 2. docker-compose.ymlに、Certbotのコンテナを追加する
 
-```docker
+```conf
 services:
   app:
     image: XXXXXX/repos:latest
@@ -180,7 +180,7 @@ Web API、nginxに加え、Certbotのコンテナも起動していることを�
 
 ##### docker-compose-ps
 
-```bash
+```sh
 docker compose ps
 NAME                 IMAGE                 COMMAND                   SERVICE
 onethird-app-1       xxxxxx/repos:latest   "./OneThird.WebAPI"       app
@@ -190,7 +190,7 @@ onethird-nginx-1     onethird-nginx        "/docker-entrypoint.…"   nginx
 
 Certbotのログを確認する。以下は、期限切れではないので更新しない旨のログ。
 
-```bash
+```sh
 docker compose logs certbot
 certbot-1  | Certificate not yet due for renewal
 certbot-1  |

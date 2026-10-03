@@ -80,7 +80,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 #### CodeBlock.astro
 
-```astro
+```jsx
 ---
 import { Code } from 'astro:components'
 import { type BuiltinLanguage, type SpecialLanguage } from 'shiki'
@@ -134,7 +134,7 @@ themes?: Record<string, ThemePresets | ThemeRegistration | ThemeRegistrationRaw>
 
 #### @shikijs/transformersインストール
 
-```bash
+```sh
 pnpm add -D @shikijs/transformers
 ```
 
@@ -219,7 +219,7 @@ const { lang, title, code } = Astro.props
 - diff以外のtransformersについては下記リンクを参照
   - [@shikijs/transformers | Shiki](https://shiki.style/packages/transformers)
 
-```astro
+```jsx
 ---
 import { Code } from 'astro:components'
 import { type BuiltinLanguage, type SpecialLanguage } from 'shiki'

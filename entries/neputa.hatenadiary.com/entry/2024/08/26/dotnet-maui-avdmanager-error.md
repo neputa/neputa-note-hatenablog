@@ -32,7 +32,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 #### devicemanager.log
 
-```log
+```messages
 [24-08-26 00:24:34.46] [AvdManager.CreateAvd] Exception: System.IO.DirectoryNotFoundException: パス '<USER_HOME>\.android\avd\pixel_5_-_api_34.avd\config.ini' の一部が見つかりませんでした。
    場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
    場所 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)

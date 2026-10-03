@@ -107,7 +107,7 @@ Googleから見捨てられ、エディターやテンプレートは古いま�
 - Bloggerのバックアップxmlファイルを対象に実行する
 - 各ページのmarkdown・HTMLを生成し、使用画像をダウンロードしてくれる
 
-```bash 出力結果
+```sh
 output/
 ├── neputanote
 │   ├── data

@@ -33,7 +33,7 @@ IME関連で行った主な作業は下記の2つ。
 
 fcitx-mozcのインストールはこちらのコマンドで行える。ただ、入力モードに問題があるため前回記事を参照のうえ修正版をインストールすることをオススメする。
 
-```bash
+```sh
 sudo apt update && sudo apt -y install fcitx-mozc
 ```
 
@@ -85,7 +85,7 @@ ibusでは、現状altキーの割り当てができない。
 
 1. gnome-tweaksをインストールする
 
-    ```bash
+    ```sh
     sudo apt update
     sudo apt upgrade -y
     sudo apt install gnome-tweaks -y

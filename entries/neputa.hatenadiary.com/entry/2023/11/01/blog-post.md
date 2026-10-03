@@ -44,25 +44,25 @@ Ubuntu 22.04.3 LTS on WSL2 + Windows11 Home 22H2 x64
 
 既存のneovimをアンインストールする。
 
-```bash
+```sh
 sudo apt remove neovim
 ```
 
 Neovim Githubリポジトリの最新の安定版ビルドから .debパッケージをダウンロードする。
 
-```bash
+```sh
 curl -L -O "https://github.com/neovim/neovim/releases/download/stable/nvim-linux64.deb"
 ```
 
 ダウンロードしたパッケージをインストールする。
 
-```bash
+```sh
 sudo apt install ./nvim-linux64.deb
 ```
 
 ここで「dpkg-deb」のエラー（Broken pipe）が発生した場合、以下の方法で再度パッケージをインストールする。
 
-```bash
+```sh
 sudo dpkg -i --force-overwrite ./nvim-linux64.deb
 sudo apt -f install
 ```

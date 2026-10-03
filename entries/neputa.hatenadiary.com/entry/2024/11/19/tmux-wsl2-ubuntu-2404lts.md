@@ -34,7 +34,7 @@ WSL2上のUbuntuにtmuxをインストールし、初期設定を行うまでの
 
 ### tmuxインストール
 
-```shell
+```sh
 sudo apt install tmux
 ```
 
@@ -50,7 +50,7 @@ sudo apt install tmux
 
 まずはディレクトリを用意し、configファイルを作成する。
 
-```shell
+```sh
 mkdir ~/.config/tmux
 touch ~/.config/tmux/tmux.config
 ```
@@ -107,7 +107,7 @@ run -b '~/.config/tmux/plugins/tpm/tpm'
 
 githubからtpmをクローンし、tmuxディレクトリに配置する
 
-```shell
+```sh
 mkdir ~/.config/tmux/plugins
 git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
 ```

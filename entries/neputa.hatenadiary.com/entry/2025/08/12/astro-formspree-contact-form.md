@@ -112,7 +112,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 - 入力フォームのバリデーションには react-hook-form を使用する。
 - 以下コマンドで必要なパッケージをインストールする。
 
-```bash
+```sh
 pnpm add react @astrojs/react react-hook-form
 ```
 
@@ -138,7 +138,7 @@ export default defineConfig({
 - 必要に応じて本番環境に、同じ名前の環境変数を設定しておく。
 - .env ファイルはプロジェクトのルートディレクトリに配置し、gitignoreに追加して、バージョン管理から除外する。
 
-```dotenv
+```conf
 VITE_RECAPTCHA_SITE_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 VITE_FORMSPREE_ENDPOINT=https://formspree.io/f/xxxxxxxx
 ```
@@ -352,7 +352,7 @@ export default function ContactForm(props: FormProps) {
 
 ##### src/pages/p/contact.astro
 
-```astro
+```jsx
 ---
 import SinglePageLayout from '@/layouts/SinglePageLayout'
 import ContactForm from 'src/components/ui/ContactForm'

@@ -82,7 +82,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 - VSCodeのプロジェクトディレクトリ作成
 
-```bash
+```sh
 mkdir my-project
 cd my-project
 ```
@@ -91,13 +91,13 @@ cd my-project
 
 - textlint本体とJTF日本語標準スタイルのruleをインストール
 
-```bash
+```sh
 npm install -D textlint textlint-rule-preset-jtf-style
 ```
 
 - グローバルインストールの場合は以下
 
-```bash
+```sh
 npm install -g textlint textlint-rule-preset-jtf-style
 ```
 
@@ -105,7 +105,7 @@ npm install -g textlint textlint-rule-preset-jtf-style
   - [@textlint/textlint-plugin-text](https://www.npmjs.com/package/@textlint/textlint-plugin-text)
   - [textlint/textlint-plugin-mdx](https://github.com/textlint/textlint-plugin-mdx)
 
-```bash
+```sh
 npm install @textlint/textlint-plugin-text textlint-plugin-mdx
 ```
 
@@ -173,7 +173,7 @@ npm install @textlint/textlint-plugin-text textlint-plugin-mdx
 
 - [textlint-filter-rule-comments](https://github.com/textlint/textlint-filter-rule-comments)をインストールする
 
-```bash
+```sh
 npm install -D textlint-filter-rule-comments
 ```
 
@@ -200,7 +200,7 @@ npm install -D textlint-filter-rule-comments
 - mdxではhtmlコメントでエラーとなるためこう書く
 - これはmdxプラグインの効果
 
-```mdx
+```markdown
 {/* textlint-disable */}
 
 このブロックは校正スキップ。mdx はこのようにブロックを作る。

@@ -49,7 +49,7 @@ PurgeCssはhtmlとcssファイルを解析し、不要なセレクタを削除�
 
 たとえば、index.htmlとstyle.cssが同階層に配置してあるrootディレクトリに移動し作業を行うとする。
 
-```bash
+```sh
 root/
   ├ build/
   ├ index.html
@@ -58,7 +58,7 @@ root/
 
 ここで以下を実行する。
 
-```bash
+```sh
 purgecss --css styles.css --content index.html --out build/
 ```
 
@@ -74,7 +74,7 @@ rootディレクトリ内にあるすべてのhtml、cssを対象にまとめて
 
 たとえば多階層に存在するhtmlをすべて解析することを想定し、設定ファイルを準備する。
 
-```bash
+```sh
 root/
   ├ assets/
   │  └ css/
@@ -103,7 +103,7 @@ module.exports = {
 
 そしてbuildディレクトリを準備し、以下コマンドを実行するとbuildディレクトリ内に処理済みのstyle.cssとcolor.cssが作成される。
 
-```bash
+```sh
 purgecss --config purgecss.config.js --output build/
 ```
 

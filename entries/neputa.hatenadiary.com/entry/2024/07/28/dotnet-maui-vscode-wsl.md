@@ -60,13 +60,13 @@ WSL2およびVSCodeのリモート開発環境が構築済みであること。
 
 #### 1. インストールスクリプトをダウンロード
 
-```bash
+```sh
 wget https://dot.net/v1/dotnet-install.sh -O dotnet-install.sh
 ```
 
 #### 2. 実行権限を付与
 
-```bash
+```sh
 chmod +x ./dotnet-install.sh
 ```
 
@@ -75,13 +75,13 @@ chmod +x ./dotnet-install.sh
 > [!NOTE]
 > 本記事の作成時点： .NET 8.0
 
-```bash
+```sh
 ./dotnet-install.sh --version latest
 ```
 
 #### 4. bash設定ファイル（.profile | .bash_profile | .bashrc etc）に次を追加し、PATHを通す
 
-```text
+```nosyntax
 export DOTNET_ROOT=$HOME/.dotnet
 export PATH=$PATH:$DOTNET_ROOT:$DOTNET_ROOT/tools
 ```
@@ -101,7 +101,7 @@ export PATH=$PATH:$DOTNET_ROOT:$DOTNET_ROOT/tools
 > [!WARNING]
 > 18.04/20.04/22.04以外はdebではなくtar.gzを使用する
 
-```bash
+```sh
 ubuntu_release=`lsb_release -rs`
 wget https://packages.microsoft.com/config/ubuntu/${ubuntu_release}/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
 sudo dpkg -i packages-microsoft-prod.deb
@@ -109,7 +109,7 @@ sudo dpkg -i packages-microsoft-prod.deb
 
 #### 2. OpenJDK 17をインストール
 
-```bash
+```sh
 sudo apt-get install -y apt-transport-https
 sudo apt-get update
 sudo apt-get install -y msopenjdk-21
@@ -121,14 +121,14 @@ sudo apt-get install -y msopenjdk-21
 
 #### 1. 必要なパッケージを事前インストール
 
-```bash
+```sh
 sudo apt update
 sudo apt install -y unzip
 ```
 
 #### 2. Android command-line toolsをダウンロード・インストール
 
-```bash
+```sh
 mkdir ~/Android
 cd ~/Android
 wget https://dl.google.com/android/repository/commandlinetools-linux-8092744_latest.zip -O commandlinetools.zip
@@ -140,7 +140,7 @@ rm -f commandlinetools.zip
 
 ##### .bash_profile
 
-```text
+```nosyntax
 export ANDROID_HOME=$HOME/Android
 export PATH=$PATH:$ANDROID_HOME/cmdline-tools/bin
 export PATH=$PATH:$ANDROID_HOME/platform-tools
@@ -153,7 +153,7 @@ export PATH=$PATH:$ANDROID_HOME/platform-tools
 > [!NOTE]
 > なぜか最新がインストールされなかったため、バージョン指定で再インストールする
 
-```bash
+```sh
 sdkmanager "cmdline-tools;11.0"
 ```
 
@@ -161,7 +161,7 @@ sdkmanager "cmdline-tools;11.0"
 
 #### 1. Android SDK API Level 34 インストール
 
-```bash
+```sh
 cd ~/Android
 sdkmanager "platform-tools" "platforms;android-34" "build-tools;34.0.0" "emulator" "system-images;android-34;google_apis;x86_64"
 
@@ -182,13 +182,13 @@ Accept? (y/N): y
 
 #### 1. 必要パッケージを事前インストール
 
-```bash
+```sh
 sudo apt install -y qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils virt-manager libncurses5 libstdc++6 libpulse0 libgl1-mesa-glx libgl1-mesa-dri libxkbfile1 libqt5widgets5 libqt5gui5 libqt5core5a libqt5dbus5 libxkbcommon-x11-0
 ```
 
 #### 2. kvmにカレントユーザを追加
 
-```bash
+```sh
 getent group kvm
 kvm:x:109:username
 sudo gpasswd -a $USER kvm
@@ -199,7 +199,7 @@ crw-rw---- 1 root kvm 10, 232  7月 27 07:27 /dev/kvm
 
 #### 3. bash設定ファイルにemulatorのPATHを追加
 
-```text
+```nosyntax
 export ANDROID_EMULATOR_HOME=$HOME/Android/emulator
 export PATH=$PATH:$ANDROID_EMULATOR_HOME
 ```
@@ -208,13 +208,13 @@ export PATH=$PATH:$ANDROID_EMULATOR_HOME
 
 #### 5. 'myEmulator'という名前でemulator 作成
 
-```bash
+```sh
 avdmanager create avd -n myEmulator -k "system-images;android-34;google_apis;x86_64"
 ```
 
 #### 6. emulator 実行
 
-```bash
+```sh
 emulator -avd myEmulator -netdelay none -netspeed full
 ```
 
@@ -248,7 +248,7 @@ emulator -avd myEmulator -netdelay none -netspeed full
 
 #### 4. workload インストール
 
-```bash
+```sh
 dotnet workload install maui-android
 ```
 
@@ -268,7 +268,7 @@ dotnet workload install maui-android
 
 #### 6. restore実行後に今回準備していないiOSについてエラーが出る
 
-```log
+```messages
   Determining projects to restore...
 /home/USERNAME/.dotnet/sdk/8.0.303/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.ImportWorkloads.targets(38,5): error NETSDK1178: The project depends on the following workload packs that do not exist in any of the workloads available in this installation: Microsoft.ios.Sdk.net8 [/home/USERNAME/repos/MauiAppSample/MauiAppSample/MauiAppSample.csproj::TargetFramework=net8.0-ios]
 /home/USERNAME/.dotnet/sdk/8.0.303/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.ImportWorkloads.targets(38,5): error NETSDK1178: You may need to build the project on another operating system or architecture, or update the .NET SDK. [/home/USERNAME/repos/MauiAppSample/MauiAppSample/MauiAppSample.csproj::TargetFramework=net8.0-ios]
@@ -296,7 +296,7 @@ dotnet workload install maui-android
 
 #### 10. （起動していない場合）Android Emulatorを起動
 
-```bash
+```sh
 emulator -avd myEmulator -netdelay none -netspeed full
 ```
 

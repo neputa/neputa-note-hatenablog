@@ -51,13 +51,13 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 - Jest、TypeScript、そのほか関連パッケージをインストール
 
-```bash
+```sh
 pnpm add --save-dev typescript jest ts-jest @types/jest
 ```
 
 - jest.config.js を作成
 
-```bash
+```sh
 pnpm ts-jest config:init
 ```
 
@@ -80,7 +80,7 @@ test('最初のテスト', () => {
 
 - するとverbatimModuleSyntaxがenabledの時のCommonJSではモジュールのimportはダメと怒られる
 
-```bash
+```sh
 pnpm jest
  FAIL  test/initial.test.ts
   ● Test suite failed to run
@@ -141,7 +141,7 @@ export default {
 - 先ほどエラーを確認したファイルは「test/initial.test.ts」
 - pnpm jestコマンドでテストを実行する
 
-```bash
+```sh
 pnpm jest
   console.log
     OK

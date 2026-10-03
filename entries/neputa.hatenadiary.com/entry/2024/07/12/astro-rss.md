@@ -118,13 +118,13 @@ export const GET = async () => {
 
 1. markdown-itとsanitize-htmlパッケージをプロジェクトにインストール
 
-   ```bash
+   ```sh
    npm install -D sanitize-html markdown-it
    ```
 
 2. TypeScriptの人は@typesも
 
-   ```bash
+   ```sh
    npm install -D @types/markdown-it、@types/sanitize-html
    ```
 

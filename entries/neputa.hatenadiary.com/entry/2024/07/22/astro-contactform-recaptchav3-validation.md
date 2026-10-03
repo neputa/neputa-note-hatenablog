@@ -141,7 +141,7 @@ Newtに代わりFormspreeを利用した記事を公開しました。
 
 ##### 本文の例
 
-```text
+```nosyntax
 以下のお問い合わせを受信しました。
 
 ■お名前
@@ -163,13 +163,13 @@ Newtに代わりFormspreeを利用した記事を公開しました。
 
 ##### 1. 以下コマンドでパッケージをインストールする
 
-```bash
+```sh
 pnpm astro add react
 ```
 
 ##### 2. 複数の関連パッケージの追加を聞かれるのでyes
 
-```bash install-react
+```sh
 ✔ Resolving packages...
 23:00:01
   Astro will run the following command:
@@ -184,7 +184,7 @@ pnpm astro add react
 
 ##### 3. astro.config.mjsの自動変更を聞かれるのでyes
 
-```bash
+```sh
 Astro will make the following changes to your config file:
 
  ╭ astro.config.mjs ───────────────────────╮
@@ -202,7 +202,7 @@ Astro will make the following changes to your config file:
 
 ##### 4. tsconfig.jsonの自動更新を聞かれるのでyes
 
-```bash
+```sh
   Astro will make the following changes to your tsconfig.json:
 
  ╭ tsconfig.json  ───────────────────────╮
@@ -217,7 +217,7 @@ Astro will make the following changes to your config file:
 
 ##### 5. 完了
 
-```bash
+```sh
  success  Successfully updated TypeScript settings
 ```
 
@@ -225,13 +225,13 @@ Astro will make the following changes to your config file:
 
 ##### 1. 以下コマンドでreact-hook-formをインストール
 
-```bash react-hook-form
+```sh
 pnpm add react-hook-form
 ```
 
 ##### 2. 完了
 
-```bash react-hook-form
+```sh
 Packages: +1
 +
 Progress: resolved 1613, reused 1538, downloaded 1, added 1, done
@@ -377,7 +377,7 @@ export default function ContactForm(props: FormProps) {
 
 #### contact.astro
 
-```astro
+```jsx
 ---
 
 const title = 'お問い合わせ'

@@ -56,7 +56,7 @@ nuget packagesをインストールし、以下ファイルに追加する。
 
 #### 1. DI - MauiProgram.cs
 
-```csharp
+```cs
 using CommunityToolkit.Maui; // [!code ++]
 
 ## 省略
@@ -98,7 +98,7 @@ public static class MauiProgram
 
 #### 3. ViewModel - MainViewModel.cs
 
-```csharp
+```cs
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 
@@ -178,7 +178,7 @@ CollectionViewのドラッグアンドドロップを有効にするには、'Ca
 
 #### 1. MauiProgram.cs
 
-```csharp
+```cs
 using CommunityToolkit.Maui;
 using DragAndDrop.ViewModels;
 using DragAndDrop.Views;
@@ -267,7 +267,7 @@ public static class MauiProgram
 
 #### 3. MainView.xaml.cs
 
-```csharp
+```cs
 using DragAndDrop.ViewModels;
 
 namespace DragAndDrop.Views;
@@ -284,7 +284,7 @@ public partial class MainView : ContentPage
 
 #### 4. MainViewModel.cs
 
-```csharp
+```cs
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 

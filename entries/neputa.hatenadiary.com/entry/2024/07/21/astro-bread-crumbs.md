@@ -53,7 +53,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 - astro-breadcrumbsについて
   - [Astro Breadcrumbs](https://docs.astro-breadcrumbs.kasimir.dev/start-here/getting-started/)
 
-```bash
+```sh
 pnpm add -D astro-breadcrumbs
 ```
 
@@ -64,7 +64,7 @@ pnpm add -D astro-breadcrumbs
 
 #### Header.astro
 
-```astro
+```jsx
 ---
 import HeaderLink from './HeaderLink.astro'
 import { SITE_TITLE } from '../consts'
@@ -89,7 +89,7 @@ import 'astro-breadcrumbs/breadcrumbs.css'
 
 - このBlogのastro-breadcrumbsの設定を以下に示す
 
-```astro
+```jsx
 ---
 import { Breadcrumbs } from 'astro-breadcrumbs'
 ---
@@ -156,7 +156,7 @@ import { Breadcrumbs } from 'astro-breadcrumbs'
 
 #### src/Breadcrumbs.astro
 
-```astro
+```jsx
 <!-- 省略 -->
 
 <BreadcrumbLink

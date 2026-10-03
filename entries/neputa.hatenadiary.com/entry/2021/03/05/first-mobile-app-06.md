@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2021/03/05/first-mobile-app-06
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070313583
 ---
 
-[f:id:neputa:20260829010457w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260829/20260829010457.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

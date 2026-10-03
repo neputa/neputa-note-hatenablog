@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2024/08/16/happy-messages
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782734
 ---
 
-[f:id:neputa:20260904231703w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260904/20260904231703.webp" alt="アイキャッチ画像 夕暮れの湖畔のイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 今日、以前書いたこの記事について[astro-breadcrumbsの作者](https://github.com/felix-berlin/astro-breadcrumbs)から問い合わせフォームを通じて連絡をもらった。
 

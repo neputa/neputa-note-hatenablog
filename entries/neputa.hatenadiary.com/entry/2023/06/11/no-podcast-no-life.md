@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2023/06/11/no-podcast-no-life
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072646497
 ---
 
-[f:id:neputa:20260902073603w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260902/20260902073603.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 _Photo Created by : [Bing Image Creator](https://www.bing.com/create)_
 
 [:contents]

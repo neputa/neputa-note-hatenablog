@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2026/04/22/reflections-university-of-toky
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074769525
 ---
 
-[f:id:neputa:20260907141143w:plain:alt=脳を中心に遺伝子や進化や突然変異の抽象的なイラストによるイメージ図]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260907/20260907141143.webp" alt="脳を中心に遺伝子や進化や突然変異の抽象的なイラストによるイメージ図" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

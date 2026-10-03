@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2026/09/11/migration-to-hatenablog
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032075684839
 ---
 
-[f:id:neputa:20260910004322w:plain:alt=前のブログからはてなブログへ画像や記事ファイルが移動していく様子を描いたイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260910/20260910004322.webp" alt="前のブログからはてなブログへ画像や記事ファイルが移動していく様子を描いたイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

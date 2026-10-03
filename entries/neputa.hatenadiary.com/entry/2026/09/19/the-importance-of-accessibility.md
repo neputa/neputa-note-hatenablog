@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2026/09/19/the-importance-of-accessibilit
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032078509617
 ---
 
-[f:id:neputa:20260919023504w:plain:alt=遮光眼鏡をかけた人物がノートPCを前にしている水彩風のイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260919/20260919023504.webp" alt="遮光眼鏡をかけた人物がノートPCを前にしている水彩風のイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

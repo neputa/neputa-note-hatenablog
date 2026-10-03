@@ -10,7 +10,7 @@ URL: https://www.neputa-note.net/entry/2024/07/19/astro-image-caption
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073027593
 ---
 
-[f:id:neputa:20260903110541w:plain:alt=宇宙を背景にAstroのロゴが浮かんているイメージ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260903/20260903110541.webp" alt="宇宙を背景にAstroのロゴが浮かんているイメージ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

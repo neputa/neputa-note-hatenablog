@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2024/09/09/paralympics-2024
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782714
 ---
 
-[f:id:neputa:20260905001701w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260905/20260905001701.webp" alt="アイキャッチ画像 夕暮れの湖畔のイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

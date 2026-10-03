@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2025/10/06/my-records-of-my-vision-05
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210545
 ---
 
-[f:id:neputa:20260907021355w:plain:alt=サングラスをかけ白杖を持つ女性が歩く姿のイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260907/20260907021355.webp" alt="サングラスをかけ白杖を持つ女性が歩く姿のイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

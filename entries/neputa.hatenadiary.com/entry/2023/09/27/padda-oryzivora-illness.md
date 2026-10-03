@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2023/09/27/padda-oryzivora-illness
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072765748
 ---
 
-[f:id:neputa:20260902124619w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260902/20260902124619.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 _Photo by [Marc-Olivier Jodoin](https://unsplash.com/ja/@marcojodoin?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/ja/%E5%86%99%E7%9C%9F/%E5%A4%AA%E9%99%BD%E3%81%AE%E5%89%8D%E3%81%A7%E4%BA%BA%E3%81%AE%E6%89%8B%E3%81%AE%E9%A2%A8%E6%99%AF%E5%86%99%E7%9C%9F-TStNU7H4UEE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)_
 
 ひとまず落ち着いたので昨日の記録。

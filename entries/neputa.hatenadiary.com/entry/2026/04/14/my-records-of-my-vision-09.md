@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2026/04/14/my-records-of-my-vision-09
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074653159
 ---
 
-[f:id:neputa:20260907045743w:plain:alt=白杖を持って歩く人や点字など視覚障害に関連するものをモチーフにした抽象的イラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260907/20260907045743.webp" alt="白杖を持って歩く人や点字など視覚障害に関連するものをモチーフにした抽象的イラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2017/11/26/kakine-ryosuke-wild-soul
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068792252
 ---
 
-[f:id:neputa:20260825005029w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260825/20260825005029.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

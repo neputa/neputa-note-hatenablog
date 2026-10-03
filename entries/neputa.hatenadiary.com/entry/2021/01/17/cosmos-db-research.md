@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2021/01/17/cosmos-db-research
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069533097
 ---
 
-[f:id:neputa:20260826224420w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260826/20260826224420.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

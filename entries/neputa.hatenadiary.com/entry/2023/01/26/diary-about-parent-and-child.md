@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2023/01/26/diary-about-parent-and-child
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072629456
 ---
 
-[f:id:neputa:20260902060033w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260902/20260902060033.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 _Photo by : [Georg Arthur Pflueger](https://unsplash.com/de/@knurpselknie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
 
 ## 日常の愚痴あるいは嘆きと諦念の狭間

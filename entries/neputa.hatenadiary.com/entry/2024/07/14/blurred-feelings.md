@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2024/07/14/blurred-feelings
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073380852
 ---
 
-[f:id:neputa:20260904014114w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260904/20260904014114.webp" alt="アイキャッチ画像 夕暮れの湖畔のイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 誰にも言えないことはここに書く。
 

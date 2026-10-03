@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2025/10/14/beautiful-letters-with-a-fount
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210501
 ---
 
-[f:id:neputa:20260907011002w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260907/20260907011002.webp" alt="アイキャッチ画像 夕暮れの湖畔のイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 年に4，5回くらい、手書きでハガキを書く。親類から届く贈り物へのお礼や、年賀状などである。
 

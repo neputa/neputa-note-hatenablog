@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2025/01/28/recent-thoughts
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159712
 ---
 
-[f:id:neputa:20260905232724w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260905/20260905232724.webp" alt="アイキャッチ画像 夕暮れの湖畔のイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 今年も早いもので1月が終わろうとしている。
 

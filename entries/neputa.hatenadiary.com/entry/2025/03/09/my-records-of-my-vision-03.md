@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2025/03/09/my-records-of-my-vision-03
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159715
 ---
 
-[f:id:neputa:20260905233147w:plain:alt=視力検査をモチーフにした抽象的なイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260905/20260905233147.webp" alt="視力検査をモチーフにした抽象的なイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

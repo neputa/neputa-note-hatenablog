@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2025/03/04/acme-client-letsencrypt-autoup
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159803
 ---
 
-[f:id:neputa:20260905234728w:plain:alt=Let's Encryptのロゴマーク]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260905/20260905234728.webp" alt="Let's Encryptのロゴマーク" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

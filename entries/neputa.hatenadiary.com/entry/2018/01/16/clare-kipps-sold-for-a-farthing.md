@@ -10,7 +10,7 @@ URL: https://www.neputa-note.net/entry/2018/01/16/clare-kipps-sold-for-a-farthin
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068810208
 ---
 
-[f:id:neputa:20260825041834w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260825/20260825041834.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

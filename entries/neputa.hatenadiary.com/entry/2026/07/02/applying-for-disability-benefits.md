@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2026/07/02/applying-for-disability-benefi
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074769493
 ---
 
-[f:id:neputa:20260907140659w:plain:alt=重々しい宗教画のタッチで描かれた教会内で申請の列に並ぶ人々のイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260907/20260907140659.webp" alt="重々しい宗教画のタッチで描かれた教会内で申請の列に並ぶ人々のイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

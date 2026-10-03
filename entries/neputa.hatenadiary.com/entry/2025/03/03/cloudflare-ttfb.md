@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2025/03/03/cloudflare-ttfb
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159672
 ---
 
-[f:id:neputa:20260905220442w:plain:alt=cloudflareのネットワーク拠点をプロットした世界地図]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260905/20260905220442.webp" alt="cloudflareのネットワーク拠点をプロットした世界地図" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

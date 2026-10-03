@@ -11,7 +11,7 @@ URL: https://www.neputa-note.net/entry/2025/08/12/astro-formspree-contact-form
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210487
 ---
 
-[f:id:neputa:20260906192037w:plain:alt=AstroとFormspreeのロゴマーク]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260906/20260906192037.webp" alt="AstroとFormspreeのロゴマーク" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

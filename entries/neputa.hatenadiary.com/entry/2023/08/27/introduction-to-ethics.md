@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2023/08/27/introduction-to-ethics
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072646521
 ---
 
-[f:id:neputa:20260902074940w:plain:alt=アイキャッチ画像 秤と人がモチーフの倫理をイメージしたイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260902/20260902074940.webp" alt="アイキャッチ画像 秤と人がモチーフの倫理をイメージしたイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 _Photo Created by : [Bing Image Creator](https://www.bing.com/create)_
 
 [:contents]

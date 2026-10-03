@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2026/03/03/a-dream-i-had-on-2-march-2026
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074653114
 ---
 
-[f:id:neputa:20260907043621w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260907/20260907043621.webp" alt="アイキャッチ画像 夕暮れの湖畔のイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 家族の夢を見た。父と母と妹が出てきた。
 

@@ -11,7 +11,7 @@ URL: https://www.neputa-note.net/entry/2024/06/02/checklist-maker-release
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073027555
 ---
 
-[f:id:neputa:20260903032801w:plain:alt=CheckListMakerアプリのバナー広告画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260903/20260903032801.webp" alt="CheckListMakerアプリのバナー広告画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2025/12/27/review-and-outlook-2025-2026
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074653106
 ---
 
-[f:id:neputa:20260907041748w:plain:alt=午年の馬と2025年・2026年のカレンダーを並べたイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260907/20260907041748.webp" alt="午年の馬と2025年・2026年のカレンダーを並べたイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

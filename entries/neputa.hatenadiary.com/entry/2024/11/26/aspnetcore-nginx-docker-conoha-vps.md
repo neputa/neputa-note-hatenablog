@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2024/11/26/aspnetcore-nginx-docker-conoha
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782871
 ---
 
-[f:id:neputa:20260904233616w:plain:alt=dotnetとGMO Conohaのロゴマーク]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260904/20260904233616.webp" alt="dotnetとGMO Conohaのロゴマーク" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2026/01/31/recent-events-20260131
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074653100
 ---
 
-[f:id:neputa:20260907041121w:plain:alt=表情のない抽象的な祈る人の姿をモチーフにしたイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260907/20260907041121.webp" alt="表情のない抽象的な祈る人の姿をモチーフにしたイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 最近は凪いだ日々が続いている。とはいえ、周囲のことや脳内を見渡せば、いろいろと考えさせられることも多い。
 

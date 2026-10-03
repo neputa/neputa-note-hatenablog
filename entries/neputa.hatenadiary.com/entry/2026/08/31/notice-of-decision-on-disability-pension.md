@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2026/08/31/notice-of-decision-on-disabili
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074830405
 ---
 
-[f:id:neputa:20260907152617w:plain:alt=中世の雰囲気のイラスト 小屋の中で女性が受け取った手紙を見て驚く様子]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260907/20260907152617.webp" alt="中世の雰囲気のイラスト 小屋の中で女性が受け取った手紙を見て驚く様子" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

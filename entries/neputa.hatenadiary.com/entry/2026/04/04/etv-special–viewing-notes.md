@@ -8,7 +8,7 @@ URL: https://neputa.hatenadiary.com/entry/2026/04/04/etv-specialviewing-notes
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074653135
 ---
 
-[f:id:neputa:20260907045155w:plain:alt=NHK Eテレのロゴ]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260907/20260907045155.webp" alt="NHK Eテレのロゴ" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

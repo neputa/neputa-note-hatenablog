@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2026/06/01/my-records-of-my-vision-12
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074769427
 ---
 
-[f:id:neputa:20260907130724w:plain:alt=タブレットで何かを読んでいる人物、拡大鏡、ひらめきを表す電球など、ロービジョンライフをイメージした抽象的なイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260907/20260907130724.webp" alt="タブレットで何かを読んでいる人物、拡大鏡、ひらめきを表す電球など、ロービジョンライフをイメージした抽象的なイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

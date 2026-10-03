@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2017/09/21/hemingway-oldman-and-sea
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068737133
 ---
 
-[f:id:neputa:20260824215500w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260824/20260824215500.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

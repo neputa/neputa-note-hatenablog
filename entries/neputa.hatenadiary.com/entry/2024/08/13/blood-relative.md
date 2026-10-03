@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2024/08/13/blood-relative
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073380961
 ---
 
-[f:id:neputa:20260904205317w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260904/20260904205317.webp" alt="アイキャッチ画像 夕暮れの湖畔のイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 > 血縁（読み）ケツエン<br>
 > 血のつながりのある間柄。血すじ。また、血のつながっている親族。血族。けちえん。「血縁をたどる」<br>

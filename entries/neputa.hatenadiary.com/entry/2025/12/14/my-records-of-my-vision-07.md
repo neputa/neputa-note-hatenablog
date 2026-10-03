@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2025/12/14/my-records-of-my-vision-07
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074653095
 ---
 
-[f:id:neputa:20260907030240w:plain:alt=医師が患者に視力検査用器具の遮眼子を渡すイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260907/20260907030240.webp" alt="医師が患者に視力検査用器具の遮眼子を渡すイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

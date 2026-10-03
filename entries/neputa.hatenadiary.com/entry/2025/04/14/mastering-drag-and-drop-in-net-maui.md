@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2025/04/14/mastering-drag-and-drop-in-net
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210445
 ---
 
-[f:id:neputa:20260906021712w:plain:alt=.NET MAUIのロゴとドラッグアンドドロップのイメージイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260906/20260906021712.webp" alt=".NET MAUIのロゴとドラッグアンドドロップのイメージイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

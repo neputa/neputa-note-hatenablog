@@ -10,9 +10,9 @@ URL: https://www.neputa-note.net/entry/2021/09/08/ferdinand-von-schirach
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070846963
 ---
 
-[:contents]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260829/20260829225057.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
-[f:id:neputa:20260829225057w:plain:alt=アイキャッチ画像]
+[:contents]
 
 ## フェルディナント・フォン・シーラッハを語りたい
 

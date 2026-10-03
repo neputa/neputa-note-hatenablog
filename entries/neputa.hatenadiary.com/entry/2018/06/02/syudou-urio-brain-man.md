@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2018/06/02/syudou-urio-brain-man
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069087525
 ---
 
-[f:id:neputa:20260825203824w:plain:alt=アイキャッチ画像 脳男カバー]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260825/20260825203824.webp" alt="アイキャッチ画像 脳男カバー" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

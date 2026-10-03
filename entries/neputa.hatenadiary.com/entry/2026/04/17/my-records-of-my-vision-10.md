@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2026/04/17/my-records-of-my-vision-10
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074769352
 ---
 
-[f:id:neputa:20260907114336w:plain:alt=音符と植物の葉をあしらったパステルカラーのさわやかな印象のイメージ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260907/20260907114336.webp" alt="音符と植物の葉をあしらったパステルカラーのさわやかな印象のイメージ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2025/06/18/my-records-of-my-vision-04
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210480
 ---
 
-[f:id:neputa:20260906024753w:plain:alt=白杖歩行と障害者手帳を抽象化したイラストイメージ]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260906/20260906024753.webp" alt="白杖歩行と障害者手帳を抽象化したイラストイメージ" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

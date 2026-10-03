@@ -8,9 +8,9 @@ URL: https://www.neputa-note.net/entry/2022/01/21/add-neovim-context-menu
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032071260872
 ---
 
-[:contents]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260831/20260831001030.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
-[f:id:neputa:20260831001030w:plain:alt=アイキャッチ画像]
+[:contents]
 
 ## 本記事の経緯と主旨
 

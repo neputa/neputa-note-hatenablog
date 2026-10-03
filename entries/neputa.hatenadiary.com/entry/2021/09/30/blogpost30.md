@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2021/09/30/blogpost30
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070846968
 ---
 
-[f:id:neputa:20260829225349w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260829/20260829225349.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 _Photo by：[アニメイトタイムズ](https://www.animatetimes.com/news/img.php?id=1631839093&p=1&n=1)_
 
 [:contents]

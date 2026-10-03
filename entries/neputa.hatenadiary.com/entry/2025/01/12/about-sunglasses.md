@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2025/01/12/about-sunglasses
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159625
 ---
 
-[f:id:neputa:20260905215730w:plain:alt=サングラスをかけた女性の顔のアップ]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260905/20260905215730.webp" alt="サングラスをかけた女性の顔のアップ" width="800" height="420" loading="eager" fetchpriority="high">
 
 可視光調光レンズのメガネを購入した。
 

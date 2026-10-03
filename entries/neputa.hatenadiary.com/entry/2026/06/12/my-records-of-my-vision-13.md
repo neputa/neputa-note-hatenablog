@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2026/06/12/my-records-of-my-vision-13
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074769454
 ---
 
-[f:id:neputa:20260907135746w:plain:alt=手帳を渡す受付スタッフと受け取る人物のイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260907/20260907135746.webp" alt="手帳を渡す受付スタッフと受け取る人物のイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

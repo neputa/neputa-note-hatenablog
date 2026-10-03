@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2020/10/26/firefox-addon-facebook-contain
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069144333
 ---
 
-[f:id:neputa:20260825235420w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260825/20260825235420.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

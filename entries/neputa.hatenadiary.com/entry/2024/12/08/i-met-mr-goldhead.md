@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2024/12/08/i-met-mr-goldhead
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159594
 ---
 
-[f:id:neputa:20260905215442w:plain:alt=アイキャッチ画像 夕暮れの湖畔のイラスト]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260905/20260905215442.webp" alt="アイキャッチ画像 夕暮れの湖畔のイラスト" width="800" height="420" loading="eager" fetchpriority="high">
 
 長らく愛読しているブログ「関内関外日記」の中の人、黄金頭さんにお会いしてきた。
 

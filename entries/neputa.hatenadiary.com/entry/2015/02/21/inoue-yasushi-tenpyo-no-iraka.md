@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2015/02/21/inoue-yasushi-tenpyo-no-iraka
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032067587707
 ---
 
-[f:id:neputa:20260821214907w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260821/20260821214907.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

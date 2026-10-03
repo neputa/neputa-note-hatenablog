@@ -8,7 +8,7 @@ URL: https://www.neputa-note.net/entry/2026/09/26/salomon-x-ultra-5-wide
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032082425672
 ---
 
-[f:id:neputa:20260926130745w:plain:alt=Salomon X ULTRA 5 WIDEの踵のロゴのアップ]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260926/20260926130745.webp" alt="Salomon X ULTRA 5 WIDEの踵のロゴのアップ" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

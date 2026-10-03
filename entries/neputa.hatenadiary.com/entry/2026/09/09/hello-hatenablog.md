@@ -7,7 +7,7 @@ URL: https://www.neputa-note.net/entry/2026/09/09/hello-hatenablog
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032075771695
 ---
 
-[f:id:neputa:20260910011039w:plain:alt=はてなブログのロゴ]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260910/20260910011039.webp" alt="はてなブログのロゴ" width="800" height="420" loading="eager" fetchpriority="high">
 
 はてなブログでの初投稿です。
 

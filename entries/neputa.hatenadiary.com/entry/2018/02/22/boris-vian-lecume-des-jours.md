@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2018/02/22/boris-vian-lecume-des-jours
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032068810234
 ---
 
-[f:id:neputa:20260825043739w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260825/20260825043739.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

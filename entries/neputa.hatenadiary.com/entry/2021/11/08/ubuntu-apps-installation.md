@@ -9,7 +9,7 @@ URL: https://www.neputa-note.net/entry/2021/11/08/ubuntu-apps-installation
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032071260592
 ---
 
-[f:id:neputa:20260830215241w:plain:alt=アイキャッチ画像]
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260830/20260830215241.webp" alt="アイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">
 
 [:contents]
 

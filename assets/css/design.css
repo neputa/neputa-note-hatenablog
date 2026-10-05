@@ -2,6 +2,16 @@
 @import url("https://usercss.blog.st-hatena.com/-/theme/6802418398435013379.css?version=96bd5c1e06096ec35762dc8a1f4aecd73487389c");
 /* </system> */
 
+/* profile section */
+.hatena-id-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
+  padding: 2px 6px;
+  line-height: 20px;
+  box-sizing: border-box;
+}
+
 /* グローバルナビゲーション（基本 / ライトモード） */
 .global-nav {
   margin: 1em 0;

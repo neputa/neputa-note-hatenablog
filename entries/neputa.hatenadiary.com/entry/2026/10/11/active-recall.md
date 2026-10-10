@@ -1,13 +1,11 @@
 ---
 Title: 「何度も聞く」だけでは覚えられない――音声学習と記憶定着を考える
 Category:
-  - 日記
-  - 視覚障害
+- 日記
+- 視覚障害
+Date: 2026-10-11T00:25:27.041+09:00
+URL: https://www.neputa-note.net/entry/2026/10/11/active-recall
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032086958256
-PreviewURL: https://www.neputa-note.net/draft/entry/4joccVfAp7REUCNzS-f6WbmcZIE
-Draft: false
-CustomPath: 2026/10/11/active-recall
-Date: 2026-10-10T15:25:27.041Z
 ---
 
 <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20261007/20261007015914.webp" alt="ヘッドホンをした人物がノートパソコンの前で肩肘をついて音声や情報を示すマイクやメモのアイコンを思い浮かべながら考えている様子のイラスト" width="800" height="420" loading="eager" fetchpriority="high">

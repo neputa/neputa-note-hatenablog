@@ -92,7 +92,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 #### 演奏動画
 
-https://www.youtube.com/watch?v=DeimmQE1qU0:embed
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DeimmQE1qU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 モンセギュールは山頂に城跡があり、それはカタリ派の人々が最後まで十字軍に抵抗を続けた場所であり、土地の者の誇りでもある。
 

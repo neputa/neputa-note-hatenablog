@@ -68,7 +68,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 ## 裏表のない世界について
 
-https://www.youtube.com/watch?v=-8kEvy7Nthc:embed
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-8kEvy7Nthc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 記事詳細
 

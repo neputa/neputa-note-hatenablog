@@ -48,7 +48,7 @@ _Photo by [AMeeT](https://www.ameet.jp/feature/2933/)_
 
 はい、何を言っているのかわかりませんね。
 
-https://www.youtube.com/watch?v=kVjL2sJyBnM:embed
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kVjL2sJyBnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 上記の動画は、Dr.ハインリッヒの漫才に登場するワードを基に作られた映像です。
 
@@ -60,10 +60,10 @@ https://www.youtube.com/watch?v=kVjL2sJyBnM:embed
 
 Dr.ハインリッヒの漫才を聞くたび、私はいつも宇宙を感じます。
 
-https://www.youtube.com/watch?v=rSp9H0BlH9A:embed
-
-https://www.youtube.com/watch?v=78MqYfpRx80:embed
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rSp9H0BlH9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/78MqYfpRx80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</iframe>
 幸（みゆき）さんが生み出すおよそ凡人にはなかなか理解しがたい世界観を、ツッコミである彩さんは否定しないのですよね。
 
 受け止め乗っかっていくことで幸さんを独りぼっちにさせません。

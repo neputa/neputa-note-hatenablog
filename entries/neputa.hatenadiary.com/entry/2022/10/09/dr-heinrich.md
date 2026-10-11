@@ -162,7 +162,7 @@ Dr.ハインリッヒが扱うワードもまた良き。
 
 以前、漫才中に登場するワードでつくられた展示映像があるので参考まで。
 
-https://www.youtube.com/watch?v=kVjL2sJyBnM:embed
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kVjL2sJyBnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 本や辞書で見た程度、およそ人が発話するのを聞いたことがないワード、それを、あのお二人の声をとおしてはじめて耳にする。
 

@@ -25,9 +25,17 @@ JS
 
   awk '
 BEGIN { dup = 0 }
-NF >= 2 && $1 ~ /^\// && $2 ~ /^\// {
+NF >= 2 && $1 ~ /^\// && ($2 ~ /^\// || $2 ~ /^https?:\/\//) {
   old = $1
   new = $2
+
+  gsub(/\/{2,}/, "/", old)
+  if (tolower(old) ~ /\.html?$/) {
+    sub(/\.[Hh][Tt][Mm][Ll]?$/, "", old)
+  }
+  if (old !~ /\/$/) {
+    old = old "/"
+  }
 
   if (seen[old]++) {
     dup = 1

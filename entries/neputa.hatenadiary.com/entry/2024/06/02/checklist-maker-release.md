@@ -25,7 +25,37 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 買い物メモやTodoリストなどをカメラで撮影すると簡単にチェックリストに変換するスマホアプリ。スマホに保存してある画像も対象。
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-Sq_qwpl8Dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="youtube-facade"
+     data-video-id="-Sq_qwpl8Dw"
+     data-video-title="スマホアプリ「CheckListMaker」の使い方">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：スマホアプリ「CheckListMaker」の使い方">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/-Sq_qwpl8Dw/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=-Sq_qwpl8Dw">
+      「スマホアプリ「CheckListMaker」の使い方」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 
 以下からインストールできる。（現在Android版のみ）
 

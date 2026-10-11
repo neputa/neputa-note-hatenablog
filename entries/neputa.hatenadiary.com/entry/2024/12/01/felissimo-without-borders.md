@@ -68,7 +68,37 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 ## 裏表のない世界について
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-8kEvy7Nthc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="youtube-facade"
+     data-video-id="-8kEvy7Nthc"
+     data-video-title="裏表のない世界　イメージムービー｜オールライト研究所・フェリシモ">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：裏表のない世界　イメージムービー｜オールライト研究所・フェリシモ">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/-8kEvy7Nthc/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=-8kEvy7Nthc">
+      「裏表のない世界　イメージムービー｜オールライト研究所・フェリシモ」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 
 ## 記事詳細
 

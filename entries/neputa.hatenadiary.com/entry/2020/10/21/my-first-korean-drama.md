@@ -209,7 +209,37 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 一番のお気に入りは、「In Silence」という曲で、「Janet Suhh」という方が歌っています。
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yvhfxMVVNgQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="youtube-facade"
+     data-video-id="yvhfxMVVNgQ"
+     data-video-title="[M/V] Janet Suhh(자넷서) - In Silence">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：[M/V] Janet Suhh(자넷서) - In Silence">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/yvhfxMVVNgQ/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=yvhfxMVVNgQ">
+      「[M/V] Janet Suhh(자넷서) - In Silence」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 
 ガンテが悲しい気持ちを抑えることができず、いよいよ気持ちが溢れ出てしまうシーンでこの曲がかかります。
 

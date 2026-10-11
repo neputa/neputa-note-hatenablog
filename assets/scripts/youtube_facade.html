@@ -1,0 +1,80 @@
+<script>
+(function () {
+  "use strict";
+
+  // ファサードがあるページでのみ動作する
+  if (!document.querySelector(".youtube-facade")) {
+    return;
+  }
+
+  document.addEventListener("click", function (event) {
+    if (!(event.target instanceof Element)) {
+      return;
+    }
+
+    const button = event.target.closest(
+      ".youtube-facade__button"
+    );
+
+    if (!button) {
+      return;
+    }
+
+    const facade = button.closest(".youtube-facade");
+
+    if (!facade) {
+      return;
+    }
+
+    const videoId = facade.dataset.videoId || "";
+
+    // 動画IDの形式を確認する
+    if (!/^[A-Za-z0-9_-]{11}$/.test(videoId)) {
+      return;
+    }
+
+    const videoTitle =
+      facade.dataset.videoTitle || "YouTube動画";
+
+    // クリックされたときに初めてiframeを生成する
+    const iframe = document.createElement("iframe");
+
+    iframe.className = "youtube-facade__iframe";
+
+    const params = new URLSearchParams({
+      autoplay: "1",
+      playsinline: "1",
+      rel: "0"
+    });
+
+    iframe.src =
+      "https://www.youtube-nocookie.com/embed/" +
+      videoId +
+      "?" +
+      params.toString();
+
+    iframe.title = videoTitle + "（YouTube動画プレーヤー）";
+
+    iframe.setAttribute(
+      "allow",
+      "accelerometer; autoplay; clipboard-write; encrypted-media; " +
+      "gyroscope; picture-in-picture; web-share"
+    );
+
+    iframe.setAttribute(
+      "referrerpolicy",
+      "strict-origin-when-cross-origin"
+    );
+
+    iframe.setAttribute("allowfullscreen", "");
+    iframe.setAttribute("loading", "eager");
+
+    // サムネイルとボタンをプレーヤーへ置き換える
+    facade.replaceChildren(iframe);
+
+    // キーボード・スクリーンリーダー利用時に
+    // プレーヤーへフォーカスを移す
+    iframe.focus({ preventScroll: true });
+  });
+})();
+</script>

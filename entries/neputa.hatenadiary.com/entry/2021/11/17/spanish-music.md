@@ -131,7 +131,37 @@ Tiny Desk Concertsで見つけた「スペイン語」の音楽を、タイト�
 
 まずは「Monsieur Periné」というコロンビアのグループ。
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JGL-eQAAxGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="youtube-facade"
+     data-video-id="JGL-eQAAxGs"
+     data-video-title="Monsieur Periné: NPR Music Tiny Desk Concert">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：Monsieur Periné: NPR Music Tiny Desk Concert">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/JGL-eQAAxGs/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=JGL-eQAAxGs">
+      「Monsieur Periné: NPR Music Tiny Desk Concert」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 
 8人のメンバーで構成された「アフロ・コロンビアン・サウンド」が特徴。
 
@@ -145,8 +175,37 @@ Tiny Desk Concertsで見つけた「スペイン語」の音楽を、タイト�
 
 続いて「Jenny and the Mexicats」。
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yng5CTT8Ogk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</iframe>
+<div class="youtube-facade"
+     data-video-id="yng5CTT8Ogk"
+     data-video-title="Jenny and the Mexicats: NPR Music Tiny Desk Concert">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：Jenny and the Mexicats: NPR Music Tiny Desk Concert">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/yng5CTT8Ogk/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=yng5CTT8Ogk">
+      「Jenny and the Mexicats: NPR Music Tiny Desk Concert」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 ボーカルの方は英国出身で一部に英語の楽曲もあったりするが、サウンドメーカーはメキシコやスペイン出身者で構成されたグループ。
 
 アップテンポなノリの良い曲から聴かせる曲まで幅広い演奏を披露している。
@@ -161,8 +220,37 @@ Tiny Desk Concertsで見つけた「スペイン語」の音楽を、タイト�
 
 3つ目は「Natalia Lafourcade」というメキシコ出身の女性シンガー。
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JODaYjDyjyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</iframe>
+<div class="youtube-facade"
+     data-video-id="JODaYjDyjyQ"
+     data-video-title="Natalia Lafourcade: NPR Music Tiny Desk Concert">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：Natalia Lafourcade: NPR Music Tiny Desk Concert">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/JODaYjDyjyQ/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=JODaYjDyjyQ">
+      「Natalia Lafourcade: NPR Music Tiny Desk Concert」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 澄んだ歌声がスペイン語の発音とあいまって心地よい響きとなる。
 
 先に紹介した2組はリズム感の強い音楽が印象的であったが、こちらは聴かせるゆったりとした楽曲がメインで、スペイン語の発音の気持ちよさと美しさを実感させられた。
@@ -175,8 +263,37 @@ Nataliaさんキッカケでスペイン語の特徴を感じられる音楽に�
 
 最後、プラス1として「Nicki Nicole」。
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RG6O-Qq79G0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</iframe>
+<div class="youtube-facade"
+     data-video-id="RG6O-Qq79G0"
+     data-video-title="Nicki Nicole: Tiny Desk (Home) Concert">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：Nicki Nicole: Tiny Desk (Home) Concert">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/RG6O-Qq79G0/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=RG6O-Qq79G0">
+      「Nicki Nicole: Tiny Desk (Home) Concert」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 すでに有名な歌手なのでご存じの方も多いかもしれない、アルゼンチン出身のラッパーである。
 
 「もっと心地よいスペイン語を聴かせてくれー」と探して辿り着いたのがラップだった。
@@ -191,8 +308,37 @@ Nataliaさんキッカケでスペイン語の特徴を感じられる音楽に�
 
 夜の音楽が大好きな私はアストル・ピアソラ（Astor Piazzolla）とか大好物なので、バンドネオンの音を聴くとすべての動作を止めて聴き入ってしまう。
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VTPec8z5vdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</iframe>
+<div class="youtube-facade"
+     data-video-id="VTPec8z5vdY"
+     data-video-title="Adios Nonino - Astor Piazzolla">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：Adios Nonino - Astor Piazzolla">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/VTPec8z5vdY/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=VTPec8z5vdY">
+      「Adios Nonino - Astor Piazzolla」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 そう、Nicki Nicoleの音楽は私の中で「夜の音楽」にカテゴリされる。
 
 当初「明るい音楽」を求めて「スペイン語の音楽」へと辿り着いたのだが、結局ゴールは「スペイン語の夜の音楽」だった。

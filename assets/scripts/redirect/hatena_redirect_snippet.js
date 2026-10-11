@@ -360,7 +360,8 @@
     "/2026/06/neocontrast-for-photophobia/": "/entry/2026/06/09/neocontrast-for-photophobia",
     "/2026/07/applying-for-disability-benefits/": "/entry/2026/07/02/applying-for-disability-benefits",
     "/2026/07/i-became-a-white-cane-user/": "/entry/2026/07/29/i-became-a-white-cane-user",
-    "/2026/08/notice-of-decision-on-disability-pension/": "/entry/2026/08/31/notice-of-decision-on-disability-pension"
+    "/2026/08/notice-of-decision-on-disability-pension/": "/entry/2026/08/31/notice-of-decision-on-disability-pension",
+    "/p/onethird/": "https://www.makuta-kobo.net/products/onethird/"
   };
 
   function normalizePath(path) {

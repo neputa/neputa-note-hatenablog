@@ -1,0 +1,27 @@
+<link rel="preconnect" href="https://cdn-ak.f.st-hatena.com">
+<link rel="preconnect" href="https://cdn.blog.st-hatena.com">
+<link rel="preconnect" href="https://pf-api.hatena.com" crossorigin="crossorigin">
+<script>
+(function () {
+  function loadValueCommerceMyLinkBox() {
+    if (!document.querySelector('[data-vc_mylinkbox_id]')) {
+      return;
+    }
+
+    var script = document.createElement('script');
+    script.src = 'https://mlb.valuecommerce.com/mylinkbox.js';
+    script.async = true;
+    document.head.appendChild(script);
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener(
+      'DOMContentLoaded',
+      loadValueCommerceMyLinkBox,
+      { once: true }
+    );
+  } else {
+    loadValueCommerceMyLinkBox();
+  }
+})();
+</script>

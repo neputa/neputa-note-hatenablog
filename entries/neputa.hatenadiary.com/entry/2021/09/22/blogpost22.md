@@ -74,7 +74,37 @@ _Photo by [Jesus Loves Austin](https://unsplash.com/ja/@jesuslovesaustin?utm_con
 
 #### Anna B Savage Tiny Desk (Home) Concert
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6uMyPRYjIYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="youtube-facade"
+     data-video-id="6uMyPRYjIYw"
+     data-video-title="Anna B Savage: Tiny Desk (Home) Concert">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：Anna B Savage: Tiny Desk (Home) Concert">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/6uMyPRYjIYw/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=6uMyPRYjIYw">
+      「Anna B Savage: Tiny Desk (Home) Concert」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 
 以前から実験的な要素のあるチャンネルではありましたが、コロナ禍がもたらした制約により、一気にその特徴が研ぎ澄まされていったように思います。
 
@@ -84,8 +114,37 @@ Tiny Desk Concertからはとくにお気に入りの3つの動画をご紹介�
 
 演奏場所：たぶんスタジオのセット？
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/F4neLJQC1_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</iframe>
+<div class="youtube-facade"
+     data-video-id="F4neLJQC1_E"
+     data-video-title="Dua Lipa: Tiny Desk (Home) Concert">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：Dua Lipa: Tiny Desk (Home) Concert">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/F4neLJQC1_E/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=F4neLJQC1_E">
+      「Dua Lipa: Tiny Desk (Home) Concert」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 みんな大好き「デュア・リパ」ですね。
 
 メジャーシンガーとは言え、パフォーマンスができずに苦しんでいたのは彼女も一緒です。
@@ -102,14 +161,72 @@ MCではライブ配信の喜びをしみじみ語っています。
 
 演奏場所：たぶんスタジオのセット？
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Nkt93coQzqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</iframe>
+<div class="youtube-facade"
+     data-video-id="Nkt93coQzqg"
+     data-video-title="Little Simz: Tiny Desk (Home) Concert">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：Little Simz: Tiny Desk (Home) Concert">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/Nkt93coQzqg/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=Nkt93coQzqg">
+      「Little Simz: Tiny Desk (Home) Concert」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 いま私の中でもっとも熱いのがこの「Little Simz」です。
 
 はじめて「Introvert」のMVを見たときも相当ぶっ飛びました。
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hxfGQ2AJHGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</iframe>
+<div class="youtube-facade"
+     data-video-id="hxfGQ2AJHGk"
+     data-video-title="Little Simz - Introvert (Official Video)">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：Little Simz - Introvert (Official Video)">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/hxfGQ2AJHGk/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=hxfGQ2AJHGk">
+      「Little Simz - Introvert (Official Video)」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 しかしこのTiny Desk Concertのこの雰囲気、ものすごく良かないですか？
 
 ヒップホップやラップ苦手な方には申し訳ないですが、彼女の持つ「強さ」の部分を視聴者に強く印象付けるセットでのパフォーマンスに痺れます。
@@ -118,8 +235,37 @@ MCではライブ配信の喜びをしみじみ語っています。
 
 演奏場所：レストラン
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2nkWKhcG-Zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</iframe>
+<div class="youtube-facade"
+     data-video-id="2nkWKhcG-Zg"
+     data-video-title="maye: Tiny Desk (Home) Concert">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：maye: Tiny Desk (Home) Concert">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/2nkWKhcG-Zg/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=2nkWKhcG-Zg">
+      「maye: Tiny Desk (Home) Concert」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 個人的にヒスパニック系の音楽が大好きで、最近配信されたものの中でよかったのがこちらです。
 
 レストランを使っての配信だそうで、オープニングの窓の外から撮っているような演出など場所を生かした素敵な配信となっております。
@@ -130,8 +276,37 @@ MCではライブ配信の喜びをしみじみ語っています。
 
 演奏場所：ギリシャミコノス島のクラブ
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WqWlGr10t-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</iframe>
+<div class="youtube-facade"
+     data-video-id="WqWlGr10t-g"
+     data-video-title="Giolì &amp; Assia - #DiesisLive Club Edition @Cavo Paradiso, Mykonos Greece">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：Giolì &amp; Assia - #DiesisLive Club Edition @Cavo Paradiso, Mykonos Greece">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/WqWlGr10t-g/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=WqWlGr10t-g">
+      「Giolì &amp; Assia - #DiesisLive Club Edition @Cavo Paradiso, Mykonos Greece」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 「Giolì & Assia」はイタリア出身のハウス/テクノ・デュオだそうで、以前から絶景をバックにパフォーマンスする動画を配信しています。
 
 コロナ禍で急遽始まったものではないのですが、巣ごもりして自宅で音楽を楽しまざるを得ない勢が増えた現在、すでに多くのパフォーマンス動画を配信していた彼女たちの注目はより高まると思います。
@@ -144,8 +319,37 @@ MCではライブ配信の喜びをしみじみ語っています。
 
 演奏場所：サロン？画廊？
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wsc-XsSVqWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</iframe>
+<div class="youtube-facade"
+     data-video-id="wsc-XsSVqWY"
+     data-video-title="Ghostly Kisses - Live at Le Grand Salon">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：Ghostly Kisses - Live at Le Grand Salon">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/wsc-XsSVqWY/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=wsc-XsSVqWY">
+      「Ghostly Kisses - Live at Le Grand Salon」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 概要欄に「Le Grand Salon, Quebec City」とありますが詳しい場所はわからず。
 
 一枚の絵画をバックに、アコースティック演奏と共に抒情溢れるフレンチポップを奏でるというある意味ストロングなスタイルでの配信です。
@@ -156,8 +360,37 @@ MCではライブ配信の喜びをしみじみ語っています。
 
 演奏場所：スタジアム
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4VUKDx0wfwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</iframe>
+<div class="youtube-facade"
+     data-video-id="4VUKDx0wfwY"
+     data-video-title="Fujii Kaze &quot;Free&quot; Live 2021 at NISSAN stadium">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：Fujii Kaze &quot;Free&quot; Live 2021 at NISSAN stadium">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/4VUKDx0wfwY/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=4VUKDx0wfwY">
+      「Fujii Kaze "Free" Live 2021 at NISSAN stadium」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 通常のライブステージから無観客で配信しているライブが多い中、その一歩先をいく配信を選んで紹介しています。
 
 こちらはその主旨から外れているようで新しい気もするのでご紹介します。
@@ -186,8 +419,37 @@ MCではライブ配信の喜びをしみじみ語っています。
 
 演奏場所：夜道
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Q8v44RuAaZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</iframe>
+<div class="youtube-facade"
+     data-video-id="Q8v44RuAaZE"
+     data-video-title="Sen Morimoto - Full Performance (Live on KEXP at Home)">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：Sen Morimoto - Full Performance (Live on KEXP at Home)">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/Q8v44RuAaZE/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=Q8v44RuAaZE">
+      「Sen Morimoto - Full Performance (Live on KEXP at Home)」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 こちらの配信は「KEXP」という数多くのライブ配信を昔から行っているチャンネルです。
 
 そのなかでも、アメリカで活動する「Sen Morimoto」さんのライブパフォーマンスは大変興味深いものでした。

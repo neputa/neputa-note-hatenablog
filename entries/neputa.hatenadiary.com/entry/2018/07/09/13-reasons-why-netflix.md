@@ -18,7 +18,37 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 シーズン1では、（とくにアメリカ）で大きな反響を呼び話題となったそうだ。
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DZzDhCD9pcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="youtube-facade"
+     data-video-id="DZzDhCD9pcw"
+     data-video-title="『13の理由』最終シーズン 予告編 - Netflix">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：『13の理由』最終シーズン 予告編 - Netflix">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/DZzDhCD9pcw/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=DZzDhCD9pcw">
+      「『13の理由』最終シーズン 予告編 - Netflix」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 
 実際にアメリカのハイスクールで起きている数多くの現実を盛り込んだ内容は、多くの視聴者から反響を呼ぶこととなった。制作側は寄せられる視聴者あるいは実際に苦しんでいる者たちの声を受け止めるべく、窓口となるサイトを用意するにいたった。
 

@@ -196,7 +196,37 @@ Londonの南側は古くから労働階級の人々のエリアであり比較�
 
 ### 『ある告白の解剖』 Netflixドラマ
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M1UGGZnHyf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="youtube-facade"
+     data-video-id="M1UGGZnHyf8"
+     data-video-title="Anatomy of a Scandal | Official Trailer | Netflix">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：Anatomy of a Scandal | Official Trailer | Netflix">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/M1UGGZnHyf8/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=M1UGGZnHyf8">
+      「Anatomy of a Scandal | Official Trailer | Netflix」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 
 こちらも先日見た作品で、『You Don't Know Me』と同様に法廷を主舞台とした作品。
 

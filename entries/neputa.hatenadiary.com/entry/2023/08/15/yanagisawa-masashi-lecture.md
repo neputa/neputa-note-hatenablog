@@ -32,7 +32,10 @@ _Photo Created by : [Bing Image Creator](https://www.bing.com/create)_
 
 ### 講演動画
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p6Se5ZKrC4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> [!CAUTION]
+> 2026/10/12時点で、動画は現在非公開となっている。
+
+元のYoutube動画URL:`https://www.youtube.com/watch?v=p6Se5ZKrC4M`
 
 ### 備忘録メモ
 

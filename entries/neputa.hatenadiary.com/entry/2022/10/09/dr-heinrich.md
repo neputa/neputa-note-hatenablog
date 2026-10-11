@@ -162,7 +162,37 @@ Dr.ハインリッヒが扱うワードもまた良き。
 
 以前、漫才中に登場するワードでつくられた展示映像があるので参考まで。
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kVjL2sJyBnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="youtube-facade"
+     data-video-id="kVjL2sJyBnM"
+     data-video-title="「㐧一回Dr ハインリッヒのアートの館」展示映像">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：「㐧一回Dr ハインリッヒのアートの館」展示映像">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/kVjL2sJyBnM/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=kVjL2sJyBnM">
+      「「㐧一回Dr ハインリッヒのアートの館」展示映像」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 
 本や辞書で見た程度、およそ人が発話するのを聞いたことがないワード、それを、あのお二人の声をとおしてはじめて耳にする。
 

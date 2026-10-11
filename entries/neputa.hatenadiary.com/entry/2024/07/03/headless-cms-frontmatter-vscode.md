@@ -70,7 +70,37 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 自動翻訳の日本語字幕で見たが、それなりに理解できた。
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xb6pZiier_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="youtube-facade"
+     data-video-id="xb6pZiier_E"
+     data-video-title="Getting started with Front Matter CMS">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：Getting started with Front Matter CMS">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/xb6pZiier_E/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=xb6pZiier_E">
+      「Getting started with Front Matter CMS」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 
 ### 参考サイト
 

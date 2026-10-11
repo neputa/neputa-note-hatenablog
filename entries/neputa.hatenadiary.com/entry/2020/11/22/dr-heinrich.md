@@ -48,7 +48,37 @@ _Photo by [AMeeT](https://www.ameet.jp/feature/2933/)_
 
 はい、何を言っているのかわかりませんね。
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kVjL2sJyBnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="youtube-facade"
+     data-video-id="kVjL2sJyBnM"
+     data-video-title="「㐧一回Dr ハインリッヒのアートの館」展示映像">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：「㐧一回Dr ハインリッヒのアートの館」展示映像">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/kVjL2sJyBnM/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=kVjL2sJyBnM">
+      「「㐧一回Dr ハインリッヒのアートの館」展示映像」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 
 上記の動画は、Dr.ハインリッヒの漫才に登場するワードを基に作られた映像です。
 
@@ -60,10 +90,68 @@ _Photo by [AMeeT](https://www.ameet.jp/feature/2933/)_
 
 Dr.ハインリッヒの漫才を聞くたび、私はいつも宇宙を感じます。
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rSp9H0BlH9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</iframe>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/78MqYfpRx80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</iframe>
+<div class="youtube-facade"
+     data-video-id="rSp9H0BlH9A"
+     data-video-title="『トンネルを抜けると』">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：『トンネルを抜けると』">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/rSp9H0BlH9A/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=rSp9H0BlH9A">
+      「『トンネルを抜けると』」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
+<div class="youtube-facade"
+     data-video-id="78MqYfpRx80"
+     data-video-title="『みょうが』">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：『みょうが』">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/78MqYfpRx80/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=78MqYfpRx80">
+      「『みょうが』」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 幸（みゆき）さんが生み出すおよそ凡人にはなかなか理解しがたい世界観を、ツッコミである彩さんは否定しないのですよね。
 
 受け止め乗っかっていくことで幸さんを独りぼっちにさせません。

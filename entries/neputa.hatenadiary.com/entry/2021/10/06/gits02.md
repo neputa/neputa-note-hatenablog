@@ -149,7 +149,37 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 そういえば、以前発売された「うごく、しゃべる、並列化する。1/8タチコマ」というのを思いだした。10万円ぐらいしたけどほしかった。
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1HqwQBLAJWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="youtube-facade"
+     data-video-id="1HqwQBLAJWw"
+     data-video-title="うごく、しゃべる、並列化する。1/8 タチコマ - Cerevo">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：うごく、しゃべる、並列化する。1/8 タチコマ - Cerevo">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/1HqwQBLAJWw/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=1HqwQBLAJWw">
+      「うごく、しゃべる、並列化する。1/8 タチコマ - Cerevo」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 
 あと何と言っても「菅野よう子＆ ORIGA」のコンビによる主題歌。
 
@@ -189,8 +219,37 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 Netflixで全12話のアニメシリーズとして公開されたほか、これを再構成した劇場版もある。
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/O6pA7Dw_iCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</iframe>
+<div class="youtube-facade"
+     data-video-id="O6pA7Dw_iCw"
+     data-video-title="『攻殻機動隊 SAC_2045』予告編  - Netflix">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：『攻殻機動隊 SAC_2045』予告編  - Netflix">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/O6pA7Dw_iCw/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=O6pA7Dw_iCw">
+      「『攻殻機動隊 SAC_2045』予告編  - Netflix」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 タイトルに「SAC」とあり、TVアニメシリーズの続編という設定。3Dによる見た目もそうだが内容もだいぶ印象が異なる。
 
 Netflixではシーズン2も決まっているのできっと見ると思うが、正直前のシリーズの方が格段によかったとの思いはぬぐえない。

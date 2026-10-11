@@ -112,7 +112,36 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 公式サイトのトレーラーを見て今からワクワクしている。
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UQfUCPW0Ako" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</iframe>
+<div class="youtube-facade"
+     data-video-id="UQfUCPW0Ako"
+     data-video-title="映画『ブレードランナー 2049』予告3">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：映画『ブレードランナー 2049』予告3">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/UQfUCPW0Ako/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=UQfUCPW0Ako">
+      「映画『ブレードランナー 2049』予告3」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 
 <div data-vc_mylinkbox_id='887375045'></div>

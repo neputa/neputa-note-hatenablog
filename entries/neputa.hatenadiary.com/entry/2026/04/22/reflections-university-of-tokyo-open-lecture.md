@@ -17,7 +17,37 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 東京大学公開講座で小林武彦教授の話を聞き、あらためて「人はなぜ死ぬのか」「老いにはどんな意味があるのか」を考えさせられた。ここでは視聴メモをもとに、印象に残った内容を整理してまとめる。
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/s5wDD_cqU14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="youtube-facade"
+     data-video-id="s5wDD_cqU14"
+     data-video-title="【生物はなぜ老い、そして死ぬのか】小林 武彦_第141回（2025年秋季）東京大学公開講座「人間の在り方、生き方」">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：【生物はなぜ老い、そして死ぬのか】小林 武彦_第141回（2025年秋季）東京大学公開講座「人間の在り方、生き方」">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/s5wDD_cqU14/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=s5wDD_cqU14">
+      「【生物はなぜ老い、そして死ぬのか】小林 武彦_第141回（2025年秋季）東京大学公開講座「人間の在り方、生き方」」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 
 ## 死を考えるきっかけ
 

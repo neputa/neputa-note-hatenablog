@@ -92,7 +92,37 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 #### 演奏動画
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DeimmQE1qU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="youtube-facade"
+     data-video-id="DeimmQE1qU0"
+     data-video-title="Claude Marti à Montségur">
+
+  <button
+    class="youtube-facade__button"
+    type="button"
+    aria-label="YouTube動画を再生：Claude Marti à Montségur">
+
+    <img
+      class="youtube-facade__thumbnail"
+      src="https://i.ytimg.com/vi/DeimmQE1qU0/maxresdefault.jpg"
+      alt=""
+      width="1280"
+      height="720"
+      loading="lazy"
+      decoding="async">
+
+    <span
+      class="youtube-facade__play"
+      aria-hidden="true"></span>
+  </button>
+</div>
+
+<noscript>
+  <p>
+    <a href="https://www.youtube.com/watch?v=DeimmQE1qU0">
+      「Claude Marti à Montségur」をYouTubeで視聴する
+    </a>
+  </p>
+</noscript>
 
 モンセギュールは山頂に城跡があり、それはカタリ派の人々が最後まで十字軍に抵抗を続けた場所であり、土地の者の誇りでもある。
 

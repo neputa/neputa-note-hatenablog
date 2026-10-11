@@ -149,7 +149,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 そういえば、以前発売された「うごく、しゃべる、並列化する。1/8タチコマ」というのを思いだした。10万円ぐらいしたけどほしかった。
 
-https://www.youtube.com/watch?v=1HqwQBLAJWw:embed
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1HqwQBLAJWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 あと何と言っても「菅野よう子＆ ORIGA」のコンビによる主題歌。
 
@@ -189,8 +189,8 @@ https://www.youtube.com/watch?v=1HqwQBLAJWw:embed
 
 Netflixで全12話のアニメシリーズとして公開されたほか、これを再構成した劇場版もある。
 
-https://www.youtube.com/watch?v=O6pA7Dw_iCw:embed
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/O6pA7Dw_iCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</iframe>
 タイトルに「SAC」とあり、TVアニメシリーズの続編という設定。3Dによる見た目もそうだが内容もだいぶ印象が異なる。
 
 Netflixではシーズン2も決まっているのできっと見ると思うが、正直前のシリーズの方が格段によかったとの思いはぬぐえない。

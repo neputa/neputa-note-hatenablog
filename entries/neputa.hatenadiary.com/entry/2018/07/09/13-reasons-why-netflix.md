@@ -18,7 +18,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 シーズン1では、（とくにアメリカ）で大きな反響を呼び話題となったそうだ。
 
-https://www.youtube.com/watch?v=DZzDhCD9pcw:embed
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DZzDhCD9pcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 実際にアメリカのハイスクールで起きている数多くの現実を盛り込んだ内容は、多くの視聴者から反響を呼ぶこととなった。制作側は寄せられる視聴者あるいは実際に苦しんでいる者たちの声を受け止めるべく、窓口となるサイトを用意するにいたった。
 

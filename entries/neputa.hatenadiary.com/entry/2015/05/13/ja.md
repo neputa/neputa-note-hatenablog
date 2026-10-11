@@ -49,7 +49,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 なかでも、ホイッパーウィル（英：Whip-poor-will）という鳥の鳴き声が印象に残っている。物語の中で、この鳥は人間が楽器を弾くと、それに合わせて一羽、二羽と歌い出し、やがて大合奏となるという逸話が語られている。
 
-https://www.youtube.com/watch?v=sukE9pGayRc:embed
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sukE9pGayRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 著者について
 

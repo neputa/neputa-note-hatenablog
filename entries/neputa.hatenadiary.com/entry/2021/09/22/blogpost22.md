@@ -74,7 +74,7 @@ _Photo by [Jesus Loves Austin](https://unsplash.com/ja/@jesuslovesaustin?utm_con
 
 #### Anna B Savage Tiny Desk (Home) Concert
 
-https://www.youtube.com/watch?v=6uMyPRYjIYw:embed
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6uMyPRYjIYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 以前から実験的な要素のあるチャンネルではありましたが、コロナ禍がもたらした制約により、一気にその特徴が研ぎ澄まされていったように思います。
 
@@ -84,8 +84,8 @@ Tiny Desk Concertからはとくにお気に入りの3つの動画をご紹介�
 
 演奏場所：たぶんスタジオのセット？
 
-https://www.youtube.com/watch?v=F4neLJQC1_E:embed
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/F4neLJQC1_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</iframe>
 みんな大好き「デュア・リパ」ですね。
 
 メジャーシンガーとは言え、パフォーマンスができずに苦しんでいたのは彼女も一緒です。
@@ -102,14 +102,14 @@ MCではライブ配信の喜びをしみじみ語っています。
 
 演奏場所：たぶんスタジオのセット？
 
-https://www.youtube.com/watch?v=Nkt93coQzqg:embed
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Nkt93coQzqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</iframe>
 いま私の中でもっとも熱いのがこの「Little Simz」です。
 
 はじめて「Introvert」のMVを見たときも相当ぶっ飛びました。
 
-https://www.youtube.com/watch?v=hxfGQ2AJHGk:embed
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hxfGQ2AJHGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</iframe>
 しかしこのTiny Desk Concertのこの雰囲気、ものすごく良かないですか？
 
 ヒップホップやラップ苦手な方には申し訳ないですが、彼女の持つ「強さ」の部分を視聴者に強く印象付けるセットでのパフォーマンスに痺れます。
@@ -118,8 +118,8 @@ https://www.youtube.com/watch?v=hxfGQ2AJHGk:embed
 
 演奏場所：レストラン
 
-https://www.youtube.com/watch?v=2nkWKhcG-Zg:embed
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2nkWKhcG-Zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</iframe>
 個人的にヒスパニック系の音楽が大好きで、最近配信されたものの中でよかったのがこちらです。
 
 レストランを使っての配信だそうで、オープニングの窓の外から撮っているような演出など場所を生かした素敵な配信となっております。
@@ -130,8 +130,8 @@ https://www.youtube.com/watch?v=2nkWKhcG-Zg:embed
 
 演奏場所：ギリシャミコノス島のクラブ
 
-https://www.youtube.com/watch?v=WqWlGr10t-g:embed
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WqWlGr10t-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</iframe>
 「Giolì & Assia」はイタリア出身のハウス/テクノ・デュオだそうで、以前から絶景をバックにパフォーマンスする動画を配信しています。
 
 コロナ禍で急遽始まったものではないのですが、巣ごもりして自宅で音楽を楽しまざるを得ない勢が増えた現在、すでに多くのパフォーマンス動画を配信していた彼女たちの注目はより高まると思います。
@@ -144,8 +144,8 @@ https://www.youtube.com/watch?v=WqWlGr10t-g:embed
 
 演奏場所：サロン？画廊？
 
-https://www.youtube.com/watch?v=wsc-XsSVqWY:embed
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wsc-XsSVqWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</iframe>
 概要欄に「Le Grand Salon, Quebec City」とありますが詳しい場所はわからず。
 
 一枚の絵画をバックに、アコースティック演奏と共に抒情溢れるフレンチポップを奏でるというある意味ストロングなスタイルでの配信です。
@@ -156,8 +156,8 @@ https://www.youtube.com/watch?v=wsc-XsSVqWY:embed
 
 演奏場所：スタジアム
 
-https://www.youtube.com/watch?v=4VUKDx0wfwY:embed
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4VUKDx0wfwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</iframe>
 通常のライブステージから無観客で配信しているライブが多い中、その一歩先をいく配信を選んで紹介しています。
 
 こちらはその主旨から外れているようで新しい気もするのでご紹介します。
@@ -186,8 +186,8 @@ https://www.youtube.com/watch?v=4VUKDx0wfwY:embed
 
 演奏場所：夜道
 
-https://www.youtube.com/watch?v=Q8v44RuAaZE:embed
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Q8v44RuAaZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</iframe>
 こちらの配信は「KEXP」という数多くのライブ配信を昔から行っているチャンネルです。
 
 そのなかでも、アメリカで活動する「Sen Morimoto」さんのライブパフォーマンスは大変興味深いものでした。

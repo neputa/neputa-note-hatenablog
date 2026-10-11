@@ -25,7 +25,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 買い物メモやTodoリストなどをカメラで撮影すると簡単にチェックリストに変換するスマホアプリ。スマホに保存してある画像も対象。
 
-https://www.youtube.com/watch?v=-Sq_qwpl8Dw:embed
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-Sq_qwpl8Dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 以下からインストールできる。（現在Android版のみ）
 

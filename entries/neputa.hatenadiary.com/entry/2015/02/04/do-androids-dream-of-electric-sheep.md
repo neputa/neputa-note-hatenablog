@@ -112,6 +112,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 公式サイトのトレーラーを見て今からワクワクしている。
 
-https://www.youtube.com/watch?v=UQfUCPW0Ako:embed
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UQfUCPW0Ako" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</iframe>
 
 <div data-vc_mylinkbox_id='887375045'></div>

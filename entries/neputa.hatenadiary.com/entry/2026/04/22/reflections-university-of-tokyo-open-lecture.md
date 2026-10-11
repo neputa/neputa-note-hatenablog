@@ -17,7 +17,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 東京大学公開講座で小林武彦教授の話を聞き、あらためて「人はなぜ死ぬのか」「老いにはどんな意味があるのか」を考えさせられた。ここでは視聴メモをもとに、印象に残った内容を整理してまとめる。
 
-https://www.youtube.com/watch?v=s5wDD_cqU14:embed
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/s5wDD_cqU14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 死を考えるきっかけ
 

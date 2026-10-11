@@ -196,7 +196,7 @@ Londonの南側は古くから労働階級の人々のエリアであり比較�
 
 ### 『ある告白の解剖』 Netflixドラマ
 
-https://www.youtube.com/watch?v=M1UGGZnHyf8:embed
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/M1UGGZnHyf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 こちらも先日見た作品で、『You Don't Know Me』と同様に法廷を主舞台とした作品。
 

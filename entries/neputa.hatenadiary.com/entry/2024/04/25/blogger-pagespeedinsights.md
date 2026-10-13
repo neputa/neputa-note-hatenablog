@@ -1,9 +1,9 @@
 ---
 Title: PageSpeed Insightsの4項目でオール100を達成・実施事項まとめ【Blogger】
 Category:
-- Blogger
-- Cloudflare
-- dev
+  - Blogger
+  - Cloudflare
+  - IT技術
 Date: 2024-04-25T06:21:00+09:00
 URL: https://www.neputa-note.net/entry/2024/04/25/blogger-pagespeedinsights
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072992208

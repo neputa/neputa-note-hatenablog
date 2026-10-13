@@ -1,9 +1,9 @@
 ---
 Title: BloggerのカスタムドメインCNAMEを再度確認する方法
 Category:
-- Blogger
-- Cloudflare
-- dev
+  - Blogger
+  - Cloudflare
+  - IT技術
 Date: 2024-04-04T16:24:00+09:00
 URL: https://www.neputa-note.net/entry/2024/04/04/blogger-cname
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072992203

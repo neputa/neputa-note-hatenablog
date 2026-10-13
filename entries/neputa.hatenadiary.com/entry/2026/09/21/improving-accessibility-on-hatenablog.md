@@ -1,8 +1,8 @@
 ---
 Title: はてなブログのアクセシビリティを少しだけ改善してみた
 Category:
-- dev
-- アクセシビリティ
+  - IT技術
+  - アクセシビリティ
 Date: 2026-09-21T17:05:59+09:00
 URL: https://www.neputa-note.net/entry/2026/09/21/improving-accessibility-on-hatenablog
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032080501094

@@ -1,12 +1,12 @@
 ---
 Title: AstroとTailwindで静的サイトを作ってみた 【Jamstack】
 Category:
-- Astro
-- Cloudflare
-- Ubuntu
-- WSL2
-- dev
-- nodejs
+  - Astro
+  - Cloudflare
+  - IT技術
+  - Ubuntu
+  - WSL2
+  - nodejs
 Date: 2024-05-29T21:54:00+09:00
 URL: https://www.neputa-note.net/entry/2024/05/29/astro-tailwind
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072992334

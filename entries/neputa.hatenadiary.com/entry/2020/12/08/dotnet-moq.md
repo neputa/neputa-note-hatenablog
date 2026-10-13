@@ -1,7 +1,7 @@
 ---
 Title: MoqでExpressionを引数に取るメソッドのMock設定方法
 Category:
-- dev
+  - IT技術
 Date: 2020-12-08T05:04:00+09:00
 URL: https://www.neputa-note.net/entry/2020/12/08/dotnet-moq
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069343781

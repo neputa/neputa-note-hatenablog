@@ -1,7 +1,7 @@
 ---
 Title: editorconfig for VSCodeでコーディングルールを統一
 Category:
-- dev
+  - IT技術
 Date: 2020-10-15T12:00:00+09:00
 URL: https://www.neputa-note.net/entry/2020/10/15/vscode-editorconfig
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069343694

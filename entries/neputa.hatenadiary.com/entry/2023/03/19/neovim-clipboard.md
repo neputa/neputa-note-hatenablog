@@ -1,8 +1,8 @@
 ---
 Title: Neovimのバージョンアップでクリップボードの文字化けを解決する方法
 Category:
-- Vim
-- dev
+  - IT技術
+  - Vim
 Date: 2023-03-19T12:01:00+09:00
 URL: https://www.neputa-note.net/entry/2023/03/19/neovim-clipboard
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072646460

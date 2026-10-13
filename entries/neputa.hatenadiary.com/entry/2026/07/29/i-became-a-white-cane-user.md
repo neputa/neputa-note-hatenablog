@@ -1,7 +1,6 @@
 ---
 Title: 白杖ユーザーになった日｜補装具費支給制度で購入するまでの流れと使い始めの記録
 Category:
-- 日記
 - 視覚障害
 Date: 2026-07-29T03:24:31+09:00
 URL: https://www.neputa-note.net/entry/2026/07/29/i-became-a-white-cane-user

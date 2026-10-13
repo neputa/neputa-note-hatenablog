@@ -1,7 +1,6 @@
 ---
 Title: 視覚に関する記録 13 - 身体障害者になった日
 Category:
-- 日記
 - 視覚障害
 Date: 2026-06-12T02:26:19+09:00
 URL: https://www.neputa-note.net/entry/2026/06/12/my-records-of-my-vision-13

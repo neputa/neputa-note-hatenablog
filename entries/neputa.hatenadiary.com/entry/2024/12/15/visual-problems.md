@@ -1,7 +1,6 @@
 ---
 Title: 目の病気 2か月ぶりの通院・経過についての備忘録
 Category:
-- 日記
 - 視覚障害
 Date: 2024-12-15T22:01:16+09:00
 URL: https://www.neputa-note.net/entry/2024/12/15/visual-problems

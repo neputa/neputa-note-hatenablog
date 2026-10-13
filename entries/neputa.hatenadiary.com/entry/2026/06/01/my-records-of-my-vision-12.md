@@ -1,7 +1,6 @@
 ---
 Title: 視覚に関する記録 12 - 本格的なロービジョン生活の始まり
 Category:
-- 日記
 - 視覚障害
 Date: 2026-06-01T13:34:11+09:00
 URL: https://www.neputa-note.net/entry/2026/06/01/my-records-of-my-vision-12

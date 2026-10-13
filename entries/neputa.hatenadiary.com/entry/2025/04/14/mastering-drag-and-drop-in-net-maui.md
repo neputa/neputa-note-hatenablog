@@ -1,9 +1,9 @@
 ---
 Title: .NET MAUIのCollectionViewにドラッグアンドドロップを実装する
 Category:
-- MAUI
-- dev
-- dotnet
+  - IT技術
+  - MAUI
+  - dotnet
 Date: 2025-04-14T10:17:08+09:00
 URL: https://www.neputa-note.net/entry/2025/04/14/mastering-drag-and-drop-in-net-maui
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074210445

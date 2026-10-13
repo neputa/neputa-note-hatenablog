@@ -1,7 +1,7 @@
 ---
 Title: 入力モードのデフォルトを「ひらがな」にする【Ubuntu】
 Category:
-- dev
+  - IT技術
 Date: 2021-10-05T07:00:00+09:00
 URL: https://www.neputa-note.net/entry/2021/10/05/blogpost05
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032070847017

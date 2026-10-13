@@ -1,8 +1,8 @@
 ---
 Title: 個人開発スマホアプリ更新「OneThird」を更新した
 Category:
-- MobileApps
-- dev
+  - IT技術
+  - MobileApps
 Date: 2022-01-16T05:23:00+09:00
 URL: https://www.neputa-note.net/entry/2022/01/16/onethird-newversion-1-1
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032071260968

@@ -1,7 +1,6 @@
 ---
 Title: まぶしさに悩む私が選んだ羞明対策｜イトーレンズ「ネオコントラスト」購入記
 Category:
-- 日記
 - 視覚障害
 Date: 2026-06-09T03:33:13+09:00
 URL: https://www.neputa-note.net/entry/2026/06/09/neocontrast-for-photophobia

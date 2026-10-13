@@ -1,7 +1,6 @@
 ---
 Title: 「何度も聞く」だけでは覚えられない――音声学習と記憶定着を考える
 Category:
-- 日記
 - 視覚障害
 Date: 2026-10-11T00:25:27.041+09:00
 URL: https://www.neputa-note.net/entry/2026/10/11/active-recall

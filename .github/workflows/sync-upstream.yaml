@@ -1,0 +1,60 @@
+name: sync upstream boilerplate
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 9 * * 1"
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Fetch upstream changes
+        run: |
+          git remote add upstream https://github.com/hatena/Hatena-Blog-Theme-Boilerplate.git || true
+          git fetch upstream main
+
+      - name: Merge upstream updates into working branch
+        run: |
+          git checkout -B sync-upstream origin/main
+          git merge --no-edit upstream/main || {
+            echo "Merge conflict detected. Please resolve manually."
+            git status
+            exit 1
+          }
+
+      - name: Create pull request if changes exist
+        id: create_pr
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: sync-upstream
+          base: main
+          delete-branch: true
+          title: "chore: sync upstream boilerplate updates"
+          body: |
+            This PR syncs updates from the upstream boilerplate repository.
+
+            - Upstream repository: hatena/Hatena-Blog-Theme-Boilerplate
+            - Source branch: main
+
+            Please review the changes and merge as needed.
+          commit-message: "chore: sync upstream boilerplate updates"
+
+      - name: Report PR creation result
+        if: steps.create_pr.outputs.pull-request-url != ''
+        run: echo "Created PR: ${{ steps.create_pr.outputs.pull-request-url }}"

@@ -1,13 +1,11 @@
 ---
 Title: 初めてのデイジー図書――視覚障害者のためのオーディブル
 Category:
-  - 視覚障害
-  - Apps
+- 視覚障害
+- Apps
+Date: 2026-10-21T14:46:25.937+09:00
+URL: https://www.neputa-note.net/entry/2026/10/21/my-first-daisy-books
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032092037365
-PreviewURL: https://www.neputa-note.net/draft/entry/C5EU1WwjMAzK-g-LwR5BmNNnOws
-Draft: false
-Date: 2026-10-21T05:46:25.937Z
-CustomPath: 2026/10/21/my-first-daisy-books
 ---
 
 <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20261019/20261019045921.webp" alt="記事タイトル、スマートフォン、ヘッドフォンが並ぶ水彩画風のイラスト" width="800" height="420" loading="eager" fetchpriority="high">

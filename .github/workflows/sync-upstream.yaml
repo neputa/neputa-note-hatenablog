@@ -51,6 +51,10 @@ jobs:
             git commit -m "chore: resolve upstream sync conflicts" || true
           fi
 
+      - name: Push sync branch
+        run: |
+          git push origin HEAD:sync-upstream
+
       - name: Create pull request if changes exist
         id: create_pr
         uses: peter-evans/create-pull-request@v7

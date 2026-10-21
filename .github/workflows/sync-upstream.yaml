@@ -31,11 +31,25 @@ jobs:
       - name: Merge upstream updates into working branch
         run: |
           git checkout -B sync-upstream origin/main
-          git merge --allow-unrelated-histories --no-edit upstream/main || {
-            echo "Merge conflict detected. Please resolve manually."
-            git status
-            exit 1
-          }
+
+          set +e
+          git merge --allow-unrelated-histories --no-edit upstream/main
+          merge_status=$?
+          set -e
+
+          if [ $merge_status -ne 0 ]; then
+            echo "Merge conflicts detected. Resolving in favor of upstream."
+            git diff --name-only --diff-filter=U > /tmp/conflicts.txt
+            if [ -s /tmp/conflicts.txt ]; then
+              while IFS= read -r file; do
+                git checkout --theirs "$file"
+                git add "$file"
+              done < /tmp/conflicts.txt
+            fi
+
+            git add -A
+            git commit -m "chore: resolve upstream sync conflicts" || true
+          fi
 
       - name: Create pull request if changes exist
         id: create_pr

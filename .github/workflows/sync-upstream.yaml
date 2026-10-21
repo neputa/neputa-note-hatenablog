@@ -25,7 +25,7 @@ jobs:
 
       - name: Fetch upstream changes
         run: |
-          git remote add upstream https://github.com/hatena/Hatena-Blog-Theme-Boilerplate.git || true
+          git remote add upstream https://github.com/hatena/Hatena-Blog-Workflows-Boilerplate.git || true
           git fetch upstream main
 
       - name: Merge upstream updates into working branch

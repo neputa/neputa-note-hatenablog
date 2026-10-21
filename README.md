@@ -1,7 +1,7 @@
 # HatenaBlog Workflows Boilerplate(β)
 
 - 個人ではてなブログを運用するBoilerplateのクローン
-- 本家リポジトリ - [hatena/Hatena-Blog-Theme-Boilerplate](https://github.com/hatena/Hatena-Blog-Theme-Boilerplate)
+- 本家リポジトリ - [https://github.com/hatena/Hatena-Blog-Workflows-Boilerplate](https://github.com/hatena/Hatena-Blog-Workflows-Boilerplate)
 
 ## 予約投稿について
 

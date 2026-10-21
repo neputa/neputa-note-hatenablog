@@ -487,7 +487,7 @@ namespace AdmobTest.ViewModels
 
 Admob側がapp-ads.txtを参照するので、テスト広告を表示するには以下をapp-ads.txtに追加しておく必要がある。
 
-```txt
+```messages
 google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
 ```
 

@@ -1,13 +1,10 @@
 ---
 Title: 錐体桿体ジストロフィーの経過記録｜2026年
 Category:
-  - 視覚障害
+- 視覚障害
+Date: 2026-10-29T08:41:49.052+09:00
+URL: https://www.neputa-note.net/entry/2026/10/29/progress-record-of-conical-rod-dystrophy-2026_
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032091986309
-PreviewURL: https://www.neputa-note.net/draft/entry/iBb3Ml6HwfklfKpwtwBTKwlBEHg
-Draft: false
-CustomPath: |
-  2026/10/29/progress-record-of-conical-rod-dystrophy-2026
-Date: 2026-10-28T23:41:49.052Z
 ---
 
 <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20261028/20261028081314.webp" alt="淡い水彩画のタッチで描いた川と鉄橋の向こうに街並みが広がるイラストを背景に視覚障害に関連する検査やツールを周囲に配置したアイキャッチ画像" width="800" height="420" loading="eager" fetchpriority="high">

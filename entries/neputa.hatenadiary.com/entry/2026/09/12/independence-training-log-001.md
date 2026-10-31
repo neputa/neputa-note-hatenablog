@@ -3,7 +3,7 @@ Title: 障害福祉サービス 自立訓練（生活訓練）の記録 001【�
 Category:
 - 視覚障害
 - 自立訓練
-Date: 2026-09-16T05:47:28.827+09:00
+Date: 2026-09-16T05:47:29+09:00
 URL: https://www.neputa-note.net/entry/2026/09/12/independence-training-log-001
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032076522084
 ---

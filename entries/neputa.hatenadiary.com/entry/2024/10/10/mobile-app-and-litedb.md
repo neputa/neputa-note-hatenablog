@@ -1,11 +1,11 @@
 ---
 Title: 個人開発のスマホアプリで「LiteDB」を使ってみた【.NET MAUI / C#】
 Category:
-  - Azure
-  - IT技術
-  - MAUI
-  - MobileApps
-  - dotnet
+- Azure
+- IT技術
+- MAUI
+- MobileApps
+- dotnet
 Date: 2024-10-10T03:06:41+09:00
 URL: https://www.neputa-note.net/entry/2024/10/10/mobile-app-and-litedb
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782747

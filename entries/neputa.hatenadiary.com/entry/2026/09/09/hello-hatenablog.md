@@ -2,7 +2,7 @@
 Title: はじめてのはてなブログへの投稿
 Category:
 - 日記
-Date: 2026-09-10T01:00:39.293+09:00
+Date: 2026-09-10T01:00:39+09:00
 URL: https://www.neputa-note.net/entry/2026/09/09/hello-hatenablog
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032075771695
 ---

@@ -1,8 +1,8 @@
 ---
 Title: GoogleスプレッドシートのIMPORTXML関数でハマったこと
 Category:
-  - Gdocs
-  - IT技術
+- Gdocs
+- IT技術
 Date: 2024-04-17T12:00:00+09:00
 URL: https://www.neputa-note.net/entry/2024/04/17/gsheets-importxml
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072992291

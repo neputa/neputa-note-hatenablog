@@ -1,8 +1,8 @@
 ---
 Title: Headless CMS「Front Matter CMS」を使う【VSCode拡張機能】
 Category:
-  - IT技術
-  - VSCode
+- IT技術
+- VSCode
 Date: 2024-07-03T14:23:14+09:00
 URL: https://www.neputa-note.net/entry/2024/07/03/headless-cms-frontmatter-vscode
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073380918

@@ -1,8 +1,8 @@
 ---
 Title: ACME Client - CertbotでLet's Encrypt自動更新を設定する方法
 Category:
-  - IT技術
-  - docker
+- IT技術
+- docker
 Date: 2025-03-04T16:44:14+09:00
 URL: https://www.neputa-note.net/entry/2025/03/04/acme-client-letsencrypt-autoupdate
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032074159803

@@ -1,8 +1,8 @@
 ---
 Title: PostmanでAzure B2CのAccessTokenを取得する
 Category:
-  - Azure
-  - IT技術
+- Azure
+- IT技術
 Date: 2023-12-03T17:54:00+09:00
 URL: https://www.neputa-note.net/entry/2023/12/03/postman-azure-b2c
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072765801

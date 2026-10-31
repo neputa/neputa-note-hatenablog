@@ -1,9 +1,9 @@
 ---
 Title: 03．はじめてスマホアプリを作ってみた（調査フェーズ）【Xamarin.Forms】
 Category:
-  - Azure
-  - IT技術
-  - MobileApps
+- Azure
+- IT技術
+- MobileApps
 Date: 2021-03-02T11:30:00+09:00
 URL: https://www.neputa-note.net/entry/2021/03/02/first-mobile-app-03
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032069533247

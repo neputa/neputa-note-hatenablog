@@ -1,8 +1,8 @@
 ---
 Title: シンプルなブログカードとブックマークレットを作る【Astro】
 Category:
-  - Astro
-  - IT技術
+- Astro
+- IT技術
 Date: 2024-07-18T03:00:00+09:00
 URL: https://www.neputa-note.net/entry/2024/07/18/astro-blogcard
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073027577

@@ -3,7 +3,7 @@ Title: 思い出す、手を動かす【日記】
 Category:
 - 日記
 Date: 2024-05-06T22:57:00+09:00
-URL: https://neputa.hatenadiary.com/entry/2024/05/06/blog-post
+URL: https://www.neputa-note.net/entry/2024/05/06/blog-post
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032072992368
 ---
 

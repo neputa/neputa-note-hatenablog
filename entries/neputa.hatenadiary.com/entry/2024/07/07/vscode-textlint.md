@@ -1,10 +1,10 @@
 ---
 Title: vscode-textlintで日本語の文章校正をしよう【mdx / md / html / txt】
 Category:
-  - IT技術
-  - VSCode
-  - WSL2
-  - nodejs
+- IT技術
+- VSCode
+- WSL2
+- nodejs
 Date: 2024-07-07T14:47:00+09:00
 URL: https://www.neputa-note.net/entry/2024/07/07/vscode-textlint
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073380975

@@ -1,10 +1,10 @@
 ---
 Title: Astroのブログ記事にYouTubeをlazy loadingで埋め込む
 Category:
-  - Astro
-  - IT技術
-  - WSL2
-  - nodejs
+- Astro
+- IT技術
+- WSL2
+- nodejs
 Date: 2024-07-19T04:45:00+09:00
 URL: https://www.neputa-note.net/entry/2024/07/19/astro-embed-youtube
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073027599

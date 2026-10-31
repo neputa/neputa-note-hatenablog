@@ -2,7 +2,7 @@
 Title: 錐体桿体ジストロフィーの経過記録｜2026年
 Category:
 - 視覚障害
-Date: 2026-10-29T08:41:49.052+09:00
+Date: 2026-10-29T08:41:49+09:00
 URL: https://www.neputa-note.net/entry/2026/10/29/progress-record-of-conical-rod-dystrophy-2026_
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032091986309
 ---
@@ -189,3 +189,11 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 これまでの人生で当たり前だったことが、ひとつひとつ失われていくことは喪失感を伴うが、それと同時に、生命体として新たな感覚や能力を獲得していく過程でもあると感じる。
 
 また一年後どうなるか。というより、目の前にあることに集中し、それを積み重ねていくしかない。
+
+
+[blog:g:8454420450099486515:banner]
+
+
+[blog:g:4207112889944149375:banner]
+
+

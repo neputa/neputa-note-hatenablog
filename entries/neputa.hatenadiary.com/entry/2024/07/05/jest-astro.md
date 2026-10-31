@@ -1,10 +1,10 @@
 ---
 Title: AstroのユニットテストをJestで行う【ESモジュール対処法】
 Category:
-  - Astro
-  - IT技術
-  - Jest
-  - nodejs
+- Astro
+- IT技術
+- Jest
+- nodejs
 Date: 2024-07-05T13:23:08+09:00
 URL: https://www.neputa-note.net/entry/2024/07/05/jest-astro
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073380939

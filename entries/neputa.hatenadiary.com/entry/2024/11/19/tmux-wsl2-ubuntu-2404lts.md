@@ -1,9 +1,9 @@
 ---
 Title: tmux インストール・初期設定 備忘録【Ubuntu24.04LTS / WSL2】
 Category:
-  - IT技術
-  - Ubuntu
-  - WSL2
+- IT技術
+- Ubuntu
+- WSL2
 Date: 2024-11-19T07:28:51+09:00
 URL: https://www.neputa-note.net/entry/2024/11/19/tmux-wsl2-ubuntu-2404lts
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073782895

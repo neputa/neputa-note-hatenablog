@@ -1,10 +1,10 @@
 ---
 Title: はてなブログへ引っ越した
 Category:
-  - Cloudflare
-  - IT技術
-  - VSCode
-Date: 2026-09-10T09:00:00.236+09:00
+- Cloudflare
+- IT技術
+- VSCode
+Date: 2026-09-10T09:00:00+09:00
 URL: https://www.neputa-note.net/entry/2026/09/11/migration-to-hatenablog
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032075684839
 ---

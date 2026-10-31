@@ -1,8 +1,8 @@
 ---
 Title: Xamarin FormsアプリにAdMobの広告を表示する
 Category:
-  - IT技術
-  - MobileApps
+- IT技術
+- MobileApps
 Date: 2021-11-20T10:00:00+09:00
 URL: https://www.neputa-note.net/entry/2021/11/20/xamarin-forms-admob
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032071260695

@@ -3,7 +3,7 @@ Title: 視覚障害になってわかった、Webアクセシビリティの大�
 Category:
 - 視覚障害
 - アクセシビリティ
-Date: 2026-09-19T02:16:15.718+09:00
+Date: 2026-09-19T02:16:16+09:00
 URL: https://www.neputa-note.net/entry/2026/09/19/the-importance-of-accessibility
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032078509617
 ---

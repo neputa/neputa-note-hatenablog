@@ -1,8 +1,8 @@
 ---
 Title: AstroのサイトでGoogle Adsenseを遅延読み込みする
 Category:
-  - Astro
-  - IT技術
+- Astro
+- IT技術
 Date: 2024-07-20T17:02:57+09:00
 URL: https://www.neputa-note.net/entry/2024/07/20/adsense-lazy-loading
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14945776032073027564

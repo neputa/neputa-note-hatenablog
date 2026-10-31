@@ -1,5 +1,5 @@
 ---
-Title: プライバシ・ポリシー
+Title: プライバシーポリシー
 Date: 2026-09-07T18:25:23+09:00
 URL: https://www.neputa-note.net/privacy-policy
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/page/14945776032074904595

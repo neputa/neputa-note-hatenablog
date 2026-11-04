@@ -1,13 +1,11 @@
 ---
 Title: 初めてのThunderbirdアドオン開発――アイデアから公開まで
 Category:
-  - IT技術
-  - Thunderbird
+- IT技術
+- Thunderbird
+Date: 2026-11-04T16:13:41.068+09:00
+URL: https://www.neputa-note.net/entry/2026/11/04/thunderbird-add-on-development
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14729835035332758920
-PreviewURL: https://www.neputa-note.net/draft/entry/nwMAnd6Z8mgzydzKPao7G0XloaY
-Draft: false
-CustomPath: 2026/11/04/thunderbird-add-on-development
-Date: 2026-11-04T07:13:41.068Z
 ---
 
 <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20261104/20261104025002.webp" alt="Thunderbirdのロゴと一般的な拡張機能アイコンが並んだイラスト" width="800" height="420" loading="eager" fetchpriority="high">

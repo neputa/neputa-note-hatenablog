@@ -231,3 +231,5 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 Webアクセシビリティの知識を深め、的確な修正案を提示できるようになり、issueやPull Requestを通じてテーマ開発者と協力できるようになるのが理想的かもしれない。
 
 とりあえず今回は、小規模ではあるがWebアクセシビリティを意識した取り組みを行った。今後も継続的に改善を重ねていきたいと思う。
+
+[blog:g:4207112889919325324:banner]

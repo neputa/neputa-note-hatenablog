@@ -106,3 +106,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1472
 ようやくその一歩を踏み出すことができるのだ。
 
 次回は、契約手続きの様子と初回の訓練の内容について記録する。
+
+[blog:g:8454420450099486515:banner]
+
+[blog:g:4207112889944149375:banner]

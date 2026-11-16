@@ -201,3 +201,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 今後は今回のように、同じ活動カテゴリで書く記事に限って採番していく。
 
 申請の判定が出たり進展があれば、次の記事を書こうと思う。
+
+[blog:g:8454420450099486515:banner]
+
+[blog:g:4207112889944149375:banner]

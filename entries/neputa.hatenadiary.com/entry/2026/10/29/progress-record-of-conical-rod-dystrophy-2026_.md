@@ -190,10 +190,6 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1494
 
 また一年後どうなるか。というより、目の前にあることに集中し、それを積み重ねていくしかない。
 
-
 [blog:g:8454420450099486515:banner]
 
-
 [blog:g:4207112889944149375:banner]
-
-

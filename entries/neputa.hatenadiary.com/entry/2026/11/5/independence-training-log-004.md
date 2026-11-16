@@ -122,3 +122,7 @@ EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/1472
 白杖歩行訓練は3か月を予定している。どこまで習熟できるかは未知数であるが、日々の訓練を通じて見えていた頃と同じように、いやできればそれ以上に自立して歩けるようになりたいと考えている。
 
 本気で取り組むつもりである。
+
+[blog:g:8454420450099486515:banner]
+
+[blog:g:4207112889944149375:banner]

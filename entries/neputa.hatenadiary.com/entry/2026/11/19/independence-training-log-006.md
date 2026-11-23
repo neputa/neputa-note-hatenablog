@@ -1,13 +1,11 @@
 ---
 Title: 障害福祉サービス自立訓練（生活訓練）の記録 006―白杖歩行3回目
 Category:
-  - 視覚障害
-  - 自立訓練
+- 視覚障害
+- 自立訓練
+Date: 2026-11-19T00:00:00+09:00
+URL: https://www.neputa-note.net/entry/2026/11/19/independence-training-log-006
 EditURL: https://blog.hatena.ne.jp/neputa/neputa.hatenadiary.com/atom/entry/14729835035342460501
-PreviewURL: https://www.neputa-note.net/draft/entry/7P_dBrxcyTkiLviMRtoVkdnGPvA
-Draft: false
-CustomPath: 2026/11/19/independence-training-log-006
-Date: 2026-11-18T15:00:00.000Z
 ---
 
 <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/neputa/20260911/20260911222846.webp" alt="曲がりくねった長い道があり向こう側にゴールのようなゲートが見える。スタート地点に歩き始める人間の姿がある。柔らかいトーンのイラスト" width="800" height="420" loading="eager" fetchpriority="high">
